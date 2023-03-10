@@ -4,9 +4,11 @@ df = pd.read_csv("C://Users//rafael_fagundes//OneDrive - Dell Technologies//Docu
 
 pd.set_option('display.max_columns', None)
 
-df_filtered = df[df["Placement"].str.contains("zeo")]
+df_filtered = df[df["Placement"].str.contains("aiq|liveramp")]
+
+df_zeo = df.filter(like='zeo')
 
 print(df_filtered)
 
-df_filtered.to_csv("C://Users//rafael_fagundes//OneDrive - Dell Technologies//Desktop//zeotap.csv")
-
+df_filtered.to_csv("C://Users//rafael_fagundes//OneDrive - Dell Technologies//Desktop//aiq_liveramp.csv")
+df_zeo.to_csv("C://Users//rafael_fagundes//OneDrive - Dell Technologies//Desktop//zeotap.csv")
