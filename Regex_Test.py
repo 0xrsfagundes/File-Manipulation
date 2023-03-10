@@ -2,7 +2,8 @@ import re
 
 def getAudienceID(str):
 
-    pattern = r'_d\w{10}-'
+    #pattern = r'_d\w{10}-'
+    pattern = r'd\w{10}'
     chars_to_remove = "_-"
 
     match = re.search(pattern, str)
