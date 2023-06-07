@@ -1,0 +1,1486 @@
+Global Region (Calc),Display Business Unit Mapped,Global Audience Type (Calc),Display Funnel Mapped,Display Dell Vehicle Mapped,Display Site Name Mapped,Global Tactic (Calc),Global Tactic CSB (Calc),Audience_Type_(GS)_Calc,LOB,audience_type_category,Actual Spend (GCSB) (Calc)
+APJ,Alienware,1PD,Active Prospect,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Display,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Display,SmartNews,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Search,Google Search - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Search,Yahoo Search JP - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,29689.46
+APJ,Alienware,1PD,Active Prospect,Video,Twitch TV,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Active Prospect,Video,YouTube,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,High Propsensity Prospect,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,High Propsensity Prospect,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,1PD,High Propsensity Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Alienware,3PD,Active Prospect,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,20012.21
+APJ,Alienware,3PD,Brand Seeker/Purchaser,Display,Fandom,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Alienware,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,58069.69
+APJ,Alienware,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Alienware,3PD,Brand Seeker/Purchaser,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Alienware,3PD,CSB Demand Creation,Display,Livewire Group,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Alienware,3PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Alienware,3PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Alienware,3PD,Passive Prospect,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,20139.77
+APJ,Consumer,1PD,Active Prospect,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Active Prospect,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Active Prospect,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+APJ,Consumer,1PD,Active Prospect,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Active Prospect,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Active Prospect,Social,LINE Ads Platform,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Active Prospect,Social,LINE Ads Platform - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Active Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Active Prospect,Social,Twitter - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Active Prospect,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,82337.44
+APJ,Consumer,1PD,Brand Seeker/Purchaser,Display,GDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Brand Seeker/Purchaser,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,Brand Seeker/Purchaser,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+APJ,Consumer,1PD,Brand Seeker/Purchaser,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Display,Condé Nast – Wired,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Other,PR TIMES,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Social,LINE Ads Platform - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Social,Twitter - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Video,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Display,Condé Nast – Wired,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Social,LINE Ads Platform,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Social,LINE Ads Platform - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Social,Twitter - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,25415.23
+APJ,Consumer,1PD,High Propsensity Prospect,Video,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer,1PD,High Propsensity Prospect,Video,YouTube,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,224166.82
+APJ,Consumer,2PD,Brand Seeker/Purchaser,Display,YDN - iRep,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+APJ,Consumer,2PD,CSB Demand Creation,Display,MediaWorks,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+APJ,Consumer,3PD,Active Prospect,Display,Nine Entertainment Co,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,Active Prospect,Display,PayTunes,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+APJ,Consumer,3PD,Active Prospect,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.02
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Fairfax Digital,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,InMobi,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Loylty Rewardz,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,OneNative,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Oplifi,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,PAYBACK,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Times of India,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,Yahoo Display Network,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Display,iCubesWire,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,Brand Seeker/Purchaser,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Display,MCN Online,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Display,Sony LIV,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Social,Pinterest,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Video,Hotstar IN (Disney +),Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,3PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer,3PD,Passive Prospect,Other,Finecast,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,Other,Active Prospect,Affiliates,Rakuten Linkshare,Standard Search,Brand,Other / NON DMP Audience,CSB,RON-PMP,0.0
+APJ,Consumer,Other,Active Prospect,Display,Nine Entertainment Co,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Consumer,Other,Active Prospect,Video,YouTube,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Consumer,Other,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Consumer,Other,CSB Demand Creation,Display,MediaWorks,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Consumer,Other,CSB Demand Creation,Display,Network Ten AU,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Consumer,Other,CSB Demand Creation,Display,Pedestrian.TV,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Consumer,Other,CSB Demand Creation,Social,Default Site,Standard Search,Brand,Other,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,Other,CSB Demand Creation,Social,Default Site,Standard Search,Brand,Other,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer,Other,CSB Demand Creation,Social,Twitter,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Consumer,Other,Other,Other,Default Site,Standard Search,Brand,Other,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer,Other,Other,Other,Default Site,Standard Search,Brand,Other,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Display,Display & Video 360,Standard Search,Retargeting,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Display,GDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Display,YDN - iRep,Standard Search,Retargeting,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Search,Google Search,DSA,DSA,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Search,Google Search,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Search,Google Search - iRep,DSA,DSA,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Search,Google Search - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Search,Yahoo Search JP - iRep,DSA,DSA,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Search,Yahoo Search JP - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Search,Yahoo! Japan Search,DSA,DSA,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Active Prospect,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Retargeting,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Display,YDN - iRep,Standard Search,Retargeting,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Search,Google Search,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Search,Google Search - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Search,Yahoo Search JP - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Search,Yahoo! Japan Search,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,Brand Seeker/Purchaser,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,CSB Demand Creation,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Consumer Small Business,1PD,No Funnel Specific Budget,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,21480.48
+APJ,Consumer Small Business,3PD,Active Prospect,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,56897.87
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Affiliates,CJ Affiliate,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Affiliates,GrowthOps,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Display,Dailyhunt,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,198022.59
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Display,PAYBACK,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Display,Yahoo Display Network,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Display,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,223313.04
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,2472.67
+APJ,Consumer Small Business,3PD,Brand Seeker/Purchaser,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,3722.09
+APJ,Consumer Small Business,3PD,CSB Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,46561.41
+APJ,Consumer Small Business,3PD,CSB Demand Creation,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,12945.52
+APJ,Consumer Small Business,3PD,CSB Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer Small Business,3PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Consumer Small Business,3PD,No Funnel Specific Budget,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,7196.04
+APJ,Consumer Small Business,3PD,Passive Prospect,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,21873.76
+APJ,Consumer Small Business,3PD,Passive Prospect,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Dell Gaming,3PD,Active Prospect,Affiliates,Rakuten Linkshare,Standard Search,Brand,3PD NON DMP Audience,Other,ROS-3PD-PMP,0.0
+APJ,Dell Gaming,3PD,Brand Seeker/Purchaser,Affiliates,Rakuten Linkshare,Standard Search,Brand,3PD NON DMP Audience,Other,ROS-3PD-PMP,0.0
+APJ,Gaming,1PD,Active Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Gaming,1PD,Active Prospect,Video,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Gaming,3PD,Brand Seeker/Purchaser,Display,Digit,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+APJ,Gaming,3PD,Brand Seeker/Purchaser,Display,Times of India,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Gaming,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Gaming,3PD,Brand Seeker/Purchaser,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Gaming,3PD,Brand Seeker/Purchaser,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Gaming,3PD,CSB Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Gaming,3PD,CSB Demand Creation,Video,Twitch TV,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Gaming,3PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Gaming,Other,Active Prospect,Social,Facebook,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Other,1PD,Active Prospect,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Other,1PD,CSB Demand Creation,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,26715.510000000002
+APJ,Other,1PD,CSB Demand Creation,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Other,1PD,Other,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,380596.16000000003
+APJ,Other,1PD,Other,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,1741.8700000000001
+APJ,Other,1PD,Other,Other,Display & Video 360,Standard Search,Retargeting,1PD  Audience,CSB,MEDIA-1PD-MEDIA,244237.33
+APJ,Other,1PD,Other,Other,YouTube,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,1103397.19
+APJ,Other,3PD,No Funnel Specific Budget,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,7965.3
+APJ,Other,3PD,No Funnel Specific Budget,Display,InMobi,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Other,3PD,Other,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,ABM-3PD-AUDIENCE,5942.07
+APJ,Other,3PD,Other,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,7023.53
+APJ,Other,3PD,Other,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-LAL,345.32
+APJ,Other,3PD,Other,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,34384.32
+APJ,Other,3PD,Other,Other,InMobi,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Outlet,3PD,Active Prospect,Display,InMobi,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-CONTEXTUAL,13780.85
+APJ,Outlet,3PD,Active Prospect,Social,Facebook,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Outlet,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-CONTEXTUAL,25219.67
+APJ,Retail,3PD,Brand Seeker/Purchaser,Display,InMobi,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-CONTEXTUAL,17290.54
+APJ,SB Global General (offline),1PD,Active Prospect,Social,Facebook,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global General (offline),1PD,High Propsensity Prospect,Other,YouTube,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global General (offline),1PD,High Propsensity Prospect,Video,Coindesk Japan,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global General (offline),1PD,High Propsensity Prospect,Video,Forbes,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global General (offline),1PD,High Propsensity Prospect,Video,Toyo Keizai,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global General (offline),1PD,High Propsensity Prospect,Video,YouTube,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global General (offline),3PD,Active Prospect,Video,YouTube,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,50447.81
+APJ,SB Global General (offline),3PD,High Propsensity Prospect,Display,iCubesWire,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+APJ,SB Global General (offline),3PD,High Propsensity Prospect,Other,Finecast,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+APJ,SB Global General (offline),3PD,High Propsensity Prospect,Video,Dailyhunt,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+APJ,SB Global General (offline),3PD,High Propsensity Prospect,Video,YouTube,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,12072.67
+APJ,SB Global ISG (offline),1PD,Active Prospect,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global ISG (offline),1PD,Active Prospect,Search,Google Search - iRep,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global ISG (offline),1PD,Active Prospect,Search,Yahoo Search JP - iRep,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global ISG (offline),1PD,High Propsensity Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global ISG (offline),1PD,High Propsensity Prospect,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,194934.07
+APJ,SB Global ISG (offline),1PD,Lead Gen,Leadgen,Facebook,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Search,Google Search - iRep,DSA,DSA,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Search,Google Search - iRep,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Search,Yahoo Search JP - iRep,DSA,DSA,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Search,Yahoo Search JP - iRep,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Social,Facebook,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Video,Forbes,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Video,Twitter,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Video,YDN - iRep,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Active Prospect,Video,YouTube,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,62265.65
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,High Propsensity Prospect,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,High Propsensity Prospect,Video,YDN - iRep,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+APJ,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,High Propsensity Prospect,Video,YouTube,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,30672.829999999998
+APJ,Small & Medium Business,1PD,Active Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Display,Outbrain,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+APJ,Small Business,1PD,Active Prospect,Search,Google Search,DSA,DSA,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Search,Google Search,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Search,Yahoo! Japan Search,DSA,DSA,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Search,Yahoo! Japan Search,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Social,LINE Ads Platform - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Video,Outbrain,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Video,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Active Prospect,Video,YouTube,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Brand Seeker/Purchaser,Display,Toyo Keizai,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Brand Seeker/Purchaser,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,Brand Seeker/Purchaser,Display,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+APJ,Small Business,1PD,Brand Seeker/Purchaser,Social,Facebook - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Social,Twitter - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Video,Coindesk Japan,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Video,Forbes,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Video,ITmedia,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Video,Nikkei,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Video,Toyo Keizai,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Video,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,High Propsensity Prospect,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,High Propsensity Prospect,Display,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,High Propsensity Prospect,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,High Propsensity Prospect,Video,Coindesk Japan,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,High Propsensity Prospect,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,27375.300000000003
+APJ,Small Business,1PD,High Propsensity Prospect,Video,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,High Propsensity Prospect,Video,YDN - iRep,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,1PD,High Propsensity Prospect,Video,YouTube,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+APJ,Small Business,2PD,Active Prospect,Display,YDN - iRep,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+APJ,Small Business,2PD,Brand Seeker/Purchaser,Display,YDN - iRep,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+APJ,Small Business,2PD,CSB Demand Creation,Display,Outbrain,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+APJ,Small Business,2PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+APJ,Small Business,3PD,Active Prospect,Display,Future US,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,4135.11
+APJ,Small Business,3PD,Active Prospect,Display,Mums And Co,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Active Prospect,Display,Pinstripe Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Active Prospect,Display,Spotify,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Active Prospect,Social,Facebook - iRep,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,Active Prospect,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,Active Prospect,Social,Twitter - iRep,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Cyber Media,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Digit,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Economic Times,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,GDN - Google Display Network ,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Opicle,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,PAYBACK,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,PAYBACK,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,SBS,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Spiceworks,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Spiceworks,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Spiceworks,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Times Of India - Columbia,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Times of India,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Display,Zee group,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,19063.45
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,42548.46
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,Brand Seeker/Purchaser,Social,Twitter - iRep,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Display,Spiceworks,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Social,Spotify,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Social,Twitter - iRep,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Video,Spotify,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+APJ,Small Business,3PD,CSB Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+APJ,Small Business,3PD,No Funnel Specific Budget,Display,IntellectAds,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,No Funnel Specific Budget,Display,Moneycontrol.com,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,3PD,No Funnel Specific Budget,Display,Opicle,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+APJ,Small Business,Other,Active Prospect,Affiliates,Rakuten Linkshare,Standard Search,Brand,Other / NON DMP Audience,CSB,RON-PMP,0.0
+APJ,Small Business,Other,Brand Seeker/Purchaser,Social,LinkedIn,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Small Business,Other,CSB Demand Creation,Display,7plus,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Small Business,Other,CSB Demand Creation,Display,Pinstripe Media,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+APJ,Small Business,Other,High Propsensity Prospect,Video,Youtube,Standard Search,Brand,Other,CSB,AFFINITY-3PD-BEHAVIOR,79001.91
+Americas,Alienware,1PD,Active Prospects,Display,Outbrain,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,0.0
+Americas,Alienware,1PD,Active Prospects,Display,Quantcast,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Alienware,1PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Alienware,1PD,Active Prospects,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,Brand Seeker/Purchasers,Display,GDN - Google Display Network ,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,Brand Seeker/Purchasers,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,217011.4
+Americas,Alienware,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Retargeting,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,Demand Creation,Display,TecMundo,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,0.0
+Americas,Alienware,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,0.0
+Americas,Alienware,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,Other,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,No Funnel Specific Budget,Social,Reddit,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Alienware,1PD,Other,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,41721.18
+Americas,Alienware,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,158749.66
+Americas,Alienware,3PD,Active Prospects,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Active Prospects,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,1000.3
+Americas,Alienware,3PD,Demand Creation,Display,Aki Technologies,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Demand Creation,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Demand Creation,Display,imgur,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Demand Creation,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Demand Creation,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CTV-3PD-RETARGET-EXPOSED,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-LAL,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Demand Creation,Video,Twitch TV,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Alienware,3PD,High Propsensity Prospects,Display,GDN - Google Display Network ,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,High Propsensity Prospects,Display,Twitch TV,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,285805.99
+Americas,Alienware,3PD,High Propsensity Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,High Propsensity Prospects,Social,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,High Propsensity Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,High Propsensity Prospects,Video,TWITCH TV,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,High Propsensity Prospects,Video,Twitch TV,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,Other,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Reddit,Standard Search,Brand,Other,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Snapchat,Standard Search,Brand,Other,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,TikTok,Standard Search,Brand,Other,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,Other,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Alienware,3PD,Other,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,52296.43
+Americas,Alienware,Other,Demand Creation,Video,Display & Video 360,Standard Search,Brand,Other / NON DMP Audience,CSB,CONQUESTING,0.0
+Americas,Client Solutions Group,3PD,Active Prospects,Display,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Client Solutions Group,3PD,Active Prospects,Display,Bidtellect,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Client Solutions Group,3PD,Active Prospects,Display,GumGum,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Client Solutions Group,3PD,Active Prospects,Display,Vox Media,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Client Solutions Group,3PD,Active Prospects,Lead Generation,TechTarget,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,57401.9
+Americas,Commercial,1PD,Active Prospects,Display,Bidtellect,Standard Search,Brand,1PD  Audience,B2B,LAPSED-1PD-PIXEL,0.0
+Americas,Commercial,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,16879.57
+Americas,Commercial,1PD,Active Prospects,Display,Quantcast,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,4940.06
+Americas,Commercial,1PD,Active Prospects,Display,Reddit,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,0.0
+Americas,Commercial,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,102821.95
+Americas,Commercial,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,71420.46
+Americas,Commercial,1PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,0.0
+Americas,Commercial,1PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,75833.37
+Americas,Commercial,1PD,Active Prospects,Social,Reddit,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,50930.87
+Americas,Commercial,1PD,Brand Seeker/Purchasers,Display,AcuityAds,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,364036.58
+Americas,Commercial,1PD,Brand Seeker/Purchasers,Display,Adobe Ads TubeMogul,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,0.0
+Americas,Commercial,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,64310.51
+Americas,Commercial,1PD,Brand Seeker/Purchasers,Display,GumGum,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,21747.39
+Americas,Commercial,1PD,Brand Seeker/Purchasers,Display,Media IQ,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,346248.85
+Americas,Commercial,1PD,Brand Seeker/Purchasers,Display,Quantcast,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,550854.74
+Americas,Commercial,1PD,Demand Creation,Social,Facebook,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,30197.510000000002
+Americas,Commercial,1PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,21144.510000000002
+Americas,Commercial,2PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,Other,B2B,KCT-2PD-CONTEXTUAL,3247.81
+Americas,Commercial,2PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,71967.94
+Americas,Commercial,2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,18808.53
+Americas,Commercial,3PD,Active Prospects,Display,AcuityAds,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,210058.32
+Americas,Commercial,3PD,Active Prospects,Display,"BIDTELLECT, INC.",Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Active Prospects,Display,Bidtellect,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Active Prospects,Display,Business Insider,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,36000.03
+Americas,Commercial,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,21503.32
+Americas,Commercial,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,384631.92
+Americas,Commercial,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,DMP-3PD-AUDIENCE,11876.1
+Americas,Commercial,3PD,Active Prospects,Display,GumGum,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,55955.26
+Americas,Commercial,3PD,Active Prospects,Display,IDG Tech Network,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Active Prospects,Display,Media IQ,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,112313.67
+Americas,Commercial,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,97647.39
+Americas,Commercial,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,783747.67
+Americas,Commercial,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,DMP-3PD-AUDIENCE,144352.34
+Americas,Commercial,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,Other,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Active Prospects,Display,Spiceworks,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Active Prospects,Display,TechTarget,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,1355.76
+Americas,Commercial,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,183660.05
+Americas,Commercial,3PD,Active Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,B2B,AFFINITY-3PD-BEHAVIOR,111129.38
+Americas,Commercial,3PD,Active Prospects,Social,LINKEDIN IRELAND,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,2511.7200000000003
+Americas,Commercial,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,63594.31
+Americas,Commercial,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,MEDIA-3PD-RETARGET-EXPOSED,0.0
+Americas,Commercial,3PD,Active Prospects,Social,Reddit,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,50920.4
+Americas,Commercial,3PD,Active Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,3314.98
+Americas,Commercial,3PD,Brand Seeker/Purchasers,Display,AcuityAds,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,2138.1000000000004
+Americas,Commercial,3PD,Brand Seeker/Purchasers,Display,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,B2B,MEDIA-3PD-RETARGET-EXPOSED,0.0
+Americas,Commercial,3PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,4006.44
+Americas,Commercial,3PD,Brand Seeker/Purchasers,Display,GumGum,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Brand Seeker/Purchasers,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,36158.76
+Americas,Commercial,3PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Brand Seeker/Purchasers,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,106786.01
+Americas,Commercial,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,85064.08
+Americas,Commercial,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+Americas,Commercial,3PD,Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,23148.14
+Americas,Commercial,3PD,Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,9256.17
+Americas,Commercial,Other,Active Prospects,Display,AcuityAds,Standard Search,Brand,Other / NON DMP Audience,B2B,KCT-SEARCH,0.0
+Americas,Consumer,1PD,Active Prospects,Display,AOL-YAHOO AD TECH,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Active Prospects,Display,Outbrain,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Active Prospects,Other,Amobee,Standard Search,Brand,Other,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer,1PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer,1PD,Active Prospects,Other,Exponential,Standard Search,Brand,Other,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer,1PD,Active Prospects,Other,GDN - Google Display Network ,Standard Search,Brand,Other,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer,1PD,Active Prospects,Other,Quantcast,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer,1PD,Active Prospects,Other,VDX.tv,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer,1PD,Active Prospects,Other,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer,1PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Display,AOL-YAHOO AD TECH,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Display,MediaMath,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Display,Outbrain,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Display,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Display Mobile,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Display Mobile,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Retargeting,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Brand Seeker/Purchasers,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Demand Creation,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,Demand Creation,Video,Amazon Ad Platform,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer,1PD,Demand Creation,Video,Spotify,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+Americas,Consumer,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,0.0
+Americas,Consumer,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,0.0
+Americas,Consumer,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,Other,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,1PD,No Funnel Specific Budget,Social,Reddit,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Active Prospects,Display,MediaMath,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Display,Ziff Davis,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Amobee,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Exponential,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,GDN - Google Display Network ,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,GDN - Google Display Network ,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Quantcast,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Active Prospects,Other,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,VERIZON MEDIA CANADA,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Verizon Media,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Verizon Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Verizon Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Active Prospects,Other,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Social,Pinterest,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Active Prospects,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Brand Seeker/Purchasers,Display,IMMakers,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Audio,ADOBE INC.,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+Americas,Consumer,3PD,Demand Creation,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+Americas,Consumer,3PD,Demand Creation,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+Americas,Consumer,3PD,Demand Creation,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display,DISNEY ONLINE,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display,Spotify,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display,TecMundo,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Display,Uncrate,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Display,Vox Media,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display,WeTransfer,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display Mobile,AKI,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display Mobile,Aki Technologies,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display Mobile,KARGO GLOBAL INC,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display Mobile,Kargo Global Inc,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Display Mobile,Kargo Global Inc,Standard Search,Brand,Other,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Social,Pinterest,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+Americas,Consumer,3PD,Demand Creation,Video,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Video,Undertone,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Consumer,3PD,Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,Other,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Pinterest,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Pinterest,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer,3PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Consumer Small Business,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer Small Business,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,16356.31
+Americas,Consumer Small Business,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer Small Business,1PD,Brand Seeker/Purchasers,Display,GDN - Google Display Network ,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer Small Business,1PD,Brand Seeker/Purchasers,Display Mobile,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer Small Business,1PD,Brand Seeker/Purchasers,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer Small Business,1PD,Brand Seeker/Purchasers,Social,FACEBOOK,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Consumer Small Business,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,512128.15
+Americas,Consumer Small Business,1PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,184634.31
+Americas,Consumer Small Business,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,0.0
+Americas,Consumer Small Business,1PD,Other,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,342753.11
+Americas,Consumer Small Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,Active Prospects,Social,FACEBOOK,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,579788.21
+Americas,Consumer Small Business,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,144347.62
+Americas,Consumer Small Business,3PD,Active Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,Brand Seeker/Purchasers,AFF,Cuponomia,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,Brand Seeker/Purchasers,AFF,Meliuz,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,Brand Seeker/Purchasers,AFF,Rakuten Linkshare,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,High Propsensity Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,High Propsensity Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,1303275.72
+Americas,Consumer Small Business,3PD,High Propsensity Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,High Propsensity Prospects,Social,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Consumer Small Business,3PD,Other,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,164329.45
+Americas,Consumer Small Business,Other,Active Prospects,Social,FACEBOOK,Standard Search,Brand,Other,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Dell Gaming,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,0.0
+Americas,Dell Gaming,1PD,Brand Seeker/Purchasers,Display,GDN - Google Display Network ,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,0.0
+Americas,Dell Gaming,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,44793.98
+Americas,Dell Gaming,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Dell Gaming,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,34469.64
+Americas,Dell Gaming,3PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,39252.85
+Americas,Dell Gaming,3PD,High Propsensity Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Dell Tech Concierge,1PD,Active Prospects,Social,FACEBOOK.COM,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,0.0
+Americas,Dell Tech Concierge,1PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,0.0
+Americas,Dell Tech Concierge,1PD,Demand Creation,Display,Bidtellect,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,0.0
+Americas,Dell Tech Concierge,1PD,Demand Creation,Display,Business Insider,Standard Search,Brand,1PD  Audience,B2B,MEDIA-1PD-MEDIA,0.0
+Americas,Dell Tech Concierge,1PD,Demand Creation,Display,NY Times Digital,Standard Search,Brand,1PD  Audience,B2B,MEDIA-1PD-MEDIA,0.0
+Americas,Dell Tech Concierge,1PD,Demand Creation,Display,Washington Post,Standard Search,Brand,1PD  Audience,B2B,MEDIA-1PD-MEDIA,0.0
+Americas,Dell Tech Concierge,2PD,Demand Creation,Display,NY Times Digital,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+Americas,Dell Tech Concierge,2PD,Demand Creation,Display,PGATOUR.COM,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+Americas,Dell Tech Concierge,3PD,Active Prospects,Social,FACEBOOK.COM,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Active Prospects,Social,FACEBOOK.COM,Standard Search,Brand,3PD Audience,B2B,PIXEL-3PD-LAL,0.0
+Americas,Dell Tech Concierge,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,PIXEL-3PD-LAL,0.0
+Americas,Dell Tech Concierge,3PD,Active Prospects,Social,Twitter,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,Bidtellect,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,Bidtellect,Standard Search,Brand,3PD Audience,B2B,DMP-3PD-AUDIENCE,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,Bidtellect,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,Business Insider,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,Forbes,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Dell Tech Concierge,3PD,Demand Creation,Display,NBCUniversal,Standard Search,Brand,3PD Audience,B2B,PROXIMITY-3PD-BEHAVIOR,0.0
+Americas,Dell Tech Concierge,Other,Demand Creation,Display,Business Insider,Standard Search,Brand,Other / NON DMP Audience,B2B,SPONSORSHIP,0.0
+Americas,Dell Tech Concierge,Other,Demand Creation,Display,Display & Video 360,Standard Search,Brand,Other / NON DMP Audience,B2B,CONQUESTING,0.0
+Americas,Dell Tech Concierge,Other,Demand Creation,Display,Display & Video 360,Standard Search,Brand,Other / NON DMP Audience,B2B,SPONSORSHIP,0.0
+Americas,Dell Tech Concierge,Other,Demand Creation,Display,Forbes,Standard Search,Brand,Other / NON DMP Audience,B2B,SPONSORSHIP,0.0
+Americas,Dell Tech Concierge,Other,Demand Creation,Display,NY Times Digital,Standard Search,Brand,Other / NON DMP Audience,B2B,SPONSORSHIP,0.0
+Americas,Dell Tech Concierge,Other,Demand Creation,Display,PGATOUR.COM,Standard Search,Brand,Other / NON DMP Audience,B2B,SPONSORSHIP,0.0
+Americas,Dell Tech Concierge,Other,Demand Creation,Display,WALLSTREETJOURNAL.COM,Standard Search,Brand,Other / NON DMP Audience,B2B,SPONSORSHIP,0.0
+Americas,Gaming,1PD,Active Prospects,Display,AOL-YAHOO AD TECH,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Gaming,1PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,0.0
+Americas,Gaming,1PD,Active Prospects,Display,MediaMath,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Gaming,1PD,Active Prospects,Display,Outbrain,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Gaming,1PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Gaming,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Gaming,1PD,Brand Seeker/Purchasers,Display,Yahoo Ad Tech,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Gaming,1PD,Brand Seeker/Purchasers,Display Mobile,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Gaming,1PD,Brand Seeker/Purchasers,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Gaming,1PD,Brand Seeker/Purchasers,Other,Yahoo Ad Tech,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Gaming,3PD,Active Prospects,Display,Amobee,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Gaming,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Gaming,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Gaming,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Gaming,3PD,Active Prospects,Display Mobile,Verizon Media,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Gaming,3PD,Active Prospects,Display Mobile,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Gaming,3PD,Active Prospects,Other,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+Americas,Gaming,3PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Gaming,3PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Gaming,3PD,Active Prospects,Other,MediaMath,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Gaming,3PD,Active Prospects,Other,Verizon Media,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Gaming,3PD,Active Prospects,Other,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Infrastructure Solutions Group,2PD,Active Prospects,Display,Bidtellect,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+Americas,Infrastructure Solutions Group,3PD,Active Prospects,Display,Forbes,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Infrastructure Solutions Group,3PD,Active Prospects,Display,TechTarget,Standard Search,Brand,3PD Audience,B2B,DMP-3PD-AUDIENCE,0.0
+Americas,Infrastructure Solutions Group,3PD,Active Prospects,Display,Washington Post,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Infrastructure Solutions Group,3PD,Existing Customer,Other,RCR Wireless News,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,1PD,Active Prospects,Display,Bidtellect,Standard Search,Brand,1PD  Audience,B2B,LAPSED-1PD-PIXEL,16415.85
+Americas,Medium Business,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,8604.94
+Americas,Medium Business,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,B2B,LAPSED-1PD-PIXEL,161562.63
+Americas,Medium Business,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,76612.42
+Americas,Medium Business,1PD,Active Prospects,Display,Outbrain,Standard Search,Brand,1PD  Audience,B2B,LAPSED-1PD-PIXEL,22032.82
+Americas,Medium Business,1PD,Active Prospects,Display,Quantcast,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,4553.3
+Americas,Medium Business,1PD,Active Prospects,Display,Quantcast,Standard Search,Brand,1PD  Audience,B2B,LAPSED-1PD-PIXEL,197603.06
+Americas,Medium Business,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,66551.17
+Americas,Medium Business,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,25381.41
+Americas,Medium Business,1PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,48378.24
+Americas,Medium Business,1PD,Brand Seeker/Purchasers,Display,AcuityAds,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,329643.96
+Americas,Medium Business,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,460593.72
+Americas,Medium Business,1PD,Brand Seeker/Purchasers,Display,GumGum,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,17368.89
+Americas,Medium Business,1PD,Brand Seeker/Purchasers,Display,Media IQ,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,870474.66
+Americas,Medium Business,1PD,Brand Seeker/Purchasers,Display,Quantcast,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,651810.31
+Americas,Medium Business,1PD,Demand Creation,Social,Facebook,Standard Search,Brand,1PD  Audience,B2B,CRM-1PD-CRM,11135.14
+Americas,Medium Business,1PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,1PD  Audience,B2B,MEDIA-1PD-MEDIA,0.0
+Americas,Medium Business,1PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,13756.7
+Americas,Medium Business,1PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,1PD  Audience,B2B,MEDIA-1PD-MEDIA,1936.67
+Americas,Medium Business,1PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,1PD  Audience,B2B,RETARGET-1PD-RETARGET,2971.56
+Americas,Medium Business,1PD,Demand Creation,Video,YouTube,Standard Search,Brand,1PD  Audience,B2B,LAPSED-1PD-PIXEL,5322.64
+Americas,Medium Business,2PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,33310.56
+Americas,Medium Business,2PD,Demand Creation,Display,Harvard Business Review,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+Americas,Medium Business,2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,12180.18
+Americas,Medium Business,3PD,Active Prospects,Display,ADOBE FKA TUBEMOGUL,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Active Prospects,Display,AcuityAds,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,174444.43
+Americas,Medium Business,3PD,Active Prospects,Display,Bidtellect,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Active Prospects,Display,Bidtellect,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-BEHAVIOR,14551.14
+Americas,Medium Business,3PD,Active Prospects,Display,Bidtellect,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,13747.93
+Americas,Medium Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,AFFINITY-3PD-BEHAVIOR,78971.61
+Americas,Medium Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,481014.88
+Americas,Medium Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,DMP-3PD-AUDIENCE,68374.1
+Americas,Medium Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-BEHAVIOR,78860.8
+Americas,Medium Business,3PD,Active Prospects,Display,GumGum,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,43794.88
+Americas,Medium Business,3PD,Active Prospects,Display,Media IQ,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,191476.3
+Americas,Medium Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,22393.73
+Americas,Medium Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-BEHAVIOR,2115.28
+Americas,Medium Business,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,87827.24
+Americas,Medium Business,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,AFFINITY-3PD-BEHAVIOR,137492.32
+Americas,Medium Business,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,854238.82
+Americas,Medium Business,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,DMP-3PD-AUDIENCE,186201.93
+Americas,Medium Business,3PD,Active Prospects,Display,Teads,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,B2B,AFFINITY-3PD-BEHAVIOR,7976.92
+Americas,Medium Business,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-BEHAVIOR,2148.85
+Americas,Medium Business,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,B2B,AFFINITY-3PD-BEHAVIOR,24054.17
+Americas,Medium Business,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,672860.42
+Americas,Medium Business,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-BEHAVIOR,6982.78
+Americas,Medium Business,3PD,Active Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,B2B,AFFINITY-3PD-BEHAVIOR,153323.02
+Americas,Medium Business,3PD,Active Prospects,Lead Generation,IDG Tech Network,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,7450.01
+Americas,Medium Business,3PD,Active Prospects,Social,LINKEDIN IRELAND,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,11355.439999999999
+Americas,Medium Business,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,33147.2
+Americas,Medium Business,3PD,Active Prospects,Social,Twitter,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Brand Seeker/Purchasers,Display,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,690.78
+Americas,Medium Business,3PD,Brand Seeker/Purchasers,Display,GumGum,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Demand Creation,Display,GumGum,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Demand Creation,Display,Harvard Business Review,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Demand Creation,Display,Integrate,Standard Search,Brand,3PD Audience,B2B,DMP-3PD-AUDIENCE,0.0
+Americas,Medium Business,3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,36611.66
+Americas,Medium Business,3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,43799.68
+Americas,Medium Business,3PD,Demand Creation,Social,LINKEDIN IRELAND PR,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,15027.37
+Americas,Medium Business,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,36720.09
+Americas,Medium Business,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,81649.63
+Americas,Medium Business,3PD,Demand Creation,Social,Reddit,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,18798.54
+Americas,Medium Business,3PD,Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Medium Business,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,B2B,DMP-3PD-AUDIENCE,107800.99
+Americas,Medium Business,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-BEHAVIOR,25863.54
+Americas,Medium Business,3PD,Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,B2B,AFFINITY-3PD-BEHAVIOR,1120.43
+Americas,Medium Business,3PD,Demand Creation,Video,YouTube,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-BEHAVIOR,115478.09
+Americas,Medium Business,Other,Active Prospects,Display,Spiceworks,Standard Search,Brand,Other / NON DMP Audience,B2B,ROS-PMP,30012.2
+Americas,Member Purchase Program,1PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Member Purchase Program,1PD,Brand Seeker/Purchasers,Display,AOL-YAHOO AD TECH,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Member Purchase Program,1PD,Brand Seeker/Purchasers,Display,MediaMath,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Member Purchase Program,1PD,Brand Seeker/Purchasers,Display,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Member Purchase Program,3PD,Active Prospects,Display,Amobee,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Other,1PD,Active Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,475.34000000000003
+Americas,Other,1PD,Active Prospects,Display,Adobe Ads TubeMogul,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,106132.55
+Americas,Other,1PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,7924.59
+Americas,Other,1PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,4829.02
+Americas,Other,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,34771.23
+Americas,Other,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,23503.81
+Americas,Other,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,6274.66
+Americas,Other,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,340051.48
+Americas,Other,1PD,Active Prospects,Display,MediaMath,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,178972.85
+Americas,Other,1PD,Active Prospects,Display,Outbrain,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,3449.05
+Americas,Other,1PD,Active Prospects,Display,Quantcast,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,169865.5
+Americas,Other,1PD,Active Prospects,Display,Quantcast,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,140000.01
+Americas,Other,1PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,29283.25
+Americas,Other,1PD,Active Prospects,Display,YAHOO!YAHOO AD TECH,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,17644.86
+Americas,Other,1PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,26450.08
+Americas,Other,1PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,57835.19
+Americas,Other,1PD,Active Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,8567.38
+Americas,Other,1PD,Active Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,2751.67
+Americas,Other,1PD,Active Prospects,Lead Generation,IDG Tech Network,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,77502.66
+Americas,Other,1PD,Active Prospects,Lead Generation,Madison Logic,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,31697.15
+Americas,Other,1PD,Active Prospects,Other,Adobe Ads TubeMogul,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,3777.53
+Americas,Other,1PD,Active Prospects,Other,Adobe Ads TubeMogul,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,754.1899999999999
+Americas,Other,1PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,3582.89
+Americas,Other,1PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,19805.56
+Americas,Other,1PD,Active Prospects,Other,Quantcast,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,163244.04
+Americas,Other,1PD,Active Prospects,Other,Yahoo Ad Tech,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,19003.23
+Americas,Other,1PD,Active Prospects,Social,FACEBOOK.COM,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,5905.24
+Americas,Other,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,521414.29
+Americas,Other,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,61287.85
+Americas,Other,1PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,1PD  Audience,CSB,EMAIL-1PD-CRM,47356.020000000004
+Americas,Other,1PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,59889.1
+Americas,Other,1PD,Active Prospects,Social,Reddit,Standard Search,Brand,1PD  Audience,CSB,EMAIL-1PD-CRM,31675.71
+Americas,Other,1PD,Active Prospects,Social,Reddit,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,0.0
+Americas,Other,1PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,15969.53
+Americas,Other,1PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,161.16
+Americas,Other,1PD,Active Prospects,Video,Yahoo Ad Tech,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,20149.07
+Americas,Other,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,2559.92
+Americas,Other,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,2393002.68
+Americas,Other,1PD,Brand Seeker/Purchasers,Display,Quantcast,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,25527.489999999998
+Americas,Other,1PD,Brand Seeker/Purchasers,Display,Yahoo Ad Tech,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,574024.41
+Americas,Other,1PD,Brand Seeker/Purchasers,Display Mobile,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,768795.55
+Americas,Other,1PD,Brand Seeker/Purchasers,Display Mobile,Yahoo Ad Tech,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,75777.77
+Americas,Other,1PD,Brand Seeker/Purchasers,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,6018.29
+Americas,Other,1PD,Brand Seeker/Purchasers,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,463647.36
+Americas,Other,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,3026201.29
+Americas,Other,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,61921.03
+Americas,Other,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Retargeting,1PD  Audience,CSB,RETARGET-1PD-RETARGET,430893.64
+Americas,Other,1PD,Brand Seeker/Purchasers,Social,TikTok,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,0.0
+Americas,Other,1PD,Brand Seeker/Purchasers,Video,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,605248.45
+Americas,Other,1PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,0.0
+Americas,Other,1PD,High Propsensity Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,20000.99
+Americas,Other,1PD,High Propsensity Prospects,Video,Amazon Ad Platform,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,26430.99
+Americas,Other,1PD,High Propsensity Prospects,Video,YouTube,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,21540.01
+Americas,Other,1PD,Lead Gen,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,67631.28
+Americas,Other,1PD,Lead Gen,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,64998.64
+Americas,Other,1PD,Passive Prospects,Display,Bidtellect,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,1025.72
+Americas,Other,1PD,Passive Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,7129.68
+Americas,Other,1PD,Passive Prospects,Display,INFUSE MEDIA,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+Americas,Other,1PD,Passive Prospects,Display,Spiceworks,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+Americas,Other,1PD,Passive Prospects,Display,TechTarget,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+Americas,Other,1PD,Passive Prospects,Display,WALLSTREETJOURNAL.COM,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,71755.75
+Americas,Other,1PD,Passive Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,166.23
+Americas,Other,1PD,Passive Prospects,Video,Amazon Ad Platform,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,33753.3
+Americas,Other,1PD,Passive Prospects,Video,Amazon Ad Platform,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,211431.15
+Americas,Other,1PD,Passive Prospects,Video,Samsung Ads,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+Americas,Other,2PD,Active Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,56815.4
+Americas,Other,2PD,Passive Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,101387.95999999999
+Americas,Other,3PD,Active Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,AUDIO-3PD-RETARGET-EXPOSED,0.0
+Americas,Other,3PD,Active Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,94812.29
+Americas,Other,3PD,Active Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CTV-3PD-RETARGET-EXPOSED,9782.65
+Americas,Other,3PD,Active Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,102334.68000000001
+Americas,Other,3PD,Active Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,VIDEO-3PD-RETARGET-EXPOSED,0.0
+Americas,Other,3PD,Active Prospects,Display,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,50588.07
+Americas,Other,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,73008.38
+Americas,Other,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,24722.49
+Americas,Other,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-LAL,1142.52
+Americas,Other,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,16648.3
+Americas,Other,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,1676.0
+Americas,Other,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,16050.67
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,164960.69
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,23633.71
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,937.12
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,3539.7200000000003
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-LAL,47071.44
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,9029.32
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,185463.99
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,55266.409999999996
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,100503.23
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,35080.99
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,168950.36
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,Other,CSB,CONQUESTING,3005.54
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,Other,CSB,IN-MARKET-3PD-BEHAVIOR,7506.15
+Americas,Other,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,Other,CSB,IN-MARKET-3PD-CONTEXTUAL,49876.88
+Americas,Other,3PD,Active Prospects,Display,Entrepreneur Media,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,11077.41
+Americas,Other,3PD,Active Prospects,Display,Entrepreneur Media,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Active Prospects,Display,MORNING BREW,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Active Prospects,Display,Madison Logic,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Active Prospects,Display,MediaMath,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,5435.36
+Americas,Other,3PD,Active Prospects,Display,MediaMath,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,46135.27
+Americas,Other,3PD,Active Prospects,Display,Morning Brew,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,5776.64
+Americas,Other,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,466814.31
+Americas,Other,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,30825.47
+Americas,Other,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,179158.43
+Americas,Other,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,96845.8
+Americas,Other,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,13941.960000000001
+Americas,Other,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,30766.75
+Americas,Other,3PD,Active Prospects,Display,Spiceworks,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,165318.24
+Americas,Other,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,165793.31
+Americas,Other,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,42032.27
+Americas,Other,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,32935.74
+Americas,Other,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,3431.15
+Americas,Other,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+Americas,Other,3PD,Active Prospects,Display,Ziff Davis,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,17242.65
+Americas,Other,3PD,Active Prospects,Display,Ziff Davis,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,23847.71
+Americas,Other,3PD,Active Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,25979.079999999998
+Americas,Other,3PD,Active Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-LAL,8654.16
+Americas,Other,3PD,Active Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,38232.96
+Americas,Other,3PD,Active Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,5935.53
+Americas,Other,3PD,Active Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,24251.16
+Americas,Other,3PD,Active Prospects,Display Mobile,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,35310.72
+Americas,Other,3PD,Active Prospects,Lead Generation,IDG Tech Network,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,3790.42
+Americas,Other,3PD,Active Prospects,Lead Generation,Madison Logic,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,21610.12
+Americas,Other,3PD,Active Prospects,Other,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,13312.82
+Americas,Other,3PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,13476.61
+Americas,Other,3PD,Active Prospects,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,6078.06
+Americas,Other,3PD,Active Prospects,Other,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,107978.14
+Americas,Other,3PD,Active Prospects,Other,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,165075.66
+Americas,Other,3PD,Active Prospects,Other,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,415165.04
+Americas,Other,3PD,Active Prospects,Other,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,1492.6100000000001
+Americas,Other,3PD,Active Prospects,Other,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,5435.4
+Americas,Other,3PD,Active Prospects,Social,FACEBOOK.COM,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,37920.42
+Americas,Other,3PD,Active Prospects,Social,FACEBOOK.COM,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,35398.49
+Americas,Other,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,1046250.86
+Americas,Other,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,404770.1
+Americas,Other,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,1223.12
+Americas,Other,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,1739630.7
+Americas,Other,3PD,Active Prospects,Social,LINKEDIN IRELAND PR,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,2376.64
+Americas,Other,3PD,Active Prospects,Social,LINKEDIN.COM,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,9499.79
+Americas,Other,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,234521.66
+Americas,Other,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,29953.5
+Americas,Other,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,73628.85
+Americas,Other,3PD,Active Prospects,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,192899.19
+Americas,Other,3PD,Active Prospects,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,48999.98
+Americas,Other,3PD,Active Prospects,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,101074.36
+Americas,Other,3PD,Active Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,149953.56
+Americas,Other,3PD,Active Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,9573.12
+Americas,Other,3PD,Active Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,0.0
+Americas,Other,3PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,11209.01
+Americas,Other,3PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-LAL,6419.64
+Americas,Other,3PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,98351.95
+Americas,Other,3PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,20548.9
+Americas,Other,3PD,Active Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,0.0
+Americas,Other,3PD,Active Prospects,Video,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,32579.69
+Americas,Other,3PD,Active Prospects,Video,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,22596.0
+Americas,Other,3PD,Brand Seeker/Purchasers,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,305737.55
+Americas,Other,3PD,Brand Seeker/Purchasers,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,124827.64
+Americas,Other,3PD,Brand Seeker/Purchasers,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,VIDEO-3PD-RETARGET-EXPOSED,17732.420000000002
+Americas,Other,3PD,Brand Seeker/Purchasers,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,97332.83
+Americas,Other,3PD,Brand Seeker/Purchasers,Display,Yahoo Ad Tech,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+Americas,Other,3PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,25301.6
+Americas,Other,3PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Retargeting,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,2104.6400000000003
+Americas,Other,3PD,Demand Creation,Display,WeTransfer,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Demand Creation,Display Mobile,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Demand Creation,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+Americas,Other,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Other,3PD,High Propsensity Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,2166.1
+Americas,Other,3PD,High Propsensity Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,31012.36
+Americas,Other,3PD,High Propsensity Prospects,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,637076.05
+Americas,Other,3PD,High Propsensity Prospects,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,198918.9
+Americas,Other,3PD,High Propsensity Prospects,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,VIDEO-3PD-RETARGET-EXPOSED,38982.76
+Americas,Other,3PD,High Propsensity Prospects,CTV,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,439758.64
+Americas,Other,3PD,High Propsensity Prospects,CTV,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,95299.42
+Americas,Other,3PD,High Propsensity Prospects,Display,Aki Technologies,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Other,3PD,High Propsensity Prospects,Display,DIGITALTRENDS.COM,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,35287.91
+Americas,Other,3PD,High Propsensity Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,494133.56
+Americas,Other,3PD,High Propsensity Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,250748.9
+Americas,Other,3PD,High Propsensity Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,26761.04
+Americas,Other,3PD,High Propsensity Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,16781.43
+Americas,Other,3PD,High Propsensity Prospects,Display,Future US,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,High Propsensity Prospects,Display,Future US,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,High Propsensity Prospects,Display,G/O MEDIA INC,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,25789.59
+Americas,Other,3PD,High Propsensity Prospects,Display,G/O MEDIA INC,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,High Propsensity Prospects,Display,Genius,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,59999.98
+Americas,Other,3PD,High Propsensity Prospects,Display,Undertone,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,14182.67
+Americas,Other,3PD,High Propsensity Prospects,Display,WeTransfer,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,208107.48
+Americas,Other,3PD,High Propsensity Prospects,Display,imgur,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,194963.04
+Americas,Other,3PD,High Propsensity Prospects,Display Mobile,Aki Technologies,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,688582.08
+Americas,Other,3PD,High Propsensity Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,215997.54
+Americas,Other,3PD,High Propsensity Prospects,Display Mobile,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,40374.57
+Americas,Other,3PD,High Propsensity Prospects,Display Mobile,Kargo Global Inc,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,252732.68
+Americas,Other,3PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,1575383.51
+Americas,Other,3PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,385012.29
+Americas,Other,3PD,High Propsensity Prospects,Social,LINKEDIN IRELAND PR,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,7424.5199999999995
+Americas,Other,3PD,High Propsensity Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,355750.45
+Americas,Other,3PD,High Propsensity Prospects,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,127859.26
+Americas,Other,3PD,High Propsensity Prospects,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,15788.57
+Americas,Other,3PD,High Propsensity Prospects,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,153524.13
+Americas,Other,3PD,High Propsensity Prospects,Social,Snapchat,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,591416.06
+Americas,Other,3PD,High Propsensity Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,456601.56
+Americas,Other,3PD,High Propsensity Prospects,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,166689.84
+Americas,Other,3PD,High Propsensity Prospects,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Other,3PD,High Propsensity Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,11327.439999999999
+Americas,Other,3PD,High Propsensity Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,988962.36
+Americas,Other,3PD,High Propsensity Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DIGITAL-3PD-RETARGET-EXPOSED,10958.64
+Americas,Other,3PD,High Propsensity Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,89061.14
+Americas,Other,3PD,High Propsensity Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,1061.7
+Americas,Other,3PD,High Propsensity Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,VIDEO-3PD-RETARGET-EXPOSED,18164.6
+Americas,Other,3PD,High Propsensity Prospects,Video,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,8304.56
+Americas,Other,3PD,High Propsensity Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,705064.46
+Americas,Other,3PD,High Propsensity Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,116984.79
+Americas,Other,3PD,High Propsensity Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,19809.07
+Americas,Other,3PD,High Propsensity Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,139975.74
+Americas,Other,3PD,High Propsensity Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,10936.99
+Americas,Other,3PD,High Propsensity Prospects,Video,Display & Video 360,Standard Search,Brand,Other,CSB,IN-MARKET-3PD-CONTEXTUAL,5422.639999999999
+Americas,Other,3PD,High Propsensity Prospects,Video,PlayerWon,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,115023.44
+Americas,Other,3PD,High Propsensity Prospects,Video,Playwire FKA Intergi,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,123393.87
+Americas,Other,3PD,High Propsensity Prospects,Video,TED Conferences,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,26678.1
+Americas,Other,3PD,High Propsensity Prospects,Video,Twitch TV,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,292118.0
+Americas,Other,3PD,High Propsensity Prospects,Video,Twitch TV,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,421711.68
+Americas,Other,3PD,High Propsensity Prospects,Video,Undertone,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,126579.94
+Americas,Other,3PD,High Propsensity Prospects,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,1033239.59
+Americas,Other,3PD,High Propsensity Prospects,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,60664.95
+Americas,Other,3PD,High Propsensity Prospects,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,21315.2
+Americas,Other,3PD,Lead Gen,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,71573.65
+Americas,Other,3PD,Lead Gen,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,22754.47
+Americas,Other,3PD,Lead Gen,Display,Madison Logic,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,9287.039999999999
+Americas,Other,3PD,Lead Gen,Display,Spiceworks,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,41700.97
+Americas,Other,3PD,Passive Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,78189.40000000001
+Americas,Other,3PD,Passive Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CTV-3PD-RETARGET-EXPOSED,4657.05
+Americas,Other,3PD,Passive Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,155502.19
+Americas,Other,3PD,Passive Prospects,Audio,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,8750.51
+Americas,Other,3PD,Passive Prospects,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,256608.33
+Americas,Other,3PD,Passive Prospects,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CTV-3PD-RETARGET-EXPOSED,48892.41
+Americas,Other,3PD,Passive Prospects,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,404198.33
+Americas,Other,3PD,Passive Prospects,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,510970.66
+Americas,Other,3PD,Passive Prospects,CTV,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,595961.02
+Americas,Other,3PD,Passive Prospects,CTV,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,189522.83
+Americas,Other,3PD,Passive Prospects,Display,Bidtellect,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,62003.22
+Americas,Other,3PD,Passive Prospects,Display,Bidtellect,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,25618.0
+Americas,Other,3PD,Passive Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,6533.34
+Americas,Other,3PD,Passive Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,28349.9
+Americas,Other,3PD,Passive Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,14607.68
+Americas,Other,3PD,Passive Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-LAL,8713.82
+Americas,Other,3PD,Passive Prospects,Display,Insider,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Passive Prospects,Social,FACEBOOK.COM,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,25793.36
+Americas,Other,3PD,Passive Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,48483.51
+Americas,Other,3PD,Passive Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,10189.76
+Americas,Other,3PD,Passive Prospects,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Passive Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,AUDIO-3PD-RETARGET-EXPOSED,67419.64
+Americas,Other,3PD,Passive Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,856013.43
+Americas,Other,3PD,Passive Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CTV-3PD-RETARGET-EXPOSED,56465.39
+Americas,Other,3PD,Passive Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,988608.33
+Americas,Other,3PD,Passive Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,47690.58
+Americas,Other,3PD,Passive Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,68026.66
+Americas,Other,3PD,Passive Prospects,Video,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,685974.35
+Americas,Other,3PD,Passive Prospects,Video,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,38964.69
+Americas,Other,3PD,Passive Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,395722.12
+Americas,Other,3PD,Passive Prospects,Video,"ROKU, INC",Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,12593.64
+Americas,Other,3PD,Passive Prospects,Video,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Other,3PD,Passive Prospects,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,66671.17
+Americas,Other,3PD,Passive Prospects,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,5426.22
+Americas,Other,3PD,Passive Prospects,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,2474.62
+Americas,Other,Other,High Propsensity Prospects,Display,Display & Video 360,Standard Search,Brand,Other / NON DMP Audience,CSB,CONQUESTING,19805.14
+Americas,Other,Other,Passive Prospects,Display,Bidtellect,Standard Search,Brand,Other / NON DMP Audience,CSB,RON-PMP,0.0
+Americas,Other,Other,Passive Prospects,Display,Display & Video 360,Standard Search,Brand,Other / NON DMP Audience,CSB,KCT-SEARCH,7848.07
+Americas,Other,Other,Passive Prospects,Display,IDG Tech Network,Standard Search,Brand,Other / NON DMP Audience,CSB,RON-PMP,0.0
+Americas,Other,Other,Passive Prospects,Display,INFUSE MEDIA,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+Americas,Other,Other,Passive Prospects,Display,WALLSTREETJOURNAL.COM,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,132671.02
+Americas,Other,Other,Passive Prospects,Video,Adobe Ads TubeMogul,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,23743.4
+Americas,Other,Other,Passive Prospects,Video,Display & Video 360,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+Americas,Other,Other,Passive Prospects,Video,GOOGLE INC,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,37793.19
+Americas,Other,Other,Passive Prospects,Video,HULU TV,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,1612.51
+Americas,Outlet,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,Other,PERSONA-1PD-RETARGET,0.0
+Americas,Outlet,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,0.0
+Americas,Outlet,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Outlet,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Retail,3PD,Demand Creation,Display,Aki Technologies,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,SB Global General (offline),1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,65796.81
+Americas,SB Global General (offline),3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,112266.28
+Americas,SB Global General (offline),3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global General (offline),3PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global General (offline),3PD,Brand Seeker/Purchasers,Social,LinkedIn,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global General (offline),3PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global General (offline),3PD,Demand Creation,Display,Seedtag,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global General (offline),3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global General (offline),3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),1PD,Brand Seeker/Purchasers,Display,GDN - Google Display Network ,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,0.0
+Americas,SB Global ISG (offline),1PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,51674.56
+Americas,SB Global ISG (offline),3PD,Active Prospects,Display,BR SEBRAE,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),3PD,Active Prospects,Display,CNN-BRASIL,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),3PD,High Propsensity Prospects,Display,CNN-BRASIL,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),3PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,369073.54
+Americas,SB Global ISG (offline),3PD,High Propsensity Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),3PD,High Propsensity Prospects,Social,YouTube,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),3PD,High Propsensity Prospects,Video,Display & Video 360,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global ISG (offline),3PD,Lead Gen,Social,LinkedIn,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,1PD,Brand Seeker/Purchasers,Social,LinkedIn,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,0.0
+Americas,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,3PD,Active Prospects,Display,EUNERD,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,3PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,3PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,3PD,High Propsensity Prospects,Social,LinkedIn,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,SB Global Programs - DEN/DWEN/D4S/SBA/SBP,3PD,Lead Gen,Social,LinkedIn,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small & Medium Business,1PD,Active Prospects,Display,"BIDTELLECT, INC.",Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Small & Medium Business,1PD,Active Prospects,Display,"OUTBRAIN, INC.",Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small & Medium Business,1PD,Active Prospects,Display,Quantcast,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Small & Medium Business,1PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,1PD  Audience,CSB,LAPSED-1PD-PIXEL,0.0
+Americas,Small & Medium Business,1PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+Americas,Small & Medium Business,1PD,Demand Creation,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+Americas,Small & Medium Business,3PD,Active Prospects,Display,"BIDTELLECT, INC.",Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Small & Medium Business,3PD,Active Prospects,Display,"OUTBRAIN, INC.",Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small & Medium Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small & Medium Business,3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small & Medium Business,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small & Medium Business,3PD,Active Prospects,Display Mobile,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small & Medium Business,3PD,Demand Creation,Display,LinkedIn,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small & Medium Business,3PD,Demand Creation,Display,LinkedIn,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Small & Medium Business,3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small & Medium Business,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Small & Medium Business,3PD,Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Small & Medium Business,3PD,Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Small Business,1PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Active Prospects,Display,Outbrain,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Active Prospects,Display,Quantcast,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Brand Seeker/Purchasers,Display,AOL-YAHOO AD TECH,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Brand Seeker/Purchasers,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Brand Seeker/Purchasers,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Brand Seeker/Purchasers,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Brand Seeker/Purchasers,Social,LinkedIn,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Demand Creation,Display,O ESTADO DE SP,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,Demand Creation,Display Mobile,Verizon Media,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,CRM-1PD-CRM,0.0
+Americas,Small Business,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,0.0
+Americas,Small Business,1PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,No Funnel Specific Budget,Social,LinkedIn,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.0
+Americas,Small Business,1PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,PERSONA-1PD-RETARGET,0.0
+Americas,Small Business,3PD,Active Prospects,Display,AOL-YAHOO AD TECH,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-LAL,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Media IQ,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,OUTBRAIN INC,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,0.0
+Americas,Small Business,3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Display,Yahoo Ad Tech,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+Americas,Small Business,3PD,Active Prospects,Display Mobile,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Video,AOL-YAHOO AD TECH,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Video,Verizon Media,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Active Prospects,Video,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Brand Seeker/Purchasers,Display,Yahoo Ad Tech,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+Americas,Small Business,3PD,Brand Seeker/Purchasers,Social,LINKEDIN,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Brand Seeker/Purchasers,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Demand Creation,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Small Business,3PD,Demand Creation,CTV,Adobe Ads TubeMogul,Standard Search,Brand,3PD Audience,CSB,VIDEO-3PD-RETARGET-EXPOSED,0.0
+Americas,Small Business,3PD,Demand Creation,CTV,Amazon Ad Platform,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Demand Creation,Display,EUNERD,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Demand Creation,Display,Entrepreneur Media,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Small Business,3PD,Demand Creation,Display,Exame - Brazil,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Demand Creation,Display,MORNING BREW,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Small Business,3PD,Demand Creation,Display,Startups BR,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Demand Creation,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,CSB,DOMAIN-3PD-CONTEXTUAL,0.0
+Americas,Small Business,3PD,Demand Creation,Other,Fast Company,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+Americas,Small Business,3PD,Demand Creation,Other,Fast Company,Standard Search,Brand,3PD NON DMP Audience,CSB,ROS-3PD-PMP,0.0
+Americas,Small Business,3PD,Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Small Business,3PD,Demand Creation,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Small Business,3PD,Demand Creation,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+Americas,Small Business,3PD,Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,PIXEL-3PD-LAL,0.0
+Americas,Small Business,3PD,No Funnel Specific Budget,Social,LinkedIn,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,No Funnel Specific Budget,Social,Reddit,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,No Funnel Specific Budget,Social,TikTok,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+Americas,Small Business,3PD,Other,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,170298.43
+Americas,Small Business,3PD,Other,Video,YouTube,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,36898.770000000004
+EMEA,Alienware,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Alienware,1PD,Active Prospects,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Alienware,1PD,Brand Seeker/Purchaser,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,61428.87
+EMEA,Alienware,1PD,Demand Creation,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Alienware,2PD,Active Prospects,Social,Facebook,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Alienware,2PD,Active Prospects,Social,Reddit,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Alienware,2PD,Demand Creation,Display,Ziff Davis,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Alienware,2PD,Demand Creation,Social,TikTok,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Alienware,2PD,Demand Creation,Social,Twitter,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,9570.7
+EMEA,Alienware,3PD,Active Prospects,Display,InSkin,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,JustPremium,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,JustPremium,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,Venatus Media,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Alienware,3PD,Active Prospects,Display,Venatus Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Alienware,3PD,Demand Creation,Display,EBX,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,Alienware,3PD,Demand Creation,Display,Twitch TV,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Alienware,3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Alienware,3PD,Demand Creation,Display,Venatus Media,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Alienware,3PD,Demand Creation,Display,Venatus Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Alienware,3PD,Demand Creation,Display,Webedia,Standard Search,Brand,3PD Audience,CSB,PROXIMITY-3PD-CONTEXTUAL,0.0
+EMEA,Alienware,Other,Active Prospects,Display,Heaven Media,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+EMEA,Alienware,Other,Demand Creation,Display,Heaven Media,Standard Search,Brand,Other / NON DMP Audience,CSB,SPONSORSHIP,0.0
+EMEA,BU,3PD,Other,Other,LinkedIn,Standard Search,Brand,3PD Audience,Other,ABM-3PD-AUDIENCE,165.65
+EMEA,Client Solutions Group,2PD,Active Prospects,Display,IDG Global UK,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Client Solutions Group,2PD,Demand Creation,Display,B2B Media,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Client Solutions Group,2PD,Demand Creation,Display,B2B Media,Standard Search,Engagement,2PD Audience,B2B,ABM-2PD-AUDIENCE,36730.68
+EMEA,Client Solutions Group,2PD,Demand Creation,Display,Demand Science,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Client Solutions Group,2PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,153518.21
+EMEA,Client Solutions Group,2PD,Demand Creation,Display,IDG Global UK,Standard Search,Engagement,2PD Audience,B2B,ABM-2PD-AUDIENCE,43416.3
+EMEA,Client Solutions Group,2PD,Demand Creation,Display,Madison Logic,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,20047.12
+EMEA,Client Solutions Group,2PD,Demand Creation,Display,Media IQ,Standard Search,Brand,2PD Audience,B2B,DMP-2PD-AUDIENCE,0.0
+EMEA,Client Solutions Group,2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,47441.64
+EMEA,Client Solutions Group,2PD,Demand Creation,Social,Twitter,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Client Solutions Group,2PD,Demand Creation,Video,IDG Global UK,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Client Solutions Group,2PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+EMEA,Client Solutions Group,3PD,Demand Creation,Display,Ogury,Standard Search,Brand,3PD Audience,B2B,DOMAIN-3PD-CONTEXTUAL,0.0
+EMEA,Client Solutions Group,3PD,Demand Creation,Display,Ogury,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Client Solutions Group,3PD,Demand Creation,Display,Ogury,Standard Search,Engagement,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Client Solutions Group,3PD,Demand Creation,Display,Teads,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Client Solutions Group,3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,49168.36
+EMEA,Client Solutions Group,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,37436.53
+EMEA,Client Solutions Group,3PD,Demand Creation,Video,Media IQ,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Client Solutions Group,3PD,Demand Creation,Video,VDX.tv,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Commercial,2PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+EMEA,Commercial,2PD,No Funnel Specific Budget,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Commercial,2PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+EMEA,Commercial,3PD,Other,Other,Captify,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,34604.29
+EMEA,Consumer,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Consumer,1PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Consumer,1PD,Active Prospects,Social,Pinterest,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Consumer,1PD,Active Prospects,Social,TikTok,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Consumer,1PD,Active Prospects,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Consumer,1PD,Other,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,1154.74
+EMEA,Consumer,2PD,Active Prospects,Display,Quantcast,Standard Search,Brand,2PD Audience,CSB,DMP-2PD-AUDIENCE,0.0
+EMEA,Consumer,2PD,Active Prospects,Social,Facebook,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Consumer,2PD,Active Prospects,Social,Twitter,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Consumer,2PD,Demand Creation,Display,EBX,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Consumer,2PD,Demand Creation,Social,Snapchat,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Consumer,2PD,Demand Creation,Social,TikTok,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Criteo,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,PROXIMITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,PROXIMITY-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,S4M,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,PROXIMITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Demand Creation,Display,Ad Alliance,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Demand Creation,Display,Exponential,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Demand Creation,Display,Groupe Cerise,Standard Search,Brand,3PD Audience,CSB,PROXIMITY-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Demand Creation,Display,RTB House,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Demand Creation,Display,RTL Interactive,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Demand Creation,Display,S4M,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Consumer,3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer,3PD,Other,Other,DAZN,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,162305.21
+EMEA,Consumer,3PD,Other,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,3846.22
+EMEA,Consumer,3PD,Other,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,18615.77
+EMEA,Consumer,3PD,Other,Other,Seedtag,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,47333.31
+EMEA,Consumer Small Business,1PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,0.28
+EMEA,Consumer Small Business,1PD,Brand Seeker/Purchaser,Other,Display & Video 360,Standard Search,Brand,1PD  Audience,CSB,RETARGET-1PD-RETARGET,185472.02
+EMEA,Consumer Small Business,2PD,Active Prospects,Social,Facebook,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Consumer Small Business,3PD,Active Prospects,Display,Azerion,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer Small Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,9579.64
+EMEA,Consumer Small Business,3PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,86755.65
+EMEA,Consumer Small Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Consumer Small Business,3PD,Active Prospects,Display,SciBids,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,27550.6
+EMEA,Consumer Small Business,3PD,Active Prospects,Display,Seedtag,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,73997.49
+EMEA,Consumer Small Business,3PD,Active Prospects,Display,Sublime,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,25875.48
+EMEA,Consumer Small Business,3PD,Brand Seeker/Purchaser,Other,Display & Video 360,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,49275.03
+EMEA,Consumer Small Business,3PD,High Propsensity Prospects,Display,Sharethrough,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,18391.75
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,6Sense,Standard Search,Engagement,2PD Audience,B2B,DMP-2PD-AUDIENCE,0.25
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,B2B Media,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,Display & Video 360,Standard Search,Brand,2PD Audience,B2B,DMP-2PD-AUDIENCE,20700.1
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,Future US,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,GumGum,Standard Search,Brand,2PD Audience,B2B,DMP-2PD-AUDIENCE,0.0
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,407113.25
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,IDG Global UK,Standard Search,Engagement,2PD Audience,B2B,ABM-2PD-AUDIENCE,3.6300000000000003
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,Integrate,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,29356.04
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Display,Teads,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,133648.76
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Social,Xing,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,369.2
+EMEA,Infrastructure Solutions Group,2PD,Demand Creation,Video,IDG Global UK,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Infrastructure Solutions Group,2PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+EMEA,Infrastructure Solutions Group,2PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+EMEA,Infrastructure Solutions Group,3PD,Active Prospects,Display,JustPremium,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,DIGITAL-3PD-RETARGET-EXPOSED,5480.78
+EMEA,Infrastructure Solutions Group,3PD,Brand Seeker/Purchaser,Display,IDG Global UK,Standard Search,Brand,3PD Audience,B2B,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Captify,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,41954.02
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Express Group,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,GumGum,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,101499.97
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Media IQ,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,60699.99
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Media IQ,Standard Search,Engagement,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,1.18
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Next Media,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Ogury,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Sublime,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Teads,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,18582.94
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Teads,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Teads,Standard Search,Engagement,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Teads,Standard Search,Engagement,3PD Audience,B2B,PROXIMITY-3PD-CONTEXTUAL,0.01
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,TechTarget,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,67584.35
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,41981.72
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Display,Vibrant Media,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Infrastructure Solutions Group,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,157932.07
+EMEA,Medium Business,2PD,Active Prospects,Display,IDG Global UK,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,48841.68
+EMEA,Medium Business,2PD,Demand Creation,Display,B2B Media,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Medium Business,2PD,Demand Creation,Display,Demand Science,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Medium Business,2PD,Demand Creation,Display,Future US,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Medium Business,2PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,396780.88
+EMEA,Medium Business,2PD,Demand Creation,Display,Integrate,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Medium Business,2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Medium Business,2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,71605.69
+EMEA,Medium Business,2PD,Demand Creation,Social,Xing,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+EMEA,Medium Business,2PD,Demand Creation,Video,B2B Media,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Medium Business,2PD,Demand Creation,Video,IDG Global UK,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,32981.24
+EMEA,Medium Business,2PD,No Funnel Specific Budget,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Medium Business,2PD,No Funnel Specific Budget,Social,LinkedIn,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+EMEA,Medium Business,2PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,2PD Audience,B2B,ABM-2PD-AUDIENCE,0.0
+EMEA,Medium Business,2PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,2PD Audience,B2B,PUBLISHER-2PD,0.0
+EMEA,Medium Business,3PD,Active Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,235556.87
+EMEA,Medium Business,3PD,Active Prospects,Display,Media IQ,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,27167.739999999998
+EMEA,Medium Business,3PD,Active Prospects,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,147468.79
+EMEA,Medium Business,3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,40370.33
+EMEA,Medium Business,3PD,Demand Creation,Display,Business Insider,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Display,Financial Times,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Display,Heise Medien,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,39915.97
+EMEA,Medium Business,3PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,3PD Audience,B2B,DIGITAL-3PD-RETARGET-EXPOSED,0.0
+EMEA,Medium Business,3PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,152075.87
+EMEA,Medium Business,3PD,Demand Creation,Display,Media IQ,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,10950.460000000001
+EMEA,Medium Business,3PD,Demand Creation,Display,Mobkoi,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Display,Ogury,Standard Search,Brand,3PD Audience,B2B,DOMAIN-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Display,Quantcast,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,29603.29
+EMEA,Medium Business,3PD,Demand Creation,Display,Teads,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,2581.46
+EMEA,Medium Business,3PD,Demand Creation,Display,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Display Mobile,Ogury,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,94608.07
+EMEA,Medium Business,3PD,Demand Creation,Video,Hybrid Theory,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Video,Quantcast,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,Demand Creation,Video,Yahoo Ad Tech,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,3PD,No Funnel Specific Budget,Social,Twitter,Standard Search,Brand,3PD Audience,B2B,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Medium Business,Other,Demand Creation,Display,B2B Media,Standard Search,Brand,Other,B2B,ABM-2PD-AUDIENCE,104045.0
+EMEA,Other,2PD,Other,Other,Facebook,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,1568.6399999999999
+EMEA,Other,2PD,Other,Other,IDG Global UK,Standard Search,Brand,2PD Audience,CSB,ABM-2PD-AUDIENCE,138444.09
+EMEA,Other,2PD,Other,Other,LinkedIn,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,9310.82
+EMEA,Other,2PD,Other,Other,Reddit,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Other,3PD,Other,Other,LinkedIn,Standard Search,Brand,3PD Audience,CSB,ABM-3PD-AUDIENCE,3367.59
+EMEA,Other,3PD,Other,Other,VDX.tv,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,56987.1
+EMEA,Outlet,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+EMEA,Outlet,1PD,Active Prospects,Social,Twitter,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+EMEA,Outlet,1PD,Brand Seeker/Purchaser,Display,Display & Video 360,Standard Search,Brand,1PD  Audience,Other,RETARGET-1PD-RETARGET,16990.68
+EMEA,Outlet,2PD,Active Prospects,Display,Amazon Ad Platform,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,Outlet,2PD,Active Prospects,Display,Display & Video 360,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,Outlet,2PD,Active Prospects,Social,Facebook,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,3528.63
+EMEA,Outlet,2PD,Active Prospects,Social,Twitter,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,Outlet,2PD,Demand Creation,Social,TikTok,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,Outlet,2PD,High Propsensity Prospects,Display,Display & Video 360,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,52770.84
+EMEA,Outlet,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),1PD,Demand Creation,Display,Ziff Davis,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+EMEA,SB Global General (offline),1PD,High Propsensity Prospects,Display,Insider,Standard Search,Brand,1PD  Audience,Other,LAPSED-1PD-PIXEL,5788.4400000000005
+EMEA,SB Global General (offline),1PD,High Propsensity Prospects,Display,Insider,Standard Search,Brand,1PD  Audience,Other,MEDIA-1PD-MEDIA,0.0
+EMEA,SB Global General (offline),2PD,Active Prospects,Display,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,1381.26
+EMEA,SB Global General (offline),2PD,Active Prospects,Display,Hybrid Theory,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global General (offline),2PD,Active Prospects,Display,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,5996.2
+EMEA,SB Global General (offline),2PD,Active Prospects,Display,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,2981.97
+EMEA,SB Global General (offline),2PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,82341.51
+EMEA,SB Global General (offline),2PD,Active Prospects,Video,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,625.53
+EMEA,SB Global General (offline),2PD,Active Prospects,Video,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,3196.64
+EMEA,SB Global General (offline),2PD,Active Prospects,Video,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,982.5600000000001
+EMEA,SB Global General (offline),2PD,Brand Seeker/Purchaser,Display,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,42968.09
+EMEA,SB Global General (offline),2PD,Brand Seeker/Purchaser,Display,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,6102.38
+EMEA,SB Global General (offline),2PD,Brand Seeker/Purchaser,Display,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,20621.42
+EMEA,SB Global General (offline),2PD,Demand Creation,Display,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),2PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),2PD,Demand Creation,Display,MRP,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global General (offline),2PD,Demand Creation,Display,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),2PD,Demand Creation,Display,Spiceworks,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global General (offline),2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global General (offline),2PD,High Propsensity Prospects,Display,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,6258.9
+EMEA,SB Global General (offline),2PD,High Propsensity Prospects,Display,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),2PD,High Propsensity Prospects,Display,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,0.9
+EMEA,SB Global General (offline),2PD,High Propsensity Prospects,Display,Redactive Media Group,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global General (offline),2PD,High Propsensity Prospects,Social,Facebook,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,107818.29
+EMEA,SB Global General (offline),2PD,High Propsensity Prospects,Social,LinkedIn,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,592436.78
+EMEA,SB Global General (offline),2PD,High Propsensity Prospects,Social,Reddit,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,17384.24
+EMEA,SB Global General (offline),3PD,Active Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,Active Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,Active Prospects,Display,IDG Global UK,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,Active Prospects,Display,JustPremium,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,Demand Creation,Display,Encore,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,Demand Creation,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,Demand Creation,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,Demand Creation,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,Demand Creation,Display,Seedtag,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,Demand Creation,Display,YouTube,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,Amazon Ad Platform,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,Gruner + Jahr,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,GumGum,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,54572.56
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,42596.98
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,RMS,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,Seedtag,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,Other,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,SB Global General (offline),3PD,High Propsensity Prospects,Video,YouTube,Standard Search,Brand,3PD Audience,Other,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Display,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,2985.39
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Display,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,1063.3
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Display,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,941.9
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Display,Quantcast,Standard Search,Brand,2PD Audience,Other,DMP-2PD-AUDIENCE,0.0
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Display,Quantcast,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,7039.43
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Social,Twitter,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Video,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,1144.2
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Video,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,605.9
+EMEA,SB Global ISG (offline),2PD,Active Prospects,Video,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,813.68
+EMEA,SB Global ISG (offline),2PD,Brand Seeker/Purchaser,Display,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,18373.71
+EMEA,SB Global ISG (offline),2PD,Brand Seeker/Purchaser,Display,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,8492.16
+EMEA,SB Global ISG (offline),2PD,Brand Seeker/Purchaser,Display,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,9450.61
+EMEA,SB Global ISG (offline),2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Display,B2B Media,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,17816.32
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Display,IDG Global UK,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,12825.16
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Display,IDG Global UK,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Display,Madison Logic,Standard Search,Brand,2PD Audience,Other,ABM-2PD-AUDIENCE,5845.46
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Display,Redactive Media Group,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Display,Spiceworks,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,50848.42
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Display,VDX.tv,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,0.0
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Social,LinkedIn,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,153947.13
+EMEA,SB Global ISG (offline),2PD,High Propsensity Prospects,Social,Reddit,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,38095.479999999996
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,Encore,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,GumGum,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,49112.97
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,GumGum,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,126011.33
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,JustPremium,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,Other,IN-MARKET-3PD-BEHAVIOR,523.5
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global ISG (offline),3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global ISG (offline),3PD,Demand Creation,Display,Gruner + Jahr,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Display,Encore,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,28195.91
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Display,IDG Global UK,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,20720.44
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Display,IDG Global UK,Standard Search,Brand,3PD Audience,Other,SITE-IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,Other,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,0.0
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Video,Spiceworks,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,9446.16
+EMEA,SB Global ISG (offline),3PD,High Propsensity Prospects,Video,YouTube,Standard Search,Brand,3PD Audience,Other,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,SB Global Programs,2PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,2PD Audience,Other,PUBLISHER-2PD,12631.51
+EMEA,SB Global Programs,3PD,High Propsensity Prospects,Display,Hybrid Theory,Standard Search,Brand,3PD Audience,Other,DMP-3PD-AUDIENCE,30189.45
+EMEA,SB Global Programs,3PD,High Propsensity Prospects,Display,YouTube,Standard Search,Brand,3PD Audience,Other,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Small Business,1PD,Active Prospects,Social,Facebook,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Small Business,1PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Small Business,1PD,Active Prospects,Social,Twitter,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Small Business,1PD,Active Prospects,Social,Xing,Standard Search,Brand,1PD  Audience,CSB,MEDIA-1PD-MEDIA,0.0
+EMEA,Small Business,2PD,Active Prospects,Social,Facebook,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Active Prospects,Social,LinkedIn,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Active Prospects,Social,Reddit,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Active Prospects,Social,Twitter,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Demand Creation,Display,Captify,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Demand Creation,Display,Spiceworks,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Demand Creation,Social,Facebook,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Demand Creation,Social,LinkedIn,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Demand Creation,Social,Reddit,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Demand Creation,Social,TikTok,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,2PD,Demand Creation,Social,Twitter,Standard Search,Brand,2PD Audience,CSB,PUBLISHER-2PD,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Gruner + Jahr,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,JustPremium,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,JustPremium,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,JustPremium,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,KMTX,Standard Search,Brand,3PD Audience,CSB,KCT-3PD-CONTEXTUAL,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Outbrain,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Taboola,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,0.0
+EMEA,Small Business,3PD,Active Prospects,Display,Verizon Media,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,Cluep,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-BEHAVIOR,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,EBX,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,GCA - International,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,GCA - International,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,IDG Global UK,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,JustPremium,Standard Search,Brand,3PD Audience,CSB,CATEGORY-3PD-CONTEXTUAL,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,RTL Interactive,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,Seedtag,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,Teads,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,VDX.tv,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,WeTransfer,Standard Search,Brand,3PD Audience,CSB,DMP-3PD-AUDIENCE,0.0
+EMEA,Small Business,3PD,Demand Creation,Display,WeTransfer,Standard Search,Brand,3PD Audience,CSB,PROXIMITY-3PD-CONTEXTUAL,0.0
+EMEA,Small Business,3PD,Other,Other,Seedtag,Standard Search,Brand,3PD Audience,CSB,AFFINITY-3PD-BEHAVIOR,32485.93
+EMEA,Small Business,Other,Active Prospects,Display,Taboola,Standard Search,Brand,Other / NON DMP Audience,CSB,CONQUESTING,0.0
+LATAM,Client Solutions Group,3PD,Active Prospect,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,57691.91
+LATAM,Client Solutions Group,3PD,Active Prospect,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,37076.69
+LATAM,Client Solutions Group,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,0.0
+LATAM,Client Solutions Group,3PD,CSB Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,CATEGORY-3PD-CONTEXTUAL,0.0
+LATAM,Client Solutions Group,3PD,CSB Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,41058.48
+LATAM,Client Solutions Group,3PD,CSB Demand Creation,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,30508.18
+LATAM,Client Solutions Group,3PD,CSB Demand Creation,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,9800.28
+LATAM,Client Solutions Group,3PD,CSB Demand Creation,Video,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,6808.98
+LATAM,Client Solutions Group,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,0.0
+LATAM,Client Solutions Group,3PD,No Funnel Specific Budget,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,0.0
+LATAM,Client Solutions Group,Other,Active Prospect,Display,IDG Tech Networks,Standard Search,Brand,Other,B2B,ABM-2PD-AUDIENCE,0.0
+LATAM,Client Solutions Group,Other,CSB Demand Creation,Display,IDG Tech Networks,Standard Search,Brand,Other,B2B,ABM-2PD-AUDIENCE,0.0
+LATAM,Commercial,3PD,Active Prospect,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,0.0
+LATAM,Consumer Small Business,3PD,Active Prospect,Search,Google AdWords,Standard Search,Brand,3PD Audience,CSB,IN-MARKET-3PD-CONTEXTUAL,14769.31
+LATAM,Consumer Small Business,3PD,Active Prospect,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,ABM-3PD-AUDIENCE,0.0
+LATAM,Consumer Small Business,3PD,No Funnel Specific Budget,Social,Facebook,Standard Search,Brand,3PD Audience,CSB,ABM-3PD-AUDIENCE,0.0
+LATAM,Infrastructure Solutions Group,3PD,Active Prospect,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,5547.45
+LATAM,Infrastructure Solutions Group,3PD,Active Prospect,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,16060.880000000001
+LATAM,Infrastructure Solutions Group,3PD,Brand Seeker/Purchaser,Social,Facebook,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,0.0
+LATAM,Infrastructure Solutions Group,3PD,CSB Demand Creation,Display,Display & Video 360,Standard Search,Brand,3PD Audience,B2B,IN-MARKET-3PD-CONTEXTUAL,33233.52
+LATAM,Infrastructure Solutions Group,3PD,No Funnel Specific Budget,Social,LinkedIn,Standard Search,Brand,3PD Audience,B2B,ABM-3PD-AUDIENCE,0.0
