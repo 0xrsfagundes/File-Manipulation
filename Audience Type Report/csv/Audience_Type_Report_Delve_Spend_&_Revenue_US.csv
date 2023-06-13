@@ -1,140 +1,227 @@
-Global Country (Calc),Global Audience Type (Calc),Display Funnel Mapped,Global Tactic V2 B2B (Calc),LOB,Audience Type,Actual Spend (GCSB) (Calc),LC True Revenue BQ (GCSB) (Calc)
-United States,1PD,Active Prospects,DEMAND,B2B,RETARGET-1PD-RETARGET,0.0,0.0
-United States,1PD,Active Prospects,ENGAGEMENT,B2B,CRM-1PD-CRM,211015.033001054,220542.16
-United States,1PD,Active Prospects,ENGAGEMENT,B2B,MEDIA-1PD-MEDIA,0.0,0.0
-United States,1PD,Active Prospects,ENGAGEMENT,B2B,RETARGET-1PD-RETARGET,281179.514787,942500.622
-United States,1PD,Active Prospects,ENGAGEMENT,CSB,CRM-1PD-CRM,0.0,0.0
-United States,1PD,Active Prospects,PROSPECTING,B2B,RETARGET-1PD-RETARGET,0.0,3099.94
-United States,1PD,Active Prospects,PROSPECTING,CSB,CRM-1PD-CRM,334915.166936897,1001159.401
-United States,1PD,Active Prospects,PROSPECTING,CSB,EMAIL-1PD-CRM,81186.348598995,507220.64
-United States,1PD,Active Prospects,PROSPECTING,CSB,LAPSED-1PD-PIXEL,1383.789011,4801.52
-United States,1PD,Active Prospects,PROSPECTING,CSB,PERSONA-1PD-RETARGET,419435.089999,46014.03
-United States,1PD,Active Prospects,PROSPECTING,CSB,RETARGET-1PD-RETARGET,328356.617116998,5820915.892
-United States,1PD,Active Prospects,RETARGETING,CSB,RETARGET-1PD-RETARGET,365568.976593,4537926.81
-United States,1PD,Active Prospects,RETARGETING DCO,CSB,RETARGET-1PD-RETARGET,0.0,0.0
-United States,1PD,Brand Seeker/Purchasers,DEMAND,B2B,RETARGET-1PD-RETARGET,0.0,0.0
-United States,1PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,CRM-1PD-CRM,0.0,0.0
-United States,1PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,RETARGET-1PD-RETARGET,272835.192697473,5400535.692
-United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,CRM-1PD-CRM,0.0,0.0
-United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,PERSONA-1PD-RETARGET,3110789.920011,725246.821
-United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,RETARGET-1PD-RETARGET,3071275.2591670575,49271818.138
-United States,1PD,Brand Seeker/Purchasers,RETARGETING-TXL,B2B,RETARGET-1PD-RETARGET,3460441.9698145757,212875601.784
-United States,1PD,Demand Creation,AWARENESS,B2B,CRM-1PD-CRM,0.0,0.0
-United States,1PD,Demand Creation,AWARENESS,B2B,MEDIA-1PD-MEDIA,0.0,0.0
-United States,1PD,Demand Creation,BRAND,B2B,MEDIA-1PD-MEDIA,0.0,47952.38
-United States,1PD,Demand Creation,BRAND,B2B,RETARGET-1PD-RETARGET,0.0,2233.4900000000002
-United States,1PD,Demand Creation,BRAND,CSB,CRM-1PD-CRM,0.0,35658.65
-United States,1PD,Demand Creation,ENGAGEMENT,B2B,CRM-1PD-CRM,44040.820001,2272.09
-United States,1PD,Demand Creation,ENGAGEMENT,B2B,RETARGET-1PD-RETARGET,36185.490647,156431.969
-United States,1PD,Lead Gen,PROSPECTING,CSB,CRM-1PD-CRM,67631.244367,385207.23
-United States,1PD,Lead Gen,PROSPECTING,CSB,RETARGET-1PD-RETARGET,0.0,0.0
-United States,1PD,Passive Prospects,BRAND,CSB,MEDIA-1PD-MEDIA,73184.876,230690.609
-United States,1PD,Passive Prospects,BRAND,CSB,RETARGET-1PD-RETARGET,8155.423282995,1647566.05
-United States,1PD,Passive Prospects,PROSPECTING,CSB,RETARGET-1PD-RETARGET,166.23000000000002,0.0
-United States,2PD,Active Prospects,ENGAGEMENT,B2B,ABM-2PD-AUDIENCE,107852.922546,61478.61
-United States,2PD,Active Prospects,ENGAGEMENT,B2B,KCT-2PD-CONTEXTUAL,3628.0557250780003,2388.34
-United States,2PD,Active Prospects,PROSPECTING-TXL,B2B,ABM-2PD-AUDIENCE,0.0,0.0
-United States,2PD,Active Prospects,PROSPECTING-TXL,B2B,DMP-2PD-AUDIENCE,0.0,0.0
-United States,2PD,Demand Creation,AWARENESS,B2B,PUBLISHER-2PD,0.0,0.0
-United States,2PD,Demand Creation,BRAND,B2B,PUBLISHER-2PD,0.0,663.6
-United States,2PD,Demand Creation,ENGAGEMENT,B2B,ABM-2PD-AUDIENCE,31639.849976,464.14
-United States,3PD,Active Prospects,DEMAND,B2B,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,ABM-3PD-AUDIENCE,223436.932141399,597239.38
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,AFFINITY-3PD-BEHAVIOR,279129.769349,1958.15
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,CATEGORY-3PD-CONTEXTUAL,2516445.5158515624,68464660.659
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,DMP-3PD-AUDIENCE,331311.7853998767,1329137.762
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,DMP-3PD-LAL,0.0,1054706.3560000001
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,IN-MARKET-3PD-BEHAVIOR,0.0,0.0
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,KCT-3PD-CONTEXTUAL,50920.404489,32572.099999999995
-United States,3PD,Active Prospects,ENGAGEMENT,B2B,MEDIA-3PD-RETARGET-EXPOSED,0.0,33272.05
-United States,3PD,Active Prospects,ENGAGEMENT,CSB,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Active Prospects,ENGAGEMENT,CSB,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Active Prospects,PROSPECTING,B2B,KCT-3PD-CONTEXTUAL,0.0,10708.949999999999
-United States,3PD,Active Prospects,PROSPECTING,B2B,PIXEL-3PD-LAL,0.0,71.99
-United States,3PD,Active Prospects,PROSPECTING,CSB,AFFINITY-3PD-BEHAVIOR,2586299.76282352,22222169.978
-United States,3PD,Active Prospects,PROSPECTING,CSB,CATEGORY-3PD-CONTEXTUAL,100578.539058992,4030373.9200000004
-United States,3PD,Active Prospects,PROSPECTING,CSB,CONQUESTING,3005.532576,16295.98
-United States,3PD,Active Prospects,PROSPECTING,CSB,DIGITAL-3PD-RETARGET-EXPOSED,84697.506239998,63513.54
-United States,3PD,Active Prospects,PROSPECTING,CSB,DMP-3PD-AUDIENCE,76563.866097483,333288.059
-United States,3PD,Active Prospects,PROSPECTING,CSB,DMP-3PD-LAL,49371.82119673,1914119.372
-United States,3PD,Active Prospects,PROSPECTING,CSB,DOMAIN-3PD-CONTEXTUAL,9944.4036,173.99
-United States,3PD,Active Prospects,PROSPECTING,CSB,IN-MARKET-3PD-BEHAVIOR,258366.939034182,2879791.838
-United States,3PD,Active Prospects,PROSPECTING,CSB,IN-MARKET-3PD-CONTEXTUAL,130377.081629997,543411.16
-United States,3PD,Active Prospects,PROSPECTING,CSB,KCT-3PD-CONTEXTUAL,181671.032683993,934225.674
-United States,3PD,Active Prospects,PROSPECTING,CSB,PIXEL-3PD-LAL,1840272.147437288,1160444.82
-United States,3PD,Active Prospects,PROSPECTING,CSB,ROS-3PD-PMP,0.0,16291.13
-United States,3PD,Active Prospects,PROSPECTING,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,153943.458419001,2027378.8800000001
-United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,ABM-3PD-AUDIENCE,17887.615000005,1517447.25
-United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,CATEGORY-3PD-CONTEXTUAL,1897529.2969011457,77585162.185
-United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,DMP-3PD-AUDIENCE,29031.3475076745,1385751.76
-United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,DMP-3PD-LAL,0.0,0.0
-United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0,253070.18
-United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,KCT-3PD-CONTEXTUAL,0.0,70922.28
-United States,3PD,Brand Seeker/Purchasers,DEMAND,B2B,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,CATEGORY-3PD-CONTEXTUAL,41447.505686318,866799.998
-United States,3PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,MEDIA-3PD-RETARGET-EXPOSED,0.0,0.0
-United States,3PD,Brand Seeker/Purchasers,RETARGETING,CSB,CATEGORY-3PD-CONTEXTUAL,97332.83,6032751.619
-United States,3PD,Brand Seeker/Purchasers,RETARGETING,CSB,ROS-3PD-PMP,0.0,1310.44
-United States,3PD,Brand Seeker/Purchasers,RETARGETING-TXL,B2B,CATEGORY-3PD-CONTEXTUAL,3208.776686263,15791.869999999999
-United States,3PD,Brand Seeker/Purchasers,RETARGETING-TXL,B2B,DIGITAL-3PD-RETARGET-EXPOSED,0.0,0.0
-United States,3PD,Demand Creation,AWARENESS,B2B,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Demand Creation,AWARENESS,B2B,DMP-3PD-AUDIENCE,0.0,0.0
-United States,3PD,Demand Creation,AWARENESS,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Demand Creation,AWARENESS,B2B,PROXIMITY-3PD-BEHAVIOR,0.0,0.0
-United States,3PD,Demand Creation,BRAND,B2B,AFFINITY-3PD-BEHAVIOR,0.0,69360.872
-United States,3PD,Demand Creation,BRAND,B2B,CATEGORY-3PD-CONTEXTUAL,0.0,12635.259999999998
-United States,3PD,Demand Creation,BRAND,B2B,DMP-3PD-AUDIENCE,0.0,1107.55
-United States,3PD,Demand Creation,BRAND,B2B,IN-MARKET-3PD-CONTEXTUAL,0.0,15571.779999999999
-United States,3PD,Demand Creation,BRAND,B2B,KCT-3PD-CONTEXTUAL,0.0,2910.6400000000003
-United States,3PD,Demand Creation,BRAND,B2B,PROXIMITY-3PD-BEHAVIOR,0.0,1010.21
-United States,3PD,Demand Creation,BRAND,B2B,PROXIMITY-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Demand Creation,BRAND,B2B,ROS-3PD-PMP,0.0,0.0
-United States,3PD,Demand Creation,BRAND,CSB,AFFINITY-3PD-BEHAVIOR,0.0,42059.546
-United States,3PD,Demand Creation,BRAND,CSB,CATEGORY-3PD-CONTEXTUAL,0.0,45943.58
-United States,3PD,Demand Creation,BRAND,CSB,DMP-3PD-AUDIENCE,0.0,0.0
-United States,3PD,Demand Creation,BRAND,CSB,DOMAIN-3PD-CONTEXTUAL,0.0,65286.97
-United States,3PD,Demand Creation,BRAND,CSB,IN-MARKET-3PD-BEHAVIOR,0.0,0.0
-United States,3PD,Demand Creation,BRAND,CSB,KCT-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Demand Creation,BRAND,CSB,SITE-IN-MARKET-3PD-BEHAVIOR,0.0,0.0
-United States,3PD,Demand Creation,BRAND,CSB,VIDEO-3PD-RETARGET-EXPOSED,0.0,0.0
-United States,3PD,Demand Creation,ENGAGEMENT,B2B,CATEGORY-3PD-CONTEXTUAL,294714.464045,23674.05
-United States,3PD,Demand Creation,ENGAGEMENT,B2B,KCT-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Demand Creation,PROSPECTING,CSB,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Demand Creation,PROSPECTING,CSB,DMP-3PD-AUDIENCE,0.0,0.0
-United States,3PD,Demand Creation,PROSPECTING,CSB,DOMAIN-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Demand Creation,PROSPECTING,Other,AFFINITY-3PD-BEHAVIOR,0.0,0.0
-United States,3PD,Demand Creation,PROSPECTING,Other,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
-United States,3PD,Demand Creation,PROSPECTING,Other,PROXIMITY-3PD-BEHAVIOR,0.0,0.0
-United States,3PD,High Propsensity Prospects,BRAND,CSB,AFFINITY-3PD-BEHAVIOR,582978.0767729974,1237444.48
-United States,3PD,High Propsensity Prospects,BRAND,CSB,CATEGORY-3PD-CONTEXTUAL,278063.565344,261960.27
-United States,3PD,High Propsensity Prospects,BRAND,CSB,DOMAIN-3PD-CONTEXTUAL,411962.796269793,313552.27999999997
-United States,3PD,High Propsensity Prospects,BRAND,CSB,IN-MARKET-3PD-BEHAVIOR,14527.546956,0.0
-United States,3PD,High Propsensity Prospects,PROSPECTING,CSB,AFFINITY-3PD-BEHAVIOR,2771501.262695999,139673.31
-United States,3PD,High Propsensity Prospects,PROSPECTING,CSB,IN-MARKET-3PD-BEHAVIOR,338584.821218,0.0
-United States,3PD,High Propsensity Prospects,PROSPECTING,CSB,IN-MARKET-3PD-CONTEXTUAL,26761.044951,3018.43
-United States,3PD,High Propsensity Prospects,PROSPECTING,CSB,KCT-3PD-CONTEXTUAL,16781.453893,19900.16
-United States,3PD,Lead Gen,BRAND,CSB,CATEGORY-3PD-CONTEXTUAL,9380.69425,49510.159999999996
-United States,3PD,Lead Gen,PROSPECTING,CSB,AFFINITY-3PD-BEHAVIOR,71573.678250001,576192.485
-United States,3PD,Lead Gen,PROSPECTING,CSB,CATEGORY-3PD-CONTEXTUAL,32793.064000001,318328.11
-United States,3PD,Lead Gen,PROSPECTING,CSB,DOMAIN-3PD-CONTEXTUAL,9286.98,0.0
-United States,3PD,Lead Gen,PROSPECTING,CSB,KCT-3PD-CONTEXTUAL,22754.47399,31001.489999999998
-United States,3PD,Passive Prospects,BRAND,CSB,AFFINITY-3PD-BEHAVIOR,6533.37262299,18190.83
-United States,3PD,Passive Prospects,BRAND,CSB,CATEGORY-3PD-CONTEXTUAL,90353.128499999,38509.42
-United States,3PD,Passive Prospects,BRAND,CSB,DMP-3PD-AUDIENCE,40225.668284004,35975.98
-United States,3PD,Passive Prospects,BRAND,CSB,DMP-3PD-LAL,8713.793308983,114288.02
-United States,3PD,Passive Prospects,PROSPECTING,CSB,KCT-3PD-CONTEXTUAL,181757.681255,7614.74
-United States,Other,Active Prospects,ENGAGEMENT,B2B,SPONSORSHIP,0.0,0.0
-United States,Other,Active Prospects,ENGAGEMENT,CSB,CONQUESTING,0.0,0.0
-United States,Other,Active Prospects,PROSPECTING-TXL,B2B,CONQUESTING,0.0,34124.03
-United States,Other,Active Prospects,PROSPECTING-TXL,B2B,KCT-SEARCH,0.0,450155.216
-United States,Other,Active Prospects,PROSPECTING-TXL,B2B,ROS-PMP,30012.1848,1507069.096
-United States,Other,Demand Creation,AWARENESS,B2B,SPONSORSHIP,0.0,1635.84
-United States,Other,Demand Creation,BRAND,B2B,CONQUESTING,0.0,1374.39
-United States,Other,Demand Creation,BRAND,B2B,ROS-PMP,0.0,6597.240000000001
-United States,Other,Demand Creation,BRAND,B2B,SPONSORSHIP,0.0,4795.45
-United States,Other,Demand Creation,BRAND,CSB,SPONSORSHIP,0.0,0.0
-United States,Other,High Propsensity Prospects,PROSPECTING,CSB,CONQUESTING,19805.148381,11359.71
-United States,Other,Passive Prospects,BRAND,CSB,KCT-SEARCH,7848.096194994,11662.62
-United States,Other,Passive Prospects,BRAND,CSB,RON-PMP,0.0,20003.469999999998
-United States,Other,Passive Prospects,BRAND,CSB,SPONSORSHIP,132670.99999999622,21322.42
+Global Country (Calc),Global Audience Type (Calc),Display Funnel Mapped,Global Tactic V2 B2B (Calc),LOB,Display Business Unit Mapped,Display Funnel Mapped,Audience Type,Actual Spend (GCSB) (Calc),LC True Revenue BQ (GCSB) (Calc)
+United States,1PD,Active Prospects,DEMAND,B2B,Client Solutions Group,Active Prospects,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Active Prospects,ENGAGEMENT,B2B,Client Solutions Group,Active Prospects,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,CRM-1PD-CRM,128449.9,106192.84
+United States,1PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,RETARGET-1PD-RETARGET,204397.54,617788.35
+United States,1PD,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,CRM-1PD-CRM,82565.24,114349.32
+United States,1PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,MEDIA-1PD-MEDIA,0.0,0.0
+United States,1PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,RETARGET-1PD-RETARGET,76781.98,324712.28
+United States,1PD,Active Prospects,ENGAGEMENT,CSB,Other,Active Prospects,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Active Prospects,PROSPECTING,B2B,Dell Tech Concierge,Active Prospects,RETARGET-1PD-RETARGET,0.0,3099.94
+United States,1PD,Active Prospects,PROSPECTING,CSB,Consumer,Active Prospects,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Active Prospects,PROSPECTING,CSB,Consumer Small Business,Active Prospects,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Active Prospects,PROSPECTING,CSB,Consumer Small Business,Active Prospects,RETARGET-1PD-RETARGET,0.0,311462.31
+United States,1PD,Active Prospects,PROSPECTING,CSB,Gaming,Active Prospects,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Active Prospects,PROSPECTING,CSB,Gaming,Active Prospects,LAPSED-1PD-PIXEL,0.0,0.0
+United States,1PD,Active Prospects,PROSPECTING,CSB,Member Purchase Program,Active Prospects,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,CRM-1PD-CRM,334915.14,1001159.4
+United States,1PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,EMAIL-1PD-CRM,81186.37,507220.64
+United States,1PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,LAPSED-1PD-PIXEL,1383.76,4801.52
+United States,1PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,PERSONA-1PD-RETARGET,419435.08999999997,46014.03
+United States,1PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,RETARGET-1PD-RETARGET,336264.51,4499842.6
+United States,1PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,RETARGET-1PD-RETARGET,0.0,1009610.98
+United States,1PD,Active Prospects,RETARGETING,CSB,Gaming,Active Prospects,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Active Prospects,RETARGETING,CSB,Other,Active Prospects,RETARGET-1PD-RETARGET,365568.96,4537926.81
+United States,1PD,Active Prospects,RETARGETING DCO,CSB,Gaming,Active Prospects,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Brand Seeker/Purchasers,DEMAND,B2B,Commercial,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,Commercial,Brand Seeker/Purchasers,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,Commercial,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,126291.56999999999,2003579.41
+United States,1PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,Medium Business,Brand Seeker/Purchasers,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,Medium Business,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,150778.44,3396956.29
+United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,Consumer,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,0.0,40173.41
+United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,Consumer Small Business,Brand Seeker/Purchasers,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,Consumer Small Business,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,0.0,1242605.91
+United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,Member Purchase Program,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,Other,Brand Seeker/Purchasers,PERSONA-1PD-RETARGET,3110789.92,725246.82
+United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,Other,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,3108042.11,47682866.34
+United States,1PD,Brand Seeker/Purchasers,RETARGETING,CSB,Small Business,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,0.0,289949.05
+United States,1PD,Brand Seeker/Purchasers,RETARGETING-TXL,B2B,Commercial,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,1263540.64,68113573.77
+United States,1PD,Brand Seeker/Purchasers,RETARGETING-TXL,B2B,Medium Business,Brand Seeker/Purchasers,RETARGET-1PD-RETARGET,2282306.2,144807586.25
+United States,1PD,Demand Creation,AWARENESS,B2B,Dell Tech Concierge,Demand Creation,MEDIA-1PD-MEDIA,0.0,0.0
+United States,1PD,Demand Creation,AWARENESS,B2B,Medium Business,Demand Creation,CRM-1PD-CRM,0.0,0.0
+United States,1PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,MEDIA-1PD-MEDIA,0.0,47952.38
+United States,1PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,RETARGET-1PD-RETARGET,0.0,2233.4900000000002
+United States,1PD,Demand Creation,BRAND,CSB,Other,Demand Creation,CRM-1PD-CRM,0.0,35658.65
+United States,1PD,Demand Creation,ENGAGEMENT,B2B,Commercial,Demand Creation,CRM-1PD-CRM,31753.56,0.0
+United States,1PD,Demand Creation,ENGAGEMENT,B2B,Commercial,Demand Creation,RETARGET-1PD-RETARGET,21660.77,148048.8
+United States,1PD,Demand Creation,ENGAGEMENT,B2B,Medium Business,Demand Creation,CRM-1PD-CRM,12287.26,2272.09
+United States,1PD,Demand Creation,ENGAGEMENT,B2B,Medium Business,Demand Creation,RETARGET-1PD-RETARGET,14524.75,8383.17
+United States,1PD,Lead Gen,PROSPECTING,CSB,Other,Lead Gen,CRM-1PD-CRM,67631.28,385207.23000000004
+United States,1PD,Lead Gen,PROSPECTING,CSB,Other,Lead Gen,RETARGET-1PD-RETARGET,0.0,0.0
+United States,1PD,Passive Prospects,BRAND,CSB,Other,Passive Prospects,MEDIA-1PD-MEDIA,73184.9,230690.61000000002
+United States,1PD,Passive Prospects,BRAND,CSB,Other,Passive Prospects,RETARGET-1PD-RETARGET,8155.4,1647566.05
+United States,1PD,Passive Prospects,PROSPECTING,CSB,Other,Passive Prospects,RETARGET-1PD-RETARGET,166.23,0.0
+United States,2PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,ABM-2PD-AUDIENCE,73953.72,4525.26
+United States,2PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,KCT-2PD-CONTEXTUAL,3627.96,2388.34
+United States,2PD,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,ABM-2PD-AUDIENCE,0.0,0.0
+United States,2PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,ABM-2PD-AUDIENCE,33899.25,56953.35
+United States,2PD,Active Prospects,PROSPECTING-TXL,B2B,Commercial,Active Prospects,ABM-2PD-AUDIENCE,0.0,0.0
+United States,2PD,Active Prospects,PROSPECTING-TXL,B2B,Commercial,Active Prospects,DMP-2PD-AUDIENCE,0.0,0.0
+United States,2PD,Demand Creation,AWARENESS,B2B,Dell Tech Concierge,Demand Creation,PUBLISHER-2PD,0.0,0.0
+United States,2PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,PUBLISHER-2PD,0.0,663.6
+United States,2PD,Demand Creation,ENGAGEMENT,B2B,Commercial,Demand Creation,ABM-2PD-AUDIENCE,19110.65,345.15
+United States,2PD,Demand Creation,ENGAGEMENT,B2B,Medium Business,Demand Creation,ABM-2PD-AUDIENCE,12529.15,118.99
+United States,3PD,Active Prospects,DEMAND,B2B,Client Solutions Group,Active Prospects,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,DEMAND,B2B,Medium Business,Active Prospects,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Client Solutions Group,Active Prospects,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Client Solutions Group,Active Prospects,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Client Solutions Group,Active Prospects,DMP-3PD-LAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Client Solutions Group,Active Prospects,IN-MARKET-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Client Solutions Group,Active Prospects,KCT-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,ABM-3PD-AUDIENCE,123222.1,319257.56
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,AFFINITY-3PD-BEHAVIOR,118490.76,1783.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,CATEGORY-3PD-CONTEXTUAL,1364144.57,30326965.84
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,DMP-3PD-AUDIENCE,151403.07,639407.0700000001
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,KCT-3PD-CONTEXTUAL,50920.4,32572.1
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Commercial,Active Prospects,MEDIA-3PD-RETARGET-EXPOSED,0.0,33272.049999999996
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,DMP-3PD-AUDIENCE,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,KCT-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,ABM-3PD-AUDIENCE,92872.0,277981.82
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,AFFINITY-3PD-BEHAVIOR,160639.06,175.15
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,CATEGORY-3PD-CONTEXTUAL,1172834.39,38137652.03
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,DMP-3PD-AUDIENCE,179908.55,689730.6900000001
+United States,3PD,Active Prospects,ENGAGEMENT,B2B,Medium Business,Active Prospects,DMP-3PD-LAL,0.0,1054706.36
+United States,3PD,Active Prospects,ENGAGEMENT,CSB,Other,Active Prospects,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,ENGAGEMENT,CSB,Other,Active Prospects,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,B2B,Dell Tech Concierge,Active Prospects,KCT-3PD-CONTEXTUAL,0.0,10708.949999999999
+United States,3PD,Active Prospects,PROSPECTING,B2B,Dell Tech Concierge,Active Prospects,PIXEL-3PD-LAL,0.0,71.99
+United States,3PD,Active Prospects,PROSPECTING,CSB,Alienware,Active Prospects,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer,Active Prospects,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer,Active Prospects,IN-MARKET-3PD-BEHAVIOR,0.0,3179.26
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer,Active Prospects,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer,Active Prospects,PIXEL-3PD-LAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer Small Business,Active Prospects,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer Small Business,Active Prospects,DMP-3PD-AUDIENCE,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer Small Business,Active Prospects,IN-MARKET-3PD-BEHAVIOR,0.0,234719.81
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer Small Business,Active Prospects,IN-MARKET-3PD-CONTEXTUAL,0.0,624.99
+United States,3PD,Active Prospects,PROSPECTING,CSB,Consumer Small Business,Active Prospects,PIXEL-3PD-LAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Gaming,Active Prospects,AFFINITY-3PD-BEHAVIOR,0.0,1722.29
+United States,3PD,Active Prospects,PROSPECTING,CSB,Gaming,Active Prospects,CATEGORY-3PD-CONTEXTUAL,0.0,6161.78
+United States,3PD,Active Prospects,PROSPECTING,CSB,Gaming,Active Prospects,DMP-3PD-AUDIENCE,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Gaming,Active Prospects,DMP-3PD-LAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Gaming,Active Prospects,IN-MARKET-3PD-CONTEXTUAL,0.0,65203.79
+United States,3PD,Active Prospects,PROSPECTING,CSB,Gaming,Active Prospects,KCT-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Member Purchase Program,Active Prospects,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,AFFINITY-3PD-BEHAVIOR,2592585.15,21827058.16
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,CATEGORY-3PD-CONTEXTUAL,106706.0,4019924.38
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,CONQUESTING,3005.54,16295.98
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,DIGITAL-3PD-RETARGET-EXPOSED,86114.59,63513.54
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,DMP-3PD-AUDIENCE,76563.94,333288.07
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,DMP-3PD-LAL,49371.76,1914119.3599999999
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,DOMAIN-3PD-CONTEXTUAL,9944.4,173.99
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,IN-MARKET-3PD-BEHAVIOR,258367.1,2641892.77
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,IN-MARKET-3PD-CONTEXTUAL,130377.0,477582.38
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,KCT-3PD-CONTEXTUAL,181670.96,934225.6799999999
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,PIXEL-3PD-LAL,1840272.17,1160444.82
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,ROS-3PD-PMP,0.0,16291.13
+United States,3PD,Active Prospects,PROSPECTING,CSB,Other,Active Prospects,SITE-IN-MARKET-3PD-BEHAVIOR,153943.49,2027378.88
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,AFFINITY-3PD-BEHAVIOR,0.0,359740.26
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,DMP-3PD-AUDIENCE,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,DMP-3PD-LAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,DOMAIN-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,IN-MARKET-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,KCT-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,ROS-3PD-PMP,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING,CSB,Small Business,Active Prospects,SITE-IN-MARKET-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Commercial,Active Prospects,ABM-3PD-AUDIENCE,4743.68,528548.56
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Commercial,Active Prospects,CATEGORY-3PD-CONTEXTUAL,556827.29,23738402.97
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Commercial,Active Prospects,DMP-3PD-AUDIENCE,8311.72,364023.15
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Medium Business,Active Prospects,ABM-3PD-AUDIENCE,12708.27,988898.6900000001
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Medium Business,Active Prospects,CATEGORY-3PD-CONTEXTUAL,1387004.34,53853832.43
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Medium Business,Active Prospects,DMP-3PD-AUDIENCE,20719.58,1021728.61
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Medium Business,Active Prospects,DMP-3PD-LAL,0.0,0.0
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Medium Business,Active Prospects,IN-MARKET-3PD-CONTEXTUAL,0.0,253070.18
+United States,3PD,Active Prospects,PROSPECTING-TXL,B2B,Medium Business,Active Prospects,KCT-3PD-CONTEXTUAL,0.0,70922.28
+United States,3PD,Brand Seeker/Purchasers,DEMAND,B2B,Commercial,Brand Seeker/Purchasers,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,Commercial,Brand Seeker/Purchasers,CATEGORY-3PD-CONTEXTUAL,42515.48,863351.02
+United States,3PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,Commercial,Brand Seeker/Purchasers,MEDIA-3PD-RETARGET-EXPOSED,0.0,0.0
+United States,3PD,Brand Seeker/Purchasers,ENGAGEMENT,B2B,Medium Business,Brand Seeker/Purchasers,CATEGORY-3PD-CONTEXTUAL,812.27,0.0
+United States,3PD,Brand Seeker/Purchasers,RETARGETING,CSB,Consumer Small Business,Brand Seeker/Purchasers,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Brand Seeker/Purchasers,RETARGETING,CSB,Gaming,Brand Seeker/Purchasers,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Brand Seeker/Purchasers,RETARGETING,CSB,Other,Brand Seeker/Purchasers,CATEGORY-3PD-CONTEXTUAL,97332.83,6032751.62
+United States,3PD,Brand Seeker/Purchasers,RETARGETING,CSB,Other,Brand Seeker/Purchasers,ROS-3PD-PMP,0.0,1310.44
+United States,3PD,Brand Seeker/Purchasers,RETARGETING,CSB,Small Business,Brand Seeker/Purchasers,ROS-3PD-PMP,0.0,0.0
+United States,3PD,Brand Seeker/Purchasers,RETARGETING-TXL,B2B,Commercial,Brand Seeker/Purchasers,CATEGORY-3PD-CONTEXTUAL,3208.79,15791.869999999999
+United States,3PD,Brand Seeker/Purchasers,RETARGETING-TXL,B2B,Commercial,Brand Seeker/Purchasers,DIGITAL-3PD-RETARGET-EXPOSED,0.0,0.0
+United States,3PD,Demand Creation,AWARENESS,B2B,Commercial,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,AWARENESS,B2B,Dell Tech Concierge,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,AWARENESS,B2B,Dell Tech Concierge,Demand Creation,DMP-3PD-AUDIENCE,0.0,0.0
+United States,3PD,Demand Creation,AWARENESS,B2B,Dell Tech Concierge,Demand Creation,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,AWARENESS,B2B,Dell Tech Concierge,Demand Creation,PROXIMITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Demand Creation,AWARENESS,B2B,Medium Business,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,AFFINITY-3PD-BEHAVIOR,0.0,69360.87
+United States,3PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,12635.26
+United States,3PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,DMP-3PD-AUDIENCE,0.0,1107.55
+United States,3PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,IN-MARKET-3PD-CONTEXTUAL,0.0,15571.779999999999
+United States,3PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,KCT-3PD-CONTEXTUAL,0.0,2910.6400000000003
+United States,3PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,PROXIMITY-3PD-BEHAVIOR,0.0,1010.21
+United States,3PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,PROXIMITY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,ROS-3PD-PMP,0.0,0.0
+United States,3PD,Demand Creation,BRAND,B2B,Medium Business,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,B2B,Medium Business,Demand Creation,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Alienware,Demand Creation,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Alienware,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,45943.58
+United States,3PD,Demand Creation,BRAND,CSB,Alienware,Demand Creation,DMP-3PD-AUDIENCE,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Alienware,Demand Creation,DOMAIN-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Consumer,Demand Creation,AFFINITY-3PD-BEHAVIOR,0.0,42059.55
+United States,3PD,Demand Creation,BRAND,CSB,Consumer,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Consumer,Demand Creation,DOMAIN-3PD-CONTEXTUAL,0.0,47913.55
+United States,3PD,Demand Creation,BRAND,CSB,Other,Demand Creation,DOMAIN-3PD-CONTEXTUAL,0.0,17373.42
+United States,3PD,Demand Creation,BRAND,CSB,Small Business,Demand Creation,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Small Business,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Small Business,Demand Creation,DMP-3PD-AUDIENCE,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Small Business,Demand Creation,DOMAIN-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Small Business,Demand Creation,IN-MARKET-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Small Business,Demand Creation,KCT-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Small Business,Demand Creation,SITE-IN-MARKET-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Demand Creation,BRAND,CSB,Small Business,Demand Creation,VIDEO-3PD-RETARGET-EXPOSED,0.0,0.0
+United States,3PD,Demand Creation,ENGAGEMENT,B2B,Commercial,Demand Creation,CATEGORY-3PD-CONTEXTUAL,226280.48,16334.390000000001
+United States,3PD,Demand Creation,ENGAGEMENT,B2B,Commercial,Demand Creation,KCT-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,ENGAGEMENT,B2B,Medium Business,Demand Creation,CATEGORY-3PD-CONTEXTUAL,68434.16,7339.66
+United States,3PD,Demand Creation,PROSPECTING,CSB,Alienware,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,PROSPECTING,CSB,Alienware,Demand Creation,DMP-3PD-AUDIENCE,0.0,0.0
+United States,3PD,Demand Creation,PROSPECTING,CSB,Small Business,Demand Creation,CATEGORY-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,PROSPECTING,CSB,Small Business,Demand Creation,DOMAIN-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,PROSPECTING,Other,Retail,Demand Creation,AFFINITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,Demand Creation,PROSPECTING,Other,Retail,Demand Creation,IN-MARKET-3PD-CONTEXTUAL,0.0,0.0
+United States,3PD,Demand Creation,PROSPECTING,Other,Retail,Demand Creation,PROXIMITY-3PD-BEHAVIOR,0.0,0.0
+United States,3PD,High Propsensity Prospects,BRAND,CSB,Other,High Propsensity Prospects,AFFINITY-3PD-BEHAVIOR,582977.98,1237444.48
+United States,3PD,High Propsensity Prospects,BRAND,CSB,Other,High Propsensity Prospects,CATEGORY-3PD-CONTEXTUAL,278063.56,261960.27
+United States,3PD,High Propsensity Prospects,BRAND,CSB,Other,High Propsensity Prospects,DOMAIN-3PD-CONTEXTUAL,411962.78,313552.27999999997
+United States,3PD,High Propsensity Prospects,BRAND,CSB,Other,High Propsensity Prospects,IN-MARKET-3PD-BEHAVIOR,14527.52,0.0
+United States,3PD,High Propsensity Prospects,PROSPECTING,CSB,Other,High Propsensity Prospects,AFFINITY-3PD-BEHAVIOR,2771675.79,139673.31
+United States,3PD,High Propsensity Prospects,PROSPECTING,CSB,Other,High Propsensity Prospects,IN-MARKET-3PD-BEHAVIOR,338584.85,0.0
+United States,3PD,High Propsensity Prospects,PROSPECTING,CSB,Other,High Propsensity Prospects,IN-MARKET-3PD-CONTEXTUAL,26761.04,3018.4300000000003
+United States,3PD,High Propsensity Prospects,PROSPECTING,CSB,Other,High Propsensity Prospects,KCT-3PD-CONTEXTUAL,16781.43,19900.16
+United States,3PD,Lead Gen,BRAND,CSB,Other,Lead Gen,CATEGORY-3PD-CONTEXTUAL,9380.68,49510.159999999996
+United States,3PD,Lead Gen,PROSPECTING,CSB,Other,Lead Gen,AFFINITY-3PD-BEHAVIOR,71573.65,576192.49
+United States,3PD,Lead Gen,PROSPECTING,CSB,Other,Lead Gen,CATEGORY-3PD-CONTEXTUAL,32793.07,318328.11
+United States,3PD,Lead Gen,PROSPECTING,CSB,Other,Lead Gen,DOMAIN-3PD-CONTEXTUAL,9287.04,0.0
+United States,3PD,Lead Gen,PROSPECTING,CSB,Other,Lead Gen,KCT-3PD-CONTEXTUAL,22754.47,31001.489999999998
+United States,3PD,Passive Prospects,BRAND,CSB,Other,Passive Prospects,AFFINITY-3PD-BEHAVIOR,6533.34,18190.829999999998
+United States,3PD,Passive Prospects,BRAND,CSB,Other,Passive Prospects,CATEGORY-3PD-CONTEXTUAL,90353.12,38509.42
+United States,3PD,Passive Prospects,BRAND,CSB,Other,Passive Prospects,DMP-3PD-AUDIENCE,40225.68,35975.979999999996
+United States,3PD,Passive Prospects,BRAND,CSB,Other,Passive Prospects,DMP-3PD-LAL,8713.82,114288.02
+United States,3PD,Passive Prospects,PROSPECTING,CSB,Other,Passive Prospects,KCT-3PD-CONTEXTUAL,182006.46,7614.74
+United States,Other,Active Prospects,ENGAGEMENT,B2B,Infrastructure Solutions Group,Active Prospects,SPONSORSHIP,0.0,0.0
+United States,Other,Active Prospects,ENGAGEMENT,CSB,Other,Active Prospects,CONQUESTING,0.0,0.0
+United States,Other,Active Prospects,PROSPECTING-TXL,B2B,Commercial,Active Prospects,KCT-SEARCH,0.0,450155.22
+United States,Other,Active Prospects,PROSPECTING-TXL,B2B,Medium Business,Active Prospects,CONQUESTING,0.0,34124.03
+United States,Other,Active Prospects,PROSPECTING-TXL,B2B,Medium Business,Active Prospects,ROS-PMP,30012.22,1507069.1
+United States,Other,Demand Creation,AWARENESS,B2B,Dell Tech Concierge,Demand Creation,SPONSORSHIP,0.0,1635.84
+United States,Other,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,CONQUESTING,0.0,1374.39
+United States,Other,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,ROS-PMP,0.0,6597.24
+United States,Other,Demand Creation,BRAND,B2B,Dell Tech Concierge,Demand Creation,SPONSORSHIP,0.0,4795.45
+United States,Other,Demand Creation,BRAND,CSB,Consumer,Demand Creation,SPONSORSHIP,0.0,0.0
+United States,Other,High Propsensity Prospects,PROSPECTING,CSB,Other,High Propsensity Prospects,CONQUESTING,19805.14,11359.710000000001
+United States,Other,Passive Prospects,BRAND,CSB,Other,Passive Prospects,KCT-SEARCH,7848.07,11662.62
+United States,Other,Passive Prospects,BRAND,CSB,Other,Passive Prospects,RON-PMP,0.0,20003.47
+United States,Other,Passive Prospects,BRAND,CSB,Other,Passive Prospects,SPONSORSHIP,132671.02,21322.42

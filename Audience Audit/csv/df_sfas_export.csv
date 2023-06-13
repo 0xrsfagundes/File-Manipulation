@@ -1,0 +1,3192 @@
+,Provider,ProviderSegment,0
+0,LR Data Store - D&B (dell_datastore_1107071),1,4352
+1,LiveRamp Data Marketplace,Finance,564
+2,LiveRamp Data Marketplace,Information Technology,543
+3,LiveRamp Data Marketplace,Operations,533
+4,Oracle Data Marketplace,"5,000+ Employees",466
+5,Oracle Data Marketplace,IT Decision Makers,444
+6,Oracle Data Marketplace,"1,000-5,000 Employees",443
+7,Oracle Data Marketplace,"500-1,000 Employees",439
+8,LiveRamp Data Marketplace,Finance Decision Makers,349
+9,Oracle Data Marketplace,100-500 Employees,335
+10,Oracle Data Marketplace,Presidents and Vice Presidents,326
+11,Oracle Data Marketplace,Directors,324
+12,Oracle Data Marketplace,Apple,285
+13,Oracle Data Marketplace,Finance Decision Makers,261
+14,LiveRamp Data Marketplace,Operations Decision Makers,254
+15,Oracle Data Marketplace,Middle Managers,251
+16,Oracle Data Marketplace,Network Administrators,249
+17,LiveRamp Data Marketplace,C: Director,249
+18,LiveRamp Data Marketplace,Technology Decision Makers,248
+19,Oracle Data Marketplace,Systems Administration (Sysadmin),248
+20,Oracle Data Marketplace,Operations,247
+21,Oracle Data Marketplace,Software Developers,242
+22,Oracle Data Marketplace,Operations Decision Makers,241
+23,Oracle Data Marketplace,Databases and Data Processing (DBA),238
+24,LiveRamp Data Marketplace,Engineering/Technical,236
+25,LiveRamp Data Marketplace,B: Vice President,236
+26,Oracle Data Marketplace,Web Developers,232
+27,Oracle Data Marketplace,Tech Support and Operations,232
+28,LiveRamp Data Marketplace,D: Manager,231
+29,Oracle Data Marketplace,Information Security,226
+30,Lotame,Executives,225
+31,LiveRamp Data Marketplace,Manager,224
+32,LiveRamp Data Marketplace,Extra Large (5000+),222
+33,LiveRamp Data Marketplace,Director,220
+34,LiveRamp Data Marketplace,Large (2500-4999),220
+35,LiveRamp Data Marketplace,Medium-Large (1000-2499),219
+36,LiveRamp Data Marketplace,Medium (500-999),219
+37,Oracle Data Marketplace,Life Insurance,219
+38,Lotame,Mid-Management,217
+39,Oracle Data Marketplace,Purchasing Professionals,214
+40,Bombora,IT Decision Maker,210
+41,Oracle Data Marketplace,Cruises,209
+42,LiveRamp Data Marketplace,Education,204
+43,Oracle Data Marketplace,Luxury Cars,203
+44,Lotame,IT Decision Makers,202
+45,Lotame,Finance,199
+46,Bombora,Management,199
+47,Lotame,Operations,199
+48,Bombora,Finance Decision Maker,198
+49,Lotame,Finance Decision Makers,197
+50,Webbula,Decision Maker,197
+51,Webbula,Management,196
+52,LiveRamp Data Marketplace,Engineering,196
+53,Lotame,Information Technology,196
+54,Lotame Custom - Dell NA,Lotame > Custom > Dell > B2B > Company Size > 100-249,195
+55,Lotame,Engineering/Technical,195
+56,LiveRamp Data Marketplace,Operations Managers,194
+57,LiveRamp Data Marketplace,Finance Managers,194
+58,LiveRamp Data Marketplace,Government,193
+59,Webbula,Executives,192
+60,Webbula,Medium (101-500 Employees),192
+61,LiveRamp Data Marketplace,H: Large Enterprise Employee Size (5000+),191
+62,Bombora,Finance,190
+63,LiveRamp Data Marketplace,Information Technology / IT Decision Makers,188
+64,Lotame Custom - Dell NA,Lotame > Custom > Dell > B2B > Company Size > 250-499,187
+65,Bombora,Medium (200 - 499 Employees),183
+66,LiveRamp Data Marketplace,Information Technology / IT,181
+67,Bombora,Information Technology,180
+68,Webbula,Information Technology,180
+69,LiveRamp Data Marketplace,"F: Medium Employee Size (501-1,000)",180
+70,Webbula,"Information Technology Grouping (Database, QA, Web, etc)",180
+71,LiveRamp Data Marketplace,"G: Medium-Large Employee Size (1,001-5,000)",180
+72,Webbula,"Financial Grouping (Finance, Accounting, Banking, etc)",179
+73,Webbula,Web Development,179
+74,LiveRamp Data Marketplace,Manager-Level,179
+75,Webbula,Software,179
+76,Oracle Data Marketplace,Comedy,178
+77,Webbula,"Engineering Grouping (Bio, Chem, Civil, etc).",177
+78,Bombora,Operations > Buyers,176
+79,LiveRamp Data Marketplace,Executives,176
+80,Bombora,Information Technology > Web Development,175
+81,Bombora,Information Technology > Software,175
+82,Bombora,Information Technology > QA,175
+83,Oracle Data Marketplace,Manufacturing Decision Makers,171
+84,LiveRamp Data Marketplace,Business Decision Makers,171
+85,LiveRamp Data Marketplace,Medium (101-500 Employees),170
+86,LiveRamp Data Marketplace,Director-Level,169
+87,LiveRamp Data Marketplace,Engineering Managers,169
+88,LiveRamp Data Marketplace,Information Technology: Database & Data Processing,168
+89,LiveRamp Data Marketplace,"Information Technology: Hardware, Network & Systems",168
+90,LiveRamp Data Marketplace,Information Technology: Software,168
+91,Who2 by NetWise,"Employee Size - XLarge (5,001+)",166
+92,LiveRamp Data Marketplace,Information Technology: Systems & Bus Analysts,166
+93,Oracle Data Marketplace,Electronics & Gadgets,166
+94,Webbula,Information Technology & Computing,166
+95,Who2 by NetWise,"Employee Size - Medium (501 - 1,000)",165
+96,Who2 by NetWise,"Employee Size - Large (2,501 - 5,000)",165
+97,Bombora,Information Technology > Systems and Business Analysts,165
+98,Bombora,Operations,165
+99,Oracle Data Marketplace,Engineering Decision Makers,162
+100,Acxiom - International,Elders In Retirement,160
+101,Bombora,Information Technology > Networking,159
+102,Bombora,Information Technology > Database,159
+103,Oracle Data Marketplace,Electrical Engineers,158
+104,Oracle Data Marketplace,Mini,158
+105,Who2 by NetWise,IT Decision Makers,158
+106,Oracle Data Marketplace,Electronics Engineers,158
+107,Oracle Data Marketplace,Chemical Engineers,158
+108,Oracle Data Marketplace,Mechanical Engineers,158
+109,Oracle Data Marketplace,Home Insurance,156
+110,Oracle Data Marketplace,Manufacturing Professionals,156
+111,Bombora,Engineering,154
+112,Oracle Data Marketplace,College,152
+113,Who2 by NetWise,"Employee Size - Medium-Large (1,001 - 2,500)",152
+114,Oracle Data Marketplace,Government Professionals,151
+115,LiveRamp Data Marketplace,Marketing,149
+116,Oracle Data Marketplace,Government Decision Makers,149
+117,LiveRamp Data Marketplace,Small-Medium (100-499),148
+118,LiveRamp Data Marketplace,Finance & Accounting,148
+119,Oracle Data Marketplace,"Arts, Entertainment and Recreation",147
+120,Bombora,Information Technology > Security,145
+121,Oracle Data Marketplace,Entertainment and Culture Decision Makers,143
+122,D&B,Management,142
+123,LiveRamp Data Marketplace,Advertising,141
+124,LiveRamp Data Marketplace,C-Suite,141
+125,Webbula,Engineer,141
+126,Acxiom,Apple,140
+127,Webbula,Medium-Large (100-500 Employees),138
+128,Oracle Data Marketplace,Credit Active,137
+129,Oracle Data Marketplace,Civil Engineers,136
+130,LiveRamp Data Marketplace,Network Engineering & Administration,135
+131,D&B,Vice President/VP,135
+132,LiveRamp Data Marketplace,Software Engineering & Systems Development,135
+133,LiveRamp Data Marketplace,Databases & Data Processing,134
+134,LiveRamp Data Marketplace,Graphic Designer,134
+135,Oracle Data Marketplace,Industrial Engineers,134
+136,LiveRamp Data Marketplace,Information Technology / IT Staff,134
+137,LiveRamp Data Marketplace,Information Technology / IT Management,133
+138,Bombora,Marketing > Creative,132
+139,Oracle Data Marketplace,Biomedical Engineers,130
+140,LiveRamp Data Marketplace,Information Technology: Web,129
+141,LiveRamp Data Marketplace,Manufacturing,129
+142,D&B,Director,129
+143,Oracle Data Marketplace,50-100 Employees,128
+144,Oracle Data Marketplace,English,128
+145,Oracle Data Marketplace,10-50 Employees,128
+146,Oracle Data Marketplace,Under 10 Employees,128
+147,LiveRamp Data Marketplace,E: Small-Medium Employee Size (101-500),127
+148,Experian Standard,Luxury Car,126
+149,LiveRamp Data Marketplace,Web Development,125
+150,Oracle Data Marketplace,Pet Specialty Store Shoppers,123
+151,LiveRamp Data Marketplace,Xlarge (5001 + Employees),122
+152,LiveRamp Data Marketplace,Logistics,119
+153,Oracle Data Marketplace,Education Decision Makers,118
+154,Bombora,"XXLarge (10,000+ Employees)",117
+155,Bombora,"Large (1,000 - 4,999 Employees)",117
+156,Bombora,"XLarge (5,000 - 10,000 Employees)",117
+157,Oracle Data Marketplace,Drama,116
+158,LiveRamp Data Marketplace,Technology Managers,116
+159,LiveRamp Data Marketplace,Technology Executives,116
+160,Oracle Data Marketplace,Real Estate,115
+161,LiveRamp Data Marketplace,Large (1001-5000 Employees),114
+162,Oracle Data Marketplace,Family Travel,114
+163,Oracle Data Marketplace,Compact and Subcompact Cars,114
+164,LiveRamp Data Marketplace,Supply Chain,114
+165,LiveRamp Data Marketplace,Vice President,114
+166,D&B,Computing & IT,113
+167,Oracle Data Marketplace,Scientists,113
+168,LiveRamp Data Marketplace,Information Technology (IT) Managers,113
+169,LiveRamp Data Marketplace,IT (Information Technology),113
+170,Who2 by NetWise,"IT Decision Makers - IT C-Level,VPs and Directors",112
+171,D&B,Medium: 101 - 250 Employees,112
+172,Bombora,Information Technology > Hardware,112
+173,LiveRamp Data Marketplace,Medium-Large (501-1000 Employees),111
+174,LiveRamp Data Marketplace,Management,111
+175,D&B,Large: 251 - 500 Employees,111
+176,Oracle Data Marketplace,Teachers,110
+177,LiveRamp Data Marketplace,Operations Executives,110
+178,LiveRamp Data Marketplace,Engineering Decision Makers,110
+179,LiveRamp Data Marketplace,Finance Executives,110
+180,LiveRamp Data Marketplace,Engineering Executives,110
+181,LiveRamp Data Marketplace,Supply Chain Decision Makers,110
+182,LiveRamp Data Marketplace,Supply Chain Managers,110
+183,Zipline (i-Behavior),SUV,110
+184,Oracle Data Marketplace,35-44,109
+185,Experian Standard,Electronics and Gadgets,106
+186,Experian Standard,SUV,104
+187,LiveRamp Data Marketplace,Supply Chain Executives,104
+188,Experian Standard,Mini Cooper,104
+189,Experian Standard,Mini,104
+190,Oracle Data Marketplace,Remodeling and Construction,103
+191,LiveRamp Data Marketplace,Business Decision Maker,102
+192,LiveRamp Data Marketplace,Sales,101
+193,LiveRamp Data Marketplace,IT Decision Makers,101
+194,LiveRamp Data Marketplace,Medium to Large (501 - 1000 Employees),101
+195,LiveRamp Data Marketplace,Consultants,101
+196,Who2 by NetWise,Employee Size - Small-Medium (101 - 500),101
+197,LiveRamp Data Marketplace,X-Large (5001+ Employees),99
+198,LiveRamp Data Marketplace,Database,99
+199,LiveRamp Data Marketplace,Software,99
+200,Oracle Data Marketplace,Healthy Choice,98
+201,LiveRamp Data Marketplace,Data Management,97
+202,LiveRamp Data Marketplace,Large (1001-5001 Employees),97
+203,LiveRamp Data Marketplace,Technical Support,96
+204,LiveRamp Data Marketplace,Telecom,96
+205,LiveRamp Data Marketplace,Network Administration,96
+206,LiveRamp Data Marketplace,Systems Admin,96
+207,LiveRamp Data Marketplace,Information Security,96
+208,LiveRamp Data Marketplace,Marketing & Communications,93
+209,Oracle Data Marketplace,MLB World Series,93
+210,LiveRamp Data Marketplace,Procurement,92
+211,Zipline (i-Behavior),"Jewelry, Accessories",92
+212,Oracle Data Marketplace,Research and Development Decision Makers,91
+213,D&B,Managers/Supervisors,91
+214,LiveRamp Data Marketplace,Law Enforcement,91
+215,Oracle Data Marketplace,Marketing,88
+216,Oracle Data Marketplace,SUV,88
+217,LiveRamp Data Marketplace,Engineering/STEM Professionals,88
+218,LiveRamp Data Marketplace,Professionals - All,87
+219,Oracle Data Marketplace,45-54,87
+220,LiveRamp Data Marketplace,IT Decision Maker,87
+221,Zipline (i-Behavior),Beauty Products,86
+222,Oracle Data Marketplace,ULTA Beauty,86
+223,Oracle Data Marketplace,Retirement,85
+224,D&B,Large: More than 2000 Employees,85
+225,Who2 by NetWise,Director,85
+226,LiveRamp Data Marketplace,Accounting,85
+227,Who2 by NetWise,Vice President,85
+228,LiveRamp Data Marketplace,Purchasing Managers,84
+229,Who2 by NetWise,Manager,84
+230,Oracle Data Marketplace,Gadget Geeks,84
+231,LiveRamp Data Marketplace,VP-Level,84
+232,LiveRamp Data Marketplace,Vice President-Level,84
+233,Oracle Data Marketplace,Ace Hardware,83
+234,D&B,Large: 1001 - 2000 Employees,83
+235,D&B,Large: 501 - 1000 Employees,83
+236,D&B,Executives,82
+237,D&B,IT/Technology Decision Makers,82
+238,Oracle Data Marketplace,Golf,82
+239,Oracle Data Marketplace,Jared The Galleria of Jewelry,81
+240,Bombora,C-Suite,81
+241,Oracle Data Marketplace,Sales,80
+242,Oracle Data Marketplace,The Home Depot,80
+243,Oracle Data Marketplace,Accounting Professionals,80
+244,Who2 by NetWise,Ops. & Manufacturing Decision Makers,79
+245,Who2 by NetWise,Finance Decision Makers,79
+246,Lotame Custom - Dell NA,Lotame > Custom > Dell > B2B > Company Size > 500-999,78
+247,D&B,Finance Decision Makers,77
+248,Acxiom,35-44,76
+249,Zipline (i-Behavior),Gadget Heads,76
+250,Oracle Data Marketplace,NFL Super Bowl,76
+251,Oracle Data Marketplace,Chief Technology Officers (CTO),76
+252,Oracle Data Marketplace,Controllers,76
+253,Acxiom,55-64,76
+254,Acxiom,45-54,76
+255,Webbula,Conventional,76
+256,LiveRamp Data Marketplace,IT & IS,75
+257,Bombora,Education & Teaching,75
+258,D&B,Procurement,74
+259,LiveRamp Data Marketplace,Manufacturing Decision Makers,74
+260,Experian Standard,SUV and CUV,74
+261,Acxiom - International,Rewards Credit Card,73
+262,Oracle Data Marketplace,Luxury,73
+263,Oracle Data Marketplace,Uses Retirement Planners,72
+264,Datonics,Apple Computers,72
+265,AdAdvisor Audiences by Neustar,Have Life Insurance w/MetLife/Metropolitan,72
+266,Datonics,Apple mobile devices users,72
+267,LiveRamp Data Marketplace,Management Information Systems,72
+268,Datonics,Life Insurance,72
+269,Who2 by NetWise,Finance and Accounting Professionals,72
+270,AdAdvisor Audiences by Neustar,Use Mobile Device: Apple iPhone,72
+271,AdAdvisor Audiences by Neustar,Use Mobile Device: Apple iPad,72
+272,AdAdvisor Audiences by Neustar,Use Mobile Device From Manufacturer: Apple,72
+273,AdAdvisor Audiences by Neustar,Use Mobile Device From Apple with Carrier AT&T,72
+274,Datonics,Owns a Retirement Plan,72
+275,AdAdvisor Audiences by Neustar,Retired Or Took Early Retirement (Last 12M),72
+276,Oracle Data Marketplace,Has IRA or Individual Retirement Account Balance,72
+277,AdAdvisor Audiences by Neustar,Banking/Investments: Have Any Retirement And College Savings,72
+278,Datonics,Apple Laptops,72
+279,AdAdvisor Audiences by Neustar,"Life Insurance Value-$100,000-$199,999",72
+280,Datonics,iPhone (Apple),72
+281,AdAdvisor Audiences by Neustar,"Life Insurance Value-$20,000-$49,999",72
+282,Oracle Data Marketplace,55-64,72
+283,AdAdvisor Audiences by Neustar,"Life Insurance Value-$200,000-$499,999",72
+284,Lotame,Large (1000-4999),71
+285,LiveRamp Data Marketplace,Treasurer,71
+286,LiveRamp Data Marketplace,Sourcing,71
+287,Lotame,Extra-Large (5000+),71
+288,Datonics,Football Fans,71
+289,D&B,C-Suite,71
+290,AdAdvisor Audiences by Neustar,NFL-Very Interested-Last 12M,70
+291,Oracle Data Marketplace,Inactive Credit Card Users,70
+292,Oracle Data Marketplace,National Hockey League (NHL),70
+293,Zipline (i-Behavior),Mutual of Omaha Life Insurance,70
+294,AdAdvisor Audiences by Neustar,College Football-Very Interested-Last 12M,70
+295,Zipline (i-Behavior),MetLife Life Insurance,70
+296,LiveRamp Data Marketplace,Police,70
+297,AdAdvisor Audiences by Neustar,Credit Card Type Have-Any Visa,70
+298,AdAdvisor Audiences by Neustar,Credit Card Type Have-Visa Standard,70
+299,AdAdvisor Audiences by Neustar,Head of HH Education: Bachelor's Degree,70
+300,AdAdvisor Audiences by Neustar,Credit Card Use Last 30 Days-Any Visa,70
+301,AdAdvisor Audiences by Neustar,Credit Card Use Most-Any Visa,70
+302,Datonics,Credit Card Users,70
+303,AdAdvisor Audiences by Neustar,Attend College Football Regular Season,70
+304,Oracle Data Marketplace,College Football (NCAA),70
+305,D&B,General Finance,70
+306,D&B,Decision Makers (DM),70
+307,AdAdvisor Audiences by Neustar,Attend NFL Football Regular Season,70
+308,Zipline (i-Behavior),Sports - Premier League Football,69
+309,Zipline (i-Behavior),Sports - NFL,69
+310,LiveRamp Data Marketplace,Entertainment Decision Makers,68
+311,LiveRamp Data Marketplace,Analyst,68
+312,Oracle Data Marketplace,Frequent Domestic Vacation,68
+313,Oracle Data Marketplace,Domestic Travel: High Spenders,68
+314,AdAdvisor Audiences by Neustar,Consider My Diet to Be Very Healthy,68
+315,Oracle Data Marketplace,Has Roth IRA or Roth Individual Retirement,68
+316,AdAdvisor Audiences by Neustar,I'll Try Any New Diet,68
+317,AdAdvisor Audiences by Neustar,Incorporate Probiotics Into Diet Regularly,68
+318,AdAdvisor Audiences by Neustar,"Life Insurance Value-$50,000-$99,999",68
+319,Datonics,Actively Try New Health and Diet Trends,68
+320,LiveRamp Data Marketplace,Audit,68
+321,AdAdvisor Audiences by Neustar,Domestic Travel For Personal Last 12M: Any Marriott,68
+322,AdAdvisor Audiences by Neustar,Prefer Driving Luxury Vehicle,68
+323,AdAdvisor Audiences by Neustar,I Try To Eat Healthy Food/Balanced Diet,68
+324,AdAdvisor Audiences by Neustar,Domestic Travel-Any Trip-Airline Last 12M: Southwest,68
+325,Datonics,Luxury,68
+326,Oracle Data Marketplace,Bed Bath & Beyond,68
+327,LiveRamp Data Marketplace,Corporate,68
+328,AdAdvisor Audiences by Neustar,Watching Diet-For Food Allergy,68
+329,Datonics,High Frequency Domestic Vacationer,68
+330,Datonics,On a diet,68
+331,Acxiom,College,68
+332,Experian Standard,Invest: Retirement Plan,67
+333,Zipline (i-Behavior),Luxury Automobiles,67
+334,Oracle Data Marketplace,Attends Big Ten Football Game (Scarborough),67
+335,Zipline (i-Behavior),Luxury Collection,67
+336,D&B,Support,67
+337,Experian Standard,Life Insurance Policy Holders,67
+338,D&B,B2B Company Size > Large: 501 - 1000 Employees,66
+339,D&B,B2B Company Size > Large: More Than 2000 Employees,66
+340,D&B,B2B Company Size > Large: 1001 - 2000 Employees,66
+341,Zipline (i-Behavior),Diabetes-Diet/Exercise Treatment,66
+342,Zipline (i-Behavior),Sports - NHL,66
+343,Datonics,Plays Hockey,66
+344,Oracle Data Marketplace,Manufacturing,66
+345,Experian Standard,Football (FLA / Fair Lending Friendly),66
+346,Datonics,Hockey Fans,66
+347,Oracle Data Marketplace,Attends NHL Game (Scarborough),66
+348,D&B,CFO (Chief Financial Officer),66
+349,Oracle Data Marketplace,Comedy Central,66
+350,AdAdvisor Audiences by Neustar,NHL-Very Interested-Last 12M,66
+351,Zipline (i-Behavior),Weight Loss,66
+352,Zipline (i-Behavior),High Cholesterol-Diet/Exercise,66
+353,Zipline (i-Behavior),Diet Behaviors,66
+354,Oracle Data Marketplace,Lowe's,66
+355,AdAdvisor Audiences by Neustar,Attend NHL Hockey Regular Season,66
+356,Oracle Data Marketplace,Fitness & Exercise,65
+357,D&B,Finance,65
+358,Experian Standard,Apple Ipod/Iphone Owner Model,65
+359,Oracle Data Marketplace,Advertising and Market Research,65
+360,Datonics,College Degree,65
+361,Oracle Data Marketplace,Plans to Buy Life Insurance,65
+362,Bombora,Sports Fans > Football,65
+363,Experian Standard,Apple Mac Purchaser Model,65
+364,Oracle Data Marketplace,Variable-rate Mortgage,64
+365,Datonics,"Home Equity of $10,000-$24,999",64
+366,Oracle Data Marketplace,US Domestic Flyers,64
+367,Experian Standard,On a Diet,64
+368,Oracle Data Marketplace,Fixed-rate Mortgage,64
+369,D&B,Senior Management,64
+370,Oracle Data Marketplace,Sales and Marketing Decision Makers,64
+371,Datonics,"Home Equity of $25,000-$39,999",64
+372,Bombora,Government,64
+373,Experian Standard,"Loyal Rewards Enthusiast, Low Credit Card Balance",64
+374,Datonics,"Home Equity of $40,000-$59,999",64
+375,Experian Standard,"Complacent Card User, Low Credit Card Balance",64
+376,Oracle Data Marketplace,Partners,64
+377,Experian Standard,"Uninterested, Average Credit Card Balance",64
+378,Oracle Data Marketplace,Last 12 Months,64
+379,Experian Standard,"Reluctant User, High Credit Card Balance",64
+380,Experian Standard,"Credit Seeking Card Switcher, High Credit Card Balance",64
+381,Datonics,First Time Home Purchaser,64
+382,Oracle Data Marketplace,High School,64
+383,AdAdvisor Audiences by Neustar,HH Buys Pet Supplies at Petco,63
+384,Oracle Data Marketplace,Attends Big Ten Basketball Game (Scarborough),63
+385,D&B,C-Level/C-Suite,63
+386,D&B,Finance Management,63
+387,Oracle Data Marketplace,Attends NBA Game (Scarborough),63
+388,Oracle Data Marketplace,Conducts Internet Banking From Smartphone,63
+389,AdAdvisor Audiences by Neustar,Uses Weather Apps on Smartphone,63
+390,AdAdvisor Audiences by Neustar,Uses News Apps on Smartphone,63
+391,AdAdvisor Audiences by Neustar,Uses Maps/ Navigation Apps on Smartphone,63
+392,AdAdvisor Audiences by Neustar,Use Smartphones For Internet Activities,63
+393,Datonics,Basketball Fans,63
+394,AdAdvisor Audiences by Neustar,HH Buys Pet Supplies at Petsmart,63
+395,LiveRamp Data Marketplace,Government Decision Makers,63
+396,Oracle Data Marketplace,Pays Bills via Smartphone,63
+397,Experian Standard,Non Luxury Lease,63
+398,Experian Standard,Luxury Compact,63
+399,Experian Standard,Luxury CUV,63
+400,Oracle Data Marketplace,Remote Deposits via Smartphone,63
+401,Oracle Data Marketplace,Attends NFL Game (Scarborough),62
+402,Experian Standard,Bachelor Degree,62
+403,AdAdvisor Audiences by Neustar,NBA-Very Interested-Last 12M,62
+404,Acxiom,Mini,62
+405,Oracle Data Marketplace,Franchise Owners,62
+406,Datonics,"Passenger Cars (Sedan, Wagon, Hatchback, Compact)",62
+407,D&B,CTO (Chief Technology Officer),62
+408,AdAdvisor Audiences by Neustar,Attend NBA Basketball Regular Season,62
+409,AdAdvisor Audiences by Neustar,College Basketball-Very Interested-Last 12M,62
+410,Oracle Data Marketplace,On a Diet,61
+411,Experian Standard,Plays Hockey,61
+412,Zipline (i-Behavior),Dietician,61
+413,Zipline (i-Behavior),Sports - NBA,61
+414,Oracle Data Marketplace,Weight Loss and Supplements,61
+415,Oracle Data Marketplace,Reviews Account Balance via Smartphone,61
+416,Oracle Data Marketplace,Luxury Compact Car,61
+417,AdAdvisor Audiences by Neustar,Consumed Alcoholic Drinks in the Last Month,60
+418,Bombora,Sports Fans > Hockey,60
+419,LiveRamp Data Marketplace,Employees 100000+,60
+420,LiveRamp Data Marketplace,Employees 10000-50000,60
+421,Oracle Data Marketplace,Luxury Car,60
+422,AdAdvisor Audiences by Neustar,Drink Beer - No Alcohol/Low Alcohol,60
+423,LiveRamp Data Marketplace,Employees 1000-10000,60
+424,Experian Standard,Pro Basketball (FLA / Fair Lending Friendly),60
+425,AdAdvisor Audiences by Neustar,Drink Flavored Alcoholic Beverages,60
+426,Datonics,Wine and Winery,60
+427,Oracle Data Marketplace,NHL Enthusiast,60
+428,AdAdvisor Audiences by Neustar,Flav Alcoholic Bev-Mike's Hard Lemonade,60
+429,Datonics,College & Admissions,60
+430,AdAdvisor Audiences by Neustar,Flav Alcoholic Bev-Any Mike's Hard,60
+431,Acxiom - International,SUV,60
+432,Datonics,Retail Electronics and Gadgets Buyers,59
+433,Who2 by NetWise,Behaviors - Web & Email - Consumer Response Categories - Electronics/Gadgets,59
+434,AdAdvisor Audiences by Neustar,Love to Buy New Gadgets and Appliances,59
+435,AdAdvisor Audiences by Neustar,Shopped Hobby Lobby Stores Last 3M,59
+436,LiveRamp Data Marketplace,Business Development,59
+437,Datonics,Electronics and Gadgets Purchase - $,59
+438,Experian Standard,Highly unlikely to refinance (FLA / Fair Lending Friendly),59
+439,AdAdvisor Audiences by Neustar,"Shop Bed, Bath & Beyond Last 3M",59
+440,Experian Standard,"Secure, Active Refinancer, Above Average Mortgage Balance",59
+441,AdAdvisor Audiences by Neustar,Shopped Michaels Last 3M,59
+442,Datonics,Electronics and Gadgets,59
+443,Experian Standard,"Advice Seeking Refinancer, Slightly Above Average Mortgage Balance",59
+444,Oracle Data Marketplace,Attends ACC Basketball Game (Scarborough),59
+445,Oracle Data Marketplace,Mattress Firm,59
+446,Oracle Data Marketplace,La-Z-Boy,59
+447,Oracle Data Marketplace,Ferguson Showrooms,59
+448,Oracle Data Marketplace,Pier 1 Imports,59
+449,AdAdvisor Audiences by Neustar,Shop Home Goods Last 3M,59
+450,AdAdvisor Audiences by Neustar,Shop Any Home Furnishings Store 3+ Times Last 4Wk,59
+451,AdAdvisor Audiences by Neustar,I Like To Have A Lot Of Gadgets,59
+452,Datonics,Online Electronics and Gadgets Buyers,59
+453,Experian Standard,Q62 - Enjoying Retirement,58
+454,Acxiom - International,Real Estate and Rental and Leasing,58
+455,Webbula,Life Insurance,58
+456,Oracle Data Marketplace,College Life,58
+457,Datonics,Plays Soccer,58
+458,Oracle Data Marketplace,U.S. Soccer (MLS),58
+459,Oracle Data Marketplace,Plays Soccer (Scarborough),58
+460,Datonics,Soccer Fans,58
+461,Bombora,Sports Fans > Basketball,58
+462,Oracle Data Marketplace,Attends MLS Match (Scarborough),58
+463,Oracle Data Marketplace,Bachelor,58
+464,Oracle Data Marketplace,Ages 55-64,57
+465,AdAdvisor Audiences by Neustar,Have Health Insurance w/UnitedHealth care,57
+466,Oracle Data Marketplace,Software Designers & Programmers,57
+467,D&B,Information Technology,57
+468,Oracle Data Marketplace,Chief Information Officers (CIO),57
+469,D&B,Software Engineering,57
+470,Oracle Data Marketplace,Compact & Subcompact Cars,57
+471,Oracle Data Marketplace,Plan to Get 2nd Mortgage or Equity Loan,57
+472,Oracle Data Marketplace,Sub-compact Car,57
+473,AdAdvisor Audiences by Neustar,Have Health Insurance w/Aetna,57
+474,AdAdvisor Audiences by Neustar,Have Health Insurance w/Blue Cross/Blue Shield,57
+475,AdAdvisor Audiences by Neustar,Have Health Saving Account: Flexible Spending Account,57
+476,D&B,Web Development & Management,57
+477,AdAdvisor Audiences by Neustar,Domestic Travel-Last Trip-Airline Last 12M: Southwest,57
+478,AdAdvisor Audiences by Neustar,Use Mobile Device From Apple with Carrier Sprint,57
+479,AdAdvisor Audiences by Neustar,Domestic Travel-Last Trip-Airline Last 12M: Delta,57
+480,Zipline (i-Behavior),All Compact and Subcompact Cars,57
+481,AdAdvisor Audiences by Neustar,Domestic Travel-Any Trip-Airline Last 12M: Delta,57
+482,Who2 by NetWise,Marketing & Communications - Advertising,57
+483,Datonics,Mini,56
+484,D&B,Information Security,56
+485,Oracle Data Marketplace,Chief Executive Officers (CEO),56
+486,Datonics,High Frequency Cruise Enthusiast,56
+487,Datonics,Home Improvement & Construction,56
+488,Zipline (i-Behavior),Private Insurance-Direct,56
+489,AdAdvisor Audiences by Neustar,SUV Matches My Active Lifestyle,56
+490,Bombora,IT Professional,56
+491,Experian Standard,Alcohol and Wine: $331-$726,56
+492,Experian Standard,Alcohol and Wine: $0-$330,56
+493,AdAdvisor Audiences by Neustar,Sport Utility Vehicle (Suv),56
+494,Experian Standard,Plays Soccer,56
+495,Datonics,"SUV, Minivan, Van, Crossover",56
+496,Experian Standard,"Alcohol and Wine: $727-$99,999",56
+497,Zipline (i-Behavior),No Physician,56
+498,Zipline (i-Behavior),Subsidy Qualification-unknown,56
+499,D&B,Network Administration & Engineering,56
+500,D&B,COO (Chief Operating Officer),56
+501,D&B,Systems Administration & Engineering,56
+502,D&B,Data Management,56
+503,D&B,Data Scientist / Analyst,56
+504,D&B,Database Administration & Design,56
+505,D&B,Operations Management,56
+506,AdAdvisor Audiences by Neustar,Credit Card Type Have-Any Mastercard,56
+507,Who2 by NetWise,"Health,Beauty & Personal Care",55
+508,Oracle Data Marketplace,Hybrid,55
+509,Zipline (i-Behavior),MINI Other Model,55
+510,LiveRamp Data Marketplace,Creative,55
+511,Zipline (i-Behavior),MINI Cooper,55
+512,D&B,New York Life Insurance,55
+513,Zipline (i-Behavior),Health & Beauty & Personal Care,55
+514,LiveRamp Data Marketplace,Account Management,55
+515,Webbula,XLarge (5001+ Employees),55
+516,Zipline (i-Behavior),MINI,55
+517,Oracle Data Marketplace,70% - 80%,55
+518,Zipline (i-Behavior),Mini,55
+519,Zipline (i-Behavior),Mini-Van,55
+520,Zipline (i-Behavior),SUV-4dr,55
+521,Oracle Data Marketplace,Own Life Insurance,55
+522,D&B,B2B Industry > Finance and Insurance > Credit Intermediation,55
+523,AdAdvisor Audiences by Neustar,Owner Any Mini,55
+524,Bombora,Marketing Decision Maker,55
+525,D&B,Mobile Developer,55
+526,Oracle Data Marketplace,Fine Dining,55
+527,Zipline (i-Behavior),Other SUV,55
+528,Zipline (i-Behavior),SUV-2dr,55
+529,Experian Standard,"$1,000-$2,499",54
+530,Bombora,Food and Drink > Wine,54
+531,Oracle Data Marketplace,Web Professionals,54
+532,D&B,Advertising,54
+533,Experian Standard,$1-$199,54
+534,Oracle Data Marketplace,Travel Insurance,54
+535,AdAdvisor Audiences by Neustar,"Auto Insurance Value: $100,000-$199,999",54
+536,Acxiom - International,Urban Compact,54
+537,Zipline (i-Behavior),Geico Auto Insurance,54
+538,Experian Standard,$100-$499,54
+539,AdAdvisor Audiences by Neustar,"Auto Insurance Value: $200,000-$299,999",54
+540,Bombora,Technology > Smartphone & Mobile,54
+541,LiveRamp Data Marketplace,Engineering/STEM Professionals: Research & Scientific,54
+542,AdAdvisor Audiences by Neustar,Have Auto Insurance From State Farm,54
+543,Webbula,Domestic Traveling Enthusiast,54
+544,Experian Standard,"$2,500+",54
+545,Datonics,Electronics and Gadgets Power Buyer,54
+546,Oracle Data Marketplace,Reality TV,54
+547,Oracle Data Marketplace,Small Business Insurance,54
+548,D&B,B2B Industry > Finance and Insurance > Credit Unions,54
+549,Experian Standard,$500-$999,54
+550,Zipline (i-Behavior),Farmers Insurance Group Auto,54
+551,Webbula,Large (1001-5000 Employees),54
+552,Zipline (i-Behavior),Progressive Auto Insurance,54
+553,Zipline (i-Behavior),Allstate Auto Insurance,54
+554,AdAdvisor Audiences by Neustar,Foreign Travel-Any Trip-Airline Last 3 Years: Us Based,53
+555,AdAdvisor Audiences by Neustar,Foreign Travel-Last Trip-Airline Last 3 Years: Us Based,53
+556,AdAdvisor Audiences by Neustar,Foreign Travel-Any Trip-Airline Last 3 Years: Delta,53
+557,Experian Standard,Electron/Gadget,53
+558,D&B,Managers,53
+559,Datonics,High Frequency Foreign Vacationer,53
+560,Zipline (i-Behavior),Qualify for Cost Sharing/Tax Credits,53
+561,Oracle Data Marketplace,Seeks Healthy Fast Food,53
+562,Oracle Data Marketplace,Frequent Foreign Vacation,53
+563,LiveRamp Data Marketplace,Education Decision Makers,53
+564,Datonics,Home Improvement and Safety Power Buyer,52
+565,Oracle Data Marketplace,Sedan,52
+566,Datonics,True Value Hardware,52
+567,Experian Standard,Small Mid-Size SUV,52
+568,Who2 by NetWise,"Finance - Finance C-Level,VPs and Directors",52
+569,Oracle Data Marketplace,Sherwin-Williams,52
+570,Datonics,Home Depot,52
+571,Experian Standard,Compact or Subcompact Car,52
+572,Experian Standard,Compact Car,52
+573,Experian Standard,Mini Cooper Countryman,52
+574,Datonics,Alcohol,52
+575,D&B,Engineering,52
+576,D&B,CEO (Chief Executive Officer),52
+577,Experian Standard,Compact Cars,52
+578,Datonics,Ace Hardware,52
+579,Experian Standard,Compact or Subcompact Cars,52
+580,LiveRamp Data Marketplace,A: Micro Employee Size (1-20),52
+581,Bombora,Sports Fans > Soccer,52
+582,LiveRamp Data Marketplace,C: Very Small Employee Size (1-50),52
+583,Webbula,Medium-Large (501-1000 Employees),52
+584,Datonics,Lowes,52
+585,Oracle Data Marketplace,Dieting & Weight Loss,52
+586,AdAdvisor Audiences by Neustar,Cruise Line Used Last 3 Years: Carnival,52
+587,AdAdvisor Audiences by Neustar,Shop Lowe's Last 3M,52
+588,AdAdvisor Audiences by Neustar,Shop Home Depot Last 3M,52
+589,Oracle Data Marketplace,Low Fat Dieters,52
+590,Oracle Data Marketplace,Colleges and Universities,52
+591,AdAdvisor Audiences by Neustar,HH Owns Black & Decker Brand Workshop Equipment,52
+592,AdAdvisor Audiences by Neustar,HH Owns Workshop Equipment,52
+593,Oracle Data Marketplace,Graduate School,52
+594,Oracle Data Marketplace,Low Sugar Diet,52
+595,AdAdvisor Audiences by Neustar,I Make Sure I Exercise Regularly,51
+596,AdAdvisor Audiences by Neustar,Fitness Walk-Participate Every Chance I Get,51
+597,AdAdvisor Audiences by Neustar,Uses Banking/ Finance Apps on Smartphone,51
+598,LiveRamp Data Marketplace,Engineering/STEM Professionals: Industrial & Mechanical,51
+599,AdAdvisor Audiences by Neustar,Physical Fitness Program-Regular Participates Last 12 Months,51
+600,Bombora,Technology > Gadgets & Wearables,51
+601,Bombora,Sales,51
+602,LiveRamp Data Marketplace,"10,000+ Employees",51
+603,LiveRamp Data Marketplace,1000-4999 Employees,51
+604,AdAdvisor Audiences by Neustar,Participate in Physical Fitness Program at Home,51
+605,LiveRamp Data Marketplace,500-999 Employees,51
+606,LiveRamp Data Marketplace,5000+ Employees,51
+607,LiveRamp Data Marketplace,5000-9999 Employees,51
+608,Who2 by NetWise,Finance,51
+609,Datonics,Cruises,51
+610,Oracle Data Marketplace,Plays Softball or Baseball (Scarborough),50
+611,Zipline (i-Behavior),No Health Insurance,50
+612,AdAdvisor Audiences by Neustar,Major Lg Baseball-Very Interested-Last 12M,50
+613,Datonics,Baseball Fans,50
+614,Who2 by NetWise,IT and Engineering Professsionals,50
+615,Oracle Data Marketplace,Public Safety and Justice,50
+616,D&B,B2B Job Function/Roles > Computing & IT > Information Technology,50
+617,Webbula,Cruise Traveling Enthusiast,50
+618,D&B,B2B Industry > Educational Services > Colleges and Universities,50
+619,Who2 by NetWise,Engineering,50
+620,LiveRamp Data Marketplace,D: Small Employee Size (51-100),50
+621,LiveRamp Data Marketplace,B: Micro+ Employee Size (21-50),50
+622,Experian Standard,Baseball (FLA / Fair Lending Friendly),50
+623,comScore,American Football Fans,50
+624,Oracle Data Marketplace,Attends MLB Game (Scarborough),50
+625,Experian Standard,Health Or Lowfat Cooking (FLA / Fair Lending Friendly),50
+626,Oracle Data Marketplace,Chief Marketing Officers (CMO),50
+627,AdAdvisor Audiences by Neustar,Attend MLB Baseball Regular Season,50
+628,D&B,Education�Decision Makers,49
+629,Who2 by NetWise,Operations  & Manufacturing,49
+630,D&B,Creative,49
+631,Zipline (i-Behavior),US Foreign Direct Investment,49
+632,Zipline (i-Behavior),US International Contribution,49
+633,AdAdvisor Audiences by Neustar,HH Plans Remodel Bathroom Next 12M,49
+634,Zipline (i-Behavior),Exercise,49
+635,Oracle Data Marketplace,Plan to Remodel,49
+636,Who2 by NetWise,Operations  & Manufacturing - Purchasing & Procurement,49
+637,AdAdvisor Audiences by Neustar,HH Plans Other Remodeling Next 12M,49
+638,Experian Standard,"Disciplined, Passive Borrower, Below Average Mortgage Balance",49
+639,D&B,B2B Seniority > Management > Director,49
+640,AdAdvisor Audiences by Neustar,Eats Various Healthy Food,49
+641,D&B,Operations,49
+642,Zipline (i-Behavior),Sports - MLB,49
+643,D&B,B2B Seniority > Management > Senior Management,49
+644,Oracle Data Marketplace,Healthy Eating,49
+645,Oracle Data Marketplace,SUV's,49
+646,Bombora,Business Professional,49
+647,Bombora,Education > Management & Administrators,48
+648,AdAdvisor Audiences by Neustar,Domestic Travel For Business Last 12M: Any Marriott,48
+649,D&B,Financial Analyst,48
+650,Oracle Data Marketplace,Last Business Trip - Paid Company Trip,48
+651,Datonics,High Frequency Business Traveler,48
+652,Oracle Data Marketplace,Diet,48
+653,Zipline (i-Behavior),Cruise Ship Lovers,48
+654,Experian Standard,Traveled for Business in last 12 months,48
+655,Acxiom - International,Sedan,48
+656,AdAdvisor Audiences by Neustar,Domestic Travel For Business Last 12M: Any Hilton,48
+657,Oracle Data Marketplace,Business,48
+658,D&B,B2B Company Size > Micro: 1 - 4 Employees,48
+659,D&B,B2B Seniority > C-suite/C-Level,48
+660,AdAdvisor Audiences by Neustar,Languages Spoken in Home: Mostly Spanish But Some English,48
+661,AdAdvisor Audiences by Neustar,Languages Spoken in Home: Mostly English But Some Spanish,48
+662,D&B,B2B Seniority > Management > Vice President/VP,48
+663,Zipline (i-Behavior),American Family Auto Insurance,48
+664,Oracle Data Marketplace,NHL Stanley Cup Finals,48
+665,AdAdvisor Audiences by Neustar,Domestic Travel For Business Last 12M: Marriott,48
+666,Datonics,Store Credit Card Users,48
+667,LiveRamp Data Marketplace,Business Decision Maker (Manager Plus),47
+668,Bombora,Government > Employees,47
+669,LiveRamp Data Marketplace,"Executive Staff - SVP, EVP, C-Level",47
+670,Lotame,IT Professionals,47
+671,Experian Standard,Fitness Mothers,47
+672,D&B,General Operations,47
+673,LiveRamp Data Marketplace,Hardcore Gamers,47
+674,Experian Standard,Fitness Enthusiast,47
+675,LiveRamp Data Marketplace,Executive Level Board Members,46
+676,LiveRamp Data Marketplace,Marketing Executives,46
+677,Datonics,High Price Jewelry and Accessories,46
+678,LiveRamp Data Marketplace,Events,46
+679,AdAdvisor Audiences by Neustar,Budget Jewelry/Luxury Goods Shopper,46
+680,LiveRamp Data Marketplace,Marketing Managers,46
+681,LiveRamp Data Marketplace,Owner Or Partner,46
+682,D&B,B2B Company Size > Small: 31 - 50 Employees,46
+683,D&B,B2B Company Size > Small: 21 - 30 Employees,46
+684,D&B,B2B Company Size > Small: 11 - 20 Employees,46
+685,D&B,B2B Company Size > Micro: 5 - 10 Employees,46
+686,Oracle Data Marketplace,Internet Service Providers,46
+687,LiveRamp Data Marketplace,VP Plus,46
+688,Oracle Data Marketplace,Plays Basketball (Scarborough),46
+689,Datonics,High Price Jewelry and Accessories Purchase - $$,46
+690,LiveRamp Data Marketplace,Sales Executives,46
+691,LiveRamp Data Marketplace,Sales Managers,46
+692,Datonics,Retirement / 401K,46
+693,LiveRamp Data Marketplace,Business Owner,46
+694,LiveRamp Data Marketplace,Marketing Decision Makers,46
+695,Datonics,High Price Jewelry and Accessories Purchase - $$$,46
+696,LiveRamp Data Marketplace,Sales Decision Makers,46
+697,LiveRamp Data Marketplace,Sales and Marketing Decision Makers,46
+698,AdAdvisor Audiences by Neustar,Mid-Priced Jewelry/Luxury Goods Shopper,46
+699,LiveRamp Data Marketplace,Senior Management,46
+700,AdAdvisor Audiences by Neustar,Visited WebSite:Any Jewelry/Luxury Goods/Accessories Last 3M,46
+701,Oracle Data Marketplace,Jewelry & Watches: High Spenders,46
+702,Oracle Data Marketplace,Smart Home,46
+703,Oracle Data Marketplace,Gadgets and Tech Toys,46
+704,Datonics,High Price Jewelry and Accessories Purchase - $,46
+705,AdAdvisor Audiences by Neustar,Luxury Jewelry/Luxury Goods Shopper,46
+706,Datonics,High Price Jewelry and Accessories Power Buyer,46
+707,Webbula,1 Line of Credit,45
+708,LiveRamp Data Marketplace,Middle-Management,45
+709,LiveRamp Data Marketplace,Employees 50000-100000,45
+710,AdAdvisor Audiences by Neustar,Shop Ace Hardware Last 3M,45
+711,Webbula,Dieting and Weight Loss,45
+712,Oracle Data Marketplace,Apple iPhone,45
+713,Oracle Data Marketplace,Data Center,45
+714,Oracle Data Marketplace,Attends PGA Tour Tournament (Scarborough),45
+715,AdAdvisor Audiences by Neustar,PGA-Very Interested-Last 12M,45
+716,Datonics,Golf Fans,45
+717,Datonics,Credit Cards,45
+718,Bombora,Sports Fans > Baseball,45
+719,Datonics,Plays Golf,45
+720,Oracle Data Marketplace,Plays Golf (Scarborough),45
+721,LiveRamp Data Marketplace,Engineering/STEM Professionals: Electrical,45
+722,LiveRamp Data Marketplace,Customer Service,44
+723,Oracle Data Marketplace,Ages 30-34,44
+724,Oracle Data Marketplace,Domestic,44
+725,Oracle Data Marketplace,Bathroom Remodels,44
+726,Oracle Data Marketplace,Reality & Game Shows,44
+727,Oracle Data Marketplace,Ages 25-29,44
+728,Oracle Data Marketplace,Kitchen Remodels,44
+729,Oracle Data Marketplace,Active Credit Card Users,44
+730,AdAdvisor Audiences by Neustar,Foreign Travel-Any Trip-Airline Last 3 Years: United,44
+731,Datonics,Business Travelers,44
+732,Bombora,English,44
+733,Experian Standard,Life Insurance Policy Holders - Expanded,43
+734,Oracle Data Marketplace,Fitness & exercise,43
+735,AdAdvisor Audiences by Neustar,Have Auto Insurance From GEICO,43
+736,AdAdvisor Audiences by Neustar,Banking/Investments: Have Savings Account(s),43
+737,Experian Standard,Jewelry Making (FLA / Fair Lending Friendly),43
+738,Oracle Data Marketplace,Luxury Travelers: High Spenders,43
+739,AdAdvisor Audiences by Neustar,Banking/Investments: Have Non-Interest Bearing Check Account,43
+740,Experian Standard,Invest: Retirement Plan - Expanded,43
+741,comScore,Basketball Fans,43
+742,Equifax / IXI,Executive Director,43
+743,AdAdvisor Audiences by Neustar,Look For Organic/Natural in Health/Beauty Products,43
+744,Equifax / IXI,Director,43
+745,Oracle Data Marketplace,Luxury Travelers,43
+746,LiveRamp Data Marketplace,Founder,43
+747,Bombora,Marketing,43
+748,Oracle Data Marketplace,Jewelry,43
+749,Webbula,A+ Credit Rating,43
+750,comScore,Womens Soccer Fans,43
+751,Webbula,B+ Credit Rating,43
+752,Oracle Data Marketplace,Sally Beauty Supply,43
+753,Oracle Data Marketplace,Enterprise Applications,43
+754,Equifax / IXI,Manager,43
+755,Lotame,Marketing,43
+756,Equifax / IXI,Vice President,43
+757,Oracle Data Marketplace,"Laptops, Notebooks and Netbooks",43
+758,Oracle Data Marketplace,Real Estate (Home and Commercial),43
+759,AdAdvisor Audiences by Neustar,Cruise Line Used Last 3 Years: Royal Caribbean,42
+760,Bombora,Outdoor Activities > Golfing,42
+761,AdAdvisor Audiences by Neustar,Banking/Investments: Have Any Investments And Securities,42
+762,AdAdvisor Audiences by Neustar,Banking/Investments: Have Interest Bearing Check Account,42
+763,Oracle Data Marketplace,Mobile Banking,42
+764,AdAdvisor Audiences by Neustar,SOHO 2- Real Estate Services,42
+765,Datonics,Health Food,42
+766,Bombora,Real Estate > Commercial,42
+767,Oracle Data Marketplace,International Soccer (FIFA),42
+768,D&B,Treasurer,42
+769,Webbula,Luxury Car,42
+770,Oracle Data Marketplace,Soccer,42
+771,Bombora,Real Estate,42
+772,Oracle Data Marketplace,Golf Courses,42
+773,AdAdvisor Audiences by Neustar,Watch Network TV Primetime-Comedy,42
+774,AdAdvisor Audiences by Neustar,SMALL 22- Real Estate Brokers,42
+775,AdAdvisor Audiences by Neustar,MICRO 3- Real Estate Agents And Managers,42
+776,D&B,Logistics,42
+777,Acxiom,High School,42
+778,Acxiom - International,Luxury,42
+779,Webbula,International Traveling Enthusiast,42
+780,Lotame,Sales and Marketing Decision Makers,42
+781,AdAdvisor Audiences by Neustar,Real Estate,42
+782,Oracle Data Marketplace,Attends ACC Football Game (Scarborough),41
+783,Datonics,Frequent credit card users,41
+784,Oracle Data Marketplace,Aetna Insured,41
+785,Datonics,Retail Pets Buyers,41
+786,Datonics,Facebook,41
+787,Webbula,New Construction or Subdivision,41
+788,Equifax / IXI,Managing Director,41
+789,Oracle Data Marketplace,Humana Insured,41
+790,Datonics,Instagram,41
+791,Datonics,Social Media Applications,41
+792,AdAdvisor Audiences by Neustar,Visit Nfl.com in the Last 30 Days,41
+793,Experian Standard,On a Diet - Expanded,41
+794,AdAdvisor Audiences by Neustar,Social Media/Ntwrkng Wbstes-Media Follwd:Sports/Athletes,41
+795,Oracle Data Marketplace,True Value,41
+796,Datonics,Pets Purchase - $$,41
+797,Oracle Data Marketplace,Credit Card User,41
+798,Webbula,Construction Loan,41
+799,Datonics,Online Pets Buyers,41
+800,Datonics,Pinterest,41
+801,Experian Standard,Apple Mac Purchaser Model - Expanded,41
+802,Experian Standard,Apple Ipod/Iphone Owner Model - Expanded,41
+803,Zipline (i-Behavior),Took a cruise on Royal Caribbean,41
+804,Zipline (i-Behavior),Real Estate,41
+805,AdAdvisor Audiences by Neustar,HH Has at Least 1 Pet,41
+806,Oracle Data Marketplace,Cigna Insured,41
+807,Zipline (i-Behavior),Real Estate - Residential,41
+808,Who2 by NetWise,"Media,Entertainment and Publishing",41
+809,Oracle Data Marketplace,United Healthcare Insured (UHC),41
+810,Oracle Data Marketplace,Blue Cross Blue Shield Insured,41
+811,Zipline (i-Behavior),Football Fans (Updated),41
+812,Oracle Data Marketplace,Frequent Business Travel,41
+813,Oracle Data Marketplace,Exercise Regularly,41
+814,Oracle Data Marketplace,PetSmart,41
+815,Oracle Data Marketplace,Petco,41
+816,Equifax / IXI,Large: 501 - 1000,40
+817,Oracle Data Marketplace,Italy (incl. Rome),40
+818,Oracle Data Marketplace,Healthy,40
+819,Experian Standard,Plays Hockey - Expanded,40
+820,Oracle Data Marketplace,International Flyers,40
+821,Equifax / IXI,Large: 1001 - 2000,40
+822,Oracle Data Marketplace,Compact - Coupe,40
+823,Datonics,"Coupe, Sport, Convertible",40
+824,Oracle Data Marketplace,Hockey/NHL Super Fan,40
+825,Equifax / IXI,Large: More Than 2000,40
+826,Oracle Data Marketplace,Ages 21-24,40
+827,Oracle Data Marketplace,Cruise Vacations,40
+828,Acxiom - International,College or Graduate Institution,40
+829,Bombora,Board and Ownership,40
+830,Oracle Data Marketplace,2 Door Coupe,40
+831,Zipline (i-Behavior),Other Coupe,40
+832,Acxiom - International,Life Insurance,40
+833,Acxiom - International,Retirement Plan,40
+834,Zipline (i-Behavior),Coupe-2dr,40
+835,Zipline (i-Behavior),Coupe-3dr,40
+836,Zipline (i-Behavior),Hyundai Genesis Coupe,40
+837,Zipline (i-Behavior),Coupe-4dr,40
+838,Acxiom - International,Bachelor Degree or Equivalent,39
+839,Acxiom - International,Above Bachelor's Degree,39
+840,Experian Standard,Watches Political TV-Liberal Comedy,39
+841,Experian Standard,Weight Reformers,39
+842,Acxiom - International,Bachelor's Degree,39
+843,Experian Standard,Healthy Holistics,39
+844,Oracle Data Marketplace,Diet Foods,39
+845,Experian Standard,Image Shapers,39
+846,Acxiom - International,Business Credit Card,39
+847,Oracle Data Marketplace,Appliances,39
+848,Acxiom - International,University Certificate Below Bachelor,39
+849,Zipline (i-Behavior),Social Media,39
+850,Experian Standard,Pet Enthusiast,39
+851,Experian Standard,Invincibles',39
+852,LiveRamp Data Marketplace,Finance Decision Maker,39
+853,Experian Standard,Comedy Television Watchers,39
+854,Oracle Data Marketplace,Networking & Infrastructure,39
+855,Experian Standard,Trusting Patients,39
+856,Oracle Data Marketplace,Information Technology,38
+857,Oracle Data Marketplace,Systems Analysts,38
+858,Equifax / IXI,Decision Makers,38
+859,D&B,B2B Industry > Software/Information Technology > Packaged Software,38
+860,Oracle Data Marketplace,Enterprise Architecture,38
+861,Webbula,Resale,38
+862,LiveRamp Data Marketplace,Engineering/STEM Professionals: Civil,38
+863,D&B,B2B Industry > Software/Information Technology > Custom Software and Design,38
+864,Webbula,B Credit Rating,38
+865,Oracle Data Marketplace,Storage,38
+866,Lotame,Sales and Marketing Professionals,38
+867,Oracle Data Marketplace,Cooking,38
+868,Oracle Data Marketplace,Info Tech Management & Strategy,38
+869,Webbula,"$100,000 - $149,999",38
+870,Datonics,"Home Equity of $60,000-$79,999",38
+871,Oracle Data Marketplace,Cloud Computing,38
+872,LiveRamp Data Marketplace,Marketing Communications,38
+873,Webbula,1 - 100,38
+874,Webbula,A Credit Rating,38
+875,Oracle Data Marketplace,News & Information,38
+876,Oracle Data Marketplace,Security,38
+877,Datonics,High School Diploma,37
+878,Oracle Data Marketplace,High School Diploma,37
+879,Bombora,Age 55-64,37
+880,AdAdvisor Audiences by Neustar,Head of HH Education: High School Graduate (or completed GED),37
+881,Experian Standard,Mercedes-Benz GLE Coupe,37
+882,Oracle Data Marketplace,Telecommuters and SOHO (Small Office/Home Office): High Spenders,37
+883,Oracle Data Marketplace,Business Travelers,37
+884,Webbula,Jewelry,37
+885,Bombora,Age 45-54,37
+886,Zipline (i-Behavior),High School Diploma,37
+887,Oracle Data Marketplace,Heavy Social Media User,37
+888,LiveRamp Data Marketplace,Chief Information Officer,37
+889,Bombora,Age 35-44,37
+890,Oracle Data Marketplace,Servers,37
+891,LiveRamp Data Marketplace,Community Development,37
+892,AdAdvisor Audiences by Neustar,"Auto Insurance Value: $300,000+",36
+893,comScore,Baseball Fans,36
+894,D&B,B2B Industry > Arts and Entertainment > Performance,36
+895,Who2 by NetWise,Real Estate,36
+896,AdAdvisor Audiences by Neustar,35-44 Male,36
+897,Webbula,Wine,36
+898,Acxiom - International,03: Luxury Sedan & SUV,36
+899,Acxiom - International,06: Luxury,36
+900,AdAdvisor Audiences by Neustar,35-44 Female,36
+901,Bombora,High School Diploma or GED,36
+902,Equifax / IXI,IT Decision Influencer,36
+903,AdAdvisor Audiences by Neustar,45-54 Female,36
+904,AdAdvisor Audiences by Neustar,45-54 Male,36
+905,Zipline (i-Behavior),Bachelor's (4 yr) Degree,36
+906,Acxiom - International,Luxury Car,36
+907,Oracle Data Marketplace,Military,36
+908,Bombora,Real Estate > Residential,36
+909,AdAdvisor Audiences by Neustar,55-64 Female,36
+910,AdAdvisor Audiences by Neustar,55-64 Male,36
+911,Acxiom - International,09: Luxury Sedan & SUV,36
+912,Datonics,High School,35
+913,Acxiom,Combination Term and Whole Life Insurance Policy (Financial),35
+914,Acxiom,Apple Pay power user,35
+915,Lotame,Spain - Retirement Planning,35
+916,Lotame,Germany - Life Insurance,35
+917,Acxiom,Any Type of Retirement/College Savings Plan (Financial),35
+918,AdAdvisor Audiences by Neustar,eSports Enthusiast,35
+919,Lotame,United Kingdom - Life Insurance,35
+920,Datonics,Pets Power Buyer,35
+921,Equifax / IXI,Large: 251 - 500,35
+922,Datonics,Pets Purchase - $,35
+923,Acxiom,Credit Life Insurance Policy (Financial),35
+924,Oracle Data Marketplace,Gamers,35
+925,Lotame,Canada - Retirement Planning,35
+926,Lotame,Canada - Life Insurance,35
+927,Acxiom,Go Back to Work After Retirement,35
+928,Lotame,Australia - Retirement Planning,35
+929,Webbula,Home Office Computers and Gadgets,35
+930,Lotame,United Kingdom - Retirement Planning,35
+931,Equifax / IXI,Purchasing Agent,35
+932,Equifax / IXI,Engineer,35
+933,Webbula,Mini,35
+934,Equifax / IXI,Finance Executive,35
+935,Acxiom,Separate Term Life Insurance Policy (Financial),35
+936,Lotame,Australia - Life Insurance,35
+937,Zipline (i-Behavior),35-44 Yrs Old,35
+938,Zipline (i-Behavior),55-64 Yrs Old,35
+939,Acxiom,Total Retirement/College Savings Plans (Financial),35
+940,Zipline (i-Behavior),45-54 Yrs Old,35
+941,Acxiom,Separate Whole Life Insurance Policy (Financial),35
+942,Acxiom,Universal Life Insurance Policy (Financial),35
+943,Experian Standard,High School Diploma,35
+944,Webbula,"Real Estate, Rental, and Leasing",34
+945,Webbula,Real Estate,34
+946,Oracle Data Marketplace,Orangetheory Fitness,34
+947,Oracle Data Marketplace,Tax Preparation,34
+948,Acxiom - International,Business,34
+949,Oracle Data Marketplace,Tax Planning,34
+950,Acxiom - International,Everyday Credit Card,34
+951,Acxiom,Likely to Take a Cruise (Financial),34
+952,Acxiom - International,Business Travellers,34
+953,AdAdvisor Audiences by Neustar,Personal Tax Prep Last 12M-Turbo Tax(Offline),34
+954,Acxiom,Football Spectator,34
+955,LiveRamp Data Marketplace,Chief Technology Officer,34
+956,comScore,HBO Comedy,34
+957,AdAdvisor Audiences by Neustar,Play Video Games Connected to Internet,34
+958,Acxiom,Atkins Diet,34
+959,Webbula,General Beauty,34
+960,AdAdvisor Audiences by Neustar,MICRO 29- Motion Picture And Entertainment,34
+961,Equifax / IXI,Operations Executive,34
+962,Acxiom,Vacation Cruise,34
+963,Oracle Data Marketplace,Anytime Fitness,34
+964,Acxiom,ING Direct Issue Credit Card (Financial),34
+965,AdAdvisor Audiences by Neustar,Entertainment,34
+966,Acxiom,Golf Player,34
+967,Bombora,Finance Professional,34
+968,Acxiom,Dieting / Weight Loss,34
+969,Experian Standard,Very unlikely to refinance (FLA / Fair Lending Friendly),34
+970,AdAdvisor Audiences by Neustar,Personal Tax Prep Last 12M-Turbo Tax (Online),34
+971,Datonics,Tax Return - Self prepare user,34
+972,Acxiom,Protection and Safety,34
+973,Acxiom,Cruise Vacations,34
+974,Zipline (i-Behavior),Business Services - Advertising and Marketing,34
+975,Acxiom,Disney Cruise (Financial),34
+976,Bombora,Creative,34
+977,AdAdvisor Audiences by Neustar,Personal Tax Prep Last 12M-CPA/Private Accountant,34
+978,Acxiom,Doctors Care/Diet,34
+979,comScore,Comedy Central,34
+980,Acxiom,South Beach Diet,34
+981,D&B,B2B Industry > Business Services > Advertising/PR,34
+982,AdAdvisor Audiences by Neustar,Personal Tax Prep Last 12M-Manually (Pen/Paper),34
+983,Oracle Data Marketplace,Windows,34
+984,Acxiom,TD Bank Issued Credit Card (Financial),34
+985,Oracle Data Marketplace,Planet Fitness,34
+986,Datonics,"Tax Shelter Model - Portfolio Value $100,000+401k, IRA, or Tax Shelter Annuity",34
+987,Oracle Data Marketplace,Desktop,34
+988,Oracle Data Marketplace,Investment Real Estate,34
+989,AdAdvisor Audiences by Neustar,Personal Tax Prep Last 12M-Other Professional On-Site,34
+990,comScore,Comedy,34
+991,Datonics,Offline Tax Software User,34
+992,Lotame,Finance Professionals,34
+993,Datonics,Twitter,34
+994,Oracle Data Marketplace,Taxes,34
+995,Acxiom,Do-It-Yourselfers,33
+996,Oracle Data Marketplace,Software Engineer,33
+997,Oracle Data Marketplace,NBA Enthusiast,33
+998,Equifax / IXI,Finance Decision Influencer,33
+999,Equifax / IXI,Finance,33
+1000,Oracle Data Marketplace,Video Games,33
+1001,Equifax / IXI,Engineering Technical,33
+1002,Experian Standard,Plays Soccer - Expanded,33
+1003,Acxiom,Caulk/Glue/Adhesives,33
+1004,D&B,VP,33
+1005,Oracle Data Marketplace,Has Keogh Retirement Plan,33
+1006,Oracle Data Marketplace,Smartphones,33
+1007,Acxiom,Construction,33
+1008,Acxiom,Construction Loan,33
+1009,Datonics,"Furnishing, Houseware & Decorations",33
+1010,Equifax / IXI,Medium: 101 - 250,33
+1011,Acxiom,New Luxury Wagon,33
+1012,Equifax / IXI,Operations,33
+1013,Oracle Data Marketplace,Hospitality and Food Service,33
+1014,Webbula,Finance,33
+1015,D&B,CIO (Chief Information Officer),33
+1016,AdAdvisor Audiences by Neustar,Visit Nba.com in the Last 30 Days,33
+1017,AdAdvisor Audiences by Neustar,Visit Nba.com Lst 7D,33
+1018,Acxiom,Home Improvement,33
+1019,Equifax / IXI,Procurement,33
+1020,Acxiom,New Japanese Luxury Vehicle Purchase,33
+1021,Acxiom,New Luxury Convertible,33
+1022,Experian Standard,Home Decorating (FLA / Fair Lending Friendly),33
+1023,AdAdvisor Audiences by Neustar,Foreign Travel-Last Trip-Taken in 2015,33
+1024,Acxiom - International,Luxury Cars,33
+1025,LiveRamp Data Marketplace,Engineering/STEM Professionals: Chemical,33
+1026,Experian Standard,Gardening (FLA / Fair Lending Friendly),33
+1027,Bombora,Business Services > Advertising & Marketing,33
+1028,Datonics,Family Vacations,32
+1029,Oracle Data Marketplace,Small SUV,32
+1030,LiveRamp Data Marketplace,Sales & Business Development,32
+1031,LiveRamp Data Marketplace,Company Size - Medium (101 To 500 Employees),32
+1032,AdAdvisor Audiences by Neustar,Major Lg Soccer-Very Interested-Last 12M,32
+1033,Oracle Data Marketplace,Soccer Super Fan,32
+1034,Webbula,Database,32
+1035,LiveRamp Data Marketplace,Company Size - Large (1001 To 5000 Employees),32
+1036,Datonics,Tax Return - Professional Service Prepare user,32
+1037,Oracle Data Marketplace,"HHI: $75,000-$99,999",32
+1038,Oracle Data Marketplace,High School Graduate,32
+1039,Bombora,Hobbies and Interests > Video Games,32
+1040,Oracle Data Marketplace,Full Size SUV,32
+1041,D&B,Vice President/VP/SVP,32
+1042,Oracle Data Marketplace,Baseball,32
+1043,Oracle Data Marketplace,Performing Arts and Live Theater,32
+1044,Oracle Data Marketplace,Family Vacation,32
+1045,Oracle Data Marketplace,Beauty & Cosmetics,32
+1046,Oracle Data Marketplace,France,32
+1047,LiveRamp Data Marketplace,Company Size - Medium Large (501 To 1000 Employees),32
+1048,Acxiom,3 to 5 Nights,31
+1049,Acxiom,1 to 2 Nights,31
+1050,Oracle Data Marketplace,Companies with Hardware Budgets,31
+1051,Oracle Data Marketplace,Companies with IT Budgets,31
+1052,Acxiom,Women's Fine Jewelry,31
+1053,Experian Standard,Fitness Enthusiast - Expanded,31
+1054,Acxiom,Domestic,31
+1055,Acxiom,Delta Dental,31
+1056,Acxiom,11 or More Nights,31
+1057,Datonics,Garden,31
+1058,LiveRamp Data Marketplace,C-Level,31
+1059,Acxiom,Medical Insurance from an Agent Representing One Company,31
+1060,Acxiom,Jewelry Set,31
+1061,D&B,B2B Company Size > Medium: 101 - 250 Employees,31
+1062,Oracle Data Marketplace,45-54%,31
+1063,Acxiom,Fashion/Costume Jewelry,31
+1064,Oracle Data Marketplace,Business Travelers: High Spenders,31
+1065,Acxiom,6 to 10 Nights,31
+1066,D&B,Accounting,31
+1067,Acxiom,Jewelry - SC,31
+1068,Oracle Data Marketplace,Personal Care,31
+1069,D&B,Finance Professionals,31
+1070,Acxiom - International,Jewelry,30
+1071,Datonics,Online Tax Software User,30
+1072,Datonics,Gaming & Video Games,30
+1073,Oracle Data Marketplace,Infrastructure as a Service (IaaS),30
+1074,Oracle Data Marketplace,Purina,30
+1075,AdAdvisor Audiences by Neustar,Plays Sports Video Games Most,30
+1076,Oracle Data Marketplace,Retirement Savings,30
+1077,Oracle Data Marketplace,IT Governance,30
+1078,Oracle Data Marketplace,Plays Single Player Video Games,30
+1079,Acxiom,Luxury SUV,30
+1080,Acxiom,New Hybrid SUV,30
+1081,D&B,B2B Job Function/Roles > Computing & IT > Web Development & Management,30
+1082,Oracle Data Marketplace,Plays Multiple Player Video Games,30
+1083,D&B,B2B Job Function/Roles > Computing & IT > Support,30
+1084,AdAdvisor Audiences by Neustar,Luxury Pet Supplies Buyers,30
+1085,Acxiom,Full Size SUV,30
+1086,D&B,B2B Job Function/Roles > Computing & IT > Software Engineering,30
+1087,Oracle Data Marketplace,Smart Home Security Equipment,30
+1088,Acxiom,Mid SUV,30
+1089,comScore,Golf Fans,30
+1090,Oracle Data Marketplace,Gadgets & Portable Electronics,30
+1091,Acxiom,On a smartphone (Financial),30
+1092,Oracle Data Marketplace,Data Center Solutions,30
+1093,Experian Standard,Full-Size SUV,30
+1094,Acxiom,Smartphone,30
+1095,Oracle Data Marketplace,Network Computing,30
+1096,Oracle Data Marketplace,Computer & Video Games,30
+1097,Oracle Data Marketplace,Cloud Infrastructure Computing,30
+1098,AdAdvisor Audiences by Neustar,Mid-Priced Pet Supplies Buyers,30
+1099,AdAdvisor Audiences by Neustar,Own or Play Video Games,30
+1100,Oracle Data Marketplace,Browse Internet via Smartphone While Watching TV,30
+1101,D&B,B2B Job Function/Roles > Computing & IT > Data Scientist / Analyst,29
+1102,Oracle Data Marketplace,Pays for Luxury Hotel,29
+1103,D&B,B2B Company Size > Large: 251 - 500 Employees,29
+1104,LiveRamp Data Marketplace,Marketing - Creative,29
+1105,Acxiom,Direct Mail Promotion at Home,29
+1106,Acxiom - International,International,29
+1107,Webbula,Exercise Grouping,29
+1108,Acxiom,Any Vehicle Insurance,29
+1109,Oracle Data Marketplace,45-54 Years,29
+1110,Bombora,Government > Federal,29
+1111,Oracle Data Marketplace,55-64 Years,29
+1112,LiveRamp Data Marketplace,Company Size - Extra Large (Over 5000 Employees),29
+1113,D&B,Audit,29
+1114,Oracle Data Marketplace,35-44 Years,29
+1115,Oracle Data Marketplace,Fine Jewelry,29
+1116,Webbula,Additional Occupants 45 - 54 years old.,29
+1117,Oracle Data Marketplace,Age 35-44,29
+1118,Acxiom,Cosmetics Buyers,29
+1119,LiveRamp Data Marketplace,General Management - VP,29
+1120,Acxiom,Encompass,29
+1121,LiveRamp Data Marketplace,General Management - Manager Or Supervisor,29
+1122,LiveRamp Data Marketplace,General Management - Director,29
+1123,Oracle Data Marketplace,Ages 18-20,29
+1124,LiveRamp Data Marketplace,C-Level Decision Makers,29
+1125,Webbula,Additional Occupants from 55 - 64 years old.,29
+1126,Webbula,Additional Occupants from 35 - 44 years old.,29
+1127,Webbula,55 - 64 year olds,29
+1128,Equifax / IXI,Data Processing Executive,29
+1129,Oracle Data Marketplace,Fitness Enthusiast,29
+1130,Acxiom,Car/Truck/SUV,29
+1131,Zipline (i-Behavior),Video Games,29
+1132,Oracle Data Marketplace,Chief Operating Officers (COO),28
+1133,Oracle Data Marketplace,Honeymoon,28
+1134,Who2 by NetWise,"Business Services - Marketing,Advertising and Sales",28
+1135,LiveRamp Data Marketplace,C-Level Executives,28
+1136,Oracle Data Marketplace,Enterprise Business Solutions (EBS),28
+1137,Lotame,Germany - Retirement Planning,28
+1138,Equifax / IXI,IT Professional,28
+1139,Datonics,Theme Parks,28
+1140,LiveRamp Data Marketplace,IT Professional Groups,28
+1141,Oracle Data Marketplace,Business & Vacation,28
+1142,Acxiom,0 Nights,28
+1143,D&B,B2B Industry > Real Estate > Real Estate,28
+1144,Datonics,Do It Yourself,28
+1145,D&B,Tax Specialists,28
+1146,Acxiom - International,Beauty and Health,28
+1147,AdAdvisor Audiences by Neustar,Cruise Shopper,27
+1148,Acxiom,Likely under $250 per year,27
+1149,Acxiom,"Likely over $2,500 per year",27
+1150,LiveRamp Data Marketplace,Operations Management,27
+1151,Acxiom,Likely $500-$999 per year,27
+1152,Acxiom,Likely $250-$499 per year,27
+1153,Acxiom,"Likely $1,000-$2,499 per year",27
+1154,Oracle Data Marketplace,Alienware,27
+1155,Webbula,Education,27
+1156,AdAdvisor Audiences by Neustar,Employment Industry: Arts/Entertainment/Recreation,27
+1157,Oracle Data Marketplace,Credit Card Holder,27
+1158,Oracle Data Marketplace,Luxury: Frequent Spenders,27
+1159,AdAdvisor Audiences by Neustar,Number of Video Games Bought in Last 12 Months: 1-5,27
+1160,Experian Standard,Social Media Heavy User,27
+1161,Acxiom,Compact SUV,27
+1162,Webbula,Active Social Media User,27
+1163,Acxiom,Compact Pickup,27
+1164,Who2 by NetWise,Manufacturing - Auto,27
+1165,Acxiom - International,Small Compact Cars,27
+1166,Acxiom,Compact Van,27
+1167,Acxiom,Entry Compact Car,27
+1168,Acxiom,Premium Compact Car,27
+1169,LiveRamp Data Marketplace,100-499 Employees,27
+1170,Acxiom,Take a Cruise,27
+1171,Oracle Data Marketplace,Newly Released Video Games,27
+1172,Oracle Data Marketplace,Compact and Sub-Compact Cars,27
+1173,Lotame,France - Life Insurance,27
+1174,LiveRamp Data Marketplace,In Operations Buyers,26
+1175,LiveRamp Data Marketplace,In IT Web Development,26
+1176,LiveRamp Data Marketplace,In Industrial Engineering,26
+1177,Experian Standard,Cell Phones (FLA / Fair Lending Friendly),26
+1178,LiveRamp Data Marketplace,In Operations Administration,26
+1179,LiveRamp Data Marketplace,In Mechanical Engineering,26
+1180,LiveRamp Data Marketplace,In Marketing Creative,26
+1181,LiveRamp Data Marketplace,In Marketing And Advertising,26
+1182,Experian Standard,Comedy Television Watchers - Expanded,26
+1183,LiveRamp Data Marketplace,In Operations Logistics,26
+1184,LiveRamp Data Marketplace,In Operations Compliance,26
+1185,Datonics,Loans,26
+1186,Oracle Data Marketplace,Basketball,26
+1187,Webbula,Video Games,26
+1188,Oracle Data Marketplace,2 Door Sedan,26
+1189,Oracle Data Marketplace,NFL Enthusiast,26
+1190,AdAdvisor Audiences by Neustar,Budget Pet Supplies Buyers,26
+1191,Webbula,Other Type of Pet Owner,26
+1192,Webbula,Pet Enthusiast,26
+1193,Webbula,Pets Grouping,26
+1194,Oracle Data Marketplace,Adult Animation,26
+1195,Oracle Data Marketplace,Paid Company Business Trip,26
+1196,LiveRamp Data Marketplace,Work in Medium Company,26
+1197,Zipline (i-Behavior),Sedan-4dr,26
+1198,Zipline (i-Behavior),Sedan,26
+1199,LiveRamp Data Marketplace,In IT Software,26
+1200,Webbula,Social Media,26
+1201,Webbula,Coupe,26
+1202,LiveRamp Data Marketplace,Monitors,26
+1203,LiveRamp Data Marketplace,In IT Systems and Business Analysts,26
+1204,LiveRamp Data Marketplace,In IT Hardware,26
+1205,LiveRamp Data Marketplace,In IT QA,26
+1206,LiveRamp Data Marketplace,General Management - CFO,26
+1207,Experian Standard,Watches Political TV-Liberal Comedy - Expanded,26
+1208,D&B,Corporate Finance and M&A,26
+1209,D&B,Compliance & Governance,26
+1210,Datonics,"Home Equity of $100,000-$119,999",26
+1211,Oracle Data Marketplace,"HHI: $100,000+",26
+1212,Acxiom,Healthy Choice,26
+1213,D&B,General R&D,26
+1214,Oracle Data Marketplace,LA Fitness,26
+1215,Zipline (i-Behavior),Infiniti G37 Sedan,26
+1216,LiveRamp Data Marketplace,In IT Operations,26
+1217,Experian Standard,Internet Technologies (FLA / Fair Lending Friendly),26
+1218,Acxiom,Iams Healthy naturals,26
+1219,Experian Standard,IT/Technical,26
+1220,LiveRamp Data Marketplace,Finance Professional,26
+1221,Who2 by NetWise,Sales and Marketing Professionals,26
+1222,LiveRamp Data Marketplace,In Accounting,26
+1223,Experian Standard,Databases (FLA / Fair Lending Friendly),26
+1224,LiveRamp Data Marketplace,In IT Database,26
+1225,LiveRamp Data Marketplace,In Electronic Engineering,26
+1226,LiveRamp Data Marketplace,In Electrical Engineering,26
+1227,LiveRamp Data Marketplace,IT Professional,26
+1228,Zipline (i-Behavior),Other Sedan,26
+1229,LiveRamp Data Marketplace,General Management - Executive VP,26
+1230,LiveRamp Data Marketplace,In Biomedical Engineering,26
+1231,LiveRamp Data Marketplace,In Chemical Engineering,26
+1232,LiveRamp Data Marketplace,In Creative,26
+1233,LiveRamp Data Marketplace,In Civil Engineering,26
+1234,Zipline (i-Behavior),Apple Stores - Highly Likely,25
+1235,Oracle Data Marketplace,Oceania,25
+1236,LiveRamp Data Marketplace,General Management - CTO,25
+1237,AdAdvisor Audiences by Neustar,College Baseball-Very Interested-Last 12M,25
+1238,Oracle Data Marketplace,United Kingdom (UK),25
+1239,Lotame,United Kingdom - Electronics & Gadgets,25
+1240,Zipline (i-Behavior),Apple Stores - Likely,25
+1241,LiveRamp Data Marketplace,Chief Marketing Officer,25
+1242,LiveRamp Data Marketplace,Chief Executive Officer,25
+1243,LiveRamp Data Marketplace,Chief Financial Officer,25
+1244,Lotame,Canada - Electronics & Gadgets,25
+1245,LiveRamp Data Marketplace,Chief Operating/Operations Officer,25
+1246,Lotame,C-Suite,25
+1247,Webbula,Gardening Enthusiast,25
+1248,Acxiom,06 - Gadget Grabbers,25
+1249,Webbula,Decorating Enthusiast,25
+1250,Oracle Data Marketplace,Small Business Decision Makers,25
+1251,D&B,B2B Decision Makers (DM) > IT/Technology Decision Makers,25
+1252,AdAdvisor Audiences by Neustar,Visit Mlb.com in the Last 30 Days,25
+1253,Oracle Data Marketplace,Movies,25
+1254,Webbula,General Home and Gardening Enthusiast,25
+1255,Acxiom,Sears,25
+1256,Acxiom,Gadget Hobbyists,25
+1257,Oracle Data Marketplace,Animation & Cartoons,25
+1258,Oracle Data Marketplace,Africa,25
+1259,Acxiom - International,High School Certificate or Above,25
+1260,Acxiom - International,High School Certificate or Equivalent,25
+1261,Oracle Data Marketplace,Cat Food,25
+1262,Oracle Data Marketplace,MLB Enthusiast,25
+1263,Acxiom,Medical Insurance from Medicare,25
+1264,Acxiom,Kitchenaid,25
+1265,Acxiom,Home Insurance On a Condominium or Co-Op (Financial),25
+1266,Acxiom,Home Depot,25
+1267,Datonics,Bankcard Credit Card,25
+1268,Oracle Data Marketplace,Holiday Shoppers,25
+1269,Oracle Data Marketplace,Jewelry Buyers,25
+1270,Datonics,Frequent Major Credit Card Users,25
+1271,Acxiom - International,03: Sedan,24
+1272,Datonics,Non High School Graduate,24
+1273,Acxiom,new Midsize CUV,24
+1274,Acxiom - International,01: Sedan,24
+1275,Acxiom - International,02: Premium Sedan & SUV,24
+1276,Oracle Data Marketplace,Samsung TV Buyers,24
+1277,Zipline (i-Behavior),Pet Supplies Plus - Highly Likely,24
+1278,Acxiom,Flight Video Games,24
+1279,D&B,Education,24
+1280,Webbula,Sedan,24
+1281,Oracle Data Marketplace,Apple (iPhone),24
+1282,D&B,Defined Contribution Investment Officer (DCIO),24
+1283,AdAdvisor Audiences by Neustar,Household Owns a Samsung TV,24
+1284,AdAdvisor Audiences by Neustar,HH Subscribes to Cable TV,24
+1285,Oracle Data Marketplace,Cable TV/Internet: High Spenders,24
+1286,Acxiom,Family Entertainment Video Games,24
+1287,Acxiom,Fitness Coaching,24
+1288,Oracle Data Marketplace,Vizio TV Buyers,24
+1289,Oracle Data Marketplace,MINI Hardtop 2 Door,24
+1290,Acxiom,Sport Video Games,24
+1291,Oracle Data Marketplace,College Graduate,24
+1292,Acxiom,PetSmart,24
+1293,Acxiom,PETCO,24
+1294,AdAdvisor Audiences by Neustar,HH Acquired Any TV 2-3 Years Ago,24
+1295,Acxiom,Other Pet Owner,24
+1296,Acxiom,Other Games/Compilations Video Games,24
+1297,Acxiom,New Regular Sedan,24
+1298,Acxiom,New Luxury Sedan,24
+1299,LiveRamp Data Marketplace,General Management - CIO,24
+1300,Who2 by NetWise,High Income Professionals,24
+1301,AdAdvisor Audiences by Neustar,HH Acquired Any TV 3-4 Years Ago,24
+1302,Equifax / IXI,Manufacturing Executive,24
+1303,Oracle Data Marketplace,4K TV Buyers,24
+1304,D&B,Principal,24
+1305,D&B,Sales,24
+1306,Lotame,Indonesia - Video Games,24
+1307,Lotame,Holiday Shopping [PrePackage],24
+1308,Webbula,Performing Arts Enthusiast,24
+1309,Oracle Data Marketplace,Midsize Cars,24
+1310,D&B,President,24
+1311,Lotame,Automobile Brands - Mini [Prepackage],24
+1312,Webbula,Midsize Car,24
+1313,Lotame,Latin America - Video Games,24
+1314,Oracle Data Marketplace,NBA Finals,24
+1315,Oracle Data Marketplace,15 Nights or More Business Travel,24
+1316,Experian Standard,Dollars Spent: Heavy Spender (FLA / Fair Lending Friendly),23
+1317,Experian Standard,Dollars Spent: Mid-Level Spender (FLA / Fair Lending Friendly),23
+1318,Zipline (i-Behavior),Bed Bath & Beyond - Highly Likely,23
+1319,Lotame,Sweepstakes Contestants [Prepackage],23
+1320,Experian Standard,Dollars Spent: Budget Spender (FLA / Fair Lending Friendly),23
+1321,Acxiom - International,Platinum Credit Card,23
+1322,D&B,Records Management,23
+1323,Acxiom,New Regular Coupe,23
+1324,Zipline (i-Behavior),Bob's Discount Furniture - Highly Likely,23
+1325,D&B,General Management,23
+1326,Datonics,Financial Credit Payment Behavior,23
+1327,Oracle Data Marketplace,"$1,000,000-$5,000,000",23
+1328,LiveRamp Data Marketplace,Human Resources,23
+1329,Acxiom,New Luxury Coupe,23
+1330,Acxiom,Mobile Social Networker,23
+1331,AdAdvisor Audiences by Neustar,All Graduates Major in Business,23
+1332,Acxiom,Heavy Twitter User,23
+1333,D&B,B2B Decision Makers (DM) > Small Business Owners/SBO,23
+1334,LiveRamp Data Marketplace,Facilities Managers,23
+1335,D&B,Risk Management,23
+1336,AdAdvisor Audiences by Neustar,All Graduates Major in Health Science,23
+1337,D&B,B2B Decision Makers (DM) > Small Business Decision Makers,23
+1338,D&B,Production,23
+1339,Oracle Data Marketplace,"$100,000,000-$500,000,000",23
+1340,D&B,B2B Job Function/Roles > Finance > Tax Specialists,23
+1341,D&B,B2B Decision Makers (DM) > Decision Makers,23
+1342,Oracle Data Marketplace,Some Graduate School,23
+1343,Zipline (i-Behavior),Bob's Discount Furniture - Likely,23
+1344,Experian Standard,Number of Purchases: 5+ (FLA / Fair Lending Friendly),23
+1345,LiveRamp Data Marketplace,Finance Professional Groups,23
+1346,Zipline (i-Behavior),Census Education: High School Graduate,23
+1347,D&B,Payroll,23
+1348,Acxiom,Heavy LinkedIn User,23
+1349,Zipline (i-Behavior),Census Education: Graduate School or Higher,23
+1350,Zipline (i-Behavior),Census Education: College Graduate,23
+1351,Oracle Data Marketplace,"$10,000,000-$25,000,000",23
+1352,Oracle Data Marketplace,Pet Enthusiast,23
+1353,Zipline (i-Behavior),Art Van - Likely,23
+1354,Acxiom - International,45 to 54,23
+1355,Experian Standard,"5,000 - 9,999 Employees",23
+1356,Datonics,Online Lawn and Garden Buyers,23
+1357,D&B,Quality Assurance,23
+1358,Acxiom - International,07: Entry & Compact SUV,23
+1359,AdAdvisor Audiences by Neustar,Manufacturing,23
+1360,Acxiom - International,55 to 64,23
+1361,Oracle Data Marketplace,"$50,000,000-$100,000,000",23
+1362,Acxiom - International,35 to 44,23
+1363,D&B,Economist,23
+1364,AdAdvisor Audiences by Neustar,Employment Industry: Real Estate/Rental & Leasing,23
+1365,Experian Standard,"10,000 + Employees",23
+1366,Experian Standard,"1,000 - 4,999 Employees",23
+1367,AdAdvisor Audiences by Neustar,Head of HH Education: Master's Degree or Higher,23
+1368,Acxiom,18-24,23
+1369,AdAdvisor Audiences by Neustar,Head of HH Education: Bachelor's Degree or Higher,23
+1370,Oracle Data Marketplace,"$500,000,000+",23
+1371,D&B,Business Owners/Board,23
+1372,Experian Standard,500 - 999 Employees,23
+1373,Zipline (i-Behavior),Raymour & Flanigan - Likely,23
+1374,Acxiom - International,Beauty And Health,23
+1375,Oracle Data Marketplace,College Graduation,23
+1376,Oracle Data Marketplace,"$500,000-$1,000,000",23
+1377,Oracle Data Marketplace,"$25,000,000-$50,000,000",23
+1378,D&B,Maintenance,23
+1379,Oracle Data Marketplace,MINI Convertible,23
+1380,Oracle Data Marketplace,Chief Financial Officers (CFO),23
+1381,Who2 by NetWise,C-Level,23
+1382,Experian Standard,Power Spender (FLA / Fair Lending Friendly),23
+1383,Oracle Data Marketplace,"$5,000,000-$10,000,000",23
+1384,D&B,Ownership and Board,23
+1385,D&B,Owner,23
+1386,Experian Standard,TV Animation Show Fans,22
+1387,LiveRamp Data Marketplace,Casual Female Gamers,22
+1388,D&B,B2B Seniority > Management,22
+1389,Oracle Data Marketplace,"HHI: $60,000-$74,999",22
+1390,LiveRamp Data Marketplace,Casual Male Gamers,22
+1391,Oracle Data Marketplace,Gourmet Cooking,22
+1392,Zipline (i-Behavior),55 to 64 years,22
+1393,Zipline (i-Behavior),35 to 44 years,22
+1394,Zipline (i-Behavior),Cooking,22
+1395,Oracle Data Marketplace,Visualization Software,22
+1396,LiveRamp Data Marketplace,Chief Planning Officer,22
+1397,D&B,Founder,22
+1398,Experian Standard,Graduate Degree,22
+1399,Experian Standard,"Uninterested, Slightly Below Average Mortgage Balance",22
+1400,AdAdvisor Audiences by Neustar,Fast Food Restaurant-Visit Most Last 30Day-Subway,22
+1401,Acxiom - International,05: SUV,22
+1402,Zipline (i-Behavior),45 to 54 years,22
+1403,AdAdvisor Audiences by Neustar,Considers Financial Security for retirement an individual Responsibility,22
+1404,Oracle Data Marketplace,Kitchen and Tabletop,22
+1405,Experian Standard,Couch Potatoes - Drama Lovers Model,22
+1406,D&B,Partner,22
+1407,Oracle Data Marketplace,Computer Programming and Consultancy,22
+1408,Oracle Data Marketplace,Cruise Travel,22
+1409,Oracle Data Marketplace,Likes Easy Cooking,22
+1410,D&B,Investor Relations,22
+1411,Datonics,Business Loans,22
+1412,Experian Standard,Graduate School,22
+1413,Zipline (i-Behavior),La Fitness Inc - Likely,22
+1414,Zipline (i-Behavior),Graduate Degree,22
+1415,Zipline (i-Behavior),Infiniti G25 Sedan,22
+1416,LiveRamp Data Marketplace,Federal,22
+1417,Zipline (i-Behavior),La Fitness Inc - Highly Likely,22
+1418,LiveRamp Data Marketplace,Dell,22
+1419,Oracle Data Marketplace,Enterprise Content,22
+1420,AdAdvisor Audiences by Neustar,Fast Food Restaurant-Visit Most Last 30Day-Mcdonald'S,22
+1421,D&B,B2B Decision Makers (DM) > Executives,22
+1422,Oracle Data Marketplace,Planning a Foreign Vacation in Next Year,21
+1423,Oracle Data Marketplace,Ice Hockey,21
+1424,LiveRamp Data Marketplace,Small Business / SMB,21
+1425,Oracle Data Marketplace,Age 45-54,21
+1426,LiveRamp Data Marketplace,SOHO (Small Office / Home Office),21
+1427,Acxiom - International,04: Compact Sedan,21
+1428,Oracle Data Marketplace,Printers,21
+1429,Oracle Data Marketplace,Therapeutic Toothpaste Buyers,21
+1430,Acxiom - International,04: Compact SUV,21
+1431,AdAdvisor Audiences by Neustar,Use Social Media: Twitter,21
+1432,Bombora,Graduate Degree,21
+1433,D&B,Board members,21
+1434,D&B,Board Member,21
+1435,Oracle Data Marketplace,Binge View Drama,21
+1436,comScore,Animation,21
+1437,LiveRamp Data Marketplace,Employees 100-250,21
+1438,Acxiom - International,Luxury Travellers,21
+1439,AdAdvisor Audiences by Neustar,Use Social Media: Facebook,21
+1440,D&B,Real Estate,21
+1441,Webbula,Advertising & Marketing,21
+1442,D&B,Research & Development,21
+1443,Datonics,Restaurants,21
+1444,Experian Standard,TV Animation Show Fans - Expanded,21
+1445,Experian Standard,Finance,21
+1446,Webbula,"Advertising, Public Relations, and Related Services",21
+1447,Datonics,TV`s & HDTV`s,21
+1448,Who2 by NetWise,Information Technology - Operations & Support,20
+1449,LiveRamp Data Marketplace,eSports Fans,20
+1450,Oracle Data Marketplace,505 Faith and Wellbeing,20
+1451,Who2 by NetWise,Information Technology - Software,20
+1452,Lotame,Credit Level - Poor [Prepackage],20
+1453,Acxiom,Home Equity Loan Acquired In The Last 12 Months (Financial),20
+1454,Acxiom,Smart Home device regularly connected,20
+1455,Bombora,Food and Drink > Dining and Restaurants,20
+1456,Lotame,Spain - Electronics & Gadgets,20
+1457,AdAdvisor Audiences by Neustar,"MICRO 26- Other Finance, Insurance , Real Estate",20
+1458,Oracle Data Marketplace,Monitors,20
+1459,Experian Standard,Pet Enthusiast - Expanded,20
+1460,Acxiom,Graduate School,20
+1461,Oracle Data Marketplace,"1,000-4,999 Employees",20
+1462,D&B,B2B Predictive Analytics > Technology > Likely to have server budget,20
+1463,Acxiom - International,Family Traveller,20
+1464,Acxiom,Have personal privacy concerns about smart home technology,20
+1465,Acxiom,Trust Homeowner's insurance carrier to provide smart home technology,20
+1466,Acxiom,USAA Issued Credit Card Last 12 Months,20
+1467,AdAdvisor Audiences by Neustar,HH Plans Remodel Kitchen Next 12M,20
+1468,AdAdvisor Audiences by Neustar,Fast Food Restaurant-Visit Most Last 30Day-Chick-Fil-A,20
+1469,Lotame,Online Videos [PrePackage],20
+1470,Oracle Data Marketplace,Has Life Insurance (Scarborough),20
+1471,Oracle Data Marketplace,500-999 Employees,20
+1472,Oracle Data Marketplace,Auto Loans,20
+1473,Acxiom - International,08: Life insurance,20
+1474,Who2 by NetWise,Information Technology - Web,20
+1475,Who2 by NetWise,Sales and Marketing Decision Makers,20
+1476,Acxiom,Jewelry/Watch Specialty Store,20
+1477,Zipline (i-Behavior),Men's Apparel,20
+1478,Acxiom,Already have or very interested in smart home device,20
+1479,Lotame,Germany - Electronics & Gadgets,20
+1480,Acxiom - International,Family,20
+1481,Acxiom,no concerns about smart home technology,20
+1482,Oracle Data Marketplace,Dell,20
+1483,Lotame,Facebook Sharers [Prepackage],20
+1484,Bombora,HR Decision Maker,20
+1485,Who2 by NetWise,Information Technology - Systems & Business Analysts,20
+1486,AdAdvisor Audiences by Neustar,Online Purchase Jewelry & Watches Last 3Month,20
+1487,Who2 by NetWise,"Information Technology - Hardware,Network & Systems",20
+1488,Acxiom,Other Diet Control,20
+1489,Lotame,Australia - Electronics & Gadgets,20
+1490,comScore,Drama,20
+1491,Experian Standard,Hybrid,20
+1492,Acxiom,New Hybrid Regular Car,19
+1493,Acxiom,New Hybrid Luxury Car,19
+1494,Zipline (i-Behavior),Ford Fusion Hybrid,19
+1495,Zipline (i-Behavior),Toyota Camry Hybrid,19
+1496,AdAdvisor Audiences by Neustar,HH Owns Hybrid Vehicles,19
+1497,LiveRamp Data Marketplace,"Business Services: Computer Software, Programming & Data Processing",19
+1498,Acxiom - International,04: Health-Conscious Dieters,19
+1499,AdAdvisor Audiences by Neustar,SOHO 15- Retail Hard Goods And Automotive,19
+1500,AdAdvisor Audiences by Neustar,Plays Action/Adventure Video Games Most,19
+1501,Zipline (i-Behavior),Gas/Electric Hybrid,19
+1502,LiveRamp Data Marketplace,Owner/Partner,19
+1503,Acxiom,Hybrid,19
+1504,Datonics,"Electric, Hybrid, Green",19
+1505,Zipline (i-Behavior),Toyota Highlander Hybrid,19
+1506,Zipline (i-Behavior),Plug In Hybrid,19
+1507,Acxiom - International,07: Cruise,19
+1508,Acxiom - International,Manufacturing,19
+1509,Oracle Data Marketplace,"60 - 67 Finance, Insurance, & Real Estate",19
+1510,Acxiom,Home Improvement Grouping,19
+1511,Datonics,Reality Show fans,19
+1512,Oracle Data Marketplace,Graduation,19
+1513,Experian Standard,Couch Potatoes - Drama Lovers Model - Expanded,19
+1514,AdAdvisor Audiences by Neustar,Business Traveler,19
+1515,D&B,Other Senior Management,19
+1516,AdAdvisor Audiences by Neustar,Domestic Travel For Personal Last 12M: Any Hilton,19
+1517,Webbula,Hybrid & Eletectirc,19
+1518,Lotame,Age : 45-54 [PrePackage],19
+1519,Lotame,Asia-Pacific - Social Media,19
+1520,Lotame,Age : 55-64 [PrePackage],19
+1521,Oracle Data Marketplace,Hybrid & Alternative Vehicles,19
+1522,Oracle Data Marketplace,Households With Prospective College Students,19
+1523,D&B,Chair,19
+1524,Acxiom,Mid Luxury Car,18
+1525,Webbula,Manufacturing,18
+1526,Experian Standard,100 - 249 Employees,18
+1527,Acxiom,Situational Comedy Shows,18
+1528,Lotame,India - Video Games,18
+1529,Webbula,"XLarge (1,000-5,000 Employees)",18
+1530,Experian Standard,250 - 499 Employees,18
+1531,D&B,Other,18
+1532,AdAdvisor Audiences by Neustar,"Auto Insurance Value: $25,000-$49,999",18
+1533,Oracle Data Marketplace,Reality,18
+1534,Oracle Data Marketplace,Domestic Travel,18
+1535,Acxiom,Comedy Central,18
+1536,D&B,B2B Decision Makers (DM) > Education Decision Makers,18
+1537,LiveRamp Data Marketplace,Marketing Creative,18
+1538,Acxiom,30-34,18
+1539,Acxiom,Cigna,18
+1540,Oracle Data Marketplace,Veteran in Household,18
+1541,Acxiom,Mercury,18
+1542,Bombora,Marketing Professional,18
+1543,Acxiom,35-39,18
+1544,Acxiom - International,Luxury Traveller,18
+1545,Webbula,"Huge (5,000+ Employees)",18
+1546,Experian Standard,Reality TV Show Viewer,18
+1547,LiveRamp Data Marketplace,Purchasing/Procurement/Buyers,18
+1548,Webbula,C-Suite,18
+1549,LiveRamp Data Marketplace,Medium,18
+1550,Acxiom,40-44,18
+1551,D&B,Franchise Owner,18
+1552,Oracle Data Marketplace,Vice Presidents,18
+1553,LiveRamp Data Marketplace,Supply Chain Procurement,18
+1554,LiveRamp Data Marketplace,Technology Information Security,18
+1555,LiveRamp Data Marketplace,Technology Management Information Systems,18
+1556,AdAdvisor Audiences by Neustar,HH Acquired Any TV 1-2 Years Ago,18
+1557,LiveRamp Data Marketplace,Technology Network Administration,18
+1558,LiveRamp Data Marketplace,Technology Quality Assurance,18
+1559,Acxiom,New Luxury CUV,18
+1560,LiveRamp Data Marketplace,Technology Software,18
+1561,D&B,B2B Job Function/Roles > Finance,18
+1562,LiveRamp Data Marketplace,Technology Systems Admin,18
+1563,D&B,Local Government Employees,18
+1564,Oracle Data Marketplace,Spain (incl. Barcelona),18
+1565,D&B,Credit Unions,18
+1566,LiveRamp Data Marketplace,Technology Technical Support,18
+1567,Acxiom,Family Vacations,18
+1568,Bombora,Marketing > Advertising,18
+1569,LiveRamp Data Marketplace,Technology Telecom,18
+1570,LiveRamp Data Marketplace,Technology Web Development,18
+1571,Acxiom,25-29,18
+1572,D&B,Credit Intermediation,18
+1573,LiveRamp Data Marketplace,Technology Information Technology,18
+1574,D&B,B2B Job Function/Roles > Sales,18
+1575,LiveRamp Data Marketplace,Technology Dba,18
+1576,LiveRamp Data Marketplace,Supply Chain Sourcing,18
+1577,LiveRamp Data Marketplace,Technology,18
+1578,LiveRamp Data Marketplace,Technology Data Management,18
+1579,LiveRamp Data Marketplace,Technology Computing,18
+1580,AdAdvisor Audiences by Neustar,Fast Food Restaurant-Visit Most Last 30Day-Burger King,18
+1581,LiveRamp Data Marketplace,Navy,17
+1582,Oracle Data Marketplace,Ages 40-44,17
+1583,AdAdvisor Audiences by Neustar,"SOHO 24- Agriculture, Mining, Manufacturing",17
+1584,Oracle Data Marketplace,Ages 50-54,17
+1585,AdAdvisor Audiences by Neustar,Own Any Investments,17
+1586,Acxiom - International,19: Smartphone - Second Hand,17
+1587,Acxiom - International,18: Smartphone - Premium Model,17
+1588,Oracle Data Marketplace,Action & Adventure,17
+1589,AdAdvisor Audiences by Neustar,"SOHO 22- Manufacturing, Transportation, Communications",17
+1590,AdAdvisor Audiences by Neustar,SMALL 2- Manufacturing,17
+1591,Datonics,Smart Investors,17
+1592,Oracle Data Marketplace,MINI Clubman,17
+1593,Oracle Data Marketplace,Mexican Restaurants,17
+1594,Oracle Data Marketplace,Ages 35-39,17
+1595,Acxiom,Personal/Joint Home Equity Line of Credit (Financial),17
+1596,Acxiom,2nd Mortgage/Home Equity Loan Acquired Last 12 Months (Financial),17
+1597,Oracle Data Marketplace,Desktops,17
+1598,Zipline (i-Behavior),Manufacturing,17
+1599,Acxiom,Personal or Joint 2nd Mortgage (Home Equity Loan) (Financial),17
+1600,Datonics,Investment Leaders,17
+1601,Acxiom - International,01: Frequent flyer (business trips),17
+1602,Oracle Data Marketplace,Burger Restaurants,17
+1603,AdAdvisor Audiences by Neustar,Operating System-Used Home:Microsoft Windows 10,17
+1604,Who2 by NetWise,Manufacturing,17
+1605,LiveRamp Data Marketplace,Air Force,17
+1606,AdAdvisor Audiences by Neustar,Employment Industry: Manufacturing,17
+1607,LiveRamp Data Marketplace,Veterans,17
+1608,LiveRamp Data Marketplace,Army,17
+1609,Oracle Data Marketplace,Has Windows Phone OS,17
+1610,Zipline (i-Behavior),24 Hour Fitness - Highly Likely,17
+1611,Oracle Data Marketplace,Sandwich Restaurants,17
+1612,Webbula,"Large (500-1,000 Employees)",17
+1613,D&B,IT Professionals,17
+1614,Acxiom - International,04: Smartphone Enthusiasts,17
+1615,Webbula,"Arts, Entertainment, and Recreation",17
+1616,Acxiom,File Taxes the Same Day of the IRS Deadline (Financial),17
+1617,Webbula,Application Development & Management,17
+1618,AdAdvisor Audiences by Neustar,Fast Food Restaurant-Visit Most Last 30Day-Wendy'S,17
+1619,Oracle Data Marketplace,Investment College,17
+1620,Oracle Data Marketplace,Investment General,17
+1621,Oracle Data Marketplace,Investment Retirement,17
+1622,Acxiom,Family Travelers,17
+1623,Acxiom,Exercise / Health,17
+1624,Acxiom - International,10: Smartphone Switchers,17
+1625,Oracle Data Marketplace,Ages 45-49,17
+1626,Oracle Data Marketplace,Binge View Action/Adventure,17
+1627,Oracle Data Marketplace,Beauty & Fashion,17
+1628,Bombora,"Government > Towns, Cities & Municipalities",17
+1629,LiveRamp Data Marketplace,Consultant,17
+1630,Datonics,Home Insurance,17
+1631,Oracle Data Marketplace,20 - 39 Manufacturing,17
+1632,Acxiom,Home Equity Line of Credit (Financial),17
+1633,Acxiom,International,17
+1634,Zipline (i-Behavior),24 Hour Fitness - Likely,17
+1635,LiveRamp Data Marketplace,Marines,17
+1636,Webbula,Change Management,17
+1637,Bombora,Government > State & Province,17
+1638,Oracle Data Marketplace,Exercise,17
+1639,Acxiom,Plasma TV,16
+1640,Oracle Data Marketplace,Cat Food & Supplies,16
+1641,Oracle Data Marketplace,Automotive Trade and Repair,16
+1642,Acxiom,Web TV,16
+1643,Zipline (i-Behavior),Ritz Carlton - Likely,16
+1644,Oracle Data Marketplace,Automotive,16
+1645,Zipline (i-Behavior),Ritz Carlton - Highly Likely,16
+1646,Experian Standard,At-Home: Business Travelers/Sales Professionals,16
+1647,Acxiom,Wide Screen TV,16
+1648,Acxiom - International,MINI - average probability,16
+1649,Acxiom,Internet Connected TV,16
+1650,Lotame,Blog Readers [Prepackage],16
+1651,AdAdvisor Audiences by Neustar,Automotive,16
+1652,D&B,Research,16
+1653,comScore,Reality,16
+1654,AdAdvisor Audiences by Neustar,MICRO 6- Automotive Repair,16
+1655,Acxiom - International,MINI - low probability,16
+1656,Acxiom - International,MINI - high probability,16
+1657,Oracle Data Marketplace,55-64%,16
+1658,LiveRamp Data Marketplace,President-Level,16
+1659,Acxiom,LED TV,16
+1660,AdAdvisor Audiences by Neustar,"SMALL 14- Automotive Repair, Services, And Parking",16
+1661,AdAdvisor Audiences by Neustar,Foreign Travel-Any Trip-Airline Last 3 Years: American,16
+1662,Zipline (i-Behavior),Westin - Likely,16
+1663,D&B,Admin,16
+1664,AdAdvisor Audiences by Neustar,SOHO 12- General Automotive Services And Repair,16
+1665,Lotame,Business Professionals,16
+1666,Acxiom - International,Air Miles Credit Card,16
+1667,Zipline (i-Behavior),Westin - Highly Likely,16
+1668,Oracle Data Marketplace,Dog Food & Supplies,16
+1669,Bombora,"Manufacturing > Computer Equipment, Hardware & Computer Storage",15
+1670,Experian Standard,Subscription Boxes-Food,15
+1671,Oracle Data Marketplace,Iams,15
+1672,Experian Standard,Facebook,15
+1673,Bombora,Manufacturing > Food & Beverage,15
+1674,comScore,Retirement,15
+1675,Experian Standard,Timeshare Vacation Rental,15
+1676,Bombora,Manufacturing > Machinery,15
+1677,Zipline (i-Behavior),Pet Smart - Highly Likely,15
+1678,Zipline (i-Behavior),Pet Smart - Likely,15
+1679,LiveRamp Data Marketplace,Large,15
+1680,Bombora,Manufacturing,15
+1681,Bombora,Manufacturing > Chemicals & Gases,15
+1682,Acxiom,Bargain Shoppers,15
+1683,LiveRamp Data Marketplace,B: 101 - 500,15
+1684,Acxiom,Credit Card Holder - Unknown Type,15
+1685,LiveRamp Data Marketplace,Work in Large Company,15
+1686,D&B,B2B Predictive Analytics > Technology Purchase Intent > In Market for Servers,15
+1687,D&B,B2B Job Function/Roles > Operations,15
+1688,LiveRamp Data Marketplace,Work in Medium to Large Company,15
+1689,LiveRamp Data Marketplace,A: 1 - 100,15
+1690,Lotame,Age : 35-44 [PrePackage],15
+1691,LiveRamp Data Marketplace,Extra Large,15
+1692,Oracle Data Marketplace,Gaming Desktop and Laptop Computers (PC),15
+1693,Zipline (i-Behavior),Pet Valu - Highly Likely,15
+1694,LiveRamp Data Marketplace,Ownership & Board,15
+1695,D&B,B2B Decision Makers (DM) > C-Level/C-Suite,15
+1696,AdAdvisor Audiences by Neustar,Use Mobile Device From Apple with Carrier Verizon,15
+1697,Oracle Data Marketplace,MINI,15
+1698,LiveRamp Data Marketplace,Med to Large,15
+1699,Oracle Data Marketplace,6-10 Years,15
+1700,Oracle Data Marketplace,Government Professional,15
+1701,Acxiom,New Domestic Vehicle Purchase Luxury,15
+1702,Oracle Data Marketplace,South America,15
+1703,Acxiom,Premium Luxury Car,15
+1704,Oracle Data Marketplace,Family Restaurants,15
+1705,Who2 by NetWise,Information Technology - Database & DP,15
+1706,LiveRamp Data Marketplace,Sales & Marketing,15
+1707,Who2 by NetWise,Information Technology,15
+1708,D&B,B2B Industry > Manufacturing > Miscellaneous Manufacturing,15
+1709,Bombora,Education & Teaching > Colleges & Universities,15
+1710,AdAdvisor Audiences by Neustar,Has Accounts with Institution-Vanguard: IRA or other Retirement Account,15
+1711,Bombora,"Education & Teaching> Kindergarten, Elementary and High School",15
+1712,Oracle Data Marketplace,Luxury Crossovers,15
+1713,Zipline (i-Behavior),PetCo - Highly Likely,15
+1714,Oracle Data Marketplace,SUV Owners,15
+1715,Who2 by NetWise,Manufacturing - Electronics and Communications,14
+1716,Oracle Data Marketplace,Online Education,14
+1717,AdAdvisor Audiences by Neustar,Cruise Ship Vacation-# Nights Spent Last Cruise: 3-5,14
+1718,AdAdvisor Audiences by Neustar,Online Purchase Fashion Jewelry Last 3 Months,14
+1719,Lotame,Black Friday and Cyber Monday [Prepackage],14
+1720,Oracle Data Marketplace,Parents of Children (Ages 6-10),14
+1721,Oracle Data Marketplace,Parents of Tweens/Teenagers (Ages 11-18),14
+1722,Who2 by NetWise,Manufacturing - Machinery and Equipment,14
+1723,Acxiom - International,03: Comedy,14
+1724,AdAdvisor Audiences by Neustar,Would Consider Cruise Of 3 Days Or Longer,14
+1725,AdAdvisor Audiences by Neustar,Would Not Consider Cruise Of 3 Days Or Longer,14
+1726,Zipline (i-Behavior),Post Graduate Degree,14
+1727,Lotame,Sales,14
+1728,Who2 by NetWise,"Manufacturing - Medical,Laboratory and Specialty",14
+1729,AdAdvisor Audiences by Neustar,Cruise Ship Vacation-# Nights Spent Last Cruise: 6-9,14
+1730,Acxiom,Own Between 7-9 Credit Cards (Financial),14
+1731,LiveRamp Data Marketplace,Homeschooling,14
+1732,Datonics,Prediction of debt payoff,14
+1733,LiveRamp Data Marketplace,Distance Learning,14
+1734,Oracle Data Marketplace,Distance Learning,14
+1735,Oracle Data Marketplace,Dog Owners,14
+1736,LiveRamp Data Marketplace,C: 501 - 1000,14
+1737,Bombora,Manufacturing > Computer Equipment,14
+1738,Oracle Data Marketplace,Chicken Restaurants,14
+1739,LiveRamp Data Marketplace,D: 1001 - 2500,14
+1740,D&B,Advisory Board,14
+1741,Acxiom,Credit Card,14
+1742,Acxiom,Samsung,14
+1743,Acxiom,USAA Issued Credit Card,14
+1744,Oracle Data Marketplace,Smart TV Buyers,14
+1745,Oracle Data Marketplace,Hockey,14
+1746,Acxiom,Never/Rarely Carry a Credit Card Balance (Financial),14
+1747,Oracle Data Marketplace,Health & Fitness Publications,14
+1748,Oracle Data Marketplace,Information Technology Manager,14
+1749,Webbula,Completed Graduate School,14
+1750,LiveRamp Data Marketplace,F: 5000+,14
+1751,Acxiom,Weight Loss,14
+1752,Acxiom,Faucets and Showerheads,14
+1753,D&B,B2B Predictive Analytics > Spending Power > High Spenders on Business Products & Services,13
+1754,Oracle Data Marketplace,Version 10.x (Windows 10),13
+1755,AdAdvisor Audiences by Neustar,Smart Investor: Average,13
+1756,Acxiom - International,Arts Entertainment Recreation,13
+1757,Zipline (i-Behavior),Royal Caribbean - Highly Likely,13
+1758,AdAdvisor Audiences by Neustar,"SMALL 4- Beauty Shops, Barber Shops, Personal Care",13
+1759,Oracle Data Marketplace,Domestic (United States),13
+1760,AdAdvisor Audiences by Neustar,"MICRO 2- Beauty, Barber,  Personal Care",13
+1761,Zipline (i-Behavior),Carnival - Highly Likely,13
+1762,Zipline (i-Behavior),Norweigan Cruise Lines - Highly Likely,13
+1763,AdAdvisor Audiences by Neustar,Use Mobile Device: HTC Windows Phone,13
+1764,Oracle Data Marketplace,Cooking Disinterest,13
+1765,LiveRamp Data Marketplace,Microphones,13
+1766,LiveRamp Data Marketplace,Mice & Keyboards,13
+1767,Oracle Data Marketplace,Compact Car,13
+1768,Acxiom,Dental Insurance,13
+1769,D&B,B2B Predictive Analytics > Spending Power > High Capacity to Spend,13
+1770,AdAdvisor Audiences by Neustar,"SINGLE 4- Beauty Shops, Barber Shops, Personal Care",13
+1771,AdAdvisor Audiences by Neustar,Use Mobile Device: Windows Nokia N Series,13
+1772,Datonics,Past Purchase - Personal Care,13
+1773,Oracle Data Marketplace,Version 6.1 (Windows 7 / Windows Server 2008 R2),13
+1774,LiveRamp Data Marketplace,Electronics - Internet/Computer Games,13
+1775,LiveRamp Data Marketplace,E: 2501 - 5000,13
+1776,LiveRamp Data Marketplace,Components,13
+1777,Acxiom,You Alone,13
+1778,Oracle Data Marketplace,100-499 Employees,13
+1779,Oracle Data Marketplace,Laptops,13
+1780,D&B,Project Management,13
+1781,D&B,Colleges and Universities,13
+1782,AdAdvisor Audiences by Neustar,Household Buys Pet Supplies at Farm Supply Stores/ Feed Stores,13
+1783,Oracle Data Marketplace,C-Level,13
+1784,LiveRamp Data Marketplace,Quality Control,13
+1785,Oracle Data Marketplace,Last 9 Months,13
+1786,Lotame,Brazil - Video Games,13
+1787,Acxiom,Arcade Video Games,13
+1788,Oracle Data Marketplace,TV Dramas,13
+1789,LiveRamp Data Marketplace,Printers & Scanners,13
+1790,Acxiom - International,Entertainment and Recreation,13
+1791,Datonics,Interior Design Enthusiasts,13
+1792,Oracle Data Marketplace,TV Reality Shows,13
+1793,Datonics,Personal Care Supplies,13
+1794,Experian Standard,Reality TV Show Viewer - Expanded,13
+1795,LiveRamp Data Marketplace,Headsets,13
+1796,D&B,B2B Job Function/Roles > Executives > Chief Officers (Other),12
+1797,Zipline (i-Behavior),TurboTax - Highly Likely,12
+1798,D&B,B2B Job Function/Roles > Executives > CEO (Chief Executive Officer),12
+1799,Acxiom,Other Online Tax Program/Service (Financial),12
+1800,Oracle Data Marketplace,Credit Line Account Holders (SMB),12
+1801,Oracle Data Marketplace,Natural Pet Foods and Products,12
+1802,Zipline (i-Behavior),TurboTax - Likely,12
+1803,D&B,B2B Job Function/Roles > Executives > CIO (Chief Information Officer),12
+1804,D&B,B2B Industry > Retail Trade > CPG > Health and Personal Care,12
+1805,D&B,Manager,12
+1806,Acxiom,Heavy Facebook User,12
+1807,Acxiom,Jackson Hewitt Onsite Tax Service (Financial),12
+1808,Oracle Data Marketplace,Furniture and Accessories,12
+1809,D&B,B2B Job Function/Roles > Executives > Vice President/VP/SVP,12
+1810,D&B,B2B Job Function/Roles > Executives > CTO (Chief Technology Officer),12
+1811,D&B,B2B Industry > Finance and Insurance,12
+1812,Acxiom,File taxes After IRS Deadline (Financial),12
+1813,D&B,Manufacturing,12
+1814,AdAdvisor Audiences by Neustar,Uses Search Tools Apps on Smartphone,12
+1815,AdAdvisor Audiences by Neustar,Expect Enroll/ Return To College Next 12M,12
+1816,Bombora,Hospitality & Hotels > Lodging & Resorts,12
+1817,Oracle Data Marketplace,Heavy Beauty and Cosmetics Gift Card Buyers,12
+1818,Oracle Data Marketplace,Caribbean Islands,12
+1819,Zipline (i-Behavior),Positively Engaged â€“ Personal Care,12
+1820,Zipline (i-Behavior),Personal Care,12
+1821,Oracle Data Marketplace,Health & Personal Care,12
+1822,D&B,Miscellaneous Manufacturing,12
+1823,Zipline (i-Behavior),Tax Act - Highly Likely,12
+1824,Zipline (i-Behavior),Tax Act - Likely,12
+1825,D&B,Performance,12
+1826,Zipline (i-Behavior),Women's Apparel,12
+1827,LiveRamp Data Marketplace,Back to School,12
+1828,comScore,Action/Adventure,12
+1829,Oracle Data Marketplace,Graduate Degree,12
+1830,Acxiom,Video Poster,12
+1831,Oracle Data Marketplace,Cooking Fats & Oils,12
+1832,LiveRamp Data Marketplace,A: C-Suite/C-Level,12
+1833,Acxiom,Have Used A Visa Signature Credit Card In Past 12 Months (Financial),11
+1834,Lotame,Germany - Video Games,11
+1835,D&B,Primary Metal,11
+1836,D&B,Fabricated Metal,11
+1837,D&B,Postal Service,11
+1838,Oracle Data Marketplace,Travel Recommender,11
+1839,Oracle Data Marketplace,Travel Researcher,11
+1840,D&B,Chemical,11
+1841,D&B,Funds and Trusts,11
+1842,D&B,Publishing (except Internet),11
+1843,D&B,Printing,11
+1844,D&B,Product Mills,11
+1845,comScore,Social Media - Medium User,11
+1846,D&B,Computers and Electronics,11
+1847,D&B,Durable Goods,11
+1848,D&B,Couriers and Messengers,11
+1849,Oracle Data Marketplace,Financial Services/Insurance/Real Estate,11
+1850,LiveRamp Data Marketplace,Social & Casual Gamers,11
+1851,D&B,Furniture,11
+1852,AdAdvisor Audiences by Neustar,Credit Card Type Have-Visa Signature,11
+1853,comScore,Social Media - Non User,11
+1854,AdAdvisor Audiences by Neustar,"Auto Insurance Value: $50,000-$74,999",11
+1855,D&B,Other Schools and Instruction,11
+1856,Lotame,Board Members,11
+1857,D&B,Food,11
+1858,D&B,Petroleum and Coal,11
+1859,Lotame,Photo Viewers [Prepackage],11
+1860,D&B,Energy and Raw Materials,11
+1861,D&B,Paper,11
+1862,D&B,Elementary and Secondary,11
+1863,Oracle Data Marketplace,Parents with Children in Household (Kids),11
+1864,Datonics,Hardcore Gamers,11
+1865,Oracle Data Marketplace,Heavy Internet Users,11
+1866,Oracle Data Marketplace,Gas/Electric Hybrid,11
+1867,D&B,Electric Power Generation,11
+1868,AdAdvisor Audiences by Neustar,Don't Watch TV That's Active On Social Media,11
+1869,Acxiom,Fine Jewelry,11
+1870,D&B,Beverage and Tobacco,11
+1871,comScore,Social Media - Heavy User,11
+1872,D&B,Other Information Services,11
+1873,Oracle Data Marketplace,PGA Tour Enthusiast,11
+1874,comScore,Social Media - Light User,11
+1875,D&B,Plastics and Rubber,11
+1876,AdAdvisor Audiences by Neustar,Domestic Travel Last 12M:Hampton Inn,11
+1877,AdAdvisor Audiences by Neustar,Domestic Travel Last 12M:Best Western,11
+1878,AdAdvisor Audiences by Neustar,Domestic Travel Last 12M: Any Marriott,11
+1879,D&B,Financial Investments,11
+1880,D&B,Finance and Insurance,11
+1881,D&B,Broadcasting Except Internet,11
+1882,Oracle Data Marketplace,NHL Hockey Fan,11
+1883,D&B,B2B Industry > Media,11
+1884,D&B,Social Assistance,11
+1885,Who2 by NetWise,HR Decision Makers,11
+1886,D&B,Transit and Ground Passenger,11
+1887,Oracle Data Marketplace,Civil Service,11
+1888,D&B,Leather and Allied Product,11
+1889,AdAdvisor Audiences by Neustar,Watch TV That's Active On Social Media,11
+1890,D&B,Nondurable Goods,11
+1891,Who2 by NetWise,"Data Center,Network and Platform Computing - Database & Data Systems",11
+1892,Who2 by NetWise,"Data Center,Network and Platform Computing - Virtualization",11
+1893,Oracle Data Marketplace,Asks for Travel Advice,11
+1894,D&B,Nonmetallic Mineral,11
+1895,D&B,Transportation and Warehousing,11
+1896,Datonics,Likely to Pay their Credit Balance Monthly,11
+1897,D&B,Wood Product,11
+1898,D&B,Nursing and Residential Care,11
+1899,D&B,Insurance,11
+1900,LiveRamp Data Marketplace,Computer & Video Games (Cookie),11
+1901,D&B,Transportation Support,11
+1902,D&B,OBGYN,11
+1903,D&B,Transportation Equipment,11
+1904,Oracle Data Marketplace,Sports Fans (Enthusiasts),11
+1905,Oracle Data Marketplace,Standard Import SUV,11
+1906,Who2 by NetWise,Cloud Computing - Software as a Service (SaaS),11
+1907,Acxiom,Towing Insurance,11
+1908,D&B,Truck Transportation,11
+1909,Acxiom,Video Games,11
+1910,D&B,Machinery,11
+1911,Oracle Data Marketplace,Blogs,11
+1912,D&B,Media,11
+1913,Experian Standard,Black Friday Shopper,11
+1914,D&B,Mining (except Oil and Gas),11
+1915,D&B,Wholesale Trade,11
+1916,Oracle Data Marketplace,Schools,11
+1917,D&B,Motion Picture and Sound,11
+1918,Oracle Data Marketplace,Cable TV,11
+1919,Who2 by NetWise,Cloud Computing - Cloud Infrastructure Computing,11
+1920,Bombora,Human Resources Professional,11
+1921,D&B,Warehousing and Storage,11
+1922,D&B,Museums and Historical Sites,11
+1923,Acxiom,Use Ad-Supported Social Media Sites,11
+1924,D&B,Natural Gas Distribution,11
+1925,Oracle Data Marketplace,MINI Hardtop 4 Door,11
+1926,Bombora,Marketing > Branding,11
+1927,Oracle Data Marketplace,Sally Beauty Holdings,11
+1928,Oracle Data Marketplace,State Government,11
+1929,D&B,Independent Broker,11
+1930,D&B,Textile Mills,11
+1931,LiveRamp Data Marketplace,Sales Management,11
+1932,D&B,Oil and Gas Extraction,11
+1933,D&B,Healthcare,11
+1934,Oracle Data Marketplace,Technology Professional,11
+1935,Oracle Data Marketplace,Fantasy Sports,11
+1936,Oracle Data Marketplace,Executive,11
+1937,LiveRamp Data Marketplace,Online Games (Cookie),11
+1938,D&B,B2B Industry > Arts and Entertainment,11
+1939,LiveRamp Data Marketplace,Current Student,11
+1940,D&B,Hospitals,11
+1941,D&B,Gambling and Amusement,11
+1942,AdAdvisor Audiences by Neustar,Online Purchase Video Games And Consoles Last 3Month,11
+1943,Oracle Data Marketplace,Takes Travel Advice,11
+1944,D&B,Support Activities for Mining,11
+1945,D&B,Offices of Physicians,11
+1946,Experian Standard,Home and Garden (FLA / Fair Lending Friendly),11
+1947,D&B,B2B Industry > Energy and Raw Materials,11
+1948,D&B,Ambulatory Services,11
+1949,Oracle Data Marketplace,Active Vacationer,11
+1950,D&B,Asset Management,11
+1951,D&B,Offices of Dentists,11
+1952,D&B,Air Transportation,11
+1953,D&B,Retail Banking,11
+1954,D&B,B2B Industry > Manufacturing,11
+1955,D&B,Arts and Entertainment,11
+1956,Oracle Data Marketplace,Federal Government,11
+1957,D&B,Appliances and Electrical,11
+1958,D&B,Apparel,11
+1959,Oracle Data Marketplace,2-5 Years,10
+1960,Oracle Data Marketplace,Automotive Tools & Gadgets,10
+1961,Oracle Data Marketplace,Male,10
+1962,D&B,Safety,10
+1963,D&B,Wealth Managers,10
+1964,Acxiom - International,Masters Degree or Equivalent,10
+1965,Oracle Data Marketplace,Large Appliances,10
+1966,Webbula,Network Computing Grouping,10
+1967,Who2 by NetWise,Business Professionals,10
+1968,Oracle Data Marketplace,North America,10
+1969,Oracle Data Marketplace,Less than 2 Years,10
+1970,Acxiom,Home Mortgage (Financial),10
+1971,Oracle Data Marketplace,Home Office,10
+1972,Oracle Data Marketplace,Men's Clothing - Jeans,10
+1973,Oracle Data Marketplace,Men's Clothing,10
+1974,Oracle Data Marketplace,New and Growing Families,10
+1975,Acxiom,Personal/Joint Auto Loan (Financial),10
+1976,Acxiom,Filed Tax Returns In Past 12 Months Before Iris Deadline (Financial),10
+1977,Acxiom,Personal/Joint Home Mortgage (1st) (Financial),10
+1978,Acxiom,First Home Mortgage (Financial),10
+1979,Oracle Data Marketplace,Men's Casual Apparel Purchasers,10
+1980,Acxiom - International,15: Electric/Hybrid,10
+1981,AdAdvisor Audiences by Neustar,Budget Men's Clothing Buyers,10
+1982,Acxiom,H&R Block Taxcut Online Tax Service (Financial),10
+1983,Oracle Data Marketplace,MINI Cooper,10
+1984,AdAdvisor Audiences by Neustar,Bought Men's Apparel and Accessries Lst 12M,10
+1985,Acxiom - International,06: Hybrid,10
+1986,Acxiom,Had Tax Returns Prepared by CPA or Other Tax Professional In The Past 12 Months (Financial),10
+1987,Acxiom,TurboTax Computer Software (Financial),10
+1988,Acxiom,CPA or Other Tax Professional Tax Service (Financial),10
+1989,Oracle Data Marketplace,Business Travelers: Frequent Spenders,10
+1990,D&B,Customer Service,10
+1991,Bombora,HR,10
+1992,AdAdvisor Audiences by Neustar,Luxury Men's Clothing Buyers,10
+1993,LiveRamp Data Marketplace,Sales & Marketing Decision Makers,10
+1994,Webbula,Cooking and Food Enthusiast,10
+1995,Oracle Data Marketplace,Purchasing,10
+1996,LiveRamp Data Marketplace,"Partners, Principals & Owners",10
+1997,AdAdvisor Audiences by Neustar,Vacation Activities - Like To Do-Fine Dining,10
+1998,Zipline (i-Behavior),Pet Supplies Plus - Likely,10
+1999,D&B,B2B Predictive Analytics > Technology Purchase Intent > In Market for Laptops,10
+2000,LiveRamp Data Marketplace,Affluent  households,10
+2001,Oracle Data Marketplace,Satellite TV/Internet: High Spenders,10
+2002,D&B,B2B Predictive Analytics > Spending Power > High Spenders on IT Products & Services,10
+2003,D&B,Marketing Management,10
+2004,D&B,Environmental,10
+2005,Oracle Data Marketplace,Small Kitchen Appliances,10
+2006,D&B,Insurance Broker,10
+2007,D&B,Financial Advisor,10
+2008,Oracle Data Marketplace,Standard Mini Van,10
+2009,Who2 by NetWise,Shopping - Apparel & Accessories - Men's Apparel,10
+2010,D&B,Food & Beverage,10
+2011,Webbula,Automotive Industry,10
+2012,AdAdvisor Audiences by Neustar,Mid-Priced Men's Clothing Buyers,10
+2013,Webbula,Automotive Repair and Maintenance,10
+2014,AdAdvisor Audiences by Neustar,"Engineering, IT,  and Technical",10
+2015,Equifax / IXI,Vice President Marketing,10
+2016,Webbula,Gourmet Cooking,10
+2017,Oracle Data Marketplace,Online Gaming,10
+2018,Experian Standard,Used Hybrid,10
+2019,Oracle Data Marketplace,Graphic Designers,9
+2020,LiveRamp Data Marketplace,Sales/Business Development,9
+2021,Who2 by NetWise,Life Insurance,9
+2022,LiveRamp Data Marketplace,Sales & Business Development: Account Management,9
+2023,LiveRamp Data Marketplace,Sales & Business Development: Sales Management,9
+2024,LiveRamp Data Marketplace,Sales & Business Development: Support,9
+2025,Bombora,Technology > Hardware,9
+2026,Bombora,Technology > IT Administration,9
+2027,Acxiom - International,Media and Telecommunications,9
+2028,Zipline (i-Behavior),Sally Beauty Supply - Likely,9
+2029,Who2 by NetWise,IT Management & Governance,9
+2030,Bombora,Technology > Operating Systems,9
+2031,Bombora,"Technology > Graphics, Multimedia & Web design",9
+2032,LiveRamp Data Marketplace,200-499 Employees,9
+2033,Bombora,Technology > Security,9
+2034,Acxiom - International,05: Fitness Enthusiast,9
+2035,Bombora,Education > Professors & Teachers,9
+2036,Bombora,Technology > Servers,9
+2037,Oracle Data Marketplace,Dog Treats,9
+2038,Bombora,Technology > Virtualization,9
+2039,Oracle Data Marketplace,Media and Internet,9
+2040,Zipline (i-Behavior),Media and Internet,9
+2041,Oracle Data Marketplace,Healthy Living,9
+2042,Zipline (i-Behavior),Sherwin Williams - Highly Likely,9
+2043,Bombora,Technology > Databases & Storage,9
+2044,LiveRamp Data Marketplace,Finance - Accounting,9
+2045,AdAdvisor Audiences by Neustar,Smart Tech Shopper: Above Average,9
+2046,Datonics,Birds,9
+2047,AdAdvisor Audiences by Neustar,Small office or Home office Business Owners,9
+2048,LiveRamp Data Marketplace,Board and Ownership,9
+2049,Oracle Data Marketplace,Retail Trade,9
+2050,AdAdvisor Audiences by Neustar,Smart Tech Shopper: Far Above Average,9
+2051,Bombora,Technology > Business Analytics & Applications,9
+2052,D&B,Technical Support,9
+2053,LiveRamp Data Marketplace,Branding,9
+2054,Bombora,Technology > Cloud Computing,9
+2055,Acxiom - International,11: Health & Fitness,9
+2056,AdAdvisor Audiences by Neustar,Company Size: 5-19 employees,9
+2057,Bombora,Technology > Data Centers,9
+2058,Oracle Data Marketplace,Components,9
+2059,Zipline (i-Behavior),Sally Beauty Supply - Highly Likely,9
+2060,LiveRamp Data Marketplace,Production,9
+2061,Bombora,Healthcare Decision Maker,9
+2062,Oracle Data Marketplace,Printers and Scanners,9
+2063,LiveRamp Data Marketplace,Research,9
+2064,LiveRamp Data Marketplace,Marketing Decision Maker,9
+2065,Zipline (i-Behavior),Ace - Highly Likely,9
+2066,Bombora,Technology > Application & Software Development,9
+2067,AdAdvisor Audiences by Neustar,I Am Interested In International Events,9
+2068,LiveRamp Data Marketplace,Compliance,9
+2069,Oracle Data Marketplace,Beauty and Fragrance,9
+2070,D&B,B2B Job Function/Roles > Computing & IT > Computing & IT,9
+2071,LiveRamp Data Marketplace,Sports Enthusiasts,9
+2072,Zipline (i-Behavior),Home Depot - Highly Likely,9
+2073,LiveRamp Data Marketplace,Corporate/C-Level Executives,9
+2074,Bombora,"Government > Public Safety, Police & Fire Deparments",9
+2075,Bombora,Media & Internet > Info Collection & Delivery,9
+2076,Bombora,Media & Internet,9
+2077,Oracle Data Marketplace,Birds,9
+2078,Oracle Data Marketplace,Networking and Wireless,9
+2079,Bombora,Medium-Small (50 - 199 Employees),9
+2080,Oracle Data Marketplace,Fish Birds & Small Animals,9
+2081,Acxiom,Health Net,9
+2082,Oracle Data Marketplace,Flexible Office Space,9
+2083,Oracle Data Marketplace,IT and Technology,9
+2084,Who2 by NetWise,Cloud Computing,9
+2085,AdAdvisor Audiences by Neustar,Company Size: 20-100 employees,9
+2086,Experian Standard,Technology and Computing (FLA / Fair Lending Friendly),9
+2087,Lotame,Consultants,9
+2088,Oracle Data Marketplace,Business Owners,9
+2089,Bombora,Media & Internet > Publishing,9
+2090,Bombora,Media & Internet > Media Broadcasting,9
+2091,Oracle Data Marketplace,Gaming Accessories,9
+2092,Zipline (i-Behavior),Sherwin Williams - Likely,9
+2093,AdAdvisor Audiences by Neustar,Company Size: 1-4 employees,9
+2094,Webbula,Marketing,9
+2095,D&B,B2B Decision Makers (DM) > Finance Decision Makers,9
+2096,Zipline (i-Behavior),Orchard Supply - Likely,9
+2097,Oracle Data Marketplace,United Kingdom,9
+2098,Acxiom,Kaiser Permanente,9
+2099,Oracle Data Marketplace,Engineering and R&D,9
+2100,D&B,B2B Decision Makers (DM) > Sales & Marketing Decision Makers,9
+2101,Who2 by NetWise,"Data Center,Network and Platform Computing - Network & Network Management",9
+2102,Datonics,Media & Internet,9
+2103,Who2 by NetWise,"Data Center,Network and Platform Computing",9
+2104,Oracle Data Marketplace,Upper Mini Van,9
+2105,Zipline (i-Behavior),Norweigan Cruise Lines - Likely,8
+2106,D&B,Tyson Foods,8
+2107,Who2 by NetWise,Education,8
+2108,LiveRamp Data Marketplace,IT,8
+2109,Oracle Data Marketplace,Cat Owners,8
+2110,Acxiom,Panasonic,8
+2111,Bombora,Finance > Accounting,8
+2112,Bombora,Media & Internet > Newspapers & News Services,8
+2113,Oracle Data Marketplace,Consumer Electronics Spenders,8
+2114,AdAdvisor Audiences by Neustar,Company Size: 100-500 employees,8
+2115,Bombora,Sales > Support,8
+2116,Bombora,Consultants,8
+2117,Bombora,Sales > Business Development,8
+2118,LiveRamp Data Marketplace,Media Buyers,8
+2119,LiveRamp Data Marketplace,Finance Management,8
+2120,Oracle Data Marketplace,Masters Degree,8
+2121,Who2 by NetWise,Sales & Business Development,8
+2122,LiveRamp Data Marketplace,Manufacturing Management,8
+2123,Webbula,Administrative and Support and Waste Management and Remediation Services,8
+2124,Acxiom,Reality Television Shows,8
+2125,Who2 by NetWise,Wine & Beverage,8
+2126,Webbula,Health Insurance,8
+2127,Oracle Data Marketplace,Managed Service Providers,8
+2128,Oracle Data Marketplace,Kitchen,8
+2129,D&B,B2B Industry > Retail Trade > CPG > Food and Beverage,8
+2130,AdAdvisor Audiences by Neustar,MICRO 19- Food Stores,8
+2131,Oracle Data Marketplace,Dog Products Buyers,8
+2132,D&B,B2B Decision Makers (DM) > Board members,8
+2133,Who2 by NetWise,"Government,Social Services and Non-Profits",8
+2134,Who2 by NetWise,Health & Fitness,8
+2135,Webbula,Media & Internet,8
+2136,Who2 by NetWise,Home & Garden - Gardening,8
+2137,Datonics,Retail Lawn and Garden Buyers,8
+2138,comScore,Game Console Users,8
+2139,Datonics,Food & Beverage,8
+2140,Oracle Data Marketplace,Photography,8
+2141,Who2 by NetWise,Marketing & Communications,8
+2142,D&B,B2B Industry > Accommodation and Food Services > Food and Drink Services,8
+2143,D&B,B2B Industry > Manufacturing > CPG > Food,8
+2144,D&B,B2B Industry > Government,8
+2145,LiveRamp Data Marketplace,C-Suite/C-Level,8
+2146,D&B,Company Development,8
+2147,AdAdvisor Audiences by Neustar,Company Size: 1 employee,8
+2148,AdAdvisor Audiences by Neustar,"SOHO 23- Eating, Drinking Places And Food Stores",8
+2149,Zipline (i-Behavior),Royal Caribbean - Likely,8
+2150,Lotame,Italy - Life Insurance,8
+2151,comScore,Game Console Users - Heavy,8
+2152,AdAdvisor Audiences by Neustar,Employment Industry: Accomodation/Food Services,8
+2153,AdAdvisor Audiences by Neustar,SMALL 23- Grocery And Food Stores,8
+2154,Oracle Data Marketplace,Food and Beverages,8
+2155,LiveRamp Data Marketplace,eSports Enthusiast,8
+2156,D&B,B2B Seniority > Ownership and Board,8
+2157,comScore,Game Console Users - Light,8
+2158,LiveRamp Data Marketplace,Research & Development,8
+2159,Oracle Data Marketplace,Telecommunications (Telco),8
+2160,Who2 by NetWise,"C-Level - CEOs,Founders and Presidents",7
+2161,Bombora,Marketing > Research,7
+2162,D&B,Likely to Have Line of Credit,7
+2163,Oracle Data Marketplace,Sears Appliance & Hardware,7
+2164,Who2 by NetWise,Health & Nutrition,7
+2165,Oracle Data Marketplace,Football,7
+2166,Webbula,Auto Insurance,7
+2167,Oracle Data Marketplace,Large Domestic SUV,7
+2168,D&B,In Market for Corporate Credit Card,7
+2169,Experian Standard,Likely to refinance  (FLA / Fair Lending Friendly),7
+2170,Oracle Data Marketplace,Tech Enthusiasts,7
+2171,Acxiom,Personal Line of Credit (Financial),7
+2172,Oracle Data Marketplace,Cruise line,7
+2173,Datonics,Apple,7
+2174,Oracle Data Marketplace,Current Student,7
+2175,Oracle Data Marketplace,Luxury Import SUV,7
+2176,Oracle Data Marketplace,Graduate Schools,7
+2177,LiveRamp Data Marketplace,Events & Tradeshows,7
+2178,Oracle Data Marketplace,Dieting/Weight Loss,7
+2179,Oracle Data Marketplace,Dog Food and Supplies,7
+2180,Who2 by NetWise,"Sales and Marketing Decision Makers - Sales C-Level,VPs and Directors",7
+2181,Datonics,Dogs,7
+2182,Oracle Data Marketplace,Social Media Influencers,7
+2183,Acxiom,Purchase Cruise Tickets,7
+2184,Bombora,Operations > Administration,7
+2185,LiveRamp Data Marketplace,Digital Security Content Downloaded,7
+2186,Who2 by NetWise,"Sales and Marketing Decision Makers - Marketing C-Level,VPs and Directors",7
+2187,Oracle Data Marketplace,European SUV,7
+2188,D&B,B2B Decision Makers (DM) > Managers,7
+2189,Who2 by NetWise,Consultants,7
+2190,D&B,Online Interest in Group Life Insurance,7
+2191,LiveRamp Data Marketplace,Middle Management,7
+2192,AdAdvisor Audiences by Neustar,Symphony IRI: Heavy Dog Food Buyers,7
+2193,Oracle Data Marketplace,Basic Import SUV,7
+2194,AdAdvisor Audiences by Neustar,HH Has at Least 1 Dog,7
+2195,Oracle Data Marketplace,Plug-in Hybrid,7
+2196,Mediacom (via Datonics),CustomSegment_Mediacom_Dell CSG,7
+2197,LiveRamp Data Marketplace,Senior Leadership,7
+2198,Oracle Data Marketplace,Printer Supplies,7
+2199,AdAdvisor Audiences by Neustar,Dog Treat-Beggin' Strips,7
+2200,Acxiom - International,Waste Management and Remediation Services,7
+2201,Who2 by NetWise,"Ownership & Board - Partners,Principals & Owners",7
+2202,Who2 by NetWise,Sales & Business Development - Sales & Bus. Dev.,7
+2203,Who2 by NetWise,Ownership,7
+2204,Lotame,Mexico - Video Games,7
+2205,Experian Standard,Subscription Boxes - Apparel,7
+2206,AdAdvisor Audiences by Neustar,Dog Treat-Milk Bone,7
+2207,Oracle Data Marketplace,Age 55-64,7
+2208,Oracle Data Marketplace,Sales & Marketing Decision Makers,7
+2209,LiveRamp Data Marketplace,Photography,7
+2210,Lotame,Singapore - Retirement Planning,7
+2211,Equifax / IXI,Executive Vice President,7
+2212,Lotame,Real Estate,7
+2213,D&B,Online Interest in Employee Retirement Benefits,7
+2214,Equifax / IXI,Senior Vice President,7
+2215,AdAdvisor Audiences by Neustar,Can Dog Food-Pedigree,7
+2216,Acxiom,Business Fan,7
+2217,Acxiom,Drama Shows,7
+2218,AdAdvisor Audiences by Neustar,HH Owns Dewalt Brand Workshop Equipment,7
+2219,Oracle Data Marketplace,Storage and Infrastructure,6
+2220,Datonics,Petco,6
+2221,Oracle Data Marketplace,Horror,6
+2222,AdAdvisor Audiences by Neustar,Luxury Women's Clothing Buyers,6
+2223,LiveRamp Data Marketplace,Sales Staff,6
+2224,Oracle Data Marketplace,Fish & Aquaria,6
+2225,Oracle Data Marketplace,Documentary,6
+2226,Datonics,Fish & Aquariums,6
+2227,Experian Standard,"$125,000-$149,999",6
+2228,Oracle Data Marketplace,IT Management,6
+2229,LiveRamp Data Marketplace,Cloud Computing Content Downloaded,6
+2230,AdAdvisor Audiences by Neustar,Mid-Priced Women's Clothing Buyers,6
+2231,Datonics,Cats,6
+2232,Who2 by NetWise,Government Decision Makers,6
+2233,Zipline (i-Behavior),Golf Galaxy - Highly Likely,6
+2234,Datonics,Taxes,6
+2235,Oracle Data Marketplace,Hospitality and Travel,6
+2236,LiveRamp Data Marketplace,Back to School Shoppers with Elementary School Aged Kids,6
+2237,Oracle Data Marketplace,Supply Chain Management,6
+2238,LiveRamp Data Marketplace,Desktops,6
+2239,AdAdvisor Audiences by Neustar,Cat Litter-Fresh Step,6
+2240,LiveRamp Data Marketplace,Corporate Communications & PR,6
+2241,D&B,B2B Job Function/Roles > Computing & IT > CIO (Chief Information Officer),6
+2242,Oracle Data Marketplace,Personal Care Products & Services,6
+2243,D&B,B2B Job Function/Roles > Computing & IT > CTO (Chief Technology Officer),6
+2244,Zipline (i-Behavior),Health Insurance Premium payment-out of pocket,6
+2245,Oracle Data Marketplace,Pet Lover,6
+2246,AdAdvisor Audiences by Neustar,CORP 28- Retail Food Stores,6
+2247,AdAdvisor Audiences by Neustar,Cat Treat-Whiskas Temptations,6
+2248,AdAdvisor Audiences by Neustar,"Finance, Insurance, and Accounting",6
+2249,Who2 by NetWise,Shopping - Apparel & Accessories - Women's Apparel,6
+2250,AdAdvisor Audiences by Neustar,HH Acquired Any TV 5+ Years Ago,6
+2251,AdAdvisor Audiences by Neustar,Budget Women's Clothing Buyers,6
+2252,AdAdvisor Audiences by Neustar,HH Has at Least 1 Bird,6
+2253,Zipline (i-Behavior),Golf Galaxy - Likely,6
+2254,Lotame,United Kingdom - Video Games,6
+2255,AdAdvisor Audiences by Neustar,HH Has at Least 1 Cat,6
+2256,Oracle Data Marketplace,Enterprise Resource Planning (ERP),6
+2257,Oracle Data Marketplace,Jewelry Stores Recent Visitors,6
+2258,AdAdvisor Audiences by Neustar,Bought Women's Apparel/Accessories Lst 12M,6
+2259,AdAdvisor Audiences by Neustar,HH Has at Least 1 Fish,6
+2260,AdAdvisor Audiences by Neustar,Fast Food Restaurant-Visit Most Last 30Day-Taco Bell,6
+2261,Oracle Data Marketplace,Networking and Telecommunications (Telco),6
+2262,Experian Standard,"$200,000-$249,999",6
+2263,Experian Standard,"$250,000+",6
+2264,Oracle Data Marketplace,Eldercare Personal Care Products,6
+2265,comScore,Persons: 25-34,6
+2266,Oracle Data Marketplace,Human Resources Technology,6
+2267,Oracle Data Marketplace,Product Development and Quality Assurance,6
+2268,Oracle Data Marketplace,Mid-Management,6
+2269,Oracle Data Marketplace,Data Management,6
+2270,Lotame,Latin America Video Games,6
+2271,Experian Standard,"$150,000-$174,999",6
+2272,Who2 by NetWise,"Cooking,Food & Beverage - Cooking",6
+2273,Bombora,Finance > Banking,6
+2274,Bombora,Finance > Investment Banking,6
+2275,Oracle Data Marketplace,Cloud,6
+2276,Bombora,Finance > Wealth Management,6
+2277,LiveRamp Data Marketplace,Affluent Back to School Shoppers,6
+2278,Acxiom,Exercise Frequency,6
+2279,Acxiom - International,02: Compact Sedan,6
+2280,Datonics,PetSmart,6
+2281,LiveRamp Data Marketplace,Back to School Shoppers with Pre-School Aged Kids,6
+2282,Oracle Data Marketplace,Internet of Things (IoT),6
+2283,Bombora,Marketing > PR,6
+2284,Bombora,Marketing > Media Buyers,6
+2285,LiveRamp Data Marketplace,Headphones,6
+2286,LiveRamp Data Marketplace,Avid Couponer,6
+2287,Acxiom,United Healthcare,6
+2288,LiveRamp Data Marketplace,Back to School Shoppers with Middle School Aged Kids,6
+2289,Oracle Data Marketplace,Virtualization,6
+2290,Oracle Data Marketplace,Cat Food and Supplies,6
+2291,Oracle Data Marketplace,Servers and Networking,6
+2292,LiveRamp Data Marketplace,Back to School Shoppers with High School Aged Kids,6
+2293,Oracle Data Marketplace,Business Intelligence (BI) and Analytics,6
+2294,Lotame,Japan - Video Games,6
+2295,LiveRamp Data Marketplace,Back to School Shoppers,6
+2296,Bombora,Hospitality & Hotels > Restaurants & Dining,6
+2297,Oracle Data Marketplace,Business Technology,6
+2298,Bombora,Hospitality & Hotels,6
+2299,Oracle Data Marketplace,Science Fiction and Fantasy,6
+2300,LiveRamp Data Marketplace,Investment Banking,6
+2301,Oracle Data Marketplace,Back to School,6
+2302,Oracle Data Marketplace,Action,6
+2303,Oracle Data Marketplace,Healthcare IT,6
+2304,Oracle Data Marketplace,Customer Relationship Management (CRM),6
+2305,LiveRamp Data Marketplace,Operations Staff,6
+2306,D&B,Technical and Trade Schools,6
+2307,D&B,B2B Seniority > Management > Managers/Supervisors,6
+2308,Oracle Data Marketplace,Women's Clothing,6
+2309,Oracle Data Marketplace,Spanish,6
+2310,Webbula,Sales,6
+2311,D&B,B2B Job Function/Roles > Computing & IT,6
+2312,Oracle Data Marketplace,Women's Apparel Purchasers,6
+2313,LiveRamp Data Marketplace,Networking Content Downloaded,6
+2314,Zipline (i-Behavior),Male,6
+2315,Oracle Data Marketplace,Retail,6
+2316,LiveRamp Data Marketplace,"Nerds (Sci Fi, Gamers, Comic, Animation)",6
+2317,Oracle Data Marketplace,Women's Apparel Buyers,6
+2318,AdAdvisor Audiences by Neustar,Symphony IRI: Heavy Cat Food Buyers,6
+2319,Oracle Data Marketplace,Romance,6
+2320,LiveRamp Data Marketplace,Marketing Staff,6
+2321,Oracle Data Marketplace,Computer Brands,6
+2322,Oracle Data Marketplace,Wireless and Mobility,6
+2323,LiveRamp Data Marketplace,Marketing Management,6
+2324,Experian Standard,Video Games,6
+2325,LiveRamp Data Marketplace,Banking,6
+2326,Acxiom - International,04: Drama,6
+2327,Oracle Data Marketplace,Software Development,6
+2328,Zipline (i-Behavior),Nationwide Auto Insurance,6
+2329,Zipline (i-Behavior),Personal Doctor or Personal Care Physician,6
+2330,LiveRamp Data Marketplace,Laptops,6
+2331,Oracle Data Marketplace,IT Security,6
+2332,AdAdvisor Audiences by Neustar,Cat Litter-Tidy Cats,6
+2333,Webbula,Accountant,5
+2334,Oracle Data Marketplace,Internet for Banking,5
+2335,LiveRamp Data Marketplace,Casual,5
+2336,Acxiom,Filed Tax Returns In Past 12 Months Using Any Internet/Online Tax Preparation Program (Financial),5
+2337,Datonics,Gardening Supplies Purchase - $,5
+2338,Experian Standard,Wet Dog Food model - Expanded,5
+2339,Datonics,Gardening Supplies Power Buyer,5
+2340,Oracle Data Marketplace,Health and Beauty Store Heavy Spenders,5
+2341,Datonics,Gardening Decor Power Buyer,5
+2342,Datonics,IT,5
+2343,LiveRamp Data Marketplace,45 - 54,5
+2344,LiveRamp Data Marketplace,35 - 44,5
+2345,Oracle Data Marketplace,Infrastructure,5
+2346,Datonics,Gadget Geeks,5
+2347,LiveRamp Data Marketplace,25 - 34,5
+2348,LiveRamp Data Marketplace,18 - 24,5
+2349,Salesforce (Krux) - Dell (via Liveramp),LRC_DataStore_Krux_Dell_TechEnthusiasts_POIs,5
+2350,Oracle Data Marketplace,Use Phone Banking,5
+2351,Oracle Data Marketplace,Housewares and Furnishings,5
+2352,Webbula,2 Lines of Credit,5
+2353,Webbula,4 + Lines of Credit,5
+2354,Experian Standard,Wet Dog Food model,5
+2355,Lotame,Credit Level - Excellent [Prepackage],5
+2356,Oracle Data Marketplace,School Supplies Spenders,5
+2357,Oracle Data Marketplace,19 Gadgets Galore,5
+2358,D&B,Likely to have PC budget,5
+2359,Experian Standard,Dogs (FLA / Fair Lending Friendly),5
+2360,Experian Standard,Dog Owners - Expanded,5
+2361,Experian Standard,Dog Owners,5
+2362,Who2 by NetWise,Restaurant and Hospitality,5
+2363,Who2 by NetWise,Banking and Finance,5
+2364,Acxiom - International,02: Credit cards,5
+2365,Oracle Data Marketplace,Back to School Spenders,5
+2366,Oracle Data Marketplace,Female,5
+2367,LiveRamp Data Marketplace,"Justice, Public Order & Safety",5
+2368,LiveRamp Data Marketplace,National Security and International Affairs,5
+2369,Acxiom - International,Everday Credit Card,5
+2370,LiveRamp Data Marketplace,"Public Finance, Taxation & Monetary Policy",5
+2371,LiveRamp Data Marketplace,Role Playing Games,5
+2372,Oracle Data Marketplace,More than 10 years,5
+2373,D&B,Likely to have IT services budget,5
+2374,LiveRamp Data Marketplace,Software Developer,5
+2375,LiveRamp Data Marketplace,Storage Decision Content Downloaded,5
+2376,AdAdvisor Audiences by Neustar,Coffee Makers - Brand Owned: Black & Decker,5
+2377,Lotame,Mexico Electronics & Gadgets,5
+2378,LiveRamp Data Marketplace,Transportation & Shipping,5
+2379,AdAdvisor Audiences by Neustar,Coffee Makers - Brand Owned: Cuisinart,5
+2380,Lotame,Latin America Electronics & Gadgets,5
+2381,AdAdvisor Audiences by Neustar,Coffee Makers - Brand Owned: Hamilton Beach,5
+2382,AdAdvisor Audiences by Neustar,Coffee Makers - Brand Owned: Keurig,5
+2383,Lotame,Infogroup - Product Purchases > Video Games,5
+2384,AdAdvisor Audiences by Neustar,Coffee Makers - Brand Owned: Mr. Coffee,5
+2385,Lotame,Brazil Electronics & Gadgets,5
+2386,Oracle Data Marketplace,Office Basics,5
+2387,Oracle Data Marketplace,Online Learning,5
+2388,Experian Standard,Executive/Management,5
+2389,Webbula,Statistician,5
+2390,LiveRamp Data Marketplace,IT Infrastructure & Management Content Downloaded,5
+2391,Oracle Data Marketplace,Fast Food: Dinner,5
+2392,LiveRamp Data Marketplace,Environmental Quality & Housing Programs,5
+2393,D&B,Likely to have IT budget,5
+2394,Who2 by NetWise,Home Improvement,5
+2395,LiveRamp Data Marketplace,"Executive, Legislative & General",5
+2396,Who2 by NetWise,Home Furnishings & Decorating,5
+2397,D&B,B2B Industry > Administrative > Waste Mgmt and Remediation,5
+2398,D&B,High Spenders on IT Products & Services,5
+2399,D&B,High Capacity to Spend,5
+2400,Datonics,Fast Food Enthusiasts,5
+2401,Oracle Data Marketplace,Tech Blogs,5
+2402,Bombora,Sales > Account Management,5
+2403,Oracle Data Marketplace,Fast Food: In Store,5
+2404,Oracle Data Marketplace,Casual Dining,5
+2405,Oracle Data Marketplace,Fast Food: Lunch,5
+2406,LiveRamp Data Marketplace,Government: Economic Programs,5
+2407,Oracle Data Marketplace,Office Supplies,5
+2408,LiveRamp Data Marketplace,Engineering/Technical Management,5
+2409,LiveRamp Data Marketplace,Gamers who use PC,5
+2410,Who2 by NetWise,Dogs,5
+2411,LiveRamp Data Marketplace,Foodie,5
+2412,Webbula,Board Members,4
+2413,Webbula,"Active Military Grouping (Air Force, Army, Navy, etc)",4
+2414,comScore,Persons: 18-24,4
+2415,Who2 by NetWise,Other Pets,4
+2416,Zipline (i-Behavior),Sedan-Coupe,4
+2417,Who2 by NetWise,Ownership & Board,4
+2418,Webbula,Marines,4
+2419,Zipline (i-Behavior),Household Income-Estimated: $250K+,4
+2420,Oracle Data Marketplace,Music,4
+2421,Webbula,Health and Personal Care Stores,4
+2422,Oracle Data Marketplace,Price conscious shoppers,4
+2423,Webbula,Navy,4
+2424,Oracle Data Marketplace,Restaurants,4
+2425,Who2 by NetWise,Cats,4
+2426,Oracle Data Marketplace,Marketing Professional,4
+2427,Webbula,Coast Guard,4
+2428,Webbula,Telecommunications,4
+2429,Oracle Data Marketplace,Windows Wins Though,4
+2430,Webbula,Sheriffs,4
+2431,Oracle Data Marketplace,Sale shoppers,4
+2432,Who2 by NetWise,Education - Education Level - High School,4
+2433,Oracle Data Marketplace,Restaurant Loyal,4
+2434,Who2 by NetWise,Ownership & Board - Board of Directors,4
+2435,Oracle Data Marketplace,Restaurant Celebrator,4
+2436,Oracle Data Marketplace,Microsoft Windows,4
+2437,Oracle Data Marketplace,Professional Basketball (NBA),4
+2438,Who2 by NetWise,Education - Education Level - Post Graduate Degree,4
+2439,Webbula,Personal Care Services,4
+2440,Salesforce (Krux) - Dell (via Liveramp),LRC_DataStore_Krux_Dell_CollegeBoundStudents,4
+2441,Webbula,Air Force,4
+2442,Webbula,Army,4
+2443,comScore,Males: 18-24,4
+2444,LiveRamp Data Marketplace,Diablo (Franchise),4
+2445,LiveRamp Data Marketplace,Humble Bundle,4
+2446,LiveRamp Data Marketplace,StarCraft (Franchise),4
+2447,LiveRamp Data Marketplace,iTunes Games,4
+2448,LiveRamp Data Marketplace,World of Warcraft (Franchise),4
+2449,LiveRamp Data Marketplace,Words with Friends,4
+2450,D&B,B2B Job Function/Roles > General Management > President,4
+2451,LiveRamp Data Marketplace,Electronic Arts,4
+2452,LiveRamp Data Marketplace,Vice President (VP),4
+2453,D&B,B2B Job Function/Roles > General Management > General Management,4
+2454,LiveRamp Data Marketplace,Tower Defense Games,4
+2455,LiveRamp Data Marketplace,Tom Clancy's Rainbow 6 (Franchise),4
+2456,LiveRamp Data Marketplace,Engineering Professional Groups,4
+2457,LiveRamp Data Marketplace,The Sims (Franchise),4
+2458,LiveRamp Data Marketplace,The Legend of Zelda (Franchise),4
+2459,LiveRamp Data Marketplace,The Crew (Franchise),4
+2460,AdAdvisor Audiences by Neustar,Type of Video Game System Own/Play Playstation 4,4
+2461,AdAdvisor Audiences by Neustar,Type of Video Game System Own/Play Xbox One,4
+2462,D&B,B2B Job Function/Roles > General Management > Founder,4
+2463,D&B,B2B Job Function/Roles > General Management > CEO (Chief Executive Officer),4
+2464,LiveRamp Data Marketplace,Strategy & Simulation Games,4
+2465,AdAdvisor Audiences by Neustar,Type of Video Game System Own: Nintendo Wii,4
+2466,D&B,B2B Job Function/Roles > General Management > VP,4
+2467,LiveRamp Data Marketplace,Elder Scrolls (Franchise),4
+2468,LiveRamp Data Marketplace,Educational Services: K-12 Schools,4
+2469,LiveRamp Data Marketplace,Detroit: Become Human,4
+2470,Oracle Data Marketplace,"$150,000-$199,999",4
+2471,Acxiom - International,Accommodation and Food Services,4
+2472,LiveRamp Data Marketplace,Candy Crush Soda Saga,4
+2473,LiveRamp Data Marketplace,Clash Royale,4
+2474,LiveRamp Data Marketplace,Crash Bandicoot (Franchise),4
+2475,D&B,B2B Job Function/Roles > Research & Development > Project Management,4
+2476,D&B,B2B Job Function/Roles > Research & Development > Engineering,4
+2477,LiveRamp Data Marketplace,Destiny (Franchise),4
+2478,AdAdvisor Audiences by Neustar,Cruise Ship Vacation-Amt Spent Per Person Last Cruise: $2k-$3k,4
+2479,AdAdvisor Audiences by Neustar,"Life Insurance Value-$500,000 Or More",4
+2480,LiveRamp Data Marketplace,Dota 2,4
+2481,AdAdvisor Audiences by Neustar,Fast Food Restaurant-Visit Most Last 30Day-Dunkin' Donuts,4
+2482,LiveRamp Data Marketplace,EA Sports,4
+2483,AdAdvisor Audiences by Neustar,Foreign Travel-Last Trip-Airline Last 3 Years: Delta,4
+2484,LiveRamp Data Marketplace,EA Sports FIFA (Franchise),4
+2485,LiveRamp Data Marketplace,EA Sports Madden NFL,4
+2486,AdAdvisor Audiences by Neustar,"HH Income: $150,000+",4
+2487,LiveRamp Data Marketplace,Educational Services: Colleges & Universities,4
+2488,LiveRamp Data Marketplace,Steam,4
+2489,LiveRamp Data Marketplace,StarCityGames.com,4
+2490,LiveRamp Data Marketplace,COO (Chief Operations Officer),4
+2491,LiveRamp Data Marketplace,Star Wars: Battlefront (Franchise),4
+2492,LiveRamp Data Marketplace,Google Stadia,4
+2493,LiveRamp Data Marketplace,Green Man Gaming,4
+2494,D&B,B2B Job Function/Roles > Computing & IT > Systems Administration & Engineering,4
+2495,LiveRamp Data Marketplace,Need for Speed (Franchise),4
+2496,LiveRamp Data Marketplace,NBA 2K (Franchise),4
+2497,D&B,B2B Job Function/Roles > Computing & IT > Network Administration & Engineering,4
+2498,LiveRamp Data Marketplace,Minecraft,4
+2499,D&B,B2B Job Function/Roles > Computing & IT > Information Security,4
+2500,LiveRamp Data Marketplace,Hidden Object Games,4
+2501,Bombora,Small Business Decision Maker,4
+2502,D&B,B2B Job Function/Roles > Computing & IT > Database Administration & Design,4
+2503,LiveRamp Data Marketplace,Mario Kart (Franchise),4
+2504,LiveRamp Data Marketplace,Manufacturing Professional Groups,4
+2505,LiveRamp Data Marketplace,MMORPG Games,4
+2506,LiveRamp Data Marketplace,League of Legends,4
+2507,LiveRamp Data Marketplace,Labor Day & End of Summer Sales Shoppers,4
+2508,LiveRamp Data Marketplace,Labor Day,4
+2509,D&B,B2B Job Function/Roles > Computing & IT > Data Management,4
+2510,D&B,B2B Industry > Educational Services,4
+2511,LiveRamp Data Marketplace,Gaming Fanatics,4
+2512,LiveRamp Data Marketplace,Origin,4
+2513,LiveRamp Data Marketplace,GSN Casino,4
+2514,Bombora,"$250,000+",4
+2515,LiveRamp Data Marketplace,Square Enix,4
+2516,LiveRamp Data Marketplace,Sonic the Hedgehog,4
+2517,AdAdvisor Audiences by Neustar,Type of Video Game System Own: PlayStation 3,4
+2518,LiveRamp Data Marketplace,Epic Games,4
+2519,AdAdvisor Audiences by Neustar,Type of Video Game System Own: XBOX 360,4
+2520,LiveRamp Data Marketplace,Sid Meier's Civilization (Franchise),4
+2521,LiveRamp Data Marketplace,Shooter Games,4
+2522,LiveRamp Data Marketplace,Far Cry (Franchise),4
+2523,LiveRamp Data Marketplace,Resident Evil (Game Franchise),4
+2524,LiveRamp Data Marketplace,GOG.com,4
+2525,LiveRamp Data Marketplace,Puzzle & Trivia Games,4
+2526,LiveRamp Data Marketplace,Pokemon GO,4
+2527,LiveRamp Data Marketplace,Pokemon (Franchise),4
+2528,LiveRamp Data Marketplace,PlayerUnknown's Battlegrounds,4
+2529,LiveRamp Data Marketplace,Platformer Games,4
+2530,LiveRamp Data Marketplace,Final Fantasy (Franchise),4
+2531,LiveRamp Data Marketplace,Finance & Accounting Professional Groups,4
+2532,LiveRamp Data Marketplace,Fortnite,4
+2533,LiveRamp Data Marketplace,Call of Duty (Franchise),4
+2534,D&B,B2B Seniority > Non-management,4
+2535,LiveRamp Data Marketplace,Arcade Games,4
+2536,Oracle Data Marketplace,Black Friday & Cyber Monday Shoppers,4
+2537,Acxiom,Vehicle - New Car Buyer,4
+2538,LiveRamp Data Marketplace,Amazon Video Games,4
+2539,Acxiom,Socially Influenced,4
+2540,Oracle Data Marketplace,Europe: High Spenders,4
+2541,Oracle Data Marketplace,Fantasy Football,4
+2542,Oracle Data Marketplace,"Australia, New Zealand, Oceania: High Spenders",4
+2543,LiveRamp Data Marketplace,Activision,4
+2544,LiveRamp Data Marketplace,Action & Adventure Games,4
+2545,Acxiom,25-34,4
+2546,Oracle Data Marketplace,"HHI: $150,000-$199,999",4
+2547,Experian Standard,Cat Owners,4
+2548,Experian Standard,Cat Owners - Expanded,4
+2549,LiveRamp Data Marketplace,2K Games,4
+2550,Oracle Data Marketplace,Fast Food: Online,4
+2551,Acxiom,LG Electronics,4
+2552,Oracle Data Marketplace,Coupon users,4
+2553,Oracle Data Marketplace,Computer Intenders,4
+2554,Oracle Data Marketplace,Cat Product Buyers,4
+2555,Oracle Data Marketplace,"HHI: $125,000-$149,999",4
+2556,Oracle Data Marketplace,Climate Control and Air Quality,4
+2557,LiveRamp Data Marketplace,Assassin's Creed (Gaming Franchise),4
+2558,LiveRamp Data Marketplace,Blizzard Entertainment,4
+2559,Experian Standard,New Job,4
+2560,LiveRamp Data Marketplace,Battlefield (Franchise),4
+2561,Experian Standard,Non-traditional Student,4
+2562,Oracle Data Marketplace,"HHI: $200,000-$249,999",4
+2563,Experian Standard,"$150,000+",4
+2564,LiveRamp Data Marketplace,Business Professional Groups,4
+2565,Oracle Data Marketplace,Home Decorating,4
+2566,Datonics,Black Friday,4
+2567,Experian Standard,Traveled for Business in last 12 months - Expanded,4
+2568,Oracle Data Marketplace,"Deodorants, Feminine Hygiene & Miscellaneous Personal Care",4
+2569,Acxiom,Fine Dining Restaurant,4
+2570,Oracle Data Marketplace,"HHI: $250,000-$399,999",4
+2571,Oracle Data Marketplace,25-34,4
+2572,Oracle Data Marketplace,Solution Providers,3
+2573,LiveRamp Data Marketplace,Fashion Designers & Collections,3
+2574,Webbula,Career Enthusiast,3
+2575,LiveRamp Data Marketplace,Finance Staff,3
+2576,Experian Standard,In Market First Mortgage,3
+2577,Datonics,Employees 101 to 1000,3
+2578,Experian Standard,In Market New Mortgage,3
+2579,LiveRamp Data Marketplace,Fashion Modeling,3
+2580,Webbula,Business Opportunities,3
+2581,Webbula,Career Improvement,3
+2582,D&B,Environmental Quality,3
+2583,Datonics,Mid-Level,3
+2584,Datonics,Environment Conscious,3
+2585,Datonics,Green Awareness,3
+2586,Webbula,Plants and Flowers Enthusiast,3
+2587,D&B,B2B Industry > Retail Trade > Nonstore Retailers,3
+2588,Webbula,Gaming Enthusiast,3
+2589,Webbula,Financial Newsletters,3
+2590,Webbula,Entrepreneurs,3
+2591,Oracle Data Marketplace,Service Only Providers,3
+2592,Datonics,Virtual Reality,3
+2593,Experian Standard,25+,3
+2594,Datonics,Online Streaming Content Consumers,3
+2595,Zipline (i-Behavior),Female,3
+2596,Datonics,Online Games,3
+2597,Datonics,Nintendo,3
+2598,Zipline (i-Behavior),Employer Sponsored Health Insurance Likely,3
+2599,Datonics,Employees 1001 to 5000,3
+2600,Datonics,IT / Engineering > Managerial Position,3
+2601,LiveRamp Data Marketplace,Gaming Enthusiasts,3
+2602,Datonics,IT / Engineering,3
+2603,LiveRamp Data Marketplace,Gamers,3
+2604,D&B,B2B Job Function/Roles > Executives,3
+2605,Oracle Data Marketplace,Sporting Events,3
+2606,Datonics,Android Enthusiasts,3
+2607,Oracle Data Marketplace,Sports,3
+2608,LiveRamp Data Marketplace,Accounting Management,3
+2609,LiveRamp Data Marketplace,Administrative/Management,3
+2610,Zipline (i-Behavior),"Business, Investing",3
+2611,D&B,Human Resources,3
+2612,LiveRamp Data Marketplace,Art Enthusiasts,3
+2613,D&B,Housing and Urban Planning,3
+2614,D&B,Government,3
+2615,Who2 by NetWise,"Software,Technology and Information Services",3
+2616,D&B,B2B Predictive Analytics > Technology > Likely to have IT budget,3
+2617,Oracle Data Marketplace,Technology,3
+2618,D&B,B2B Predictive Analytics > Technology > Likely to have IT services budget,3
+2619,D&B,B2B Predictive Analytics > Technology > Likely to have hardware budget,3
+2620,D&B,B2B Industry > Finance and Insurance > Retail Banking,3
+2621,LiveRamp Data Marketplace,CxO Conferences,3
+2622,LiveRamp Data Marketplace,Avid Gamers - Propensity,3
+2623,LiveRamp Data Marketplace,Couture Fashion,3
+2624,LiveRamp Data Marketplace,College Students,3
+2625,Oracle Data Marketplace,Travel,3
+2626,LiveRamp Data Marketplace,Casual & Social Gamers,3
+2627,D&B,Executive and Legislative,3
+2628,LiveRamp Data Marketplace,Accounting Staff,3
+2629,Oracle Data Marketplace,System Integrations,3
+2630,Datonics,Employees - over 5000,3
+2631,Oracle Data Marketplace,iOS (iPhone),3
+2632,Datonics,Computer Games,3
+2633,Datonics,C Level Executives,3
+2634,Datonics,Apple Enthusiasts,3
+2635,Experian Standard,Video Gamer,3
+2636,D&B,Economic Programs,3
+2637,LiveRamp Data Marketplace,"$125,000 - $149,999",3
+2638,D&B,Small Business Decision Makers,3
+2639,LiveRamp Data Marketplace,Entertainment,3
+2640,LiveRamp Data Marketplace,"$150,000 - $199,999",3
+2641,LiveRamp Data Marketplace,"$200,000 - $249,999",3
+2642,Webbula,Accommodation and Food Services,3
+2643,LiveRamp Data Marketplace,"$250,000 - $399,999",3
+2644,Who2 by NetWise,Operations  & Manufacturing - Facilities & Maintenance,3
+2645,Who2 by NetWise,Operations  & Manufacturing - Logistics,3
+2646,D&B,National Security and International,3
+2647,LiveRamp Data Marketplace,Engineer,3
+2648,Who2 by NetWise,Retail,3
+2649,LiveRamp Data Marketplace,"$400,000+",3
+2650,D&B,"Justice, Order and Safety",3
+2651,D&B,B2B Industry > Retail Trade > CPG > Store Retailers,3
+2652,comScore,YouTube OTT Watchers - Light,3
+2653,Oracle Data Marketplace,Business News,3
+2654,Oracle Data Marketplace,Acer,3
+2655,Oracle Data Marketplace,MTSI (Mid-Tier System Integrators),3
+2656,Oracle Data Marketplace,Career & Work,3
+2657,comScore,Hulu OTT Watchers,3
+2658,comScore,Streaming DVR Paid Subscription - Light,3
+2659,LiveRamp Data Marketplace,IT Professionals,3
+2660,Acxiom,Other Personal Care Service Providers,3
+2661,Acxiom,Other Type of Business,3
+2662,comScore,YouTube OTT Watchers,3
+2663,Acxiom,PlayStation,3
+2664,comScore,Cord Cutter,3
+2665,Oracle Data Marketplace,Android,3
+2666,Acxiom,Wii,3
+2667,Acxiom,Wireless Device Fans,3
+2668,Oracle Data Marketplace,60% - 70%,3
+2669,comScore,Hulu OTT Watchers - Light,3
+2670,Oracle Data Marketplace,52 - 59 Retail Trade,3
+2671,Acxiom,Xbox,3
+2672,comScore,Amazon OTT Watchers - Light,3
+2673,comScore,Amazon OTT Watchers - Heavy,3
+2674,comScore,Amazon OTT Watchers,3
+2675,Oracle Data Marketplace,18-24,3
+2676,Acxiom - International,04: Bird,3
+2677,Oracle Data Marketplace,Music Concerts,3
+2678,Acxiom - International,Ferrari Bugatti Maserati and other luxury cars - low probability,3
+2679,Lotame,Xbox 360 Users [PrePackage],3
+2680,Lotame,Video Games [PrePackage],3
+2681,AdAdvisor Audiences by Neustar,CORP 16- Pharmacies,3
+2682,Oracle Data Marketplace,Network Administrator,3
+2683,comScore,Hulu OTT Watchers - Heavy,3
+2684,Acxiom,Green Living,3
+2685,AdAdvisor Audiences by Neustar,Company Size: 500+ employees,3
+2686,Oracle Data Marketplace,Liberty Media,3
+2687,Acxiom,Career,3
+2688,Oracle Data Marketplace,Food,3
+2689,Oracle Data Marketplace,Fitness Instruction & Personal Training,3
+2690,Oracle Data Marketplace,Green Living,3
+2691,Oracle Data Marketplace,Financial,3
+2692,Acxiom,Environmental Issues,3
+2693,comScore,Premium Rentals - Light,3
+2694,Oracle Data Marketplace,Fashion,3
+2695,Oracle Data Marketplace,HP (Hewlett Packard),3
+2696,comScore,Premium Rentals - Heavy,3
+2697,Oracle Data Marketplace,Environmental Issues,3
+2698,Oracle Data Marketplace,Lenovo,3
+2699,Oracle Data Marketplace,Entertainment,3
+2700,comScore,Premium Rentals,3
+2701,comScore,Streaming DVR Paid Subscription - Heavy,3
+2702,Oracle Data Marketplace,Education,3
+2703,comScore,Premium Paid Subscription - Light,3
+2704,comScore,Streaming DVR Paid Subscription,3
+2705,Oracle Data Marketplace,Economic Issues,3
+2706,comScore,Premium Paid Subscription - Heavy,3
+2707,comScore,Premium Paid Subscription,3
+2708,comScore,OTT SVOD Watchers - Light,3
+2709,comScore,OTT SVOD Watchers - Heavy,3
+2710,comScore,OTT SVOD Watchers,3
+2711,comScore,Netflix OTT Watchers - Light,3
+2712,Oracle Data Marketplace,Health,3
+2713,comScore,Netflix OTT Watchers - Heavy,3
+2714,comScore,Netflix OTT Watchers,3
+2715,Lotame,Trendsetters [Prepackage],3
+2716,Acxiom,Bird,3
+2717,Lotame,Style & Fashion [PrePackage],3
+2718,AdAdvisor Audiences by Neustar,Gamers,3
+2719,Lotame,College Students [PrePackage],3
+2720,AdAdvisor Audiences by Neustar,Listen to Spanish Radio,3
+2721,AdAdvisor Audiences by Neustar,MICRO 38- Retail,3
+2722,Bombora,Retail & Shopping > Drug Stores & Pharmacies,3
+2723,LiveRamp Data Marketplace,Online Gamers,3
+2724,AdAdvisor Audiences by Neustar,Online Purchase Video Games And Consoles Last 3 Months,3
+2725,AdAdvisor Audiences by Neustar,Read Spanish Magazine,3
+2726,AdAdvisor Audiences by Neustar,Retail,3
+2727,AdAdvisor Audiences by Neustar,"SMALL 33- Pharmacies, Cosmetics",3
+2728,AdAdvisor Audiences by Neustar,SOHO 16- Retail Soft Goods And Misc. Retail,3
+2729,AdAdvisor Audiences by Neustar,Social Responsibility Enthusiast,3
+2730,LiveRamp Data Marketplace,Online Gamers - Propensity,3
+2731,Bombora,Retail & Shopping > Apparel & Fashion,3
+2732,Oracle Data Marketplace,Pharmaceuticals,3
+2733,Bombora,Retail & Shopping & Shopping > Consumer Electronics,3
+2734,Oracle Data Marketplace,Pharmacy and Drug Stores,3
+2735,Zipline (i-Behavior),Retail,3
+2736,LiveRamp Data Marketplace,Small Business Top Executives,3
+2737,AdAdvisor Audiences by Neustar,Watch Spanish Language TV,3
+2738,Oracle Data Marketplace,Prefers Takeout to Cooking,3
+2739,LiveRamp Data Marketplace,PC Gamers,3
+2740,Bombora,Retail & Shopping,3
+2741,Bombora,Healthcare > Pharmaceuticals,3
+2742,Bombora,Retail & Shopping > Home Improvement & Hardware,3
+2743,AdAdvisor Audiences by Neustar,Graphic Design,3
+2744,Bombora,"Retail & Shopping > Motor Vehicles, Automobiles & Cars",3
+2745,LiveRamp Data Marketplace,Mid-core Female Gamers,3
+2746,Lotame,Media & Internet,3
+2747,Lotame,Latin America - Social Media,3
+2748,Lotame,Handheld Games [Prepackage],3
+2749,comScore,YouTube OTT Watchers - Heavy,3
+2750,Lotame,Government,3
+2751,LiveRamp Data Marketplace,Information Technology (IT),3
+2752,AdAdvisor Audiences by Neustar,Credit Card Type Have-Discover,3
+2753,LiveRamp Data Marketplace,Mid-core Male Gamers,3
+2754,LiveRamp Data Marketplace,Music Enthusiasts,3
+2755,Lotame,Online Games [PrePackage],3
+2756,AdAdvisor Audiences by Neustar,Employment Industry: Wholesale & Retail Trade,3
+2757,Lotame,Content Sharers [Prepackage],3
+2758,Lotame,Console Games [PrePackage],3
+2759,Bombora,Retail > Apparel & Fashion,3
+2760,Equifax / IXI,General Manager,2
+2761,Datonics,Telecommunications,2
+2762,Equifax / IXI,Government Professional,2
+2763,Equifax / IXI,Educator,2
+2764,Webbula,Retail,2
+2765,Equifax / IXI,General Counsel,2
+2766,comScore,Starz Comedy,2
+2767,Equifax / IXI,General Management,2
+2768,Equifax / IXI,Doctor,2
+2769,Equifax / IXI,Founder,2
+2770,Equifax / IXI,Executive Officer,2
+2771,Datonics,Shopper Moms,2
+2772,Datonics,Owner / VP,2
+2773,Datonics,Thanksgiving,2
+2774,Equifax / IXI,Administrator,2
+2775,Equifax / IXI,Customer Service Representative,2
+2776,Equifax / IXI,Auditor,2
+2777,Equifax / IXI,Chief Operating Officer (COO),2
+2778,Equifax / IXI,Chief Marketing Officer,2
+2779,Equifax / IXI,Chief Investment Officer,2
+2780,Who2 by NetWise,Banking and Finance - Banking,2
+2781,Equifax / IXI,Chief Information Officer (CIO),2
+2782,Acxiom,3 weeks to 1 month before school starts,2
+2783,Equifax / IXI,Chief Executive Officer (CEO),2
+2784,Equifax / IXI,Chancellor,2
+2785,Equifax / IXI,Chairman,2
+2786,Equifax / IXI,C_Suite,2
+2787,Equifax / IXI,Chief Risk Officer,2
+2788,Equifax / IXI,Broker,2
+2789,Equifax / IXI,Board Member,2
+2790,Equifax / IXI,Attorney,2
+2791,Equifax / IXI,Corporate Secretary,2
+2792,Equifax / IXI,Chief Technical Officer (CTO),2
+2793,Equifax / IXI,Associate,2
+2794,Equifax / IXI,Consultant,2
+2795,Acxiom,1-2 weeks before school starts,2
+2796,Equifax / IXI,Assistant,2
+2797,Equifax / IXI,Architect,2
+2798,Equifax / IXI,Chief Purchasing Officer,2
+2799,Equifax / IXI,Consultants,2
+2800,Equifax / IXI,Controller,2
+2801,Equifax / IXI,Administration Executive,2
+2802,Equifax / IXI,Corporate Communications Executive,2
+2803,Equifax / IXI,Accountant,2
+2804,Equifax / IXI,Account Executive,2
+2805,Equifax / IXI,Chief Financial Officer (CFO),2
+2806,Webbula,Other Miscellaneous Store Retailers,2
+2807,Datonics,Male,2
+2808,Bombora,Engineering > Chemical,2
+2809,Acxiom - International,25 to 34,2
+2810,D&B,CMO (Chief Marketing Officer),2
+2811,Zipline (i-Behavior),Age: 18-24,2
+2812,AdAdvisor Audiences by Neustar,25-34 Female,2
+2813,AdAdvisor Audiences by Neustar,25-34 Male,2
+2814,Zipline (i-Behavior),Telecom,2
+2815,D&B,B2B Job Function/Roles > Research & Development,2
+2816,D&B,B2B Job Function/Roles > Marketing > Advertising,2
+2817,AdAdvisor Audiences by Neustar,Male,2
+2818,Bombora,Age 18-24,2
+2819,Bombora,Age 25-34,2
+2820,Bombora,Engineering > Electronics,2
+2821,Zipline (i-Behavior),25-34 Yrs Old,2
+2822,Bombora,Engineering > Mechanical,2
+2823,Bombora,Government > Elected Officials,2
+2824,Bombora,Male,2
+2825,D&B,B2B Job Function/Roles > Finance > Procurement,2
+2826,Bombora,Spanish,2
+2827,Bombora,Telecommunications,2
+2828,Bombora,Telecommunications > Cable & Satellite,2
+2829,Bombora,Telecommunications > ISPs,2
+2830,D&B,B2B Industry > Telecommunications > Wired Telecommunications,2
+2831,D&B,B2B Industry > Telecommunications > Telecommunications,2
+2832,Bombora,Telecommunications > Telephony & Wireless,2
+2833,Acxiom - International,18 to 24,2
+2834,Zipline (i-Behavior),25 to 34 years,2
+2835,Who2 by NetWise,Gender - Male,2
+2836,D&B,Product/Market Management,2
+2837,Acxiom,Electronics Store,2
+2838,Who2 by NetWise,Healthcare and Health Services,2
+2839,Who2 by NetWise,Healthcare and Health Services - Hospitals and Specialty Clinics,2
+2840,Datonics,Cyber Week,2
+2841,Datonics,Christmas,2
+2842,Acxiom,Filed Tax Returns After IRS Deadline In the Past 12 Months (Financial),2
+2843,D&B,Telecommunications,2
+2844,Who2 by NetWise,Male,2
+2845,D&B,Sales & Marketing Professionals,2
+2846,D&B,Sales & Marketing Decision Makers,2
+2847,comScore,Males: 25-34,2
+2848,D&B,Marketing,2
+2849,Zipline (i-Behavior),18-24 Yrs Old,2
+2850,D&B,Marcomm,2
+2851,Acxiom,Movies and Music,2
+2852,Acxiom,Office Supplies Store,2
+2853,comScore,Females: 25-34,2
+2854,comScore,Females: 18-24,2
+2855,Acxiom,Thrift Stores/Resale Shops,2
+2856,Who2 by NetWise,Technology Use - Cloud Computing - Cloud Infrastructure Computing,2
+2857,Who2 by NetWise,Telecommunications,2
+2858,D&B,General Marketing,2
+2859,Who2 by NetWise,Video Games,2
+2860,Zipline (i-Behavior),18 to 24 years,2
+2861,Equifax / IXI,Human Resources Executive,2
+2862,Experian Standard,"$200,000+",2
+2863,Webbula,Nonstore Retailers,2
+2864,Oracle Data Marketplace,Online Consumer Electronics High Spenders,2
+2865,Oracle Data Marketplace,18-24 Years,2
+2866,Oracle Data Marketplace,25-34 Years,2
+2867,Oracle Data Marketplace,Millennials,2
+2868,Oracle Data Marketplace,Adobe Summit,2
+2869,Oracle Data Marketplace,Age 18-24,2
+2870,Oracle Data Marketplace,Always on Their Smartphone,2
+2871,Oracle Data Marketplace,Apparel (Clothing),2
+2872,Oracle Data Marketplace,Apple Worldwide Developers Conference (WWDC),2
+2873,Oracle Data Marketplace,Attends Online Education Courses,2
+2874,Webbula,Additional Occupants from 18 - 24 years old.,2
+2875,Webbula,Additional Occupants from 25 - 34 years old.,2
+2876,Oracle Data Marketplace,C-Level Executives,2
+2877,Oracle Data Marketplace,CES,2
+2878,Oracle Data Marketplace,Males 25-34,2
+2879,Experian Standard,O55 - Family Troopers,2
+2880,Experian Standard,O54 - Influenced by Influencers,2
+2881,Experian Standard,O53 - Colleges and Cafes,2
+2882,Experian Standard,O52 - Urban Ambition,2
+2883,Experian Standard,O51 - Digitally Savvy,2
+2884,Experian Standard,O50 - Full Steam Ahead,2
+2885,Oracle Data Marketplace,Caucasian,2
+2886,Experian Standard,Male,2
+2887,Oracle Data Marketplace,Chief Administrative Officers (CAO),2
+2888,Oracle Data Marketplace,Chief Planning Officers (CPO),2
+2889,Webbula,Business Owner,2
+2890,Experian Standard,G25 - Urban Edge,2
+2891,Oracle Data Marketplace,Consumer Electronics Frequent Spenders,2
+2892,Oracle Data Marketplace,Cruises: High Spenders,2
+2893,Oracle Data Marketplace,CxO Conferences,2
+2894,Webbula,18 - 24 year olds,2
+2895,Lotame,Computers & Technology [PrePackage],2
+2896,Oracle Data Marketplace,Dell World,2
+2897,Oracle Data Marketplace,Online Gift Shoppers High Spenders,2
+2898,Oracle Data Marketplace,School Supplies,2
+2899,Oracle Data Marketplace,Retailers,2
+2900,LiveRamp Data Marketplace,Online Education,2
+2901,LiveRamp Data Marketplace,Human Resource Programs,2
+2902,Oracle Data Marketplace,Reality TV Shows Enthusiasts,2
+2903,LiveRamp Data Marketplace,Household Income $150k+,2
+2904,LiveRamp Data Marketplace,"Household Income $141,000 - $150,000",2
+2905,LiveRamp Data Marketplace,"Household Income $131,000 - $140000",2
+2906,LiveRamp Data Marketplace,"Household Income $121,000 - $130,000",2
+2907,LiveRamp Data Marketplace,"Household Income $111,000 - $120000",2
+2908,LiveRamp Data Marketplace,"Household Income $101,000 - $110,000",2
+2909,LiveRamp Data Marketplace,Household Income $100k+,2
+2910,Oracle Data Marketplace,Software,2
+2911,LiveRamp Data Marketplace,Engineering/Technical Staff,2
+2912,Oracle Data Marketplace,Strategic Planning and Business Development Professionals,2
+2913,Oracle Data Marketplace,Tablets & eReaders,2
+2914,Equifax / IXI,Library Professional,2
+2915,Oracle Data Marketplace,Takes Online Education Course,2
+2916,LiveRamp Data Marketplace,Seasonal - Black Friday Shoppers,2
+2917,Oracle Data Marketplace,Tech Crunch Disrupt,2
+2918,LiveRamp Data Marketplace,Small Business,2
+2919,LiveRamp Data Marketplace,Dell Buyer Propensity,2
+2920,Oracle Data Marketplace,Teens,2
+2921,Oracle Data Marketplace,Telecommunications,2
+2922,LiveRamp Data Marketplace,Supply Chain Manager,2
+2923,Oracle Data Marketplace,Personal Care Services,2
+2924,Oracle Data Marketplace,Oracle Open World,2
+2925,Oracle Data Marketplace,Value Added Resellers (VAR),2
+2926,Lotame,Computers & Software [PrePackage],2
+2927,Experian Standard,G24 - Ambitious Singles,2
+2928,Oracle Data Marketplace,Microsoft Ignite,2
+2929,Oracle Data Marketplace,Desktops & Laptops,2
+2930,Equifax / IXI,Publisher,2
+2931,Experian Standard,"$100,000-$124,999",2
+2932,Experian Standard,"$100,000+",2
+2933,Equifax / IXI,Vice President Sales,2
+2934,Equifax / IXI,Vice President Purchasing,2
+2935,Equifax / IXI,Officer,2
+2936,Equifax / IXI,Owner,2
+2937,Equifax / IXI,Partner,2
+2938,Equifax / IXI,Plant Manager,2
+2939,Oracle Data Marketplace,IT/Technology,2
+2940,Equifax / IXI,President,2
+2941,Equifax / IXI,Principal,2
+2942,Equifax / IXI,Vice Chairman,2
+2943,Equifax / IXI,Professional,2
+2944,Equifax / IXI,Public Relations Professional,2
+2945,Webbula,Government,2
+2946,Experian Standard,"$175,000+",2
+2947,Equifax / IXI,Treasurer,2
+2948,Equifax / IXI,Telecommunication Executive,2
+2949,Equifax / IXI,Superintendent,2
+2950,Equifax / IXI,Strategic Planning Executive,2
+2951,Oracle Data Marketplace,Distance and Online Education,2
+2952,Equifax / IXI,Shareholder,2
+2953,Equifax / IXI,Real Estate Agent,2
+2954,Equifax / IXI,Religious Leader,2
+2955,Equifax / IXI,Sales Executive,2
+2956,Oracle Data Marketplace,Home Schooling,2
+2957,Equifax / IXI,Sales Marketing,2
+2958,Equifax / IXI,Senior Vice President Sales,2
+2959,Equifax / IXI,Senior Vice President Marketing,2
+2960,Equifax / IXI,Sales and Marketing Decision Influencer,2
+2961,Experian Standard,"$125,000+",2
+2962,Equifax / IXI,Secretary,2
+2963,Experian Standard,"$175,000-$199,999",2
+2964,Oracle Data Marketplace,Females 25-34,2
+2965,Experian Standard,30-34,2
+2966,Experian Standard,35-39,2
+2967,Equifax / IXI,Medical Professional,2
+2968,Experian Standard,40-44,2
+2969,Oracle Data Marketplace,Kids Under 12,2
+2970,Oracle Data Marketplace,Fish,2
+2971,Oracle Data Marketplace,Females 18-24,2
+2972,Experian Standard,25-29,2
+2973,Oracle Data Marketplace,Executive/C-Suite,2
+2974,Oracle Data Marketplace,Electronic Resellers,2
+2975,Equifax / IXI,Mayor,2
+2976,Oracle Data Marketplace,Dreamforce (Salesforce),2
+2977,Experian Standard,40-49,2
+2978,Equifax / IXI,Marketing Executive,2
+2979,Experian Standard,25-54,2
+2980,Experian Standard,30-39,2
+2981,Oracle Data Marketplace,Kids Lunchbox Packers,2
+2982,Experian Standard,19-24,2
+2983,Oracle Data Marketplace,Gift Shoppers Spenders,2
+2984,Equifax / IXI,Member,2
+2985,Oracle Data Marketplace,Gen Z,2
+2986,Oracle Data Marketplace,In Store Consumer Electronics High Spenders,2
+2987,Oracle Data Marketplace,Gaming Desktop or Laptop Computer (PC),2
+2988,Oracle Data Marketplace,In Store Gift Shoppers High Spenders,2
+2989,Oracle Data Marketplace,Portable Computer Memory,1
+2990,LiveRamp Data Marketplace,PC Gamers (Mobile),1
+2991,LiveRamp Data Marketplace,Servers,1
+2992,Bombora,Engineering > Civil,1
+2993,Oracle Data Marketplace,Home Entertaining,1
+2994,LiveRamp Data Marketplace,Security,1
+2995,LiveRamp Data Marketplace,Mercedes,1
+2996,Zipline (i-Behavior),Music,1
+2997,Bombora,Engineering > Biomedical,1
+2998,LiveRamp Data Marketplace,Networking,1
+2999,LiveRamp Data Marketplace,Printing,1
+3000,LiveRamp Data Marketplace,New Business / Startups,1
+3001,LiveRamp Data Marketplace,Phone & Computer Game Downloaders (Web),1
+3002,LiveRamp Data Marketplace,Owner,1
+3003,Bombora,Operations > Facilities,1
+3004,Bombora,Media & Internet > Movie & Video,1
+3005,Bombora,Operations > Customer Relations,1
+3006,LiveRamp Data Marketplace,"Software, Technology & Information Systems Industry",1
+3007,Bombora,Operations > Change Management,1
+3008,Bombora,Engineering > Industrial,1
+3009,Bombora,Operations > Logistics,1
+3010,Oracle Data Marketplace,Quick Service & Fast Food,1
+3011,Bombora,Female,1
+3012,LiveRamp Data Marketplace,Phone & Computer Game Downloaders (Mobile),1
+3013,LiveRamp Data Marketplace,Personal Computer,1
+3014,LiveRamp Data Marketplace,PC Gamers (Web),1
+3015,Bombora,Operations > Compliance,1
+3016,AdAdvisor Audiences by Neustar,Investment Leader: Average,1
+3017,AdAdvisor Audiences by Neustar,Type of Video Game System Own: Online Computer Games,1
+3018,AdAdvisor Audiences by Neustar,Type of Video Game System Own: Offline Computer Games,1
+3019,Acxiom - International,Retail Trade,1
+3020,Acxiom - International,Personal Care,1
+3021,Acxiom - International,Hospitality,1
+3022,Oracle Data Marketplace,$100K - $125K,1
+3023,Oracle Data Marketplace,$125K - $150K,1
+3024,Oracle Data Marketplace,$150K - $175K,1
+3025,Oracle Data Marketplace,$175K - $200K,1
+3026,Oracle Data Marketplace,$200K - $250K,1
+3027,Oracle Data Marketplace,More than $250K,1
+3028,LiveRamp Data Marketplace,Marketing Professional Groups,1
+3029,Oracle Data Marketplace,Hardware (Basic),1
+3030,Oracle Data Marketplace,Big City Millennials,1
+3031,Oracle Data Marketplace,Big Data Database,1
+3032,Oracle Data Marketplace,Black Friday and Cyber Monday Shoppers,1
+3033,Oracle Data Marketplace,Breakfast Foods,1
+3034,Oracle Data Marketplace,Males 18-24,1
+3035,Oracle Data Marketplace,Collaboration,1
+3036,Oracle Data Marketplace,Computer Accessories,1
+3037,Oracle Data Marketplace,London,1
+3038,Oracle Data Marketplace,Database Management Software,1
+3039,Oracle Data Marketplace,Databases,1
+3040,Acxiom - International,Trade Retail,1
+3041,Lotame,United States Male 18-24,1
+3042,Lotame,United States Female 18-24,1
+3043,Lotame,Australia Female 25-34,1
+3044,LiveRamp Data Marketplace,Storage,1
+3045,LiveRamp Data Marketplace,Tech Enthusiast,1
+3046,LiveRamp Data Marketplace,Tech Enthusiast - Precise,1
+3047,Oracle Data Marketplace,Internet and Networking Equipment,1
+3048,LiveRamp Data Marketplace,Transportation & Public Utilities Industry,1
+3049,LiveRamp Data Marketplace,VP,1
+3050,LiveRamp Data Marketplace,Virtualization,1
+3051,LiveRamp Data Marketplace,Wholesale Trade Industry,1
+3052,Lotame,Age : 25-34 [PrePackage],1
+3053,Lotame,Canada Female 18-24,1
+3054,Lotame,United Kingdom Male 18-24,1
+3055,Lotame,Canada Female 25-34,1
+3056,AdAdvisor Audiences by Neustar,Female,1
+3057,AdAdvisor Audiences by Neustar,Fast Food Restaurant-Visit Most Last 30Day-Panera Bread,1
+3058,Lotame,Education,1
+3059,Lotame,France Female 25-34,1
+3060,Lotame,France Male 18-24,1
+3061,Lotame,Offline Brand Purchasers - Dove (Personal Care),1
+3062,Oracle Data Marketplace,Networking Infrastructure,1
+3063,Lotame,Telecommunications,1
+3064,LiveRamp Data Marketplace,"Media, Entertainment & Publishing Industry",1
+3065,D&B,B2B Job Function/Roles > Marketing > Marketing Management,1
+3066,LiveRamp Data Marketplace,Manufacturing Industry,1
+3067,D&B,Online Interest in Virtualization Solutions,1
+3068,Datonics,Cyber Monday,1
+3069,LiveRamp Data Marketplace,$1-2M,1
+3070,D&B,Wireless and Satellite,1
+3071,D&B,Wired Telecommunications,1
+3072,D&B,Software/Information Technology,1
+3073,LiveRamp Data Marketplace,$125-150k,1
+3074,LiveRamp Data Marketplace,$150-200k,1
+3075,Webbula,Accounting,1
+3076,LiveRamp Data Marketplace,$200-250k,1
+3077,Who2 by NetWise,Manufacturing - Aviation,1
+3078,Who2 by NetWise,Manufacturing - Computer and Office Equipment,1
+3079,D&B,Packaged Software,1
+3080,D&B,Online Interest in Workstations,1
+3081,D&B,Online Interest in Virtual Storage,1
+3082,LiveRamp Data Marketplace,$400-500k,1
+3083,D&B,Online Interest in Virtual Servers,1
+3084,D&B,Online Interest in Virtual Desktops,1
+3085,D&B,Online Interest in Storage Solutions,1
+3086,LiveRamp Data Marketplace,$250-300k,1
+3087,LiveRamp Data Marketplace,$2M+,1
+3088,D&B,Online Interest in Software Development Tools,1
+3089,D&B,Online Interest in Servers,1
+3090,D&B,Online Interest in Networking Equipment & Solutions,1
+3091,D&B,Online Interest in Laptops,1
+3092,D&B,Online Interest in Internet Of Things (IOT) Solutions,1
+3093,D&B,Online Interest in Digital Transformation Solutions,1
+3094,D&B,Online Interest in Cybersecurity Solutions,1
+3095,LiveRamp Data Marketplace,$300-400k,1
+3096,Experian Standard,Music,1
+3097,Webbula,Banking,1
+3098,Webbula,Biomedical Engineering,1
+3099,Datonics,Female,1
+3100,Webbula,Pharmaceutical Industry,1
+3101,Webbula,Mechanical Engineering,1
+3102,Webbula,Wealth Management,1
+3103,Webbula,Investment Banking,1
+3104,Webbula,Industrial Engineering,1
+3105,Webbula,Electronics Engineering,1
+3106,Webbula,Electrical Engineering,1
+3107,Webbula,Education Professors,1
+3108,Who2 by NetWise,Education - Management & Administration,1
+3109,Who2 by NetWise,Education - Professors & Teachers,1
+3110,Who2 by NetWise,Engineering - Biomedical,1
+3111,Who2 by NetWise,Engineering - Civil,1
+3112,Who2 by NetWise,Engineering - Electrical,1
+3113,Who2 by NetWise,Engineering - Industrial & Mechanical,1
+3114,Who2 by NetWise,Female,1
+3115,Datonics,"Management, Business and Financial Operations",1
+3116,Who2 by NetWise,Finance - Accounting,1
+3117,Who2 by NetWise,Finance - Banking,1
+3118,Who2 by NetWise,Finance - Financial Advisors,1
+3119,Who2 by NetWise,Finance - Investment Banking,1
+3120,Experian Standard,Female,1
+3121,Who2 by NetWise,Gender - Female,1
+3122,Webbula,Civil Engineering,1
+3123,Webbula,Chemical Engineering,1
+3124,Datonics,Financial & Banking,1
+3125,Datonics,Finance > Managerial Position,1
+3126,Datonics,Finance & Banking,1
+3127,D&B,Marketing = 1,1
+3128,LiveRamp Data Marketplace,$500-750k,1
+3129,LiveRamp Data Marketplace,It Management,1
+3130,LiveRamp Data Marketplace,Healthcare & Health Services Industry,1
+3131,D&B,B2B Job Function/Roles > Research & Development > General R&D,1
+3132,LiveRamp Data Marketplace,Device Connectivity,1
+3133,D&B,B2B Job Function/Roles > Operations > Technical Support,1
+3134,D&B,B2B Job Function/Roles > Operations > Operations Management,1
+3135,D&B,B2B Job Function/Roles > Operations > General Operations,1
+3136,D&B,B2B Job Function/Roles > Marketing > Creative,1
+3137,Oracle Data Marketplace,System Security Services,1
+3138,Oracle Data Marketplace,System Analytics and Monitoring,1
+3139,LiveRamp Data Marketplace,Enterprise Technology,1
+3140,Oracle Data Marketplace,Software (Basic),1
+3141,LiveRamp Data Marketplace,Hardcore Gamers (Mobile),1
+3142,LiveRamp Data Marketplace,Hardcore Gamers (Web),1
+3143,LiveRamp Data Marketplace,Hardware,1
+3144,D&B,B2B Industry > Software/Information Technology,1
+3145,D&B,Likely to have software budget,1
+3146,D&B,B2B Industry > Healthcare,1
+3147,D&B,B2B Industry > Government > National Security and International,1
+3148,D&B,B2B Industry > Government > Justice Order and Safety,1
+3149,D&B,B2B Industry > Government > Human Resources,1
+3150,D&B,B2B Industry > Government > Housing and Urban Planning,1
+3151,D&B,B2B Industry > Government > Executive and Legislative,1
+3152,D&B,B2B Industry > Government > Environmental Quality,1
+3153,D&B,B2B Industry > Government > Economic Programs,1
+3154,D&B,B2B Industry > Educational Services > Technical and Trade Schools,1
+3155,D&B,B2B Industry > Educational Services > Elementary and Secondary,1
+3156,D&B,B2B Industry > Educational Services > Educational Support Services,1
+3157,D&B,B2B Industry > Educational Services > Business and Computer Training,1
+3158,LiveRamp Data Marketplace,It Infrastructure,1
+3159,LiveRamp Data Marketplace,Desktop,1
+3160,D&B,B2B Job Function/Roles > Sales > Sales Executives,1
+3161,LiveRamp Data Marketplace,Data Center,1
+3162,D&B,B2B Professionals > IT Professionals,1
+3163,LiveRamp Data Marketplace,$750k-1M,1
+3164,LiveRamp Data Marketplace,Alienware,1
+3165,Oracle Data Marketplace,Washers,1
+3166,D&B,High Spenders on Business Products & Services,1
+3167,LiveRamp Data Marketplace,Audi,1
+3168,Oracle Data Marketplace,Virtualization Technology,1
+3169,LiveRamp Data Marketplace,BMW,1
+3170,LiveRamp Data Marketplace,Banking & Finance Industry,1
+3171,Who2 by NetWise,Transportation and Travel,1
+3172,Who2 by NetWise,Transportation and Travel - Trucking and Logistics,1
+3173,LiveRamp Data Marketplace,Business Solutions,1
+3174,Who2 by NetWise,Wholesale,1
+3175,LiveRamp Data Marketplace,"C-Level, CEO, CMO, CTO, CIO, COO, CFO",1
+3176,LiveRamp Data Marketplace,C-level,1
+3177,LiveRamp Data Marketplace,CEO (Chief Executive Officer),1
+3178,LiveRamp Data Marketplace,CFO (Chief Financial Officer),1
+3179,D&B,Educational Support Services,1
+3180,LiveRamp Data Marketplace,CIO (Chief Information Officer),1
+3181,LiveRamp Data Marketplace,CMO (Chief Marketing Officer),1
+3182,D&B,Educational Services,1
+3183,LiveRamp Data Marketplace,CTO (Chief Technology Officer),1
+3184,D&B,Data Processing and Hosting,1
+3185,D&B,Custom Software and Design,1
+3186,D&B,Chief Officers (Other),1
+3187,LiveRamp Data Marketplace,Cloud,1
+3188,D&B,Business and Computer Training,1
+3189,LiveRamp Data Marketplace,Cloud As A Service,1
+3190,Oracle Data Marketplace,Independent Software Vendors (ISV),1
