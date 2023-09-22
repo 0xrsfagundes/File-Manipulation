@@ -1,326 +1,405 @@
-,Audience ID,Country,Dell Fiscal Quarter,Spend,Revenue,Status
-0,0,Australia,FY24Q1,340218.26740555,1379548.710249,New
-1,0,Australia,FY24Q2,1086973.1,3035876.38,Reused
-2,0,Austria,FY24Q1,24500.514454800003,5667.628000000001,Reused
-3,0,Austria,FY24Q2,18693.54,8010.62,Reused
-4,0,Belgium,FY24Q1,48199.4718624,69309.551,Reused
-5,0,Belgium,FY24Q2,53654.97,29721.71,Reused
-6,0,Brazil,FY24Q1,175753.417754194,10492.308,Reused
-7,0,Brazil,FY24Q2,2083620.27,8567082.53,Reused
-8,0,Canada,FY24Q1,2668688.990580138,25700495.975,Reused
-9,0,Canada,FY24Q2,3214504.94,16028610.940000001,Reused
-10,0,France,FY24Q1,365907.762698314,5008414.737081001,Reused
-11,0,France,FY24Q2,1495613.1,6290797.43,Reused
-12,0,Germany,FY24Q1,1037752.618323537,6952323.284099,Reused
-13,0,Germany,FY24Q2,1920767.27,12118054.57,Reused
-14,0,India,FY24Q1,148208.46817463601,6998864.199535441,Reused
-15,0,India,FY24Q2,240232.4,2250690.54,Reused
-16,0,Ireland,FY24Q1,50946.1414762,36438.8,Reused
-17,0,Ireland,FY24Q2,59625.04,109140.23000000001,Reused
-18,0,Italy,FY24Q1,84849.22644403,69087.735,Reused
-19,0,Italy,FY24Q2,78585.14,120824.27,Reused
-20,0,Japan,FY24Q1,1135198.185535184,10757805.66439893,Reused
-21,0,Japan,FY24Q2,1069053.64,9604285.38,Reused
-22,0,Korea,FY24Q1,109213.493575,43566.729999999996,Reused
-23,0,Luxembourg,FY24Q2,12923.65,0.0,Reused
-24,0,MCLA,FY24Q2,7716.889999999999,0.0,Reused
-25,0,Malaysia,FY24Q1,21064.010786123,9439.82156937,Reused
-26,0,Malaysia,FY24Q2,85330.76,11471.33,Reused
-27,0,Mexico,FY24Q1,32236.758829,159.912,Reused
-28,0,Mexico,FY24Q2,107111.94,0.0,Reused
-29,0,Netherlands,FY24Q1,250217.87620048,1320601.617488,Reused
-30,0,Netherlands,FY24Q2,250657.91,2778263.19,Reused
-31,0,New Zealand,FY24Q2,0.0,1372.45,Reused
-32,0,Norway,FY24Q1,0.0,15745.207999999999,Reused
-33,0,Norway,FY24Q2,9787.25,2161.82,Reused
-34,0,Portugal,FY24Q2,8772.0,0.0,Reused
-35,0,Singapore,FY24Q1,156056.40339332,56058.737222995,Reused
-36,0,Singapore,FY24Q2,193815.78,413455.27,Reused
-37,0,South Africa,FY24Q1,3482.467343,32905.077000000005,Reused
-38,0,South Africa,FY24Q2,29750.55,2751.98,Reused
-39,0,South Korea,FY24Q2,182500.39,198600.59000000003,Reused
-40,0,Spain,FY24Q1,203694.79336474,742246.754293,Reused
-41,0,Spain,FY24Q2,109760.65,931331.52,Reused
-42,0,Sweden,FY24Q1,119779.465615494,1783152.9947197,Reused
-43,0,Sweden,FY24Q2,168995.44,624143.3400000001,Reused
-44,0,Switzerland,FY24Q1,150087.446033192,1450821.3526608201,Reused
-45,0,Switzerland,FY24Q2,164588.53,1510249.93,Reused
-46,0,United Arab Emirates,FY24Q2,11510.689999999999,0.0,Reused
-47,0,United Kingdom,FY24Q1,948986.295563966,7938438.651512,Reused
-48,0,United Kingdom,FY24Q2,1798278.56,8908101.62,Reused
-49,0,United States,FY24Q1,24654538.74700011,317097560.323,Reused
-50,0,United States,FY24Q2,39799319.58,221875260.66,Reused
-51,CHECK,ANDEAN,FY24Q2,536.4000000000001,0.0,New
-52,CHECK,Argentina,FY24Q2,11499.53,0.0,Reused
-53,CHECK,Australia,FY24Q1,39884.131309,4609.261174,Reused
-54,CHECK,Australia,FY24Q2,286346.11,0.0,Reused
-55,CHECK,Austria,FY24Q2,1996.85,0.0,Reused
-56,CHECK,Belgium,FY24Q1,0.0,3172.365,Reused
-57,CHECK,Belgium,FY24Q2,23304.64,0.0,Reused
-58,CHECK,Brazil,FY24Q2,1697164.69,27.93,Reused
-59,CHECK,COAR,FY24Q2,1499.42,0.0,Reused
-60,CHECK,Canada,FY24Q2,88741.11,0.0,Reused
-61,CHECK,Colombia,FY24Q2,11478.39,0.0,Reused
-62,CHECK,France,FY24Q1,0.0,0.0,Reused
-63,CHECK,France,FY24Q2,29815.5,748.38,Reused
-64,CHECK,Germany,FY24Q1,0.0,126.096,Reused
-65,CHECK,Germany,FY24Q2,33378.729999999996,0.0,Reused
-66,CHECK,India,FY24Q1,0.0,0.0,Reused
-67,CHECK,India,FY24Q2,118764.6,0.0,Reused
-68,CHECK,Ireland,FY24Q2,6574.23,0.0,Reused
-69,CHECK,Italy,FY24Q1,0.0,0.0,Reused
-70,CHECK,Italy,FY24Q2,10601.32,361.83,Reused
-71,CHECK,Japan,FY24Q1,0.0,0.0,Reused
-72,CHECK,Japan,FY24Q2,0.0,0.0,Reused
-73,CHECK,Luxembourg,FY24Q2,853.95,0.0,Reused
-74,CHECK,MCLA,FY24Q2,54762.07,0.0,Reused
-75,CHECK,Malaysia,FY24Q2,11217.85,0.0,Reused
-76,CHECK,Mexico,FY24Q2,144281.71,0.0,Reused
-77,CHECK,Netherlands,FY24Q1,0.0,1124.356,Reused
-78,CHECK,Netherlands,FY24Q2,7703.93,539.4,Reused
-79,CHECK,SOCO,FY24Q2,1386.41,0.0,Reused
-80,CHECK,Singapore,FY24Q2,124438.5,11282.56,Reused
-81,CHECK,South Korea,FY24Q2,0.0,0.0,Reused
-82,CHECK,Spain,FY24Q2,8835.11,0.0,Reused
-83,CHECK,Sweden,FY24Q2,7747.5599999999995,0.0,Reused
-84,CHECK,Switzerland,FY24Q1,0.0,0.0,Reused
-85,CHECK,Switzerland,FY24Q2,31939.19,0.0,Reused
-86,CHECK,United Kingdom,FY24Q1,0.0,137.998,Reused
-87,CHECK,United Kingdom,FY24Q2,21891.12,1944.6,Reused
-88,CHECK,United States,FY24Q1,341430.110661,228125.09000000003,Reused
-89,CHECK,United States,FY24Q2,82531.91,9628.449999999999,Reused
-90,PLACEHOLDER,Canada,FY24Q2,0.0,0.0,New
-91,d10upqm9p51,United States,FY24Q1,0.0,0.0,New
-92,d10upqm9p51,United States,FY24Q2,43012.48,5604.530000000001,Reused
-93,d17vaylat7k,Canada,FY24Q2,0.0,0.0,New
-94,d199b5rvqrw,Canada,FY24Q2,0.0,0.0,New
-95,d1i2r7luz0p,United States,FY24Q2,0.0,0.0,New
-96,d1n4f7g4t1i,Canada,FY24Q2,3477.91,0.0,New
-97,d1ot58rg7eg,Canada,FY24Q2,7142.56,0.0,New
-98,d1vh6svslg2,United States,FY24Q1,1464.33,2983.95,New
-99,d1vh6svslg2,United States,FY24Q2,939.29,454.71000000000004,Reused
-100,d2duc9h7l38,United States,FY24Q1,1464.33,2496.2,New
-101,d2duc9h7l38,United States,FY24Q2,902.56,225.96,Reused
-102,d2gd0zx2wi5,United States,FY24Q2,5707.12,1019.96,New
-103,d2itkoeahg9,United States,FY24Q2,0.0,0.0,New
-104,d2vj160j3h5,United States,FY24Q2,12645.79,108094.56000000001,New
-105,d35cctaonjd,United States,FY24Q2,2851.5699999999997,11488.48,New
-106,d39g4oqyvg6,Canada,FY24Q2,2619.75,59.99,New
-107,d3y3ryqwiz0,United States,FY24Q2,0.0,0.0,New
-108,d3y9mh8fh0z,United States,FY24Q2,15451.1,2006.95,New
-109,d44ej9j7l47,United States,FY24Q1,1723.9699999999998,512.24,New
-110,d44ej9j7l47,United States,FY24Q2,12122.48,503.02,Reused
-111,d4hs4lr7e6f,United States,FY24Q2,676.01,0.0,New
-112,d4kym7fb70n,United States,FY24Q2,6576.97,418.46,New
-113,d4ourk85xh6,Canada,FY24Q2,0.0,0.0,New
-114,d4pa93we78l,United States,FY24Q2,12289.65,96062.91,New
-115,d4q93mkmgtw,Canada,FY24Q2,1504.8,0.0,New
-116,d5965gqpbty,United States,FY24Q2,107178.76,344132.37,New
-117,d5g974q5j16,United States,FY24Q2,3089.44,121852.97,New
-118,d5z3415l8ln,United States,FY24Q2,25039.62,1174.98,New
-119,d645mg6tegi,United States,FY24Q2,13560.17,21876.5,New
-120,d6actylcgfa,United States,FY24Q1,2201.88,6608.58,New
-121,d6actylcgfa,United States,FY24Q2,1792.43,10244.48,Reused
-122,d6q30kb7stc,United States,FY24Q1,1489.01,3347.0,New
-123,d6q30kb7stc,United States,FY24Q2,11442.5,0.0,Reused
-124,d6sqhgwoadu,United States,FY24Q2,3623.0,0.0,New
-125,d73mitj2tlk,United States,FY24Q2,16005.41,302248.4,New
-126,d76q31i01fs,United States,FY24Q2,0.0,0.0,New
-127,d7w55vpuykz,United States,FY24Q2,781.0,0.0,New
-128,d825ews741h,United States,FY24Q1,0.0,0.0,New
-129,d825ews741h,United States,FY24Q2,8037.0199999999995,4160.76,Reused
-130,d87pxsxsrrv,Canada,FY24Q2,0.0,0.0,New
-131,d8cd90rl8jc,United States,FY24Q2,4569.27,0.0,New
-132,d8hg05m0o3a,United States,FY24Q2,475.73,172.3,New
-133,d8mke1vb107,United States,FY24Q2,0.0,0.0,New
-134,d8rv8okdbt7,United States,FY24Q2,19793.21,3614.22,New
-135,d8tvnc0ncc2,United States,FY24Q2,38818.299999999996,3714.93,New
-136,d8yewshlifi,Canada,FY24Q2,4558.89,7555.92,New
-137,d94r1x5wpq5,United States,FY24Q2,5898.29,72655.34999999999,New
-138,d94xa6yge3p,Canada,FY24Q2,0.0,0.0,New
-139,d9t7z3gekle,Canada,FY24Q2,936.54,0.0,New
-140,dac6f6yathh,United States,FY24Q2,10141.68,10880.880000000001,New
-141,dasfcukxpdt,Canada,FY24Q2,0.0,0.0,New
-142,day8u3rk2gg,Canada,FY24Q2,3080.28,0.0,New
-143,db1shdmrn7h,Canada,FY24Q2,3236.09,2293.94,New
-144,db8xu9shxm7,United States,FY24Q1,1541.95,2727.9700000000003,New
-145,db8xu9shxm7,United States,FY24Q2,11325.07,187.25,Reused
-146,dba7h700nb8,United States,FY24Q2,0.0,0.0,New
-147,dbfnp6e3t5j,United States,FY24Q2,3001.59,5876.65,New
-148,dbl2e4yrwbj,United States,FY24Q2,13554.19,15731.23,New
-149,dbsylp97lg7,United States,FY24Q1,70381.73602,27002.94,New
-150,dbsylp97lg7,United States,FY24Q2,49165.82000000001,12446.66,Reused
-151,dcddr3wdnpq,Canada,FY24Q2,0.0,0.0,New
-152,dcksi8jk3dk,United States,FY24Q1,3754.710543,106.97999999999999,New
-153,dcvdv8z1dw0,United States,FY24Q2,8052.28,22212.78,New
-154,dcx4m724ekd,United States,FY24Q2,0.0,0.0,New
-155,dd56hr0q4df,United States,FY24Q1,6972.110000000001,26678.309999999998,New
-156,dd56hr0q4df,United States,FY24Q2,6083.64,15555.38,Reused
-157,ddhddlfqhix,United States,FY24Q2,794.91,857.98,New
-158,ddhiae5m0gw,United States,FY24Q2,2239.51,18372.4,New
-159,ddp12prny6o,United States,FY24Q2,10148.06,16718.46,New
-160,ddqt1v7dp1d,United States,FY24Q2,0.0,0.0,New
-161,ddudfdb6fpr,United States,FY24Q2,0.0,0.0,New
-162,de5m4c82vod,United States,FY24Q2,0.0,0.0,New
-163,dellid001,United States,FY24Q1,3668.213854258,5444.82,New
-164,dellid001,United States,FY24Q2,0.0,0.0,Reused
-165,dellid002,United States,FY24Q1,4313.93984197,22208.879999999997,New
-166,dellid003,United States,FY24Q1,5074.865822010001,22606.629999999997,New
-167,dellid004,United States,FY24Q1,4696.452819,10736.869999999999,New
-168,dellid005,United States,FY24Q1,3428.5416489100003,20162.329999999998,New
-169,dellid006,United States,FY24Q1,6484.60754404,65391.53,New
-170,demsvqqtpd0,United States,FY24Q1,42250.4008144,2321.99,New
-171,demsvqqtpd0,United States,FY24Q2,0.0,849.97,Reused
-172,desf6tr0ix1,United States,FY24Q2,2243.71,44958.770000000004,New
-173,dfc6vuk7tkj,United States,FY24Q1,4998.93132701,23529.46,New
-174,dfgzdiadksk,United States,FY24Q2,17342.03,0.0,New
-175,dg4n6ul3v6o,United States,FY24Q2,4029.81,4901.19,New
-176,dg92wjrobjd,United States,FY24Q2,6438.16,59532.32000000001,New
-177,dgnzkccrc8o,Canada,FY24Q2,3269.68,1183.97,New
-178,dgt3scnhuj5,United States,FY24Q2,0.0,0.0,New
-179,dh6aouwvrap,United States,FY24Q1,0.0,0.0,New
-180,dh6aouwvrap,United States,FY24Q2,163262.08,582767.13,Reused
-181,dhs21thyr70,United States,FY24Q1,44716.104888,62234.07000000001,New
-182,dhs21thyr70,United States,FY24Q2,78381.5,206940.07,Reused
-183,di9nqr3iyqb,Canada,FY24Q2,5.03,0.0,New
-184,dievz48ix8q,United States,FY24Q1,10640.126456999998,0.0,New
-185,diifio11wni,United States,FY24Q2,6887.7300000000005,32475.72,New
-186,ditkrchzs1z,Canada,FY24Q2,3131.83,0.0,New
-187,dj2x0sl776i,United States,FY24Q1,26147.92126083,37134.59,New
-188,dj2x0sl776i,United States,FY24Q2,31902.22,73011.72,Reused
-189,djb0q0rgzgf,United States,FY24Q2,8815.56,1596.7,New
-190,djoou48994j,United States,FY24Q2,5688.08,17438.95,New
-191,djp0h836h80,United States,FY24Q2,2265.75,4449.23,New
-192,djq5ka10b9f,United States,FY24Q2,9176.97,31115.920000000002,New
-193,dkjkl8axc8o,United States,FY24Q2,900.09,72208.06,New
-194,dkl3dyhcogl,Canada,FY24Q2,0.0,0.0,New
-195,dkvk3c5gpg4,United States,FY24Q2,8786.95,71697.31,New
-196,dkvvgvf1swn,United States,FY24Q2,10135.65,5289.3099999999995,New
-197,dkvz8pgx0yy,United States,FY24Q2,9107.53,3416.86,New
-198,dl2r7tk48cm,United States,FY24Q1,41774.305185900004,645.85,New
-199,dl2r7tk48cm,United States,FY24Q2,0.0,448.09000000000003,Reused
-200,dl6xwkkba1h,United States,FY24Q2,8.46,0.0,New
-201,dl8q9hldolq,United States,FY24Q2,86202.74,25110.370000000003,New
-202,dln43003118,Canada,FY24Q2,1619.22,2199.98,New
-203,dlo663s51dt,United States,FY24Q2,2498.62,2395.84,New
-204,dlzvi05r15p,United States,FY24Q2,0.0,0.0,New
-205,dmrwm9swp4g,Canada,FY24Q2,0.0,0.0,New
-206,dnliwvkbhwv,United States,FY24Q2,281.2,153.99,New
-207,dnsynzh4hhp,United States,FY24Q2,2784.9799999999996,28707.320000000003,New
-208,do8fqsnh7zf,United States,FY24Q2,1615.12,0.0,New
-209,doqykn7op18,United States,FY24Q2,0.0,0.0,New
-210,dovzw2dj0jy,Canada,FY24Q2,7420.35,0.0,New
-211,dp3p9qw5mcf,United States,FY24Q2,2947.53,7953.31,New
-212,dpugaodliu3,United States,FY24Q2,0.0,0.0,New
-213,dqfpr747a8o,United States,FY24Q2,13061.06,11661.21,New
-214,dr2f1v1uzu5,United States,FY24Q2,1488.65,0.0,New
-215,drasbf8bmwy,United States,FY24Q2,454.08,1519.3600000000001,New
-216,drbu8naqj6e,United States,FY24Q2,9391.52,8859.31,New
-217,drk8t7y061d,United States,FY24Q1,0.0,0.0,New
-218,drk8t7y061d,United States,FY24Q2,45583.72,1327.98,Reused
-219,dro2mleqrqj,United States,FY24Q2,58860.42,747043.0800000001,New
-220,dro3wrcsnyb,United States,FY24Q2,0.0,0.0,New
-221,dscgevmyz6o,United States,FY24Q2,4870.4,0.0,New
-222,dsd3bfr4dd0,Canada,FY24Q2,4918.6900000000005,1599.08,New
-223,dt1401h799i,Canada,FY24Q2,7746.200000000001,0.0,New
-224,dt7jqobh878,United States,FY24Q2,0.0,0.0,New
-225,dt8rsbm07t2,Canada,FY24Q2,7638.04,0.0,New
-226,dt9gwpib8fd,United States,FY24Q2,0.0,0.0,New
-227,du1qkxgirhn,Canada,FY24Q2,1892.61,0.0,New
-228,du4bispcynh,United States,FY24Q2,0.0,0.0,New
-229,dug4kfczw7g,Canada,FY24Q2,5.13,0.0,New
-230,dumo8fs9ifu,Canada,FY24Q2,6404.719999999999,0.0,New
-231,duonfdzl7sm,United States,FY24Q2,11804.59,32587.55,New
-232,dv6k6hz2ah4,Canada,FY24Q2,0.0,0.0,New
-233,dvccsf8t91l,United States,FY24Q2,2996.53,16947.97,New
-234,dvdas28yw8j,United States,FY24Q2,10704.28,0.0,New
-235,dvnmqfipfv2,United States,FY24Q2,8107.47,89732.84,New
-236,dvt4p1agi54,United States,FY24Q2,11351.7,225583.69,New
-237,dvuvto9t0eo,United States,FY24Q2,0.0,0.0,New
-238,dw74i50a4wt,United States,FY24Q1,1732.4,6148.099999999999,New
-239,dwbw75t0lhn,United States,FY24Q2,8785.85,24496.02,New
-240,dwciw5fw9pd,United States,FY24Q2,8109.7,30444.18,New
-241,dwdht98vi78,United States,FY24Q1,3359.98,5293.3,New
-242,dwdht98vi78,United States,FY24Q2,3889.38,14717.17,Reused
-243,dwihch9654x,Canada,FY24Q2,3624.2200000000003,0.0,New
-244,dwngtw93iuc,United States,FY24Q2,5700.62,25050.39,New
-245,dx7ecj46jaj,United States,FY24Q1,0.0,0.0,New
-246,dx7ecj46jaj,United States,FY24Q2,58138.399999999994,1758.5900000000001,Reused
-247,dxak9pp4aho,Canada,FY24Q2,2178.99,0.0,New
-248,dxb2a57dogv,Canada,FY24Q2,0.0,0.0,New
-249,dy9wqqe2bjp,Canada,FY24Q2,0.0,0.0,New
-250,dyszmeaw2oy,Canada,FY24Q2,3547.1099999999997,0.0,New
-251,dz5zbh7sl89,Canada,FY24Q2,0.0,0.0,New
-252,dza0y29y5eh,United States,FY24Q2,19.2,0.0,New
-253,dzarqktemdn,United States,FY24Q2,0.0,0.0,New
-254,dzlrl5uzgjr,Canada,FY24Q2,0.0,0.0,New
-255,dzo5wqi53bd,United States,FY24Q2,0.0,0.0,New
-256,dzwpw9lphxp,United States,FY24Q2,3502.43,499.98,New
-257,u551tksrg,United States,FY24Q1,28544.203872031998,128816.15000000001,New
-258,u551tksrg,United States,FY24Q2,0.0,0.0,Reused
-259,us5u8pj67,Canada,FY24Q1,15.376307563000001,0.0,New
-260,us5u8pj67,Canada,FY24Q2,2476.03,135.86,Reused
-261,us94080p4,United States,FY24Q1,2182.02,5526.370000000001,New
-262,us973j1wz,United States,FY24Q1,2432.86,3458.95,New
-263,us97posq8,United States,FY24Q1,2436.26,20711.18,New
-264,us97wdsrb,United States,FY24Q1,1549.29,2364.3,New
-265,usagy1ies,United States,FY24Q1,2052.407630368,1285.99,New
-266,usagy1ies,United States,FY24Q2,0.0,0.0,Reused
-267,utav9xmda,United States,FY24Q1,7289.46,17775.9,New
-268,utav9xmda,United States,FY24Q2,465.02,4807.2,Reused
-269,uupjcpg9r,Canada,FY24Q1,8.952845196,0.0,New
-270,uupjcpg9r,Canada,FY24Q2,140.75,0.0,Reused
-271,uxpj06766,United States,FY24Q1,1555.26,3746.2200000000003,New
-272,v4cg5z9k3,United States,FY24Q1,11175.91916,20710.75,New
-273,v87smem4e,Canada,FY24Q1,2184.3328556,0.0,New
-274,vevtvqcgf,Canada,FY24Q2,1048.58,0.0,New
-275,w912rlj76,United States,FY24Q1,3362.139620135,2580.8199999999997,New
-276,w912xaxh8,United States,FY24Q1,2839.651929179,8184.88,New
-277,w9x23csrg,United States,FY24Q1,16241.62731385,38929.65,New
-278,w9x66bac6,United States,FY24Q1,98678.59988626,538833.063,New
-279,w9x66bac6,United States,FY24Q2,0.0,238.14000000000001,Reused
-280,wh9bf21cb,United States,FY24Q1,5211.141246,0.0,New
-281,wrmz6qoq6,United States,FY24Q1,815.24,3196.0699999999997,New
-282,x4s6h6glb,United States,FY24Q1,4069.543052749,5710.77,New
-283,x4s6h6glb,United States,FY24Q2,0.0,0.0,Reused
-284,x4s6ozbiu,United States,FY24Q1,2815.41423043,2247.98,New
-285,x4staatbf,United States,FY24Q1,1520.1568265839999,966.94,New
-286,x4stis0mr,United States,FY24Q1,1599.825546186,0.0,New
-287,x4stw2q5t,United States,FY24Q1,1787.318222589,1187.6200000000001,New
-288,x4sukk7ot,United States,FY24Q1,45440.20720896,83596.06,New
-289,x4sukk7ot,United States,FY24Q2,0.0,0.0,Reused
-290,x4surdfdp,United States,FY24Q1,23822.79591834,136099.2,New
-291,x4surdfdp,United States,FY24Q2,0.0,0.0,Reused
-292,x4sx9axb1,United States,FY24Q1,6291.46970699,4714.41,New
-293,x4sxxih7n,United States,FY24Q1,6239.93364602,1488.74,New
-294,x4tg9qnju,United States,FY24Q1,10465.01000014,6206.89,New
-295,x4tg9qnju,United States,FY24Q2,0.0,0.0,Reused
-296,x4tgrpixj,United States,FY24Q1,48061.984278175,154137.31,New
-297,x4tgrpixj,United States,FY24Q2,0.0,0.0,Reused
-298,x4tgwlh4p,United States,FY24Q1,13086.265833881,106557.91000000002,New
-299,x4tgwlh4p,United States,FY24Q2,0.0,0.0,Reused
-300,x4thf0nbb,United States,FY24Q1,10464.99999979,5938.88,New
-301,x4thf0nbb,United States,FY24Q2,0.0,0.0,Reused
-302,x4ti3y4be,United States,FY24Q1,3923.781931,1503.96,New
-303,x4tphvxav,United States,FY24Q1,4117.14205404,6460.5,New
-304,x4tpvly7v,United States,FY24Q1,4618.870222998,3620.8,New
-305,x4tudc6ve,United States,FY24Q1,5417.05258001,166.64000000000001,New
-306,x4tv468ta,United States,FY24Q1,3000.00000004,355056.99,New
-307,x4tvda7z3,United States,FY24Q1,7475.38999974,852340.9500000001,New
-308,x4tvda7z3,United States,FY24Q2,0.0,0.0,Reused
-309,x4tvrclfa,United States,FY24Q1,10679.1299989,360870.95,New
-310,x4tvxz4ou,United States,FY24Q1,2999.98999997,130993.97,New
-311,x4tvxz4ou,United States,FY24Q2,0.0,0.0,Reused
-312,xa1qtqdep,Canada,FY24Q1,32.546589352,0.0,New
-313,xef9544me,Canada,FY24Q1,20.816942713,0.0,New
-314,xjjo6kmov,United States,FY24Q1,53011.13012519,258127.189,New
-315,xjjo6kmov,United States,FY24Q2,0.0,998.99,Reused
-316,xu3ghsmzm,United States,FY24Q1,80964.90687445,183298.49,New
-317,xu3ghsmzm,United States,FY24Q2,0.0,638.99,Reused
-318,xu3hkickn,United States,FY24Q1,932.037844025,99.0,New
-319,xvr22njqm,United States,FY24Q1,8596.70000106,628884.5,New
-320,xvr22njqm,United States,FY24Q2,0.0,0.0,Reused
-321,xvrxkn3zo,United States,FY24Q1,2505.942098167,2171.96,New
-322,xvrxqgz7s,United States,FY24Q1,2805.825409621,2912.94,New
-323,xw7l29vye,United States,FY24Q1,2186.554945015,4895.93,New
-324,xw7o6b4am,United States,FY24Q1,3153.62061801,1438.02,New
+,Segment ID,Country_x,BU,Fiscal Quarter,Spend,Net Rev,Status
+0,d10upqm9p51,United States,CSB,2024-Q1,0.0,0.0,New
+1,d10upqm9p51,United States,CSB,2024-Q2,43012.465726,5604.530000000001,Reused
+2,d10upqm9p51,United States,CSB,2024-Q3,1270.339813949,47.99,Reused
+3,d14s5u5pfra,France,CSB,2024-Q3,1579.502061889,4495.353822,New
+4,d17vaylat7k,Canada,CSB,2024-Q2,0.0,0.0,New
+5,d199b5rvqrw,Canada,CSB,2024-Q2,0.0,0.0,New
+6,d1i2r7luz0p,United States,B2B,2024-Q2,0.0,0.0,New
+7,d1i2r7luz0p,United States,B2B,2024-Q3,0.0,0.0,Reused
+8,d1libuvhfc7,United States,CSB,2024-Q1,0.0,0.0,New
+9,d1libuvhfc7,United States,CSB,2024-Q2,0.0,0.0,Reused
+10,d1n4f7g4t1i,Canada,CSB,2024-Q1,0.0,0.0,New
+11,d1n4f7g4t1i,Canada,CSB,2024-Q2,2401.593884,0.0,Reused
+12,d1ot58rg7eg,Canada,CSB,2024-Q1,0.0,0.0,New
+13,d1ot58rg7eg,Canada,CSB,2024-Q2,4031.539357,0.0,Reused
+14,d1vh6svslg2,United States,CSB,2024-Q1,1464.33,2983.95,New
+15,d1vh6svslg2,United States,CSB,2024-Q2,939.29,454.71000000000004,Reused
+16,d1vh6svslg2,United States,CSB,2024-Q3,731.690806,3795.99,Reused
+17,d23q06sc75p,United States,B2B,2024-Q2,0.0,0.0,New
+18,d23q06sc75p,United States,B2B,2024-Q3,3671.515806999,0.0,Reused
+19,d25vc12ilks,United States,CSB,2024-Q1,0.0,0.0,New
+20,d25vc12ilks,United States,CSB,2024-Q2,0.0,0.0,Reused
+21,d25vc12ilks,United States,CSB,2024-Q3,382.48687196,204.97,Reused
+22,d2duc9h7l38,United States,CSB,2024-Q1,1464.330000001,2496.2,New
+23,d2duc9h7l38,United States,CSB,2024-Q2,902.56,1664.96,Reused
+24,d2duc9h7l38,United States,CSB,2024-Q3,871.428492,4158.98,Reused
+25,d2gd0zx2wi5,United States,B2B,2024-Q1,0.0,0.0,New
+26,d2gd0zx2wi5,United States,B2B,2024-Q2,5707.120000021,0.0,Reused
+27,d2gd0zx2wi5,United States,B2B,2024-Q3,0.0,4714.33,Reused
+28,d2itkoeahg9,United States,CSB,2024-Q1,0.0,0.0,New
+29,d2itkoeahg9,United States,CSB,2024-Q2,0.0,0.0,Reused
+30,d2itkoeahg9,United States,CSB,2024-Q3,998.4320030599999,6874.3,Reused
+31,d2q11zclsgv,Australia,CSB,2024-Q3,0.0,0.0,New
+32,d2vj160j3h5,United States,B2B,2024-Q1,0.0,0.0,New
+33,d2vj160j3h5,United States,B2B,2024-Q2,12645.790000013,100952.47,Reused
+34,d2vj160j3h5,United States,B2B,2024-Q3,0.0,1635.6,Reused
+35,d35cctaonjd,United States,B2B,2024-Q1,0.0,0.0,New
+36,d35cctaonjd,United States,B2B,2024-Q2,2851.584082004,2498.29,Reused
+37,d35cctaonjd,United States,B2B,2024-Q3,0.0,0.0,Reused
+38,d39g4oqyvg6,Canada,CSB,2024-Q1,0.0,0.0,New
+39,d39g4oqyvg6,Canada,CSB,2024-Q2,3487.568387,59.99,Reused
+40,d39g4oqyvg6,Canada,CSB,2024-Q3,0.0,0.0,Reused
+41,d3y3ryqwiz0,United States,B2B,2024-Q2,0.0,0.0,New
+42,d3y3ryqwiz0,United States,B2B,2024-Q3,0.0,0.0,Reused
+43,d3y9mh8fh0z,United States,CSB,2024-Q1,0.0,0.0,New
+44,d3y9mh8fh0z,United States,CSB,2024-Q2,20943.487695001,3096.27,Reused
+45,d3y9mh8fh0z,United States,CSB,2024-Q3,10541.271420379,6761.83,Reused
+46,d44ej9j7l47,United States,CSB,2024-Q1,1725.816241,512.24,New
+47,d44ej9j7l47,United States,CSB,2024-Q2,12122.469128143,503.02,Reused
+48,d44ej9j7l47,United States,CSB,2024-Q3,3016.374960383,1039.97,Reused
+49,d4kym7fb70n,United States,CSB,2024-Q2,6576.977,418.46000000000004,New
+50,d4kym7fb70n,United States,CSB,2024-Q3,0.0,34.99,Reused
+51,d4ourk85xh6,Canada,B2B,2024-Q2,0.0,0.0,New
+52,d4ourk85xh6,Canada,B2B,2024-Q3,1282.166441001,246871.74000000002,Reused
+53,d4pa93we78l,United States,B2B,2024-Q1,0.0,0.0,New
+54,d4pa93we78l,United States,B2B,2024-Q2,12289.649999985,88656.68000000001,Reused
+55,d4pa93we78l,United States,B2B,2024-Q3,0.0,0.0,Reused
+56,d4q93mkmgtw,Canada,CSB,2024-Q1,0.0,0.0,New
+57,d4q93mkmgtw,Canada,CSB,2024-Q2,7744.852752,0.0,Reused
+58,d4q93mkmgtw,Canada,CSB,2024-Q3,0.0,0.0,Reused
+59,d56ed3wwrdr,Canada,CSB,2024-Q1,0.0,0.0,New
+60,d56ed3wwrdr,Canada,CSB,2024-Q2,0.0,0.0,Reused
+61,d5965gqpbty,United States,B2B,2024-Q1,0.0,0.0,New
+62,d5965gqpbty,United States,B2B,2024-Q2,107178.759999951,207317.37,Reused
+63,d5965gqpbty,United States,B2B,2024-Q3,0.0,41601.29,Reused
+64,d5g974q5j16,United States,CSB,2024-Q1,22115.093927823,94406.61,New
+65,d5g974q5j16,United States,CSB,2024-Q2,15236.047291994,228910.38,Reused
+66,d5g974q5j16,United States,CSB,2024-Q3,7513.636192376,56653.33,Reused
+67,d5z3415l8ln,United States,CSB,2023-Q4,0.0,0.0,New
+68,d5z3415l8ln,United States,CSB,2024-Q1,24875.386783910002,119.99,Reused
+69,d5z3415l8ln,United States,CSB,2024-Q2,17914.302544264,1174.98,Reused
+70,d5z3415l8ln,United States,CSB,2024-Q3,0.0,0.0,Reused
+71,d645mg6tegi,United States,B2B,2024-Q2,13560.169999952,8025.75,New
+72,d645mg6tegi,United States,B2B,2024-Q3,0.0,0.0,Reused
+73,d6actylcgfa,United States,CSB,2024-Q1,2201.88,6608.58,New
+74,d6actylcgfa,United States,CSB,2024-Q2,1792.430000003,12683.48,Reused
+75,d6actylcgfa,United States,CSB,2024-Q3,24.535775,0.0,Reused
+76,d6hlvpaz41s,United States,B2B,2024-Q2,0.0,0.0,New
+77,d6hlvpaz41s,United States,B2B,2024-Q3,0.0,0.0,Reused
+78,d6q30kb7stc,United States,CSB,2024-Q1,1490.476878,3347.0,New
+79,d6q30kb7stc,United States,CSB,2024-Q2,11442.502892429,0.0,Reused
+80,d6q30kb7stc,United States,CSB,2024-Q3,2913.137806247,2585.27,Reused
+81,d6sqhgwoadu,United States,CSB,2024-Q1,0.0,0.0,New
+82,d6sqhgwoadu,United States,CSB,2024-Q2,4996.677878001,31.99,Reused
+83,d6sqhgwoadu,United States,CSB,2024-Q3,0.0,0.0,Reused
+84,d6xm6w7t6za,United States,CSB,2024-Q1,0.0,0.0,New
+85,d6xm6w7t6za,United States,CSB,2024-Q2,8756.121008,0.0,Reused
+86,d73mitj2tlk,United States,B2B,2024-Q1,0.0,0.0,New
+87,d73mitj2tlk,United States,B2B,2024-Q2,16005.411154939,268858.38,Reused
+88,d73mitj2tlk,United States,B2B,2024-Q3,0.0,43347.259999999995,Reused
+89,d76q31i01fs,United States,B2B,2024-Q2,0.0,0.0,New
+90,d76q31i01fs,United States,B2B,2024-Q3,0.0,0.0,Reused
+91,d7qd2wu3gkb,Canada,CSB,2024-Q3,254.36568399499998,599.99,New
+92,d825ews741h,United States,B2B,2024-Q1,0.0,0.0,New
+93,d825ews741h,United States,B2B,2024-Q2,8037.01999999,0.0,Reused
+94,d825ews741h,United States,B2B,2024-Q3,0.0,839.0,Reused
+95,d87pxsxsrrv,Canada,CSB,2024-Q2,0.0,0.0,New
+96,d8cd90rl8jc,United States,CSB,2024-Q2,4569.269249,0.0,New
+97,d8d1c0r5p89,Canada,CSB,2024-Q1,0.0,0.0,New
+98,d8d1c0r5p89,Canada,CSB,2024-Q2,0.0,0.0,Reused
+99,d8d1c0r5p89,Canada,CSB,2024-Q3,0.0,0.0,Reused
+100,d8l8oic9tq2,United States,B2B,2024-Q1,0.0,0.0,New
+101,d8l8oic9tq2,United States,B2B,2024-Q2,0.0,0.0,Reused
+102,d8l8oic9tq2,United States,B2B,2024-Q3,0.0,0.0,Reused
+103,d8mke1vb107,United States,CSB,2024-Q1,0.0,0.0,New
+104,d8mke1vb107,United States,CSB,2024-Q2,0.0,0.0,Reused
+105,d8mke1vb107,United States,CSB,2024-Q3,178.350081,0.0,Reused
+106,d8rv8okdbt7,United States,CSB,2024-Q1,0.0,0.0,New
+107,d8rv8okdbt7,United States,CSB,2024-Q2,31260.862468002,6915.139999999999,Reused
+108,d8rv8okdbt7,United States,CSB,2024-Q3,8271.168232548,4899.969999999999,Reused
+109,d8tvnc0ncc2,United States,CSB,2023-Q4,0.0,0.0,New
+110,d8tvnc0ncc2,United States,CSB,2024-Q1,49563.485245491,9204.78,Reused
+111,d8tvnc0ncc2,United States,CSB,2024-Q2,20439.661119465,5880.92,Reused
+112,d8tvnc0ncc2,United States,CSB,2024-Q3,0.0,246.0,Reused
+113,d8yewshlifi,Canada,CSB,2024-Q1,0.0,0.0,New
+114,d8yewshlifi,Canada,CSB,2024-Q2,6105.082909995,7555.92,Reused
+115,d8yewshlifi,Canada,CSB,2024-Q3,372.762744997,0.0,Reused
+116,d94r1x5wpq5,United States,B2B,2024-Q1,0.0,0.0,New
+117,d94r1x5wpq5,United States,B2B,2024-Q2,5898.213286965,60331.08,Reused
+118,d94r1x5wpq5,United States,B2B,2024-Q3,30680.599999000002,1411.02,Reused
+119,d94xa6yge3p,Canada,CSB,2024-Q2,0.0,0.0,New
+120,d9t7z3gekle,Canada,CSB,2024-Q1,0.0,0.0,New
+121,d9t7z3gekle,Canada,CSB,2024-Q2,10221.705733,0.0,Reused
+122,d9t7z3gekle,Canada,CSB,2024-Q3,0.0,0.0,Reused
+123,da1znhx9h1s,Canada,B2B,2024-Q2,0.0,0.0,New
+124,da3t4a0dij4,United States,CSB,2024-Q1,0.0,0.0,New
+125,da3t4a0dij4,United States,CSB,2024-Q2,7029.217075,0.0,Reused
+126,dac6f6yathh,United States,CSB,2024-Q2,10141.650109,10880.88,New
+127,dac6f6yathh,United States,CSB,2024-Q3,0.0,8003.01,Reused
+128,dasfcukxpdt,Canada,B2B,2024-Q2,0.0,0.0,New
+129,dasfcukxpdt,Canada,B2B,2024-Q3,2388.999016004,483888.7,Reused
+130,day8u3rk2gg,Canada,CSB,2024-Q1,0.0,0.0,New
+131,day8u3rk2gg,Canada,CSB,2024-Q2,2038.520461,0.0,Reused
+132,day8u3rk2gg,Canada,CSB,2024-Q3,0.0,0.0,Reused
+133,day8u3rk2gg,United States,CSB,2024-Q3,1250.432654227,0.0,Reused
+134,db0j71ejz8s,United States,CSB,2024-Q3,1250.100546816,0.0,New
+135,db1shdmrn7h,Canada,CSB,2024-Q1,0.0,0.0,New
+136,db1shdmrn7h,Canada,CSB,2024-Q2,4297.753228,2293.94,Reused
+137,db1shdmrn7h,Canada,CSB,2024-Q3,1083.023983994,1253.95,Reused
+138,db8xu9shxm7,United States,CSB,2024-Q1,1543.823449,2727.9700000000003,New
+139,db8xu9shxm7,United States,CSB,2024-Q2,11325.072775429,187.25,Reused
+140,db8xu9shxm7,United States,CSB,2024-Q3,2972.697438948,2227.9700000000003,Reused
+141,dba7h700nb8,United States,B2B,2024-Q2,0.0,0.0,New
+142,dba7h700nb8,United States,B2B,2024-Q3,0.0,0.0,Reused
+143,dbfnp6e3t5j,United States,B2B,2024-Q1,0.0,0.0,New
+144,dbfnp6e3t5j,United States,B2B,2024-Q2,3001.591743998,2505.33,Reused
+145,dbfnp6e3t5j,United States,B2B,2024-Q3,0.0,0.0,Reused
+146,dbl2e4yrwbj,United States,B2B,2024-Q2,13554.189999998,6117.15,New
+147,dbl2e4yrwbj,United States,B2B,2024-Q3,0.0,0.0,Reused
+148,dbsylp97lg7,United States,CSB,2024-Q1,70381.736021,27002.94,New
+149,dbsylp97lg7,United States,CSB,2024-Q2,49165.82125,12446.66,Reused
+150,dbsylp97lg7,United States,CSB,2024-Q3,9928.794489635,25610.49,Reused
+151,dcddr3wdnpq,Canada,CSB,2024-Q2,0.0,0.0,New
+152,dcksi8jk3dk,United States,B2B,2024-Q1,3754.710000009,0.0,New
+153,dcksi8jk3dk,United States,B2B,2024-Q2,0.0,0.0,Reused
+154,dcksi8jk3dk,United States,B2B,2024-Q3,0.0,0.0,Reused
+155,dcvdv8z1dw0,United States,B2B,2024-Q1,0.0,0.0,New
+156,dcvdv8z1dw0,United States,B2B,2024-Q2,8052.236159042,17191.41,Reused
+157,dcvdv8z1dw0,United States,B2B,2024-Q3,0.0,0.0,Reused
+158,dcx4m724ekd,United States,B2B,2024-Q2,0.0,0.0,New
+159,dcx4m724ekd,United States,B2B,2024-Q3,0.0,0.0,Reused
+160,dd56hr0q4df,United States,CSB,2024-Q1,6972.109999999,26678.31,New
+161,dd56hr0q4df,United States,CSB,2024-Q2,6083.647825999,26685.92,Reused
+162,dd56hr0q4df,United States,CSB,2024-Q3,1226.480259,2423.2,Reused
+163,ddhiae5m0gw,United States,CSB,2024-Q1,0.0,0.0,New
+164,ddhiae5m0gw,United States,CSB,2024-Q2,2239.49708499,18372.4,Reused
+165,ddhiae5m0gw,United States,CSB,2024-Q3,1114.75841968,17643.4,Reused
+166,ddp12prny6o,United States,CSB,2024-Q2,10148.044535,16718.46,New
+167,ddp12prny6o,United States,CSB,2024-Q3,434.774554,7589.71,Reused
+168,ddqt1v7dp1d,United States,B2B,2024-Q2,0.0,0.0,New
+169,ddqt1v7dp1d,United States,B2B,2024-Q3,21219.039999987,169483.46000000002,Reused
+170,ddudfdb6fpr,United States,CSB,2024-Q1,0.0,0.0,New
+171,ddudfdb6fpr,United States,CSB,2024-Q2,0.0,0.0,Reused
+172,ddudfdb6fpr,United States,CSB,2024-Q3,682.26206347,14256.57,Reused
+173,demsvqqtpd0,United States,CSB,2024-Q1,42224.260458935,2321.99,New
+174,demsvqqtpd0,United States,CSB,2024-Q2,0.0,849.97,Reused
+175,demsvqqtpd0,United States,CSB,2024-Q3,0.0,0.0,Reused
+176,desf6tr0ix1,United States,B2B,2024-Q1,0.0,0.0,New
+177,desf6tr0ix1,United States,B2B,2024-Q2,2243.710000001,44869.8,Reused
+178,desf6tr0ix1,United States,B2B,2024-Q3,0.0,0.0,Reused
+179,dfc6vuk7tkj,United States,B2B,2024-Q1,4998.9300000082,22320.48,New
+180,dfc6vuk7tkj,United States,B2B,2024-Q2,0.0,0.0,Reused
+181,dfc6vuk7tkj,United States,B2B,2024-Q3,0.0,0.0,Reused
+182,dfgzdiadksk,United States,CSB,2024-Q1,0.0,0.0,New
+183,dfgzdiadksk,United States,CSB,2024-Q2,26976.734346,149.0,Reused
+184,dfgzdiadksk,United States,CSB,2024-Q3,10287.530142937,2817.96,Reused
+185,dfzg0hf0sl3,United States,CSB,2024-Q1,156.495814,0.0,New
+186,dfzg0hf0sl3,United States,CSB,2024-Q2,0.0,0.0,Reused
+187,dg1a2he3wyo,United States,B2B,2024-Q2,0.0,0.0,New
+188,dg1a2he3wyo,United States,B2B,2024-Q3,0.0,0.0,Reused
+189,dg4n6ul3v6o,United States,B2B,2024-Q1,0.0,0.0,New
+190,dg4n6ul3v6o,United States,B2B,2024-Q2,4029.810000005,4004.21,Reused
+191,dg4n6ul3v6o,United States,B2B,2024-Q3,0.0,0.0,Reused
+192,dg92wjrobjd,United States,B2B,2024-Q2,6438.16,45348.619999999995,New
+193,dg92wjrobjd,United States,B2B,2024-Q3,0.0,0.0,Reused
+194,dgfrrpdw7ov,Australia,CSB,2024-Q3,0.0,0.0,New
+195,dgnzkccrc8o,Canada,CSB,2024-Q1,0.0,0.0,New
+196,dgnzkccrc8o,Canada,CSB,2024-Q2,4325.068006998,1183.97,Reused
+197,dgnzkccrc8o,Canada,CSB,2024-Q3,322.094128001,1227.98,Reused
+198,dgt3scnhuj5,United States,B2B,2024-Q2,0.0,0.0,New
+199,dgt3scnhuj5,United States,B2B,2024-Q3,0.0,0.0,Reused
+200,dh6aouwvrap,United States,B2B,2024-Q1,0.0,0.0,New
+201,dh6aouwvrap,United States,B2B,2024-Q2,163262.080000013,355164.97000000003,Reused
+202,dh6aouwvrap,United States,B2B,2024-Q3,0.0,7360.11,Reused
+203,dhs21thyr70,United States,CSB,2024-Q1,44664.087856002,62234.07,New
+204,dhs21thyr70,United States,CSB,2024-Q2,78381.501518,222902.38199999998,Reused
+205,dhs21thyr70,United States,CSB,2024-Q3,22984.247173,73589.39,Reused
+206,di91ui58tro,United States,CSB,2024-Q1,0.0,0.0,New
+207,di91ui58tro,United States,CSB,2024-Q2,0.0,0.0,Reused
+208,di91ui58tro,United States,CSB,2024-Q3,385.08416163,179.98000000000002,Reused
+209,di9nqr3iyqb,Canada,CSB,2024-Q1,0.0,0.0,New
+210,di9nqr3iyqb,Canada,CSB,2024-Q2,6.694527,0.0,Reused
+211,dievz48ix8q,United States,CSB,2023-Q4,0.0,0.0,New
+212,dievz48ix8q,United States,CSB,2024-Q1,35084.74649,0.0,Reused
+213,dievz48ix8q,United States,CSB,2024-Q2,0.0,0.0,Reused
+214,dievz48ix8q,United States,CSB,2024-Q3,0.0,0.0,Reused
+215,diifio11wni,United States,B2B,2024-Q1,0.0,0.0,New
+216,diifio11wni,United States,B2B,2024-Q2,6887.736913984,15437.18,Reused
+217,diifio11wni,United States,B2B,2024-Q3,48306.740001,10681.18,Reused
+218,dikj6tca08z,United States,CSB,2024-Q2,0.0,0.0,New
+219,ditkrchzs1z,Canada,CSB,2024-Q1,0.0,0.0,New
+220,ditkrchzs1z,Canada,CSB,2024-Q2,6231.677758,0.0,Reused
+221,ditkrchzs1z,Canada,CSB,2024-Q3,0.0,0.0,Reused
+222,dj2x0sl776i,United States,CSB,2024-Q1,26147.921260667,37134.59,New
+223,dj2x0sl776i,United States,CSB,2024-Q2,31902.215282,79857.81999999999,Reused
+224,dj2x0sl776i,United States,CSB,2024-Q3,12488.526844752,9583.59,Reused
+225,djb0q0rgzgf,United States,CSB,2024-Q1,0.0,0.0,New
+226,djb0q0rgzgf,United States,CSB,2024-Q2,8815.560999,1596.7,Reused
+227,djb0q0rgzgf,United States,CSB,2024-Q3,7637.383964242,809.97,Reused
+228,djoou48994j,United States,B2B,2024-Q1,0.0,0.0,New
+229,djoou48994j,United States,B2B,2024-Q2,5688.057921981,483.18,Reused
+230,djoou48994j,United States,B2B,2024-Q3,0.0,7789.2,Reused
+231,djp0h836h80,United States,CSB,2024-Q1,0.0,0.0,New
+232,djp0h836h80,United States,CSB,2024-Q2,2265.75,4449.23,Reused
+233,djp0h836h80,United States,CSB,2024-Q3,1213.419257,2877.99,Reused
+234,djq5ka10b9f,United States,B2B,2024-Q1,0.0,0.0,New
+235,djq5ka10b9f,United States,B2B,2024-Q2,9176.947657979,14713.17,Reused
+236,djq5ka10b9f,United States,B2B,2024-Q3,0.0,1298.79,Reused
+237,dk1puxnqxpc,Canada,CSB,2024-Q3,0.0,0.0,New
+238,dkl3dyhcogl,Canada,CSB,2024-Q2,0.0,0.0,New
+239,dkn18051g2t,Canada,B2B,2024-Q2,0.0,0.0,New
+240,dkn18051g2t,Canada,B2B,2024-Q3,24.752153998,0.0,Reused
+241,dkumboic0ps,Canada,CSB,2024-Q3,0.0,0.0,New
+242,dkvk3c5gpg4,United States,B2B,2024-Q1,0.0,0.0,New
+243,dkvk3c5gpg4,United States,B2B,2024-Q2,8786.949999996,63720.09,Reused
+244,dkvk3c5gpg4,United States,B2B,2024-Q3,0.0,0.0,Reused
+245,dkvvgvf1swn,United States,CSB,2024-Q2,10135.613405,5289.31,New
+246,dkvvgvf1swn,United States,CSB,2024-Q3,0.0,2019.84,Reused
+247,dkvz8pgx0yy,United States,CSB,2024-Q2,8233.413132001,3416.86,New
+248,dkvz8pgx0yy,United States,CSB,2024-Q3,9752.924903168,8670.46,Reused
+249,dl2r7tk48cm,United States,CSB,2024-Q1,41748.445541066,645.85,New
+250,dl2r7tk48cm,United States,CSB,2024-Q2,0.0,448.09000000000003,Reused
+251,dl2r7tk48cm,United States,CSB,2024-Q3,0.0,0.0,Reused
+252,dl6xwkkba1h,United States,CSB,2024-Q1,0.0,0.0,New
+253,dl6xwkkba1h,United States,CSB,2024-Q2,8.46,0.0,Reused
+254,dl6xwkkba1h,United States,CSB,2024-Q3,11685.254354,9267.81,Reused
+255,dl8q9hldolq,United States,CSB,2024-Q1,0.0,0.0,New
+256,dl8q9hldolq,United States,CSB,2024-Q2,86202.739999999,25110.37,Reused
+257,dl8q9hldolq,United States,CSB,2024-Q3,0.0,1473.94,Reused
+258,dln43003118,Canada,CSB,2024-Q1,0.0,0.0,New
+259,dln43003118,Canada,CSB,2024-Q2,2143.577273001,2199.98,Reused
+260,dln43003118,Canada,CSB,2024-Q3,416.072610998,2083.08,Reused
+261,dlo663s51dt,United States,B2B,2024-Q1,0.0,0.0,New
+262,dlo663s51dt,United States,B2B,2024-Q2,2498.619999998,362.0,Reused
+263,dlo663s51dt,United States,B2B,2024-Q3,0.0,0.0,Reused
+264,dlzvi05r15p,United States,CSB,2024-Q1,0.0,0.0,New
+265,dlzvi05r15p,United States,CSB,2024-Q2,0.0,0.0,Reused
+266,dlzvi05r15p,United States,CSB,2024-Q3,800.45488916,15212.89,Reused
+267,dmrwm9swp4g,Canada,CSB,2024-Q2,0.0,0.0,New
+268,dnl4fqjz9t3,United States,B2B,2024-Q2,0.0,0.0,New
+269,dnl4fqjz9t3,United States,B2B,2024-Q3,0.0,0.0,Reused
+270,dnliwvkbhwv,United States,CSB,2024-Q1,0.0,0.0,New
+271,dnliwvkbhwv,United States,CSB,2024-Q2,281.2,153.99,Reused
+272,dnsynzh4hhp,United States,CSB,2024-Q1,0.0,0.0,New
+273,dnsynzh4hhp,United States,CSB,2024-Q2,2784.99048674,28707.32,Reused
+274,dnsynzh4hhp,United States,CSB,2024-Q3,1108.07590325,31311.199999999997,Reused
+275,do8fqsnh7zf,United States,B2B,2024-Q2,1615.1200000000001,0.0,New
+276,do8fqsnh7zf,United States,B2B,2024-Q3,0.0,0.0,Reused
+277,doa8v47yquv,United States,CSB,2024-Q1,14920.0054684329,14517.56,New
+278,doa8v47yquv,United States,CSB,2024-Q2,8757.84917,42477.89,Reused
+279,doa8v47yquv,United States,CSB,2024-Q3,1982.283256,2215.34,Reused
+280,doqykn7op18,United States,B2B,2024-Q2,0.0,0.0,New
+281,doqykn7op18,United States,B2B,2024-Q3,20503.32,110274.95,Reused
+282,dovzw2dj0jy,Canada,CSB,2024-Q1,0.0,0.0,New
+283,dovzw2dj0jy,Canada,CSB,2024-Q2,2133.430649,0.0,Reused
+284,dovzw2dj0jy,Canada,CSB,2024-Q3,0.0,0.0,Reused
+285,dp3p9qw5mcf,United States,B2B,2024-Q1,0.0,0.0,New
+286,dp3p9qw5mcf,United States,B2B,2024-Q2,2947.506534005,2137.73,Reused
+287,dp3p9qw5mcf,United States,B2B,2024-Q3,0.0,0.0,Reused
+288,dpugaodliu3,United States,B2B,2024-Q2,0.0,0.0,New
+289,dpugaodliu3,United States,B2B,2024-Q3,0.0,0.0,Reused
+290,dqfpr747a8o,United States,B2B,2024-Q1,0.0,0.0,New
+291,dqfpr747a8o,United States,B2B,2024-Q2,13061.055051932,4850.75,Reused
+292,dqfpr747a8o,United States,B2B,2024-Q3,0.0,0.0,Reused
+293,dr2f1v1uzu5,United States,CSB,2024-Q1,0.0,0.0,New
+294,dr2f1v1uzu5,United States,CSB,2024-Q2,768.3810030000001,0.0,Reused
+295,dr2f1v1uzu5,United States,CSB,2024-Q3,9751.847520173,9936.38,Reused
+296,dr80vqd7bby,United States,B2B,2024-Q2,0.0,0.0,New
+297,dr80vqd7bby,United States,B2B,2024-Q3,3250.642172,1734.82,Reused
+298,drasbf8bmwy,United States,CSB,2024-Q1,0.0,0.0,New
+299,drasbf8bmwy,United States,CSB,2024-Q2,454.08,1519.3600000000001,Reused
+300,drasbf8bmwy,United States,CSB,2024-Q3,2484.862924,3729.99,Reused
+301,drbu8naqj6e,United States,B2B,2024-Q1,0.0,0.0,New
+302,drbu8naqj6e,United States,B2B,2024-Q2,9391.520000025,3108.44,Reused
+303,drbu8naqj6e,United States,B2B,2024-Q3,10627.810004,699.97,Reused
+304,drk8t7y061d,United States,CSB,2024-Q1,0.0,0.0,New
+305,drk8t7y061d,United States,CSB,2024-Q2,45583.717281,1327.98,Reused
+306,drk8t7y061d,United States,CSB,2024-Q3,1259.7198172449998,0.0,Reused
+307,dro2mleqrqj,United States,B2B,2024-Q1,0.0,0.0,New
+308,dro2mleqrqj,United States,B2B,2024-Q2,58860.420000007,705606.21,Reused
+309,dro2mleqrqj,United States,B2B,2024-Q3,0.0,3825.36,Reused
+310,dro3wrcsnyb,United States,B2B,2024-Q2,0.0,0.0,New
+311,dro3wrcsnyb,United States,B2B,2024-Q3,0.0,0.0,Reused
+312,ds52knd7g20,United States,B2B,2024-Q2,0.0,0.0,New
+313,ds52knd7g20,United States,B2B,2024-Q3,3634.777020014,358.0,Reused
+314,dscgevmyz6o,United States,CSB,2024-Q2,4870.406453,0.0,New
+315,dsd3bfr4dd0,Canada,CSB,2024-Q1,0.0,0.0,New
+316,dsd3bfr4dd0,Canada,CSB,2024-Q2,6559.168045,1599.08,Reused
+317,dsd3bfr4dd0,Canada,CSB,2024-Q3,0.0,0.0,Reused
+318,dt1401h799i,Canada,CSB,2024-Q1,0.0,0.0,New
+319,dt1401h799i,Canada,CSB,2024-Q2,4475.269575,0.0,Reused
+320,dt1401h799i,Canada,CSB,2024-Q3,0.0,0.0,Reused
+321,dt7jqobh878,United States,B2B,2024-Q2,0.0,0.0,New
+322,dt7jqobh878,United States,B2B,2024-Q3,0.0,0.0,Reused
+323,dt8rsbm07t2,Canada,CSB,2024-Q1,0.0,0.0,New
+324,dt8rsbm07t2,Canada,CSB,2024-Q2,6810.80175,0.0,Reused
+325,dt8rsbm07t2,Canada,CSB,2024-Q3,0.0,0.0,Reused
+326,dt9gwpib8fd,United States,B2B,2024-Q2,0.0,0.0,New
+327,dt9gwpib8fd,United States,B2B,2024-Q3,0.0,0.0,Reused
+328,dtoy4ujmupw,United States,B2B,2024-Q1,0.0,0.0,New
+329,dtoy4ujmupw,United States,B2B,2024-Q2,0.0,0.0,Reused
+330,dtoy4ujmupw,United States,B2B,2024-Q3,0.0,0.0,Reused
+331,du1qkxgirhn,Canada,CSB,2024-Q1,0.0,0.0,New
+332,du1qkxgirhn,Canada,CSB,2024-Q2,2507.828794013,0.0,Reused
+333,du1qkxgirhn,Canada,CSB,2024-Q3,389.058274002,529.97,Reused
+334,du4bispcynh,United States,B2B,2024-Q2,0.0,0.0,New
+335,du4bispcynh,United States,B2B,2024-Q3,0.0,0.0,Reused
+336,dug4kfczw7g,Canada,B2B,2024-Q2,6.814074,0.0,New
+337,dug4kfczw7g,Canada,B2B,2024-Q3,1602.418790001,170219.54,Reused
+338,dumo8fs9ifu,Canada,CSB,2024-Q1,0.0,0.0,New
+339,dumo8fs9ifu,Canada,CSB,2024-Q2,8535.386797,0.0,Reused
+340,dumo8fs9ifu,Canada,CSB,2024-Q3,0.0,47.99,Reused
+341,duonfdzl7sm,United States,B2B,2024-Q1,0.0,0.0,New
+342,duonfdzl7sm,United States,B2B,2024-Q2,11804.58999999,25961.28,Reused
+343,duonfdzl7sm,United States,B2B,2024-Q3,0.0,15783.34,Reused
+344,duxo79h5t8o,Australia,CSB,2024-Q3,0.0,0.0,New
+345,dv6k6hz2ah4,Canada,CSB,2024-Q2,0.0,0.0,New
+346,dvdas28yw8j,United States,CSB,2024-Q2,10704.280982,0.0,New
+347,dvdas28yw8j,United States,CSB,2024-Q3,10587.498084058,6785.4800000000005,Reused
+348,dvnmqfipfv2,United States,B2B,2024-Q1,0.0,0.0,New
+349,dvnmqfipfv2,United States,B2B,2024-Q2,8107.470000001,85813.47,Reused
+350,dvnmqfipfv2,United States,B2B,2024-Q3,15232.549998,0.0,Reused
+351,dvt4p1agi54,United States,B2B,2024-Q1,0.0,0.0,New
+352,dvt4p1agi54,United States,B2B,2024-Q2,11351.700000012,205869.26,Reused
+353,dvt4p1agi54,United States,B2B,2024-Q3,0.0,1161.81,Reused
+354,dvuvto9t0eo,United States,CSB,2024-Q1,0.0,0.0,New
+355,dvuvto9t0eo,United States,CSB,2024-Q2,0.0,0.0,Reused
+356,dvuvto9t0eo,United States,CSB,2024-Q3,7497.470319049,3426.59,Reused
+357,dw1v0i89ctr,Canada,CSB,2024-Q3,252.76110399699996,0.0,New
+358,dw74i50a4wt,United States,CSB,2024-Q1,1732.400000001,6148.1,New
+359,dwbw75t0lhn,United States,B2B,2024-Q1,0.0,0.0,New
+360,dwbw75t0lhn,United States,B2B,2024-Q2,8785.850000011,19818.57,Reused
+361,dwbw75t0lhn,United States,B2B,2024-Q3,0.0,0.0,Reused
+362,dwciw5fw9pd,United States,B2B,2024-Q1,0.0,0.0,New
+363,dwciw5fw9pd,United States,B2B,2024-Q2,8109.700000014,10014.21,Reused
+364,dwciw5fw9pd,United States,B2B,2024-Q3,0.0,0.0,Reused
+365,dwdht98vi78,United States,CSB,2024-Q1,3359.98,5293.3,New
+366,dwdht98vi78,United States,CSB,2024-Q2,3889.38,14717.17,Reused
+367,dwdht98vi78,United States,CSB,2024-Q3,2234.806873,2597.9300000000003,Reused
+368,dwihch9654x,Canada,CSB,2024-Q1,0.0,0.0,New
+369,dwihch9654x,Canada,CSB,2024-Q2,9883.029296,0.0,Reused
+370,dwngtw93iuc,United States,B2B,2024-Q1,0.0,0.0,New
+371,dwngtw93iuc,United States,B2B,2024-Q2,5700.619999994,23821.68,Reused
+372,dwngtw93iuc,United States,B2B,2024-Q3,0.0,0.0,Reused
+373,dx7ecj46jaj,United States,CSB,2024-Q1,0.0,0.0,New
+374,dx7ecj46jaj,United States,CSB,2024-Q2,58138.391124,1758.5900000000001,Reused
+375,dx7ecj46jaj,United States,CSB,2024-Q3,1288.037190987,0.0,Reused
+376,dxak9pp4aho,Canada,CSB,2024-Q1,0.0,0.0,New
+377,dxak9pp4aho,Canada,CSB,2024-Q2,2978.426419,0.0,Reused
+378,dxak9pp4aho,Canada,CSB,2024-Q3,0.0,0.0,Reused
+379,dxb2a57dogv,Canada,CSB,2024-Q2,0.0,0.0,New
+380,dxeida86uvz,Canada,B2B,2024-Q2,0.0,0.0,New
+381,dxlsg9bq396,Canada,B2B,2024-Q2,0.0,0.0,New
+382,dy8lfn3sujh,United States,B2B,2024-Q2,0.0,0.0,New
+383,dy8lfn3sujh,United States,B2B,2024-Q3,0.0,0.0,Reused
+384,dy9wqqe2bjp,Canada,CSB,2024-Q2,0.0,0.0,New
+385,dyfhoranllj,United States,CSB,2024-Q1,0.0,0.0,New
+386,dyfhoranllj,United States,CSB,2024-Q2,45.04386,0.0,Reused
+387,dyszmeaw2oy,Canada,CSB,2024-Q1,0.0,0.0,New
+388,dyszmeaw2oy,Canada,CSB,2024-Q2,4732.2506490000005,0.0,Reused
+389,dyszmeaw2oy,Canada,CSB,2024-Q3,0.0,0.0,Reused
+390,dz5zbh7sl89,Canada,CSB,2024-Q1,0.0,0.0,New
+391,dz5zbh7sl89,Canada,CSB,2024-Q2,3367.65775,0.0,Reused
+392,dz5zbh7sl89,Canada,CSB,2024-Q3,0.0,0.0,Reused
+393,dza0y29y5eh,United States,CSB,2024-Q1,3610.395123999,5250.91,New
+394,dza0y29y5eh,United States,CSB,2024-Q2,104.462441998,129.99,Reused
+395,dza0y29y5eh,United States,CSB,2024-Q3,0.0,0.0,Reused
+396,dzarqktemdn,United States,B2B,2024-Q2,0.0,0.0,New
+397,dzarqktemdn,United States,B2B,2024-Q3,0.0,0.0,Reused
+398,dzlrl5uzgjr,Canada,CSB,2024-Q2,0.0,0.0,New
+399,dzo5wqi53bd,United States,B2B,2024-Q2,0.0,0.0,New
+400,dzo5wqi53bd,United States,B2B,2024-Q3,0.0,0.0,Reused
+401,dzwpw9lphxp,United States,B2B,2024-Q1,0.0,0.0,New
+402,dzwpw9lphxp,United States,B2B,2024-Q2,3502.429395019,0.0,Reused
+403,dzwpw9lphxp,United States,B2B,2024-Q3,0.0,0.0,Reused
