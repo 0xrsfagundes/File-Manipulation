@@ -1,0 +1,67 @@
+Audience Type Category,Dell's customer-based audiences,Mediacom Definition,Audience Type Category2,Audience Delve Reporting
+ MARKET-3PD CONTEXTUAL,,,IN MARKET-3PD CONTEXTUAL,3PD Contextual
+3PD AUDIENCE,,,IN MARKET-3PD CONTEXTUAL,3PD Contextual
+ABM-2PD AUDIENCE,Account based marketing using 2nd party data - Direct buying from publishers who collect and own this data.,Account Based Marketing - using a publisher's own data for targeting,ABM-3PD AUDIENCE,2PD Audience
+ABM-2PD AUDIENCE,,,ABM-3PD AUDIENCE,2PD Audience
+ABM-3PD AUDIENCE,Account based marketing - NA is using Dunn & Bradstreet and in EMEA and APJ they use Bombora for this practice. We also overlay 3rd party data onto the ABM audiences to make sure we are targeting the right position or industry.,Account Based Marketing - using external data to reach specific audiences,ABM-3PD AUDIENCE,3PD Audience
+AFFINITY-3PD BEHAVIOR,Used to reach people based on their specific interests as they browse pages across the web,Using external data to reach people who have shown an interest in (or affinity for) a particular category / topic / product as they browse pages across the web,AFFINITY-3PD BEHAVIOR,3PD Audience
+AFFINITY-3PD BEHAVIOR,,,AFFINITY-3PD BEHAVIOR,3PD Audience
+AFFINITY-3PDÂ BEHAVIOR,,,AFFINITY-3PD BEHAVIOR,3PD Audience
+AUDIO-3PD RETARGET EXPOSED,,,AUDIO-3PD RETARGET EXPOSED,3PD Audience
+BEHAVIOR-3PD,,,IN MARKET-3PD BEHAVIOR,3PD Audience
+CATEGORY-3PD CON CONTEXTUAL,,,CATEGORY-3PD CONTEXTUAL,3PD Contextual
+CATEGORY-3PD CONTEXTUAL,"Audience that targets specific page level categories, used to ensure presence on relevant pages; Domain list targeting based on content relevancy","Using external data (not publisher owned) for targeting audiences on specific page level categories, used to ensure presence on relevant pages; ",CATEGORY-3PD CONTEXTUAL,3PD Contextual
+CATEGORY-3PD CONTEXTUAL,,,CATEGORY-3PD CONTEXTUAL,3PD Contextual
+CE Affinity-3PD BEHAVIOR,,,AFFINITY-3PD BEHAVIOR,3PD Audience
+CONQUESTING,NON DMP Audience,Competitor targeting,CONQUESTING,Other / NON DMP Audience
+CONTEXTUAL-3PD,,,CONQUESTING,3PD Contextual
+CRM-1PD CRM,Data ingested from the control tag/event pixels on site,Using CRM data for targeting,CRM-1PD CRM,1PD Audience
+CRM-1PD CRM,,,CRM-1PD CRM,1PD Audience
+CRM-1PD-AIQ-NS,,,CRM-1PD CRM,1PD Audience
+CRM-3PD LAL,,,CRM-1PD CRM,3PD Audience
+CTV-3PD RETARGET EXPOSED,,,CTV-3PD RETARGET EXPOSED,3PD Audience
+DIGITAL-3PD RETARGET EXPOSED,,,DIGITAL-3PD RETARGET EXPOSED,3PD Audience
+DMP-2PD AUDIENCE,Off the shelf 2PD Audience from DMP,Off the shelf 2PD Audience from DMP,DMP-2PD AUDIENCE,2PD Audience
+DMP-3PD AUDIENCE,Third-party data,Third-party data,DMP-3PD AUDIENCE,3PD Audience
+DMP-3PD LAL,Seed list created from a 1PD source to extend using 3PD cookies from DSP,Seed list created from a 1PD source to extend using 3PD cookies from DSP,DMP-3PD LAL,3PD Audience
+DMP-3PD AUDIENCE,,,DMP-3PD AUDIENCE,3PD Audience
+DOMAIN-3PD CONTEXTUAL,Domain list targeting historical top-performers,Using external data to perform Domain list targeting based on content relevancy ,DOMAIN-3PD CONTEXTUAL,3PD Contextual
+DOMAIN-3PD CONTEXTUAL,,,DOMAIN-3PD CONTEXTUAL,3PD Contextual
+DOMAIN-3PDÂ CONTEXTUAL,,,DOMAIN-3PD CONTEXTUAL,3PD Contextual
+EMAIL-1PD CRM,"Data ingested from media tags across all vehicles: search, social, display, video, email etc.",Using email data for targeting,EMAIL-1PD CRM,1PD Audience
+IN   MARKET-3PD BEHAVIOR,,,IN MARKET-3PD BEHAVIOR,3PD Audience
+IN MARKET 3PD BEHAVIOR,,,IN MARKET-3PD BEHAVIOR,3PD Audience
+IN MARKET-1PD PIXEL,,,IN MARKET-1PD BEHAVIOR,1PD Audience
+IN MARKET-3PD BEHAVIOR,Audience that allows you to find customers who are researching products or services and actively considering making a purchase as they browse pages across the web,Audience that allows you to find customers who are researching products or services and actively considering making a purchase as they browse pages across the web,IN MARKET-3PD BEHAVIOR,3PD Audience
+IN MARKET-3PD BEHAVIOUR,,,IN MARKET-3PD BEHAVIOR,3PD Audience
+IN MARKET-3PD CONTEXTUAL,Using sites as a proxy to define users in market,Using relevant content as a proxy to define users in market,IN MARKET-3PD CONTEXTUAL,3PD Contextual
+IN MARKET-3PD CSBTEXTUAL,,,IN MARKET-3PD CONTEXTUAL,3PD Contextual
+IN MARKET-3PD CONTEXTUAL,,,IN MARKET-3PD CONTEXTUAL,3PD Contextual
+KCT-2PD CONTEXTUAL,"Keyword targeting based around specific brands or interests. Used to target users who have relevant brands or topics top of mind, or to target around competitors","Keyword targeting based around specific brands or interests. Used to target users who have relevant brands or topics top of mind, or to target around competitors",KCT-2PD CONTEXTUAL,2PD Contextual
+KCT-3PD CONTEXTUAL,"Keyword targeting based around specific brands or interests. Used to target users who have relevant brands or topics top of mind, or to target around competitors","Keyword targeting based around specific brands or interests. Used to target users who have relevant brands or topics top of mind, or to target around competitors",KCT-3PD CONTEXTUAL,3PD Contextual
+KCT-SEARCH,"Keyword targeting based around specific brands or interests, with the list being sourced by MC internally ","Keyword targeting based around specific brands or interests, with the list being sourced by MC internally ",KCT-SEARCH,Other / NON DMP Audience
+KSTD-3PD CONTEXTUAL,,,KCT-3PD CONTEXTUAL,3PD Contextual
+LAPSED-1PD PIXEL,Data owned by another company or advertiser that is aggregated by an outside vendor,This is a user that has not visited the cart page in at least 90 days,LAPSED-1PD PIXEL,1PD Audience
+LAPSED-1PD PIXEL,,,LAPSED-1PD PIXEL,1PD Audience
+MARKET-3PD CONTEXTUAL,,,IN MARKET-3PD CONTEXTUAL,3PD Contextual
+MB Affinity-3PD BEHAVIOR,,,AFFINITY-3PD BEHAVIOR,3PD Audience
+MEDIA-1PD MEDIA,Data owned by another company or advertiser that is aggregated by an outside vendor,"Data ingested from media tags across all vehicles: search, social, display, video, email etc.",MEDIA-1PD MEDIA,1PD Audience
+MEDIA-1PD MEDIA,,,MEDIA-1PD MEDIA,1PD Audience
+MEDIA-3PD RETARGET EXPOSED,Retargeting using exposures from a particular source,Remessaging audiences that have already been exposed to a previous media message,MEDIA-3PD RETARGET EXPOSED,3PD Audience
+PERSONA-1PD RETARGET,Audience built from DMP pixel or DSP pixel + 1p,DSP Audience + Dell 1p Data,PERSONA-1PD RETARGET,1PD Audience
+PIXEL-3PD LAL,Seed pixel audience to extend using 3PD cookies from DSP,Seed pixel audience to extend using 3PD cookies from DSP,PIXEL-3PD LAL,3PD Audience
+PIXEL-3PD LAL,,,PIXEL-3PD LAL,3PD Audience
+PROXIMITY-3PD BEHAVIOR,"Geo-targeting around business chains, individual points of interests, street addresses, and lat/long coordinates, editable by radius","Geo-targeting around business chains, individual points of interests, street addresses, and lat/long coordinates, editable by radius based on behavioural signals ",PROXIMITY-3PD BEHAVIOR,3PD Audience
+PROXIMITY-3PD CONTEXTUAL,"Geo-targeting around business chains, individual points of interests, street addresses, and lat/long coordinates, editable by radius","Geo-targeting around business chains, events, individual points of interests, street addresses, and lat/long coordinates, editable by radius",PROXIMITY-3PD CONTEXTUAL,3PD Contextual
+PUBLISHER-2PD,Data that you buy from outside sources that are not the original collectors of that data,Using a publisher's own data for targeting,PUBLISHER-2PD,2PD Audience
+RETARGET-1PD   RETARGET,,,RETARGET-1PD RETARGET,1PD Audience
+RETARGET-1PD RETARGET,{insert description},Data ingested from the control tag/event pixels on site,RETARGET-1PD RETARGET,1PD Audience
+RETARGET-3PD COM SIZE,,,RETARGET-1PD RETARGET,3PD Audience
+RETARGET-3PD RETARGET,,,RETARGET-1PD RETARGET,3PD Audience
+RON-PMP,"Run of Network, a publisher’s full list of owned sites with no additional targeting layered on top","Run of Network, a publisher’s full list of owned sites with no additional targeting layered on top",RON-PMP,Other / NON DMP Audience
+ROS-3PD PMP,Run of Site with 3PD Data Targeting,Run of Site with 3PD Data Targeting,ROS-3PD PMP,3PD Audience
+ROS-PMP,"Run of Site, a specific website with no additional targeting layered on top","Run of Site, a specific website with no additional targeting layered on top",ROS-PMP,Other / NON DMP Audience
+SITE IN MARKET-3PD BEHAVIOR,Using sites as a proxy to define users in market,Using sites as a proxy to define users in market,SITE IN MARKET-3PD BEHAVIOR,3PD Audience
+SITE IN MARKET-3PD CONTEXTUAL,,,SITE IN MARKET-3PD BEHAVIOR,3PD Contextual
+SPONSORSHIP,NON DMP Audience,Sponorship ,SPONSORSHIP,Other / NON DMP Audience
+VIDEO-3PD RETARGET EXPOSED,,,VIDEO-3PD RETARGET EXPOSED,3PD Audience
