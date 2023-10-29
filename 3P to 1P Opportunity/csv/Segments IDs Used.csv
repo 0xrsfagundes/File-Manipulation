@@ -1,18 +1,928 @@
-,,,
-,,,
- ,Total Segments ID,Total Segment Used,% Used Segments
-B2B,265,82,31%
-FY2023Q4,13,0,0%
-FY2024Q1,125,44,35%
-FY2024Q2,68,38,56%
-FY2024Q3,59,0,0%
-CSB,656,101,15%
-FY2023Q4,51,18,35%
-FY2024Q1,256,67,26%
-FY2024Q2,233,16,7%
-FY2024Q3,116,0,0%
-PAN-DELL,3,0,0%
-FY2023Q4,1,0,0%
-FY2024Q1,1,0,0%
-FY2024Q3,1,0,0%
-Grand Total,924,183,20%
+,Segment ID,MediaCom Audience Name,Country,BU lvl2,Audience Source,Created Date,Placements Count,Segment Used,BU lvl1,FQ,Created Date Fiscal Week
+0,14o04dsyat,,us,csbo-aw,Google Analytics,2023-01-17,0.0,0,CSB,FY2023Q4,FY2023Q4W12
+1,da2z3jfdx3d,,us,csbo-csb,Google Analytics,2023-01-19,0.0,0,CSB,FY2023Q4,FY2023Q4W12
+2,d2l072rynmf,targeting-development_us-csbo-csb_1pcrm-aiqcrm-cip_na,us,csbo-csb,AIQ CRM,2023-01-20,0.0,0,CSB,FY2023Q4,FY2023Q4W12
+3,dztqn3bkuwh,targeting-gamingpcbuyer_us-csbo-csb_1pcrm-aiqcrm-cip_na,us,csbo-csb,AIQ CRM,2023-01-20,0.0,0,CSB,FY2023Q4,FY2023Q4W12
+4,dfmb6iq56n5,targeting-mbinmarket_us-mb_abm-liveramp-dunandbradstreet_fi/im,us,mb,Liveramp,2023-01-23,0.0,0,B2B,FY2023Q4,FY2023Q4W13
+5,d7xs85pykcu,targeting-mbhvcbdmitdm_us-mb_abm-liveramp-dunandbradstreet_fi,us,mb,Liveramp,2023-01-23,0.0,0,B2B,FY2023Q4,FY2023Q4W13
+6,dvqk0dkd51b,targeting-mbim_us-mb_1pcrm-aiqcrm-cip_im,us,mb,AIQ CRM,2023-01-23,0.0,0,B2B,FY2023Q4,FY2023Q4W13
+7,d90hjr4el8l,seeddmp-mboomcosizefilter_us-mb_3pofftheshelf-liveramp-adstra_fi,us,mb,Liveramp,2023-01-23,0.0,0,B2B,FY2023Q4,FY2023Q4W13
+8,dbd171yzas4,targeting-mbimintentsignals_us-mb_3pofftheshelf-liveramp-oracledatamarketplace_im/in,us,mb,Liveramp,2023-01-23,0.0,0,B2B,FY2023Q4,FY2023Q4W13
+9,dvvk2r9v353,seedlal-mbtxlk12buyers_us-mb_abm-liveramp-dunandbradstreet_fi,us,mb,Liveramp,2023-01-23,0.0,0,B2B,FY2023Q4,FY2023Q4W13
+10,de5m4c82vod,targeting-brandyoungpros_us-brand_3pofftheshelf-liveramp-123push_de,us,brand,Liveramp,2023-01-23,0.0,0,PAN-DELL,FY2023Q4,FY2023Q4W13
+11,dx9866ycpch,seedtargeting-dev_us-csbo-csb_1pcrm-aiqcrm-cip_na,us,csbo-csb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+12,d5ddll7nteq,seedtargeting-react_us-csbo-csb_1pcrm-aiqcrm-cip_na,us,csbo-csb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+13,d2srky66y97,seedtargeting-gamingpcbuyer_us-csbo-aw/gseries_1pcrm-aiqcrm-cip_na,us,csbo-aw/gseries,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+14,dvd8udw1jqe,seedtargeting-gamingpurchaseintent_us-csbo-aw/gseries_1pcrm-aiqcrm-cip_na,us,csbo-aw/gseries,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+15,dvzi5fpwsq0,seedtargeting-enrolleditconsultants_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+16,diz8r4lp07j,seedtargeting-accountingengineering_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+17,d8oqbcgxhj0,seedtargeting-devreact_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+18,dtma0oq0ats,seedtargeting-hhserver_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+19,d1ehw5b9die,seedtargeting-hhserverstorage_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+20,dycnajocapo,seedtargeting-hhstorage_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+21,ddil37ploig,seedtargeting-highmedit_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+22,d7u1uvgihyw,seedtargeting-isddgr_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+23,d1833s85ts2,seedtargeting-itdms_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+24,d4mc93567gb,seedtargeting-pastserverpurchasers_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+25,dqfyrpst1bz,seedtargeting-donotuse_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+26,d4pyjk1z1w1,seedtargeting-workstations_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+27,djjckmwy5pi,targeting-associations_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+28,dxbqzrhhdc9,targeting-dellforentrepreneurs_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+29,dd6onnun705,targeting-expandingbusinesses_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+30,dm3oommazg8,targeting-netnewbusiness_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+31,dslh1tsjdj6,targeting-itdm_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+32,ddpa2x3w3wj,targeting-acqhighmedit_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+33,dw596qixgpz,targeting-serverpr_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+34,dr52bcy810p,targeting-enterpriseserver_us-csbo-sb_1pcrm-aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+35,d5g974q5j16,targeting-dev_us-csbo-csb_1pcrm-liveramp-aiq_na,us,csbo-csb,Liveramp,2023-01-26,2521.0,1,CSB,FY2023Q4,FY2023Q4W13
+36,dza0y29y5eh,targeting-react_us-csbo-csb_1pcrm-liveramp-aiq_na,us,csbo-csb,Liveramp,2023-01-26,809.0,1,CSB,FY2023Q4,FY2023Q4W13
+37,dd56hr0q4df,targeting-gamingpcbuyer_us-csbo-aw/gseries_1pcrm-liveramp-aiq_na,us,csbo-aw/gseries,Liveramp,2023-01-26,634.0,1,CSB,FY2023Q4,FY2023Q4W13
+38,dw74i50a4wt,targeting-gamingpurchaseintent_us-csbo-aw/gseries_1pcrm-liveramp-aiq_na,us,csbo-aw/gseries,Liveramp,2023-01-26,108.0,1,CSB,FY2023Q4,FY2023Q4W13
+39,dhs21thyr70,targeting-enrolleditconsultants_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,1493.0,1,CSB,FY2023Q4,FY2023Q4W13
+40,dzpf4amz64m,targeting-accountingengineering_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,0.0,0,CSB,FY2023Q4,FY2023Q4W13
+41,d6actylcgfa,targeting-devreact_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,483.0,1,CSB,FY2023Q4,FY2023Q4W13
+42,d44ej9j7l47,targeting-hhserver_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,254.0,1,CSB,FY2023Q4,FY2023Q4W13
+43,db8xu9shxm7,targeting-hhserverstorage_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,250.0,1,CSB,FY2023Q4,FY2023Q4W13
+44,d6q30kb7stc,targeting-hhstorage_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,255.0,1,CSB,FY2023Q4,FY2023Q4W13
+45,dbsylp97lg7,targeting-highmedit_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,707.0,1,CSB,FY2023Q4,FY2023Q4W13
+46,dl6xwkkba1h,targeting-isddgr_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,145.0,1,CSB,FY2023Q4,FY2023Q4W13
+47,d1vh6svslg2,targeting-itdms_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,473.0,1,CSB,FY2023Q4,FY2023Q4W13
+48,dj2x0sl776i,targeting-pastserverpurchasers_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,434.0,1,CSB,FY2023Q4,FY2023Q4W13
+49,d2duc9h7l38,targeting-donotuse_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,455.0,1,CSB,FY2023Q4,FY2023Q4W13
+50,dwdht98vi78,targeting-workstations_us-csbo-sb_1pcrm-liveramp-aiq_na,us,csbo-sb,Liveramp,2023-01-26,506.0,1,CSB,FY2023Q4,FY2023Q4W13
+51,dh9bl9zks10,targeting-development_us-csbo-csb_1pcrm-aiqcrm-aiq_de,us,csbo-csb,AIQ CRM,2023-01-29,0.0,0,CSB,FY2023Q4,FY2023Q4W14
+52,dclz8y1bxzk,test-tutorial_us-csbo-csb_3pofftheshelf_liveramp-180bytwo_im,us,csbo-csb,Liveramp,2023-01-29,0.0,0,CSB,FY2023Q4,FY2023Q4W14
+53,d8tvnc0ncc2,targeting-millenials_us-csbo-con_3pofftheshelf_liveramp-123push_de,us,csbo-con,Liveramp,2023-02-03,455.0,1,CSB,FY2023Q4,FY2023Q4W14
+54,d5z3415l8ln,targeting-parents_us-csbo-con_3pofftheshelf_liveramp-123push_be/de/im,us,csbo-con,Liveramp,2023-02-03,370.0,1,CSB,FY2023Q4,FY2023Q4W14
+55,dievz48ix8q,targeting-collegegraduates_us-csbo-con_3pofftheshelf_liveramp-alnt_de,us,csbo-con,Liveramp,2023-02-03,141.0,1,CSB,FY2023Q4,FY2023Q4W14
+56,d3ielvetr2k,targeting-pcgamer_us-csbo-gseries_3pofftheshelf_liveramp-alnt_de/im,us,csbo-gseries,Liveramp,2023-02-03,0.0,0,CSB,FY2023Q4,FY2023Q4W14
+57,dslqoio5hb8,targeting-pcgamer_us-csbo-gseries_3pofftheshelf_liveramp-alnt_de/im,us,csbo-gseries,Liveramp,2023-02-03,0.0,0,CSB,FY2023Q4,FY2023Q4W14
+58,d99qflczbxl,targeting-mboomhvc_us-mb_1pcrm_aiqcrm-cip_na,us,mb,AIQ CRM,2023-02-03,0.0,0,B2B,FY2023Q4,FY2023Q4W14
+59,d20l7n61550,targeting-mbim_us-mb_1pcrm_aiqcrm-cip_na,us,mb,AIQ CRM,2023-02-03,0.0,0,B2B,FY2023Q4,FY2023Q4W14
+60,d21gjfeyqir,targeting-ceoom_us-ce_1pcrm_aiqcrm-cip_na,us,ce,AIQ CRM,2023-02-03,0.0,0,B2B,FY2023Q4,FY2023Q4W14
+61,di5te0hrcyt,targeting-ceim_us-ce_1pcrm_aiqcrm-cip_na,us,ce,AIQ CRM,2023-02-03,0.0,0,B2B,FY2023Q4,FY2023Q4W14
+62,dfl0bcxe45h,targeting-ceedu_us-ce_1pcrm_aiqcrm-cip_na,us,ce,AIQ CRM,2023-02-03,0.0,0,B2B,FY2023Q4,FY2023Q4W14
+63,d2d78e09uxp,targeting-ceslg_us-ce_1pcrm_aiqcrm-cip_na,us,ce,AIQ CRM,2023-02-03,0.0,0,B2B,FY2023Q4,FY2023Q4W14
+64,dg4r4ntotgc,targeting-caimoom_ca-com_1pcrm_aiqcrm-cip_na,ca,com,AIQ CRM,2023-02-03,0.0,0,B2B,FY2023Q4,FY2023Q4W14
+65,d5v115zjlkg,targeting-denconsultantsflag_br-csbo-sb_1pcrm_liveramp-cip_na,br,csbo-sb,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+66,dlf0m5ws7kj,targeting-inspironflag_br-csbo-sb_1pcrm_liveramp-cip_na,br,csbo-sb,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+67,dk96eccnuuk,targeting-isgflag_br-csbo-sb_1pcrm_liveramp-cip_na,br,csbo-sb,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+68,d86sjit3cni,targeting-latitudeflag_br-csbo-sb_1pcrm_liveramp-cip_na,br,csbo-sb,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+69,diugeorptgq,targeting-radsegment_br-csbo-sb_1pcrm_liveramp-cip_na,br,csbo-sb,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+70,dos9gqysk6n,targeting-taxidtype_br-csbo-sb_1pcrm_liveramp-cip_na,br,csbo-sb,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+71,djwa19u3v76,targeting-vostroflag_br-csbo-sb_1pcrm_liveramp-cip_na,br,csbo-sb,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+72,dcjm86hyyug,targeting-denconsultantsflag_br-csbo-con_1pcrm_liveramp-cip_na,br,csbo-con,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+73,d4tcd5ykm5w,targeting-gamingpurchasefag_br-csbo-con_1pcrm_liveramp-cip_na,br,csbo-con,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+74,dlbc113hg63,targeting-inspironflag_br-csbo-con_1pcrm_liveramp-cip_na,br,csbo-con,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+75,dntwm29hxky,targeting-latitudeflag_br-csbo-con_1pcrm_liveramp-cip_na,br,csbo-con,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+76,d4d5ie2l90c,targeting-radsegment_br-csbo-con_1pcrm_liveramp-cip_na,br,csbo-con,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+77,d4hozsoz5cm,targeting-taxidtype_br-csbo-con_1pcrm_liveramp-cip_na,br,csbo-con,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+78,djoxqbakjs3,targeting-vostroflag_br-csbo-con_1pcrm_liveramp-cip_na,br,csbo-con,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+79,djzrt98k1qq,targeting-xpsbuyerflag_br-csbo-con_1pcrm_liveramp-cip_na,br,csbo-con,Liveramp,2023-02-08,0.0,0,CSB,FY2024Q1,FY2024Q1W1
+80,dxk0qz2rg6h,targeting-ceoombdm_us-ce_abm_salesforce-oracledatamarketplace_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+81,dmqth8vpv6s,targeting-ceoomitdm_us-ce_abm_salesforce-oracledatamarketplace_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+82,doqq53p272o,targeting-techinterest_us-ce_3pofftheshelf_salesforce-who2bynetwise_em/fi/in,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+83,dumszb47v6w,targeting-industryexecs_us-ce_3pofftheshelf_salesforce-dunandbradstreet_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+84,d7g4h1lo9lq,targeting-salesfinanceengprofessionals_us-ce_3pofftheshelf_salesforce-who2bynetwise_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+85,derz1ui2h5x,targeting-delldirector_us-b2b_abm_salesforce-dunandbradstreet_em/fi,us,b2b,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+86,d6k31roz7dm,seeddmp-cosizefilter500above_us-ce_3pofftheshelf_salesforce-adstra_fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+87,d3ngzpqhom7,targeting-ceimbdm_us-ce_abm_salesforce-oracledatamarketplace_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+88,d34proc48v6,targeting-ceimtdm_us-ce_abm_salesforce-oracledatamarketplace_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+89,d7hpkskdjmj,targeting-installbaseitdm_us-ce_3pofftheshelf_salesforce-bluekai_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+90,d2g8dshl4qz,targeting-ceedu_us-ce_abm_salesforce-oracledatamarketplace_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+91,d2gcivc2mjk,targeting-ceslg_us-ce_abm_salesforce-oracledatamarketplace_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+92,dbvcqv4j6pm,targeting-ceimbdm_us-ce_abm_salesforce-sharethis_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+93,d4ugwv9refv,targeting-ceimtdm_us-ce_abm_salesforce-sharethis_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+94,ditdszl7d4a,targeting-ceedu_us-ce_abm_salesforce-sharethis_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+95,d3zto48butl,targeting-ceslg_us-ce_abm_salesforce-sharethis_em/fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+96,dh3fo3hyv6n,targeting-inmarketproducts_us-ce_3pofftheshelf_salesforce-dunandbradstreet_fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+97,dkol4ethwnv,targeting-highitspend_us-ce_3pofftheshelf_salesforce-dunandbradstreet_fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+98,d8daz828zlq,targeting-mboombdm_us-mb_abm_salesforce-oracledatamarketplace_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+99,d48qxdgtd0n,targeting-mboomitdm_us-mb_abm_salesforce-oracledatamarketplace_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+100,ddepi2rihqa,targeting-mbhvc_us-mb_abm_salesforce-oracledatamarketplace_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+101,devewllmaxs,targeting-demointerests_us-mb_3pofftheshelf_salesforce-acxiom_de/in,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+102,ddee9cxe1ur,targeting-midmarketvalidateddemo_us-mb_3pofftheshelf_salesforce-oracledatamarketplace_de,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+103,d1s3rtsk3t4,seeddmp-cosizefilter100to499_us-mb_3pofftheshelf_salesforce-adstra_fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+104,d33bjw9gt2t,targeting-mbimbdm_us-mb_abm_salesforce-oracledatamarketplace_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+105,dor7mz5dez8,targeting-mbimitdm_us-mb_abm_salesforce-oracledatamarketplace_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+106,dyd7mwc6e6x,targeting-inmarketproducts_us-mb_3pofftheshelf_salesforce-dunandbradstreet_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+107,dw8ais74p2x,targeting-mbimbdm_us-mb_abm_salesforce-sharethis_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+108,dxwgf3l0m9h,targeting-mbimitdm_us-mb_abm_salesforce-sharethis_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+109,dqiwqrk0oxv,targeting-installbasedms_us-mb_3pofftheshelf_salesforce-oracledatamarketplace_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+110,dcdt03k5k6h,targeting-mbk12_us-mb_abm_salesforce-dunandbradstreet_em/fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+111,d119znctkln,seedlal-mbk12buyers_us-mb_abm_salesforce-dunandbradstreet_fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+112,dnwtknv0k5k,seedlal-mbk12_us-mb_abm_salesforce-dunandbradstreet_fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+113,dwsl5synb95,targeting-cek12_us-ce_abm_salesforce-oracledatamarketplace_fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+114,dvoetk0dry6,seedlal-cek12_us-ce_abm_salesforce-dunandbradstreet_fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+115,d6ke5m5pgwx,targeting-mbpremaware_us-mb_3pofftheshelf_salesforce-lotame_fi,us,mb,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+116,dmt4ijnhl4l,targeting-cepremaware_us-ce_3pofftheshelf_salesforce-lotame_fi,us,ce,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+117,d2gik0gj847,targeting-decisionmakers_ca-com_3pofftheshelf_salesforce-oracledatamarketplace_em/fi,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+118,dfpfpc95b1f,targeting-executivescsuite_ca-com_3pofftheshelf_salesforce-dunandbradstreet_em/fi,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+119,d60m1q9yfqp,targeting-techbudgetitdm_ca-com_3pofftheshelf_salesforce-oracledatamarketplace_em/fi,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+120,dnyg1j4h2ha,targeting-itdmexecs_ca-com_3pofftheshelf_liveramp-adstra_em/fi,ca,com,Liveramp,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+121,dp2pubxsf20,targeting-decisionmakers_ca-com_3pofftheshelf_liveramp-180bytwo_em/fi,ca,com,Liveramp,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+122,d1rvd7przsn,targeting-techbudgetdms_ca-com_3pofftheshelf_liveramp-dunandbradstreet_em/fi,ca,com,Liveramp,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+123,dqxay7a31us,targeting-serveritbudget_ca-com_3pofftheshelf_liveramp-dunandbradstreet_em/fi,ca,com,Liveramp,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+124,dyfnzj8jxpu,targeting-serverinmarket_ca-com_3pofftheshelf_liveramp-dunandbradstreet_em/fi,ca,com,Liveramp,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+125,d4r7ow01c7f,targeting-b2schoolholidayshop_ca-com_3pofftheshelf_salesforce-33across_de,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+126,dm5l9orqdxr,targeting-pastserverpurchase_ca-com_abm_salesforce-lotame_em/fi,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+127,d8ge8xhxg84,targeting-caimbdmitdm_ca-com_abm_salesforce-180bytwo_em/fi,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+128,dcj4hxa5ezj,targeting-caoombdmitdm_ca-com_abm_salesforce-180bytwo_em/fi,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+129,d3h7vnsbh5i,targeting-caimbdmitdm_ca-com_abm_salesforce-dunandbradstreet_em/fi,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+130,dpar2g7e9u0,targeting-caoombdmitdm_ca-com_abm_salesforce-dunandbradstreet_em/fi,ca,com,Salesforce,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+131,d8hc9ehlo48,test-ceim_us-ce_1pcrm_aiqcrm-cip_na,us,ce,AIQ CRM,2023-02-09,0.0,0,B2B,FY2024Q1,FY2024Q1W1
+132,dvccsf8t91l,targeting-brandcsuitedms_us-brand_3pofftheshelf_liveramp-dataaxle_em/fi,us,brand,Liveramp,2023-02-10,0.0,0,PAN-DELL,FY2024Q1,FY2024Q1W1
+133,d1atfyrwnh5,targeting-smb_us-csbo-sb_1pcrm_aiqcrm-hartehanks_na,us,csbo-sb,AIQ CRM,2023-02-16,0.0,0,CSB,FY2024Q1,FY2024Q1W2
+134,dve6uvx4dtd,targeting-acqbizbasic_us-csbo-sb_1pcrm_liveramp-cip_na,us,csbo-sb,Liveramp,2023-02-22,0.0,0,CSB,FY2024Q1,FY2024Q1W3
+135,dv1vhjjenyo,targeting-acqbizbasic_us-csbo-sb_1pcrm_aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-02-22,0.0,0,CSB,FY2024Q1,FY2024Q1W3
+136,d65xy103w8i,targeting-collegegraduatejobseekers_us-csbo-csb_3pofftheshelf_liveramp-123push_be/de,us,csbo-csb,Liveramp,2023-02-22,0.0,0,CSB,FY2024Q1,FY2024Q1W3
+137,dlbeiq96137,targeting-collegegraduateshouseholds_us-csbo-csb_3pofftheshelf_liveramp-alliant_de/ge,us,csbo-csb,Liveramp,2023-02-22,0.0,0,CSB,FY2024Q1,FY2024Q1W3
+138,d6xm6w7t6za,targeting-collegegraduatesindividuals_us-csbo-csb_3pofftheshelf_liveramp-alliant_de,us,csbo-csb,Liveramp,2023-02-22,11.0,1,CSB,FY2024Q1,FY2024Q1W3
+139,d33wf5xyeqw,targeting-collegegraduatesandjobseekers_us-csbo-con_3pofftheshelf_liveramp-ameribase_be/de,us,csbo-con,Liveramp,2023-02-22,0.0,0,CSB,FY2024Q1,FY2024Q1W3
+140,djp0h836h80,targeting-gamingpurchaseintent_us-csbo-con_1pcrm_liveramp-cip_na,us,csbo-con,Liveramp,2023-02-22,473.0,1,CSB,FY2024Q1,FY2024Q1W3
+141,dw4bvzdivot,targeting-developmentreactivation_au-csbo-sb_1pcrm_liveramp-cip_de,au,csbo-sb,Liveramp,2023-02-23,0.0,0,CSB,FY2024Q1,FY2024Q1W3
+142,dgr0kbqaywb,targeting-development_au-csbo-sb_1pcrm_liveramp-cip_de,au,csbo-sb,Liveramp,2023-02-23,0.0,0,CSB,FY2024Q1,FY2024Q1W3
+143,df2ttaqn16w,targeting-reactivation_au-csbo-sb_1pcrm_liveramp-cip_de,au,csbo-sb,Liveramp,2023-02-23,0.0,0,CSB,FY2024Q1,FY2024Q1W3
+144,dxhb0npgj29,targeting-aonreacttest_us-csbo-con_1pcrm_aiqcrm-cip_na,us,csbo-con,AIQ CRM,2023-02-27,0.0,0,CSB,FY2024Q1,FY2024Q1W4
+145,d4p7hwo32q6,targeting-aonreactholdout_us-csbo-con_1pcrm_aiqcrm-cip_na,us,csbo-con,AIQ CRM,2023-02-27,0.0,0,CSB,FY2024Q1,FY2024Q1W4
+146,dn0em1r64yz,targeting-10to50employees_us-csbo-sb_3pofftheshelf_liveramp-123push_fi,us,csbo-sb,Liveramp,2023-03-07,0.0,0,CSB,FY2024Q1,FY2024Q1W5
+147,dq7zj7miobx,targeting-under10employees_us-csbo-sb_3pofftheshelf_liveramp-123push_fi,us,csbo-sb,Liveramp,2023-03-07,0.0,0,CSB,FY2024Q1,FY2024Q1W5
+148,dm8tmi994db,targeting-highspenders_us-csbo-sb_3pofftheshelf_liveramp-experian_be/fi,us,csbo-sb,Liveramp,2023-03-07,0.0,0,CSB,FY2024Q1,FY2024Q1W5
+149,d5334zl9jhl,targeting-mbtosb_us-csbo-sb_1pcrm_aiqcrm-aiq_na,us,csbo-sb,AIQ CRM,2023-03-07,0.0,0,CSB,FY2024Q1,FY2024Q1W5
+150,dcksi8jk3dk,test-na_us-ce_1pcrm_aiqcrm-cip_na,us,ce,AIQ CRM,2023-03-09,250.0,1,B2B,FY2024Q1,FY2024Q1W5
+151,dfc6vuk7tkj,control-na_us-ce_1pcrm_aiqcrm-cip_na,us,ce,AIQ CRM,2023-03-09,248.0,1,B2B,FY2024Q1,FY2024Q1W5
+152,dcayq93bhei,targeting-highspenders_us-csbo-sb_3pofftheshelf_liveramp-expr_be/in,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+153,d52ad65kt9r,targeting-employeesfrom1to10_us-csbo-sb_3pofftheshelf_liveramp-123_fi/im/la,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+154,dfwcmmtzbvu,targeting-employeesfrom11to50_us-csbo-sb_3pofftheshelf_liveramp-123_co/fi,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+155,d1ddswz77tu,targeting-employeesfrom51to100_us-csbo-sb_3pofftheshelf_liveramp-123_be/fi,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+156,dulrlm82vvg,targeting-cabletv_us-csbo-con_3pofftheshelf_liveramp-123_be/de,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+157,dco1q1yq7hb,targeting-comedy_us-csbo-con_3pofftheshelf_liveramp-123_ge/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+158,dt8obix7gux,targeting-drama_us-csbo-con_3pofftheshelf_liveramp-123_be/im,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+159,d1gl9ozoi27,targeting-brandaffinity_us-csbo-con_3pofftheshelf_liveramp-123_be/im/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+160,dg0lr6gakav,targeting-frequentvacationers_us-csbo-con_3pofftheshelf_liveramp-flb_be/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+161,d6jiwagn6bv,targeting-travelresearchers_us-csbo-con_3pofftheshelf_liveramp-skyd_be/de,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+162,drcftah3n5e,targeting-travelandtourism_us-csbo-con_3pofftheshelf_liveramp-*actgr_co/im/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+163,dc4slh5bbxk,targeting-budgetfamilies_us-csbo-con_3pofftheshelf_liveramp-acxm_co/de/fi/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+164,dufzzj5jfzd,targeting-parentswchildren_us-csbo-con_3pofftheshelf_liveramp-alkaud_be/fi/ge/im,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+165,dbhf2nmu74k,targeting-smallofficehomeoffice_us-csbo-sb_3pofftheshelf_liveramp-180_de/fi/ge,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+166,d5heshbw0n3,targeting-companyclassification_us-csbo-sb_3pofftheshelf_liveramp-180_em/fi/im,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+167,ds7f00c9e40,targeting-sbusinessdecisonmakers_us-csbo-sb_3pofftheshelf_liveramp-123_be,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+168,dcmo6gg7zdg,targeting-cleveldecisionmakers_us-csbo-sb_3pofftheshelf_liveramp-123_im/in,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+169,dhy03x363pm,targeting-itecisionmakers_us-csbo-sb_3pofftheshelf_liveramp-123_be/fi/im,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+170,ddduakqber9,targeting-technologydecisionmakers_us-csbo-sb_3pofftheshelf_liveramp-33a_de/em/fi,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+171,dedmz7vdmoq,targeting-lessthan100employees_us-csbo-sb_3pofftheshelf_liveramp-zinf_em/fi,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+172,d3csf1zcele,targeting-interestinservers_us-csbo-sb_3pofftheshelf_liveramp-d&b_im/in,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+173,dl3larkxdar,targeting-intinvirtualservers_us-csbo-sb_3pofftheshelf_liveramp-d&b_co/fi,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+174,dj1rr0z5bh0,targeting-employeessize_us-csbo-sb_3pofftheshelf_liveramp-180_em/im/in,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+175,dbfdqaz9s3c,targeting-smallhomeoffice_us-csbo-sb_3pofftheshelf_liveramp-astrsk_fi,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+176,djss24qi6e2,targeting-bigspenders_us-csbo-sb_3pofftheshelf_liveramp-expr_be/de/ge/in,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+177,d4ve8pkkyqw,targeting-gamers_us-csbo-gseries_3pofftheshelf_liveramp-180_in,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+178,doxydeqyozb,targeting-onlinegamers_us-csbo-gseries_3pofftheshelf_liveramp-crp_be/in,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+179,dkqougxp3gv,targeting-avidgamers_us-csbo-gseries_3pofftheshelf_liveramp-alnt_de/im,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+180,d8q7w9pb1vs,targeting-onlinegamers_us-csbo-gseries_3pofftheshelf_liveramp-alnt_ge/in,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+181,dk7claz14e2,targeting-hardcoregamers_us-csbo-gseries_3pofftheshelf_liveramp-strt_be/im/in,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+182,dg25ry21bck,targeting-gamingenthus_us-csbo-gseries_3pofftheshelf_liveramp-strt_be/im/in,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+183,dl51332rbk5,targeting-electronicgamingenthu_us-csbo-gseries_3pofftheshelf_liveramp-123_be/fi/in,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+184,drbhssrnvfs,targeting-hardcoregamings_us-csbo-gseries_3pofftheshelf_liveramp-aiq_co/im,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+185,d663mweu8wb,targeting-gadgets_us-csbo-con_3pofftheshelf_liveramp-123_de/im,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+186,dk98l2i0912,targeting-internetserviceproviders_us-csbo-con_3pofftheshelf_liveramp-#hbv_co/de/ge,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+187,don44o1yg4i,targeting-smarthomes_us-csbo-con_3pofftheshelf_liveramp-#hbv_de/im,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+188,dvt4mxll2rt,targeting-computers_us-csbo-con_3pofftheshelf_liveramp-123_ge/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+189,djcylmfvqiw,targeting-agrgroups_us-csbo-con_3pofftheshelf_liveramp-123_de/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+190,drrg515sox6,targeting-serverautomation_us-csbo-csb_3pofftheshelf_liveramp-180_be/co,us,csbo-csb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+191,deaq3lexgcw,targeting-servervirtualization_us-csbo-csb_3pofftheshelf_liveramp-123_de/ge,us,csbo-csb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+192,dwc424b5c31,targeting-employeessize1to100_us-csbo-csb_3pofftheshelf_liveramp-zfd_de/em,us,csbo-csb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+193,dpe0bewpuwf,targeting-telecommutersandsoho_us-csbo-sb_3pofftheshelf_liveramp-123-expr_em/fi/im,us,csbo-sb,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+194,d9xxbeojje0,targeting-tvlovers_us-csbo-con_3pofftheshelf_liveramp-123_be/de/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+195,dkboraqvy0y,targeting-dellpurchaseintents_us-csbo-con_3pofftheshelf_liveramp-123_ge/im/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+196,d7nrey4v0wm,targeting-travelconsumers_us-csbo-con_3pofftheshelf_liveramp-eyta_be/im/in,us,csbo-con,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+197,drasbf8bmwy,targeting-sbdmconsumers_us-csbo-sb_3pofftheshelf_liveramp-123-180-33a_be/co/in,us,csbo-sb,Liveramp,2023-03-13,320.0,1,CSB,FY2024Q1,FY2024Q1W6
+198,dr2f1v1uzu5,targeting-itdmlessthan100_us-csbo-sb_3pofftheshelf_liveramp-180_em/in,us,csbo-sb,Liveramp,2023-03-13,238.0,1,CSB,FY2024Q1,FY2024Q1W6
+199,d8mke1vb107,targeting-inmarketforservers_us-csbo-sb_3pofftheshelf_liveramp-180-d&b_be/fi/in,us,csbo-sb,Liveramp,2023-03-13,135.0,1,CSB,FY2024Q1,FY2024Q1W6
+200,djb0q0rgzgf,targeting-serverusers_us-csbo-sb_3pofftheshelf_liveramp-eyta_be/im/in,us,csbo-sb,Liveramp,2023-03-13,190.0,1,CSB,FY2024Q1,FY2024Q1W6
+201,d8rv8okdbt7,targeting-sohoandtelecommuters_us-csbo-sb_3pofftheshelf_liveramp-123-aiq_co/de/em/in,us,csbo-sb,Liveramp,2023-03-13,341.0,1,CSB,FY2024Q1,FY2024Q1W6
+202,d3m3c4miolj,targeting-gamingusers_us-csbo-gseries_3pofftheshelf_liveramp-180-aiq-crp-strt_co/fi/in,us,csbo-gseries,Liveramp,2023-03-13,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+203,d1libuvhfc7,targeting-yucconsumers_us-csbo-con_3pofftheshelf_liveramp-#hbv-123_de/im/in,us,csbo-con,Liveramp,2023-03-13,151.0,1,CSB,FY2024Q1,FY2024Q1W6
+204,d25grhq4zsq,targeting-backtoschool_us-csbo-con_3pofftheshelf_liveramp-123-ora_de/fi/in,us,csbo-con,Liveramp,2023-03-15,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+205,dl2c3qsm7do,targeting-consumerscountrycodeus_us-csbo-con_1pcrm_aiqcrm-cep_na,us,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+206,dbeqz2pt8b2,targeting-consumerscountrycodeuk_uk-csbo-con_1pcrm_aiqcrm-cep_na,uk,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+207,dze4gyzudsl,targeting-consumerscountrycodeca_ca-csbo-con_1pcrm_aiqcrm-cep_na,ca,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+208,dbujo2flij7,targeting-consumerdevelopment_us-csbo-con_1pcrm_aiqcrm-cep_na,us,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+209,ds8v04c91qc,targeting-0to6monthsgamimg_us-csbo-gseries_1pcrm_aiqcrm-cep_na,us,csbo-gseries,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+210,d77b5autyv1,targeting-13to24monthsgamimg_us-csbo-gseries_1pcrm_aiqcrm-cep_na,us,csbo-gseries,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+211,d90wwqujf6h,targeting-conprospects_us-csbo-con_1pcrm_aiqcrm-cep_na,us,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+212,duig05lu1t8,targeting-countrycode_us-csbo-sb_1pcrm_aiqcrm-cep_na,us,csbo-sb,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+213,dxexccmm7hj,targeting-developmentflag_us-csbo-sb_1pcrm_aiqcrm-cep_na,us,csbo-sb,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+214,dlp5sgir3pp,targeting-sbprospects_us-csbo-sb_1pcrm_aiqcrm-cep_na,us,csbo-sb,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+215,daeneerwy8g,targeting-b2bpersona_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-03-16,0.0,0,B2B,FY2024Q1,FY2024Q1W6
+216,d55h4yeft51,targeting-countrycodeuk_uk-csbo-sb_1pcrm_aiqcrm-cep_ge/im,uk,csbo-sb,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+217,dyzwsnkosg7,targeting-countrycodeca_ca-csbo-sb_1pcrm_aiqcrm-cep_ge/im,ca,csbo-sb,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+218,dlsnflghsve,test-reactivation_uk-csbo-con_1pcrm_aiqcrm-cep_na,uk,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+219,d8i76koevi1,test-liveramp_uk-csbo-con_1pcrm_aiqcrm-cep_na,uk,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+220,dlmeiv225m3,test-zeotap_uk-csbo-con_1pcrm_aiqcrm-cep_na,uk,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+221,djb5av4xp15,test-dv360_uk-csbo-con_1pcrm_aiqcrm-cep_na,uk,csbo-con,AIQ CRM,2023-03-16,0.0,0,CSB,FY2024Q1,FY2024Q1W6
+222,djs5bzqisp1,targeting-consumeracquisitionadobe_ca-csbo-con_1pcrm_liveramp-cep_de/fi,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+223,d66ivue0vgh,targeting-gaminggamingpcpurchaseadobe_ca-csbo-con_1pcrm_liveramp-cep_be/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+224,do0ug6pcizb,targeting-gamingpurchaseintentadobe_ca-csbo-con_1pcrm_liveramp-cep_be/co,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+225,d4v73mncsqw,targeting-consumeracquisitiondv360_ca-csbo-con_1pcrm_liveramp-cep_de/fi,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+226,dab8yd2zv2x,targeting-consumerdevelopmentdv360_ca-csbo-con_1pcrm_liveramp-cep_de/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+227,dgd0vakrjf3,targeting-consumerpcpurchaserdv360_ca-csbo-con_1pcrm_liveramp-cep_be/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+228,dciwhrit2lo,targeting-consumerreactivationdv360_ca-csbo-con_1pcrm_liveramp-cep_fi/ge,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+229,df3ivj19j2i,targeting-xpspurchaserdv360_ca-csbo-con_1pcrm_liveramp-cep_be/im,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+230,dtmymirqap5,targeting-gamingpurchasealldv360_ca-csbo-con_1pcrm_liveramp-cep_fi/ge,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+231,dk05mque0xq,targeting-consumeracqfb_ca-csbo-con_1pcrm_liveramp-cep_fi/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+232,d832ifapozx,targeting-consumerdevelopmentfb_ca-csbo-con_1pcrm_liveramp-cep_co/fi/im,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+233,d23m0pz03om,targeting-pcpurchasefb_ca-csbo-con_1pcrm_liveramp-cep_be/de/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+234,dl7c52uenhv,targeting-consumerreactivationfb_ca-csbo-con_1pcrm_liveramp-cep_fi/ge,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+235,d6laci98tu3,targeting-consumerxpspurchaserfb_ca-csbo-con_1pcrm_liveramp-cep_be/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+236,djx893eer03,targeting-gamingalienwarefb_ca-csbo-con_1pcrm_liveramp-cep_be/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+237,d37enw5m4to,targeting-gamingpurchasefb_ca-csbo-con_1pcrm_liveramp-cep_be/co,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+238,d9p7s4m8teh,targeting-consumeracqoutbrain_ca-csbo-con_1pcrm_liveramp-cep_de/fi,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+239,djsw38ogqhe,targeting-devreactoutbrain_ca-csbo-con_1pcrm_liveramp-cep_de/im,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+240,damw5jj7ocd,targeting-pcpurchaseroutbrain_ca-csbo-con_1pcrm_liveramp-cep_de/im,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+241,dwg0pm7wscu,targeting-xpspurchaseoutbrain_ca-csbo-con_1pcrm_liveramp-cep_co/de,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+242,dtxqh7pe7gl,targeting-gamingpurchaseoutbrain_ca-csbo-con_1pcrm_liveramp-cep_be/im,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+243,dqm894j304d,targeting-consumeracqsf_ca-csbo-con_1pcrm_liveramp-cep_de/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+244,d7hkmu4lll4,targeting-consudevreactsf_ca-csbo-con_1pcrm_liveramp-cep_de/im/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+245,dcf0rb58o91,targeting-consumdevsf_ca-csbo-con_1pcrm_liveramp-cep_co/ge,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+246,dqlfrmv378r,targeting-connomonitorsf_ca-csbo-con_1pcrm_liveramp-cep_ge/im/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+247,dvr3hb11399,targeting-pcpurchasersf_ca-csbo-con_1pcrm_liveramp-cep_de/fi/im,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+248,d40xpk37em3,targeting-conreactsf_ca-csbo-con_1pcrm_liveramp-cep_de/im/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+249,ddt7i95o1i5,targeting-conxpspurchsf_ca-csbo-con_1pcrm_liveramp-cep_de/ge/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+250,dcrd5pm8prq,targeting-congamingalienwaresf_ca-csbo-con_1pcrm_liveramp-cep_im/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+251,dk19sk7htxm,targeting-consumergamingpurchasesf_ca-csbo-con_1pcrm_liveramp-cep_co/fi/in,ca,csbo-con,Liveramp,2023-03-20,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+252,doa8v47yquv,targeting-aontest_us-csbo-con_1pcrm_liveramp-cep_na,us,csbo-con,Liveramp,2023-03-20,346.0,1,CSB,FY2024Q1,FY2024Q1W7
+253,dfzg0hf0sl3,targeting-aonholdout_us-csbo-con_1pcrm_liveramp-cep_na,us,csbo-con,Liveramp,2023-03-20,68.0,1,CSB,FY2024Q1,FY2024Q1W7
+254,dl2r7tk48cm,targeting-segmenta_us-csbo-sb_1pcrm_liveramp-cip_na,us,csbo-sb,Liveramp,2023-03-20,100.0,1,CSB,FY2024Q1,FY2024Q1W7
+255,demsvqqtpd0,targeting-segmentb_us-csbo-sb_1pcrm_liveramp-cip_na,us,csbo-sb,Liveramp,2023-03-20,107.0,1,CSB,FY2024Q1,FY2024Q1W7
+256,dkk6uxbijvt,targeting-bdm_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-03-21,0.0,0,B2B,FY2024Q1,FY2024Q1W7
+257,dshazrpvhrp,targeting-binfl_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-03-21,0.0,0,B2B,FY2024Q1,FY2024Q1W7
+258,dw6rnj4ls3z,targeting-cdm_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-03-21,0.0,0,B2B,FY2024Q1,FY2024Q1W7
+259,dm8625jq19k,targeting-itdm_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-03-21,0.0,0,B2B,FY2024Q1,FY2024Q1W7
+260,dsp4911nmld,targeting-itinfl_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-03-21,0.0,0,B2B,FY2024Q1,FY2024Q1W7
+261,djqftv4g13y,targeting-unknown_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-03-21,0.0,0,B2B,FY2024Q1,FY2024Q1W7
+262,dvybpftm0yn,targeting-countrycodeuk_us-csbo-sb_1pcrm_aiqcrm-cep_na,us,csbo-sb,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+263,d4e5par113t,targeting-countrycodeca_us-csbo-sb_1pcrm_aiqcrm-cep_na,us,csbo-sb,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+264,dgctlvbds3u,targeting-consumerscountrycodeus_us-csbo-con_1pcrm_aiqcrm-cep_na,us,csbo-con,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+265,dj21wn0cfxx,targeting-consumerscountrycodeuk_us-csbo-con_1pcrm_aiqcrm-cep_na,us,csbo-con,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+266,dmaz4eds65z,targeting-consumerscountrycodeca_us-csbo-con_1pcrm_aiqcrm-cep_na,us,csbo-con,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+267,dt46jmy9kj2,targeting-consumerdevelopment_us-csbo-con_1pcrm_aiqcrm-cep_na,us,csbo-con,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+268,dbemm3xwllt,targeting-0to6monthsgamimg_us-csbo-gseries_1pcrm_aiqcrm-cep_na,us,csbo-gseries,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+269,dgpnj6buvt7,targeting-13to24monthsgamimg_us-csbo-gseries_1pcrm_aiqcrm-cep_na,us,csbo-gseries,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+270,d4drh9alo4z,targeting-conprospects_us-csbo-con_1pcrm_aiqcrm-cep_na,us,csbo-con,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+271,d2ak73x4jwu,targeting-countrycode_us-csbo-sb_1pcrm_aiqcrm-cep_na,us,csbo-sb,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+272,dc7bh0awqqf,targeting-developmentflag_us-csbo-sb_1pcrm_aiqcrm-cep_na,us,csbo-sb,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+273,dy7m9mhy7ol,targeting-sbprospects_us-csbo-sb_1pcrm_aiqcrm-cep_na,us,csbo-sb,AIQ CRM,2023-03-21,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+274,d4v24a5ru91,targeting-b2bpersona_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-03-21,0.0,0,B2B,FY2024Q1,FY2024Q1W7
+275,d4r4yiw6zuf,test-testing_us-csbo-con_1pcrm_aiqcrm-cep_be/de/fi,us,csbo-con,AIQ CRM,2023-03-24,0.0,0,CSB,FY2024Q1,FY2024Q1W7
+276,dn0xao4768b,seedlal-awlast24months_us-csbo-aw_1pcrm_aiqcrm-cep_la,us,csbo-aw,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+277,do1awq06hw5,seedlal-awlast24months_uk-csbo-aw_1pcrm_aiqcrm-cep_la,uk,csbo-aw,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+278,dyepcafsw3d,seedlal-awlast24months_ca-csbo-aw_1pcrm_aiqcrm-cep_la,ca,csbo-aw,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+279,dkpl9gick7i,seedlal-allconsminusaw_us-csbo-con_1pcrm_aiqcrm-cep_la,us,csbo-con,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+280,dny8qv323t7,seedlal-allconsminusaw_uk-csbo-con_1pcrm_aiqcrm-cep_la,uk,csbo-con,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+281,djpvgox1wj3,seedlal-allconsminusaw_ca-csbo-con_1pcrm_aiqcrm-cep_la,ca,csbo-con,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+282,davhm5z9jah,seedlal-sb_us-csbo-sb_1pcrm_aiqcrm-cep_la,us,csbo-sb,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+283,ddzg2mlq0r7,seedlal-sb_uk-csbo-sb_1pcrm_aiqcrm-cep_la,uk,csbo-sb,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+284,dgfxo32t0xy,seedlal-sb_ca-csbo-sb_1pcrm_aiqcrm-cep_la,ca,csbo-sb,AIQ CRM,2023-03-28,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+285,da2ropuc96h,abm-na_us-mb_abm_liveramp-180-ads_fi,us,mb,Liveramp,2023-03-28,0.0,0,B2B,FY2024Q1,FY2024Q1W8
+286,d1rwgyoqaik,abm-na_us-mb_abm_neustar-180-ads_fi,us,mb,Neustar,2023-03-28,0.0,0,B2B,FY2024Q1,FY2024Q1W8
+287,d4pa93we78l,targeting-demointerests_us-mb_3pofftheshelf_liveramp-123-33a-amrb-aiq-axl-expr-net-web_fi/in,us,mb,Liveramp,2023-03-29,509.0,1,B2B,FY2024Q1,FY2024Q1W8
+288,dg4n6ul3v6o,targeting-hhincomeowners_us-mb_3pofftheshelf_liveramp-123-axl-equ-expr-net-web_em/fi/inc,us,mb,Liveramp,2023-03-29,365.0,1,B2B,FY2024Q1,FY2024Q1W8
+289,d2vj160j3h5,targeting-hhincomeowners_us-mb_3pofftheshelf_oracle-ora_em/fi/inc,us,mb,Oracle,2023-03-29,565.0,1,B2B,FY2024Q1,FY2024Q1W8
+290,drbu8naqj6e,targeting-crmmboom_us-mb_1pcrm_aiqcrm-aiq_em,us,mb,AIQ CRM,2023-03-29,636.0,1,B2B,FY2024Q1,FY2024Q1W8
+291,d94r1x5wpq5,targeting-crmmbim_us-mb_1pcrm_aiqcrm-aiq_em,us,mb,AIQ CRM,2023-03-29,871.0,1,B2B,FY2024Q1,FY2024Q1W8
+292,dvnmqfipfv2,targeting-crmceoom_us-ce_1pcrm_aiqcrm-aiq_em,us,ce,AIQ CRM,2023-03-29,519.0,1,B2B,FY2024Q1,FY2024Q1W8
+293,diifio11wni,targeting-crmceim_us-ce_1pcrm_aiqcrm-aiq_em,us,ce,AIQ CRM,2023-03-29,904.0,1,B2B,FY2024Q1,FY2024Q1W8
+294,d35cctaonjd,targeting-crmceedu_us-ce_1pcrm_aiqcrm-aiq_em,us,ce,AIQ CRM,2023-03-29,574.0,1,B2B,FY2024Q1,FY2024Q1W8
+295,dp3p9qw5mcf,targeting-crmceslg_us-ce_1pcrm_aiqcrm-aiq_em,us,ce,AIQ CRM,2023-03-29,590.0,1,B2B,FY2024Q1,FY2024Q1W8
+296,dlgap5xmn1m,targeting-crmcacom_ca-com_1pcrm_aiqcrm-aiq_em,ca,com,AIQ CRM,2023-03-29,0.0,0,B2B,FY2024Q1,FY2024Q1W8
+297,duonfdzl7sm,targeting-dminstalledtech_us-mb_3pofftheshelf_oracle-dlx-ora_em/fi,us,mb,Oracle,2023-03-29,534.0,1,B2B,FY2024Q1,FY2024Q1W8
+298,dvt4p1agi54,targeting-dmtechinterest_us-ce_3pofftheshelf_oracle-blk-bom-dlx_em/fi/in,us,ce,Oracle,2023-03-29,494.0,1,B2B,FY2024Q1,FY2024Q1W8
+299,dwbw75t0lhn,targeting-cedminstalledtech_us-ce_3pofftheshelf_oracle-dlx-ora_em/fi,us,ce,Oracle,2023-03-29,464.0,1,B2B,FY2024Q1,FY2024Q1W8
+300,dwciw5fw9pd,targeting-industryexecs_us-ce_3pofftheshelf_liveramp-dab_em/fi,us,ce,Liveramp,2023-03-29,428.0,1,B2B,FY2024Q1,FY2024Q1W8
+301,dkvk3c5gpg4,targeting-salesfinanceengineerpros_us-ce_3pofftheshelf_liveramp-ads_em/fi,us,ce,Liveramp,2023-03-29,441.0,1,B2B,FY2024Q1,FY2024Q1W8
+302,dwngtw93iuc,targeting-abmmboomfy24q2_us-mb_3pabm_oracle-ora_em/fi,us,mb,Oracle,2023-03-29,407.0,1,B2B,FY2024Q1,FY2024Q1W8
+303,d2gd0zx2wi5,targeting-abmmbhvcfy24q2_us-mb_3pabm_oracle-ora_em/fi,us,mb,Oracle,2023-03-29,418.0,1,B2B,FY2024Q1,FY2024Q1W8
+304,d73mitj2tlk,targeting-delldirector_us-b2b_3plicensed_liveramp-dab_em/fi,us,b2b,Liveramp,2023-03-29,2677.0,1,B2B,FY2024Q1,FY2024Q1W8
+305,d8l8oic9tq2,targeting-mbcosizefilter_us-mb_3pofftheshelf_liveramp-bom-axl-eyta-net-web_fi,us,mb,Liveramp,2023-03-29,301.0,1,B2B,FY2024Q1,FY2024Q1W8
+306,dro2mleqrqj,targeting-abmmbimfy24q2_us-mb_3pabm_oracle-ora_em/fi,us,mb,Oracle,2023-03-29,1030.0,1,B2B,FY2024Q1,FY2024Q1W8
+307,d5965gqpbty,targeting-mbinmarket_us-mb_3pofftheshelf_liveramp-180-dab-eyta_fi,us,mb,Liveramp,2023-03-29,1299.0,1,B2B,FY2024Q1,FY2024Q1W8
+308,dcvdv8z1dw0,targeting-abmmbimfy24q2_us-mb_3pabm_liveramp-dab-eyta_em/fi,us,mb,Liveramp,2023-03-29,699.0,1,B2B,FY2024Q1,FY2024Q1W8
+309,d825ews741h,targeting-abmceoomfy24q2_us-ce_3pabm_oracle-ora_em/fi,us,ce,Oracle,2023-03-29,375.0,1,B2B,FY2024Q1,FY2024Q1W8
+310,dtoy4ujmupw,targeting-cecosizefilter_us-ce_3pofftheshelf_liveramp-bom-axl-eyta-net-web_fi,us,ce,Liveramp,2023-03-29,84.0,1,B2B,FY2024Q1,FY2024Q1W8
+311,dh6aouwvrap,targeting-abmceimfy24q2_us-ce_3pabm_oracle-ora_em/fi,us,ce,Oracle,2023-03-29,1110.0,1,B2B,FY2024Q1,FY2024Q1W8
+312,dbl2e4yrwbj,targeting-abmceedufy24q2_us-ce_3pabm_oracle-ora_em/fi,us,ce,Oracle,2023-03-29,474.0,1,B2B,FY2024Q1,FY2024Q1W8
+313,d645mg6tegi,targeting-abmceslgfy24q2_us-ce_3pabm_oracle-ora_em/fi,us,ce,Oracle,2023-03-29,459.0,1,B2B,FY2024Q1,FY2024Q1W8
+314,djoou48994j,targeting-ceinmarket_us-ce_3pofftheshelf_liveramp-180-dab-eyta_fi,us,ce,Liveramp,2023-03-29,954.0,1,B2B,FY2024Q1,FY2024Q1W8
+315,djq5ka10b9f,targeting-cehispenders_us-ce_3pofftheshelf_liveramp-dab_fi,us,ce,Liveramp,2023-03-29,773.0,1,B2B,FY2024Q1,FY2024Q1W8
+316,dqfpr747a8o,targeting-abmceimfy24q2_us-ce_3pabm_liveramp-dab-eyta_em/fi,us,ce,Liveramp,2023-03-29,750.0,1,B2B,FY2024Q1,FY2024Q1W8
+317,dbfnp6e3t5j,targeting-abmceedufy24q2_us-ce_3pabm_liveramp-dab-eyta_em/fi,us,ce,Liveramp,2023-03-29,532.0,1,B2B,FY2024Q1,FY2024Q1W8
+318,dzwpw9lphxp,targeting-abmceslgfy24q2_us-ce_3pabm_liveramp-dab-eyta_em/fi,us,ce,Liveramp,2023-03-29,600.0,1,B2B,FY2024Q1,FY2024Q1W8
+319,dlo663s51dt,seedtargeting-mbk12buyers_us-mb_3pabm_liveramp-dab_na,us,mb,Liveramp,2023-03-29,192.0,1,B2B,FY2024Q1,FY2024Q1W8
+320,dg92wjrobjd,seedtargeting-mbk12full_us-mb_3pabm_liveramp-dab_na,us,mb,Liveramp,2023-03-29,142.0,1,B2B,FY2024Q1,FY2024Q1W8
+321,desf6tr0ix1,seedtargeting-cek12full_us-ce_3pabm_liveramp-dab_na,us,ce,Liveramp,2023-03-29,188.0,1,B2B,FY2024Q1,FY2024Q1W8
+322,dgnzkccrc8o,targeting-consumeracquisition_ca-csbo-con_1pcrm_liveramp-cep_na,ca,csbo-con,Liveramp,2023-03-29,655.0,1,CSB,FY2024Q1,FY2024Q1W8
+323,d8yewshlifi,targeting-consumerdevelopment_ca-csbo-con_1pcrm_liveramp-cep_na,ca,csbo-con,Liveramp,2023-03-29,654.0,1,CSB,FY2024Q1,FY2024Q1W8
+324,dpkicboxjyz,targeting-consumerdevreact_ca-csbo-con_1pcrm_liveramp-cep_na,ca,csbo-con,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+325,d8d1c0r5p89,targeting-consumernomonitor_ca-csbo-con_3plal_liveramp-cep_na,ca,csbo-con,Liveramp,2023-03-29,372.0,1,CSB,FY2024Q1,FY2024Q1W8
+326,dln43003118,targeting-consumerpcpurchaser_ca-csbo-con_1pcrm_liveramp-cep_na,ca,csbo-con,Liveramp,2023-03-29,720.0,1,CSB,FY2024Q1,FY2024Q1W8
+327,db1shdmrn7h,targeting-consumerreactivation_ca-csbo-con_1pcrm_liveramp-cep_na,ca,csbo-con,Liveramp,2023-03-29,455.0,1,CSB,FY2024Q1,FY2024Q1W8
+328,du1qkxgirhn,targeting-consumerxpspurchaser_ca-csbo-con_1pcrm_liveramp-cep_na,ca,csbo-con,Liveramp,2023-03-29,677.0,1,CSB,FY2024Q1,FY2024Q1W8
+329,dxkf3vldpl6,targeting-gamingalienware_ca-csbo-gseries_1pcrm_liveramp-cep_na,ca,csbo-gseries,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+330,d6351zqahzz,targeting-gaminggamingpcpurchase_ca-csbo-gseries_1pcrm_liveramp-cep_na,ca,csbo-gseries,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+331,d9bzdxlyzi1,targeting-gamingpurchase_ca-csbo-gseries_1pcrm_liveramp-cep_na,ca,csbo-gseries,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+332,dzxu1rc3gyk,targeting-gamingpurchaseintent_ca-csbo-gseries_1pcrm_liveramp-cep_na,ca,csbo-gseries,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+333,d199b5rvqrw,targeting-tvlover_ca-csbo-con_3pofftheshelf_thetradedesk-dta-skyd_be/de,ca,csbo-con,The Trade Desk,2023-03-29,16.0,1,CSB,FY2024Q1,FY2024Q1W8
+334,d17vaylat7k,targeting-dellpurchaseintent_ca-csbo-con_3pofftheshelf_thetradedesk-afan-dta_im/in,ca,csbo-con,The Trade Desk,2023-03-29,16.0,1,CSB,FY2024Q1,FY2024Q1W8
+335,dkl3dyhcogl,targeting-techenthusiasts_ca-csbo-con_3pofftheshelf_thetradedesk-dta-dat-exe_be,ca,csbo-con,The Trade Desk,2023-03-29,16.0,1,CSB,FY2024Q1,FY2024Q1W8
+336,dzlrl5uzgjr,targeting-daftraveler_ca-csbo-con_3pofftheshelf_thetradedesk-asa-rgm_co/in,ca,csbo-con,The Trade Desk,2023-03-29,16.0,1,CSB,FY2024Q1,FY2024Q1W8
+337,dmrwm9swp4g,targeting-movielover_ca-csbo-con_3pofftheshelf_thetradedesk-dat-expr_be/in,ca,csbo-con,The Trade Desk,2023-03-29,16.0,1,CSB,FY2024Q1,FY2024Q1W8
+338,dcddr3wdnpq,targeting-charitabledonations_ca-csbo-con_3pofftheshelf_liveramp-3pm_be/de,ca,csbo-con,Liveramp,2023-03-29,12.0,1,CSB,FY2024Q1,FY2024Q1W8
+339,d87pxsxsrrv,targeting-collegestudents_ca-csbo-con_3pofftheshelf_thetradedesk-dta-dat-lot_co/de,ca,csbo-con,The Trade Desk,2023-03-29,12.0,1,CSB,FY2024Q1,FY2024Q1W8
+340,dy9wqqe2bjp,targeting-fashionhairbeautyinterest_ca-csbo-con_3pofftheshelf_liveramp-eyta_be/in,ca,csbo-con,Liveramp,2023-03-29,16.0,1,CSB,FY2024Q1,FY2024Q1W8
+341,d94xa6yge3p,targeting-photographyhobby_ca-csbo-con_3pofftheshelf_thetradedesk-dyn_be/ge,ca,csbo-con,The Trade Desk,2023-03-29,16.0,1,CSB,FY2024Q1,FY2024Q1W8
+342,djg1smonm8n,targeting-shoppermomsca_ca-csbo-con_3pofftheshelf_liveramp-3pm_de/in,ca,csbo-con,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+343,dqs21mlllc8,targeting-sportsfans_ca-csbo-con_3pofftheshelf_liveramp-3pm_co/im,ca,csbo-con,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+344,dh0kaqrnf6g,targeting-heavyspender_ca-csbo-con_3pofftheshelf_liveramp-3pm_be/de,ca,csbo-con,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+345,drkz5e5r8q3,targeting-humanitarianandclimatechange_ca-csbo-con_3pofftheshelf_liveramp-3pm_de/im,ca,csbo-con,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+346,d7xj64nfhhe,targeting-collegestudents_ca-csbo-con_3pofftheshelf_liveramp-3po_be/de,ca,csbo-con,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+347,day8u3rk2gg,targeting-alienwareintent_ca-csbo-gseries_3pofftheshelf_thetradedesk-afan-sms_co/de,ca,csbo-gseries,The Trade Desk,2023-03-29,64.0,1,CSB,FY2024Q1,FY2024Q1W8
+348,d1ot58rg7eg,targeting-socialnextgen_ca-csbo-gseries_3pofftheshelf_thetradedesk-dta-expr_co/de,ca,csbo-gseries,The Trade Desk,2023-03-29,33.0,1,CSB,FY2024Q1,FY2024Q1W8
+349,dt1401h799i,targeting-moderncore_ca-csbo-gseries_3pofftheshelf_thetradedesk-aiq-dta-skyd_co/in,ca,csbo-gseries,The Trade Desk,2023-03-29,52.0,1,CSB,FY2024Q1,FY2024Q1W8
+350,dz5zbh7sl89,targeting-gamerca_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-ona_be/in,ca,csbo-gseries,The Trade Desk,2023-03-29,46.0,1,CSB,FY2024Q1,FY2024Q1W8
+351,ditkrchzs1z,targeting-hardcoregamersvirtual_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-eyta-ona_be/de/in,ca,csbo-gseries,The Trade Desk,2023-03-29,62.0,1,CSB,FY2024Q1,FY2024Q1W8
+352,dt8rsbm07t2,targeting-competitorconquest_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-afan-dta-vdn_na,ca,csbo-gseries,The Trade Desk,2023-03-29,64.0,1,CSB,FY2024Q1,FY2024Q1W8
+353,dj8f1op2836,targeting-pcandonlineplatform_ca-csbo-gseries_3pofftheshelf_liveramp-3po_im/in,ca,csbo-gseries,Liveramp,2023-03-29,0.0,0,CSB,FY2024Q1,FY2024Q1W8
+354,dl20irdhjvi,test-telecommutersandsoho_us-csbo-sb_3pofftheshelf_neustar-123-expr_fi,us,csbo-sb,Neustar,2023-04-03,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+355,d13tzgopq0z,targeting-telecommutersandsoho_us-csbo-sb_3pofftheshelf_neustar-123-expr_fi,us,csbo-sb,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+356,dxachactr7k,targeting-tvlovers_us-csbo-con_3pofftheshelf_neustar-123_be,us,csbo-con,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+357,dalqvjt7zix,targeting-dellpurchaseintents_us-csbo-con_3pofftheshelf_neustar-123_im/in,us,csbo-con,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+358,d19v4mhxn2m,targeting-travelconsumers_us-csbo-con_3pofftheshelf_neustar-*actgr-acxm-alkaud-flb-skyd_de,us,csbo-con,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+359,d932fze09r9,targeting-sbdmconsumers_us-csbo-sb_3pofftheshelf_neustar-123-180-33a_em/in,us,csbo-sb,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+360,dfpg3hyvyd1,targeting-itdmlessthan100_us-csbo-sb_3pofftheshelf_neustar-zifm_em/fi,us,csbo-sb,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+361,d2u41qbq38a,targeting-inmarketforservers_us-csbo-sb_3pofftheshelf_neustar-180-d&b_im/in,us,csbo-sb,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+362,dov23uexzdy,targeting-serverusers_us-csbo-sb_3pofftheshelf_neustar-123-180-zfd_be/im,us,csbo-sb,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+363,d8l4lmpj18g,targeting-sohoandtelecommuters_us-csbo-sb_3pofftheshelf_neustar-astrsk-expr_fi,us,csbo-sb,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+364,dw8fs921log,targeting-gamingusers_us-csbo-gseries_3pofftheshelf_neustar-180-aiq-crp-strt_im/in,us,csbo-gseries,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+365,deetpz599jh,targeting-yucconsumers_us-csbo-con_3pofftheshelf_neustar-#hbv-123_be/im,us,csbo-con,Neustar,2023-04-04,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+366,di91ui58tro,targeting-reacthighmed_us-csbo-con_1pcrm_liveramp-aiq_be/fi,us,csbo-con,Liveramp,2023-04-07,73.0,1,CSB,FY2024Q1,FY2024Q1W9
+367,d25vc12ilks,targeting-consumerdev_us-csbo-con_1pcrm_liveramp-aiq_im,us,csbo-con,Liveramp,2023-04-07,76.0,1,CSB,FY2024Q1,FY2024Q1W9
+368,d2itkoeahg9,targeting-gamingpastpurchasesv2_us-csbo-gseries_1pcrm_liveramp-aiq_be/in,us,csbo-gseries,Liveramp,2023-04-07,66.0,1,CSB,FY2024Q1,FY2024Q1W9
+369,dlzvi05r15p,targeting-pcbuyer1_us-csbo-gseries_1pcrm_liveramp-aiq_im/in,us,csbo-gseries,Liveramp,2023-04-07,67.0,1,CSB,FY2024Q1,FY2024Q1W9
+370,ddudfdb6fpr,targeting-gaminghighintenttopurchasev2_us-csbo-gseries_1pcrm_liveramp-aiq_be/in,us,csbo-gseries,Liveramp,2023-04-07,69.0,1,CSB,FY2024Q1,FY2024Q1W9
+371,ddhiae5m0gw,targeting-gamingpropensity_us-csbo-gseries_1pcrm_liveramp-aiq_be/in,us,csbo-gseries,Liveramp,2023-04-07,131.0,1,CSB,FY2024Q1,FY2024Q1W9
+372,dnsynzh4hhp,targeting-pchardcoregamer_us-csbo-gseries_1pcrm_liveramp-aiq_in,us,csbo-gseries,Liveramp,2023-04-07,134.0,1,CSB,FY2024Q1,FY2024Q1W9
+373,d10upqm9p51,targeting-usgaminggamer_us-csbo-gseries_3pofftheshelf_liveramp-3pm_co/in,us,csbo-gseries,Liveramp,2023-04-07,157.0,1,CSB,FY2024Q1,FY2024Q1W9
+374,dx7ecj46jaj,targeting-gamingfanatics_us-csbo-gseries_3pofftheshelf_liveramp-33a_be/in,us,csbo-gseries,Liveramp,2023-04-07,166.0,1,CSB,FY2024Q1,FY2024Q1W9
+375,drk8t7y061d,targeting-collegestudents_us-csbo-con_3pofftheshelf_liveramp-123_im/in,us,csbo-con,Liveramp,2023-04-07,217.0,1,CSB,FY2024Q1,FY2024Q1W9
+376,d4bl7mgsmcc,targeting-esportsenthu_us-csbo-gseries_1pcrm_liveramp-3pm-ora_im/in,us,csbo-gseries,Liveramp,2023-04-07,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+377,da3t4a0dij4,targeting-genxers_us-csbo-con_3pofftheshelf_liveramp-3pm_be/in,us,csbo-con,Liveramp,2023-04-07,11.0,1,CSB,FY2024Q1,FY2024Q1W9
+378,dyfhoranllj,targeting-dellpurchaseintent_us-csbo-con_3pofftheshelf_liveramp-expr_be/fi/im/in,us,csbo-con,Liveramp,2023-04-07,9.0,1,CSB,FY2024Q1,FY2024Q1W9
+379,dbw291vzuhv,targeting-charitabledonations_us-csbo-con_3pofftheshelf_liveramp-3pm_co/de/im,us,csbo-con,Liveramp,2023-04-07,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+380,dev81xf3zmp,targeting-humanitarianandclimatechange_us-csbo-con_3pofftheshelf_liveramp-3pm-bom_co/ge,us,csbo-con,Liveramp,2023-04-07,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+381,dfgzdiadksk,targeting-sbdm_us-csbo-sb_3pofftheshelf_liveramp-180-axl_em/fi,us,csbo-sb,Liveramp,2023-04-07,247.0,1,CSB,FY2024Q1,FY2024Q1W9
+382,d3y9mh8fh0z,targeting-sbdmhighspenders_us-csbo-sb_3pofftheshelf_liveramp-3pm_be/em/in,us,csbo-sb,Liveramp,2023-04-07,236.0,1,CSB,FY2024Q1,FY2024Q1W9
+383,d6sqhgwoadu,targeting-sbdminmarketforlaptops_us-csbo-sb_3pofftheshelf_liveramp-axl_im/in,us,csbo-sb,Liveramp,2023-04-07,124.0,1,CSB,FY2024Q1,FY2024Q1W9
+384,du5z8xozu8l,targeting-dellcomputerconquesting_us-csbo-sb_3pofftheshelf_liveramp-3pm_co/in,us,csbo-sb,Liveramp,2023-04-07,0.0,0,CSB,FY2024Q1,FY2024Q1W9
+385,di9nqr3iyqb,targeting-sohoandtelecommuters_ca-csbo-sb_3pofftheshelf_thetradedesk-dta-expr_em/fi/im,ca,csbo-sb,The Trade Desk,2023-04-10,33.0,1,CSB,FY2024Q1,FY2024Q1W10
+386,d39g4oqyvg6,targeting-employeessize1to99_ca-csbo-sb_3pofftheshelf_thetradedesk-dta-eyta_em/fi,ca,csbo-sb,The Trade Desk,2023-04-10,41.0,1,CSB,FY2024Q1,FY2024Q1W10
+387,dsd3bfr4dd0,targeting-officesupplies_ca-csbo-sb_3pofftheshelf_thetradedesk-dta-orc_co/im,ca,csbo-sb,The Trade Desk,2023-04-10,38.0,1,CSB,FY2024Q1,FY2024Q1W10
+388,d56ed3wwrdr,targeting-itjobs_ca-csbo-sb_3pofftheshelf_liveramp-acxc_em/fi,ca,csbo-sb,Liveramp,2023-04-10,11.0,1,CSB,FY2024Q1,FY2024Q1W10
+389,dyszmeaw2oy,targeting-businesstechnology_ca-csbo-sb_3pofftheshelf_thetradedesk-lot-tl1_em/fi,ca,csbo-sb,The Trade Desk,2023-04-10,38.0,1,CSB,FY2024Q1,FY2024Q1W10
+390,dumo8fs9ifu,targeting-smallbusinesscreditcards_ca-csbo-sb_3pofftheshelf_thetradedesk-dta-exe_co/fi,ca,csbo-sb,The Trade Desk,2023-04-10,42.0,1,CSB,FY2024Q1,FY2024Q1W10
+391,d2m9pyftb2i,targeting-gamerusgaming_ca-csbo-gseries_3pofftheshelf_liveramp-3pm-dab_be/fi/in,ca,csbo-gseries,Liveramp,2023-04-10,0.0,0,CSB,FY2024Q1,FY2024Q1W10
+392,dovzw2dj0jy,targeting-casualgamers_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-orc_be,ca,csbo-gseries,The Trade Desk,2023-04-10,58.0,1,CSB,FY2024Q1,FY2024Q1W10
+393,dxak9pp4aho,targeting-hardcoregamers_ca-csbo-gseries_3pofftheshelf_thetradedesk-aiq-dta-ona_be/in,ca,csbo-gseries,The Trade Desk,2023-04-10,47.0,1,CSB,FY2024Q1,FY2024Q1W10
+394,d4q93mkmgtw,targeting-esportsfains_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-dta-eyta_be/in,ca,csbo-gseries,The Trade Desk,2023-04-10,72.0,1,CSB,FY2024Q1,FY2024Q1W10
+395,d9t7z3gekle,targeting-pcgamers_ca-csbo-gseries_3pofftheshelf_thetradedesk-aiq-dta-tl1_be/de/in,ca,csbo-gseries,The Trade Desk,2023-04-10,72.0,1,CSB,FY2024Q1,FY2024Q1W10
+396,dwihch9654x,targeting-technophiles_ca-csbo-gseries_3pofftheshelf_liveramp-33a_be/co/im,ca,csbo-gseries,Liveramp,2023-04-10,53.0,1,CSB,FY2024Q1,FY2024Q1W10
+397,dxb2a57dogv,targeting-echenthusiast_ca-csbo-con_3pofftheshelf_liveramp-33a_be/in,ca,csbo-con,Liveramp,2023-04-10,16.0,1,CSB,FY2024Q1,FY2024Q1W10
+398,dulaf1jsfdn,targeting-agedemo_us-csbo-con_3pofftheshelf_liveramp-zfd_de,us,csbo-con,Liveramp,2023-04-12,0.0,0,CSB,FY2024Q1,FY2024Q1W10
+399,dnliwvkbhwv,targeting-esportsenthusiast_us-csbo-gseries_3pofftheshelf_liveramp-skyd_be/in,us,csbo-gseries,Liveramp,2023-04-12,109.0,1,CSB,FY2024Q1,FY2024Q1W10
+400,d8bcdrdu87t,targeting-serveruser_us-csbo-sb_3pofftheshelf_liveramp-180_be/co,us,csbo-sb,Liveramp,2023-04-12,0.0,0,CSB,FY2024Q1,FY2024Q1W10
+401,dv6k6hz2ah4,targeting-musicgamers_ca-csbo-con_3pofftheshelf_liveramp-33a_be/co,ca,csbo-con,Liveramp,2023-04-12,16.0,1,CSB,FY2024Q1,FY2024Q1W10
+402,d1n4f7g4t1i,targeting-gamingpurchase_ca-csbo-gseries_3pofftheshelf_liveramp-strt_be/in,ca,csbo-gseries,Liveramp,2023-04-12,44.0,1,CSB,FY2024Q1,FY2024Q1W10
+403,dikj6tca08z,targeting-tvlovers_us-csbo-con_3pofftheshelf_liveramp-aiq_be/in,us,csbo-con,Liveramp,2023-04-12,3.0,1,CSB,FY2024Q1,FY2024Q1W10
+404,dvuvto9t0eo,targeting-largeserver_us-csbo-sb_3pofftheshelf_liveramp-skyd_fi/im,us,csbo-sb,Liveramp,2023-04-12,46.0,1,CSB,FY2024Q1,FY2024Q1W10
+405,do8fqsnh7zf,targeting-abmcek12txl_us-ce_3pabm_oracle-ora_fi,us,ce,Oracle,2023-04-14,132.0,1,B2B,FY2024Q1,FY2024Q1W10
+406,d7cxh50oz1q,targeting-ctxlchampion_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+407,dax8rjpqlk2,targeting-ctxlcompete_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+408,deao4dv5hnx,targeting-ctxlbusinesssoftware_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+409,d76chi1m2kh,targeting-ctxlitindustry_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+410,d7ekgyba4fv,targeting-ctxlbusinessservices_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+411,dtfdpc49w1c,targeting-ctxldellchampion_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+412,d2sjwnqu4vw,targeting-ctxlcompetitive_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+413,ddr07dm58oy,targeting-ctxlbussoftware_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+414,du8kgrjsqy1,targeting-ctxlindustryit_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+415,d35jpiwhgmq,targeting-ctxlbusservices_us-mb_2p_buyingplatform-com_co,us,mb,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+416,d7w55vpuykz,targeting-ctxldellchampion_us-ce_2p_buyingplatform-com_co,us,ce,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+417,d4hs4lr7e6f,targeting-ctxlcompetitive_us-ce_2p_buyingplatform-com_co,us,ce,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+418,ddhddlfqhix,targeting-ctxlbussoftware_us-ce_2p_buyingplatform-com_co,us,ce,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+419,d8hg05m0o3a,targeting-ctxlindustryit_us-ce_2p_buyingplatform-com_co,us,ce,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+420,dkjkl8axc8o,targeting-ctxlbusservices_us-ce_2p_buyingplatform-com_co,us,ce,Buying Platform,2023-04-17,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+421,da1znhx9h1s,targeting-cadecisionmakers_ca-com_3pofftheshelf_oracle-ora_em/fi,ca,com,Oracle,2023-04-18,16.0,1,B2B,FY2024Q1,FY2024Q1W11
+422,dxlsg9bq396,targeting-caexecutives_ca-com_3pofftheshelf_liveramp-dab_em/fi,ca,com,Liveramp,2023-04-18,16.0,1,B2B,FY2024Q1,FY2024Q1W11
+423,dxeida86uvz,targeting-cablackfridayshoppers_ca-com_3pofftheshelf_liveramp-123-33a-equ-eyta-grv-lbdg-net-piq-web_fi/in,ca,com,Liveramp,2023-04-18,16.0,1,B2B,FY2024Q1,FY2024Q1W11
+424,dug4kfczw7g,targeting-caserverbudgetpropensityitdms_ca-com_3pofftheshelf_liveramp-180-bom-dab-eyta_em/fi,ca,com,Liveramp,2023-04-18,120.0,1,B2B,FY2024Q1,FY2024Q1W11
+425,dasfcukxpdt,targeting-caservercompete_ca-com_3pofftheshelf_liveramp-abrd-alnt-axl-grv-net-strt_em/fi,ca,com,Liveramp,2023-04-18,113.0,1,B2B,FY2024Q1,FY2024Q1W11
+426,d4ourk85xh6,targeting-caserverbudgetpropensitypractitioners_ca-com_3pofftheshelf_liveramp-180-bom-dab-eyta_em/fi,ca,com,Liveramp,2023-04-18,106.0,1,B2B,FY2024Q1,FY2024Q1W11
+427,dolez468yiy,targeting-abml4qserverpurchasers_ca-com_3pabm_oracle-blk-lot_em/fi,ca,com,Oracle,2023-04-18,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+428,dl7hcnn9kgl,targeting-abmcaimfy24q2_ca-com_3pabm_oracle-ads-ora-web_em/fi,ca,com,Oracle,2023-04-18,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+429,d52c70xpuwa,targeting-abmcaoomfy24q2_ca-com_3pabm_oracle-ads-ora-web_em/fi,ca,com,Oracle,2023-04-18,0.0,0,B2B,FY2024Q1,FY2024Q1W11
+430,dkn18051g2t,targeting-catechbudgetitdms_ca-com_3pofftheshelf_liveramp-dab_em/fi,ca,com,Liveramp,2023-04-18,79.0,1,B2B,FY2024Q1,FY2024Q1W11
+431,dl8q9hldolq,targeting-abm_us-csbo-sb_1pcrm_aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-04-19,156.0,1,CSB,FY2024Q1,FY2024Q1W11
+432,d4kym7fb70n,targeting-abm_us-csbo-sb_1pcrm_aiqcrm-cip_na,us,csbo-sb,AIQ CRM,2023-04-19,57.0,1,CSB,FY2024Q1,FY2024Q1W11
+433,dn8pjclctpt,targeting-reactivation_uk-csbo-con_1pcrm_aiqcrm-cip_na,uk,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+434,dqsxb7ye0mv,targeting-development_uk-csbo-con_1pcrm_aiqcrm-cip_na,uk,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+435,dl0wy0f9em8,targeting-reactivation_de-csbo-con_1pcrm_aiqcrm-cip_na,de,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+436,d6svih99zs2,targeting-development_de-csbo-con_1pcrm_aiqcrm-cip_na,de,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+437,d1oczvye2ey,targeting-reactivation_fr-csbo-con_1pcrm_aiqcrm-cip_na,fr,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+438,d43rgo9lfql,targeting-development_fr-csbo-con_1pcrm_aiqcrm-cip_na,fr,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+439,d685y12op24,targeting-reactivation_nl-csbo-con_1pcrm_aiqcrm-cip_na,nl,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+440,dgzpeay1zvd,targeting-development_nl-csbo-con_1pcrm_aiqcrm-cip_na,nl,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+441,dps7b2qc5wa,targeting-reactivation_es-csbo-con_1pcrm_aiqcrm-cip_na,es,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+442,d35zpv2ncrr,targeting-development_es-csbo-con_1pcrm_aiqcrm-cip_na,es,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+443,dv7oztp1gjj,targeting-reactivation_ch-csbo-con_1pcrm_aiqcrm-cip_na,ch,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+444,dfxbwbdkowj,targeting-development_ch-csbo-con_1pcrm_aiqcrm-cip_na,ch,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+445,dvhlzbuo912,targeting-reactivation_se-csbo-con_1pcrm_aiqcrm-cip_na,se,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+446,d10hkn2dlin,targeting-development_se-csbo-con_1pcrm_aiqcrm-cip_na,se,csbo-con,AIQ CRM,2023-05-04,0.0,0,CSB,FY2024Q1,FY2024Q1W13
+447,dkvvgvf1swn,targeting-architects_us-csbo-sb_3pofftheshelf_liveramp-180_be,us,csbo-sb,Liveramp,2023-05-09,149.0,1,CSB,FY2024Q2,FY2024Q2W1
+448,ddp12prny6o,targeting-restaurant_us-csbo-sb_3pofftheshelf_liveramp-180_be,us,csbo-sb,Liveramp,2023-05-09,219.0,1,CSB,FY2024Q2,FY2024Q2W1
+449,dac6f6yathh,targeting-accountants_us-csbo-sb_3pofftheshelf_liveramp-180_be,us,csbo-sb,Liveramp,2023-05-09,154.0,1,CSB,FY2024Q2,FY2024Q2W1
+450,dmd3r7wy1sz,targeting-genxers_us-csbo-con_3pofftheshelf_neustar-cli_be/im,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+451,dsvncf34igm,targeting-charitabledonations_us-csbo-con_3pofftheshelf_neustar-ada-ads_co/im/in,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+452,d5kgfl8z891,targeting-humanitarianandclimatechange_us-csbo-con_3pofftheshelf_neustar-180-web_be/ge/im/in,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+453,dizqeqlgua5,targeting-millenials_us-csbo-con_3pofftheshelf_neustar-180-ads_be/im/in,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+454,d7zckg8ptgv,targeting-parents_us-csbo-con_3pofftheshelf_neustar-180-ada-alnt_im/in,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+455,dx9bhah7dfd,targeting-collegegraduates_us-csbo-con_3pofftheshelf_neustar-180-ads-alnt_de/im,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+456,djj9rjjabhm,targeting-agedemo18to54_us-csbo-con_3pofftheshelf_neustar-rkl_be/de,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+457,dflkh5hyhmq,targeting-collegegraduatesindividuals_us-csbo-con_3pofftheshelf_neustar-180-ads_co/de,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+458,di8yoh2yg19,targeting-esportsenthusiasts_us-csbo-gseries_3pofftheshelf_neustar-cli-ga-strt_be/in,us,csbo-gseries,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+459,dlxfyak5y21,targeting-usgaminggamer_us-csbo-gseries_3pofftheshelf_neustar-33a-aiq_be/im/in,us,csbo-gseries,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+460,dwt5lyv9e7b,targeting-gamingfanatics_us-csbo-gseries_3pofftheshelf_neustar-33a-msc_be/in,us,csbo-gseries,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+461,deb8x7i2brj,targeting-sbdmhighspenders_us-csbo-sb_3pofftheshelf_neustar-180-alnt_be/co/in,us,csbo-sb,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+462,d1if6ssml74,targeting-sbdminmarketforlaptops_us-csbo-csb_3pofftheshelf_neustar-180-ada-cli_be/em/im,us,csbo-csb,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+463,dktqvbu4q0i,targeting-sbdm_us-csbo-sb_3pofftheshelf_neustar-180-ads_de/im,us,csbo-sb,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+464,ds4bs4kv8ze,targeting-largeserver_us-csbo-sb_3pofftheshelf_neustar-180_fi/im,us,csbo-sb,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+465,dy0dga0dxv0,targeting-dellcomputerconquesting_us-csbo-sb_3pofftheshelf_neustar-ada-dat_fi/im,us,csbo-sb,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+466,d1ud7p31upw,targeting-collegestudents_us-csbo-con_3pofftheshelf_neustar-ada-aiq_de/im,us,csbo-con,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+467,d6ojvyrysnx,targeting-smallbusinessdevelopmentmanagerconsumers_us-csbo-gseries_3pofftheshelf_neustar-180-33a_em/fi,us,csbo-gseries,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+468,dehujn0weoe,targeting-serverusers_us-csbo-sb_3pofftheshelf_neustar-180_be/in,us,csbo-sb,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+469,dwiwdjr93ei,targeting-inmarketforservers_us-csbo-sb_3pofftheshelf_neustar-180_de/im,us,csbo-sb,Neustar,2023-05-11,0.0,0,CSB,FY2024Q2,FY2024Q2W1
+470,d1z500sdlwv,targeting-genxers_us-csbo-con_3pofftheshelf_neustar-ada_be/im,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+471,dotzvpm1v4l,targeting-charitabledonations_us-csbo-con_3pofftheshelf_neustar-ada_co/im/in,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+472,d9shz29jgoy,targeting-humanitarianandclimatechange_us-csbo-con_3pofftheshelf_neustar-ada_be/ge/im/in,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+473,dj5cwtvu9iw,targeting-millenials_us-csbo-con_3pofftheshelf_neustar-ada_be/im/in,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+474,dlfq0z8z2mr,targeting-parents_us-csbo-con_3pofftheshelf_neustar-ada_im/in,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+475,dp35fwnup75,targeting-collegegraduates_us-csbo-con_3pofftheshelf_neustar-ada_de/im,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+476,db683agd73e,targeting-agedemo18to54_us-csbo-con_3pofftheshelf_neustar-ada_be/de,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+477,d3ww01h66si,targeting-collegegraduatesindividuals_us-csbo-con_3pofftheshelf_neustar-ada_co/de,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+478,dnqo1w28qtq,targeting-esportsenthusiasts_us-csbo-gseries_3pofftheshelf_neustar-ada_be/in,us,csbo-gseries,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+479,d8cd90rl8jc,targeting-usgaminggamer_us-csbo-gseries_3pofftheshelf_neustar-ada_be/im/in,us,csbo-gseries,Neustar,2023-05-15,14.0,1,CSB,FY2024Q2,FY2024Q2W2
+480,dppeal2cucj,targeting-gamingfanatics_us-csbo-gseries_3pofftheshelf_neustar-ada_be/in,us,csbo-gseries,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+481,dfxuc6a6zf9,targeting-sbdmhighspenders_us-csbo-sb_3pofftheshelf_neustar-ada_be/co/in,us,csbo-sb,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+482,dvdas28yw8j,targeting-sbdminmarketforlaptops_us-csbo-csb_3pofftheshelf_neustar-ada_be/em/im,us,csbo-csb,Neustar,2023-05-15,199.0,1,CSB,FY2024Q2,FY2024Q2W2
+483,dnhsqkp1y19,targeting-sbdm_us-csbo-sb_3pofftheshelf_neustar-ada_de/im,us,csbo-sb,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+484,du6y5nncy4v,targeting-largeserver_us-csbo-sb_3pofftheshelf_neustar-ada_fi/im,us,csbo-sb,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+485,dueq2n820t4,targeting-dellcomputerconquesting_us-csbo-sb_3pofftheshelf_neustar-ada_fi/im,us,csbo-sb,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+486,dscgevmyz6o,targeting-collegestudents_us-csbo-con_3pofftheshelf_neustar-ada_de/im,us,csbo-con,Neustar,2023-05-15,14.0,1,CSB,FY2024Q2,FY2024Q2W2
+487,drvhfe14j7g,targeting-smallbusinessdevelopmentmanagerconsumers_us-csbo-gseries_3pofftheshelf_neustar-ada_em/fi,us,csbo-gseries,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+488,dnjz2q1wrjy,targeting-serverusers_us-csbo-sb_3pofftheshelf_neustar-ada_be/in,us,csbo-sb,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+489,db74037z6by,targeting-inmarketforservers_us-csbo-sb_3pofftheshelf_neustar-ada_de/im,us,csbo-sb,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+490,d9v0mrpt0ln,targeting-pcbuyer_us-csbo-con_1pcrm_neustar-ada_na,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+491,dmtmag45xfc,targeting-purchaseintent_us-csbo-con_1pcrm_neustar-ada_na,us,csbo-con,Neustar,2023-05-15,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+492,d2x1o6djjxv,targeting-domesticairflyers_us-csbo-con_3pofftheshelf_neustar-ada_ge/in,us,csbo-con,Neustar,2023-05-17,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+493,dkvz8pgx0yy,targeting-itdmlessthan100employees_us-csbo-sb_3pofftheshelf_neustar-ada_em/fi,us,csbo-sb,Neustar,2023-05-17,199.0,1,CSB,FY2024Q2,FY2024Q2W2
+494,d2ma5ft3z10,targeting-soho_us-csbo-sb_3pofftheshelf_neustar-ada_em/fi,us,csbo-sb,Neustar,2023-05-17,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+495,dxz053s643c,targeting-dellpurchaseintent_us-csbo-con_3pofftheshelf_neustar-ada_be/im/in,us,csbo-con,Neustar,2023-05-17,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+496,d549ds8sdlj,targeting-tvlovers_us-csbo-sb_3pofftheshelf_neustar-ada_be/in,us,csbo-sb,Neustar,2023-05-17,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+497,dj5htlhl6oh,targeting-restaurants_us-csbo-sb_3pofftheshelf_neustar-ada_fi/im,us,csbo-sb,Neustar,2023-05-17,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+498,d38j6fwwxp5,targeting-accountants_us-csbo-sb_3pofftheshelf_neustar-ada_em/fi/im/in,us,csbo-sb,Neustar,2023-05-17,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+499,dxb32xides4,targeting-architects_us-csbo-sb_3pofftheshelf_neustar-ada_em/fi/in,us,csbo-sb,Neustar,2023-05-17,0.0,0,CSB,FY2024Q2,FY2024Q2W2
+500,dyqs3itvwlx,targeting-highschooling_us-csbo-con_3pofftheshelf_liveramp-skyd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+501,dy5kw2cztcj,targeting-middleschooling_us-csbo-con_3pofftheshelf_liveramp-skyd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+502,d4tczm6xp1j,targeting-medicalstudents_us-csbo-con_3pofftheshelf_liveramp-123_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+503,duvgvgxeser,targeting-highschoolersmobile_us-csbo-con_3pofftheshelf_liveramp-dst_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+504,dqcgkf2ve59,targeting-highschoolersweb_us-csbo-con_3pofftheshelf_liveramp-dst_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+505,dti0yuqgsbb,targeting-homeschoolinghighschool_us-csbo-con_3pofftheshelf_liveramp-skyd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+506,drxghqe5fo2,targeting-homeschoolingmiddleschool_us-csbo-con_3pofftheshelf_liveramp-skyd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+507,dbw7kpfdl4x,targeting-summerinternships_us-csbo-con_3pofftheshelf_liveramp-asm_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+508,du2vlf12tcn,targeting-lookingforhealthandmedicaljobs_us-csbo-con_3pofftheshelf_liveramp-adg_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+509,dvbqh6gxqjz,targeting-publisherpage_us-csbo-con_3pofftheshelf_liveramp-sht_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+510,d2ljft0kted,targeting-socialsharingpagevisits_us-csbo-con_3pofftheshelf_liveramp-sht_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+511,d475ivjxlh7,targeting-firmshiringfreelancers_us-csbo-con_3pofftheshelf_liveramp-ads_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+512,di01dsa1iid,targeting-interestedinhiringandrecruiitngfreelancers_us-csbo-con_3pofftheshelf_liveramp-dtsg_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+513,dc2h0c0kvzc,targeting-followingfreelancers_us-csbo-con_3pofftheshelf_liveramp-dst_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+514,d8zhs907frp,targeting-freelancingguru_us-csbo-con_3pofftheshelf_liveramp-skyd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+515,dyfp6e2q7mp,targeting-spendwithfreelancemarketplace_us-csbo-con_3pofftheshelf_liveramp-ultd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+516,dj61w2drfpa,targeting-engagewithfreelanceservice_us-csbo-con_3pofftheshelf_liveramp-ultd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+517,dpcmauzqokm,targeting-parttimeworkers_us-csbo-con_3pofftheshelf_liveramp-amrb_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+518,deohur47qtd,targeting-pysicallawsctv_us-csbo-con_3pofftheshelf_liveramp-123_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+519,d26gky7rq9g,targeting-physicallawssocialmediadata_us-csbo-con_3pofftheshelf_liveramp-123_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+520,dmq43s1xzxe,targeting-brandspecificsocialandmultichannelpurchasetransactions_us-csbo-con_3pofftheshelf_liveramp-alnt_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+521,d44okmsr7qt,targeting-disposabletableware_us-csbo-con_3pofftheshelf_liveramp-iri_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+522,dm65xi4ispt,targeting-righttoworklaws_us-csbo-con_3pofftheshelf_liveramp-l2d_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+523,drsj8weremp,targeting-vehicledrivinglaws_us-csbo-con_3pofftheshelf_liveramp-sht_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+524,d3pt7n1xlgy,targeting-vehicleandtrafficsafety_us-csbo-con_3pofftheshelf_liveramp-sht_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+525,d7cz84g413x,targeting-druglawsandpolicy_us-csbo-con_3pofftheshelf_liveramp-sht_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+526,dhd6dxm5dzv,targeting-laborlawsandissues_us-csbo-con_3pofftheshelf_liveramp-sht_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+527,dlpur9v7wg9,targeting-desktopasaservice_us-csbo-con_3pofftheshelf_liveramp-brd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+528,drs8pqd1o1b,targeting-cloudcomputinganddevops_us-csbo-con_3pofftheshelf_liveramp-skyd_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+529,d15zlejl61z,targeting-cloudservices_us-csbo-con_3pofftheshelf_liveramp-123_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+530,dy9re74qiqm,targeting-cloudinfrastructurecomputing_us-csbo-con_3pofftheshelf_liveramp-123_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+531,dvaufa2hok6,targeting-cloudcomputing_us-csbo-con_3pofftheshelf_liveramp-123_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+532,d5pbwago30c,targeting-socialmobileanalyticscloud_us-csbo-con_3pofftheshelf_liveramp-180_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+533,daa4oyyvo64,targeting-clouddigitalassetmanagement_us-csbo-con_3pofftheshelf_liveramp-180_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+534,d7rw6bckjpd,targeting-cloud_us-csbo-con_3pofftheshelf_liveramp-180_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+535,d9pwr8a2wkb,targeting-disasterrecoveryasaservice_us-csbo-con_3pofftheshelf_liveramp-180_in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+536,d257x7vsgt5,targeting-schoolstudents_us-csbo-con_3pofftheshelf_liveramp-123-dst-skyd_be/de/im/in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+537,dmhdnfevzou,targeting-interns_us-csbo-con_3pofftheshelf_liveramp-asm-adg-sht_be/de/im/in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+538,dqjbvx024n7,targeting-freelancers_us-csbo-con_3pofftheshelf_liveramp-ads-dtsg-dst-skyd-ultd_be/em/fi/im,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+539,dzyu98px8be,targeting-parttimeworkers_us-csbo-con_3pofftheshelf_liveramp-amrb_em/fi/in,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+540,dzscdmetfzk,targeting-aws_us-csbo-con_3pofftheshelf_liveramp-123-alnt-iri-l2d-sht_be/co/de,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+541,ddzm1r87on2,targeting-cloud_us-csbo-con_3pofftheshelf_liveramp-123-180-brd-skyd_be/de/em/im,us,csbo-con,Liveramp,2023-06-05,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+542,d68fx1p0hap,targeting-consumerreactivation_us-csbo-con_1pcrm_aiqcrm-aiq_na,us,csbo-con,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+543,da66c4srs04,targeting-sbreactivation_us-csbo-sb_1pcrm_aiqcrm-aiq_na,us,csbo-sb,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+544,dn3jd2bpab6,targeting-gamingreactivation_us-csbo-gseries_1pcrm_aiqcrm-aiq_na,us,csbo-gseries,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+545,djfe1p1cx5e,targeting-consumerreactivation_uk-csbo-con_1pcrm_aiqcrm-aiq_na,uk,csbo-con,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+546,ds7txeisuq5,targeting-sbreactivation_uk-csbo-sb_1pcrm_aiqcrm-aiq_na,uk,csbo-sb,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+547,d125e0fdy2e,targeting-gamingreactivation_uk-csbo-gseries_1pcrm_aiqcrm-aiq_na,uk,csbo-gseries,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+548,d2n0oj79jfw,targeting-consumerreactivation_fr-csbo-con_1pcrm_aiqcrm-aiq_na,fr,csbo-con,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+549,dy4i2bx5plr,targeting-sbreactivation_fr-csbo-sb_1pcrm_aiqcrm-aiq_na,fr,csbo-sb,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+550,dni7xjdi7wa,targeting-gamingreactivation_fr-csbo-gseries_1pcrm_aiqcrm-aiq_na,fr,csbo-gseries,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+551,d2rr0qnc7yh,targeting-consumerreactivation_de-csbo-con_1pcrm_aiqcrm-aiq_na,de,csbo-con,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+552,ddwla9x67mu,targeting-sbreactivation_de-csbo-sb_1pcrm_aiqcrm-aiq_na,de,csbo-sb,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+553,dbsgxfxigdf,targeting-gamingreactivation_de-csbo-gseries_1pcrm_aiqcrm-aiq_na,de,csbo-gseries,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+554,dwg8jcfqn24,targeting-consumerreactivation_br-csbo-con_1pcrm_aiqcrm-aiq_na,br,csbo-con,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+555,dnoqsvf66er,targeting-sbreactivation_br-csbo-sb_1pcrm_aiqcrm-aiq_na,br,csbo-sb,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+556,dj8nbevqvbg,targeting-gamingreactivation_br-csbo-gseries_1pcrm_aiqcrm-aiq_na,br,csbo-gseries,AIQ CRM,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+557,dvcx44ft7cy,targeting-developmentandreactivation_au-csbo-con_1pcrm_liveramp-cep_na,au,csbo-con,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+558,din1a4gok47,targeting-reactivation_au-csbo-con_1pcrm_liveramp-cep_na,au,csbo-con,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+559,dri76egxvlm,targeting-dormant_au-csbo-con_1pcrm_liveramp-cep_na,au,csbo-con,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+560,duo2878qc1v,targeting-inquirer_au-csbo-con_1pcrm_liveramp-cep_na,au,csbo-con,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+561,dyb3w5o39n9,targeting-prospect_au-csbo-con_1pcrm_liveramp-cep_na,au,csbo-con,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+562,dq84a5as2eu,targeting-development_au-csbo-sb_1pcrm_liveramp-cep_na,au,csbo-sb,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+563,ddk2opxiio9,targeting-reactivation_au-csbo-sb_1pcrm_liveramp-cep_na,au,csbo-sb,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+564,ddoly6chp5v,targeting-dormant_au-csbo-sb_1pcrm_liveramp-cep_na,au,csbo-sb,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+565,demfzvoaoow,targeting-inquirer_au-csbo-sb_1pcrm_liveramp-cep_na,au,csbo-sb,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+566,dcnosg0xa4q,targeting-prospect_au-csbo-sb_1pcrm_liveramp-cep_na,au,csbo-sb,Liveramp,2023-06-08,0.0,0,CSB,FY2024Q2,FY2024Q2W5
+567,dhulg70x3vy,targeting-laptops_us-csbo-con_3pofftheshelf_liveramp-eyta_be/in,us,csbo-con,Liveramp,2023-06-14,0.0,0,CSB,FY2024Q2,FY2024Q2W6
+568,dnpxs0xrb4y,targeting-asuslaptops_us-csbo-csb_3pofftheshelf_liveramp-123-afan-cli_im/in,us,csbo-csb,Liveramp,2023-06-14,0.0,0,CSB,FY2024Q2,FY2024Q2W6
+569,douew8g37cd,targeting-freelanceconsultants_us-csbo-con_3pofftheshelf_liveramp-*actgr-123-astrsk-ultd_em/fi/in,us,csbo-con,Liveramp,2023-06-14,0.0,0,CSB,FY2024Q2,FY2024Q2W6
+570,d4dw3e8ummu,targeting-businesstechnology_us-csbo-con_3pofftheshelf_liveramp-adg_em/fi,us,csbo-con,Liveramp,2023-06-14,0.0,0,CSB,FY2024Q2,FY2024Q2W6
+571,dai7c93nr8v,targeting-entrepreneurs_us-csbo-con_3pofftheshelf_liveramp-aiq-dst_be/em/im/in,us,csbo-con,Liveramp,2023-06-14,0.0,0,CSB,FY2024Q2,FY2024Q2W6
+572,d4lsin8r6sl,targeting-womenentrepreneurs_us-csbo-con_3pofftheshelf_liveramp-123-aiq-astrsk-dst_em/fi/im,us,csbo-con,Liveramp,2023-06-14,0.0,0,CSB,FY2024Q2,FY2024Q2W6
+573,docsk0e6pz1,targeting-gamingmonitors_us-csbo-con_3pofftheshelf_liveramp-123-180-acx-astrsk_be/im/in,us,csbo-con,Liveramp,2023-06-14,0.0,0,CSB,FY2024Q2,FY2024Q2W6
+574,dd1wd7kxf8i,targeting-laptopgamer_us-csbo-con_3pofftheshelf_liveramp-acx-afan-astrsk_be/in,us,csbo-con,Liveramp,2023-06-14,0.0,0,CSB,FY2024Q2,FY2024Q2W6
+575,d1vuavvd7pr,targeting-largespenders_uk-b2b_1pcrm_aiqcrm-cip_na,uk,b2b,AIQ CRM,2023-06-26,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+576,dzucalgk8gp,targeting-extralargeenterprise_uk-b2b_1pcrm_aiqcrm-cip_na,uk,b2b,AIQ CRM,2023-06-26,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+577,dzkb0geeo82,targeting-largeandextralargeenterprise_uk-b2b_1pcrm_aiqcrm-cip_na,uk,b2b,AIQ CRM,2023-06-26,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+578,deo6rj2vjg8,targeting-largepublicorganizations_uk-b2b_1pcrm_aiqcrm-cip_na,uk,b2b,AIQ CRM,2023-06-26,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+579,d39udsef3h4,targeting-largespendingcorporateandprivatebusinesses_uk-b2b_1pcrm_aiqcrm-cip_na,uk,b2b,AIQ CRM,2023-06-26,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+580,d4c8g3c4sjn,targeting-mbrtgcosize100to500_us-mb_3pofftheshelf_oracle-dab-ora_fi,us,mb,Oracle,2023-06-27,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+581,dvctg02ce9d,targeting-certgcosize500above_us-ce_3pofftheshelf_oracle-dab-ora_fi,us,ce,Oracle,2023-06-27,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+582,d5fbahq7rcl,seedlal-purchaserplususer_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-06-30,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+583,dvtwmpq9g5w,seedlal-activeprospectandbrandseeker_us-b2b_1pcrm_aiqcrm-cep_na,us,b2b,AIQ CRM,2023-06-30,0.0,0,B2B,FY2024Q2,FY2024Q2W8
+584,dumyg7h05xs,targeting-lowpropensityandlowexpectedvalue_uk-sb_1pcrm_liveramp-cep_na,uk,sb,Liveramp,2023-06-30,0.0,0,CSB,FY2024Q2,FY2024Q2W8
+585,dlyk4bkfspp,targeting-midpropensitylowandmidexpectedvalue_uk-sb_1pcrm_liveramp-cep_na,uk,sb,Liveramp,2023-06-30,0.0,0,CSB,FY2024Q2,FY2024Q2W8
+586,dqau8qlwzzl,targeting-highpropensitymidexpectedvalue_uk-sb_1pcrm_liveramp-cep_na,uk,sb,Liveramp,2023-06-30,0.0,0,CSB,FY2024Q2,FY2024Q2W8
+587,dt9gwpib8fd,targeting-abmmboomfy24q3_us-mb_3pabm_oracle-ora_em/fi,us,mb,Oracle,2023-07-03,46.0,1,B2B,FY2024Q2,FY2024Q2W9
+588,dpugaodliu3,targeting-abmmboomfy24q3_us-mb_3pabm_oracle-dab-eyta-tru_em/fi,us,mb,Oracle,2023-07-03,183.0,1,B2B,FY2024Q2,FY2024Q2W9
+589,dcx4m724ekd,targeting-mbdemointerests_us-mb_3pofftheshelf_oracle-acx-alnt-amrb-aiq-blk-expr-lbdg-lot-dlx-ora-sht-web-zfd_de/fi/in,us,mb,Oracle,2023-07-03,42.0,1,B2B,FY2024Q2,FY2024Q2W9
+590,dzo5wqi53bd,targeting-mbpmpcosizefilter_us-mb_3pofftheshelf_oracle-bom-expr-eyta-web-who_fi,us,mb,Oracle,2023-07-03,111.0,1,B2B,FY2024Q2,FY2024Q2W9
+591,dzarqktemdn,targeting-abmmbimfy24q3_us-mb_3pabm_oracle-ora_em/fi,us,mb,Oracle,2023-07-03,62.0,1,B2B,FY2024Q2,FY2024Q2W9
+592,d76q31i01fs,targeting-mbinmarket_us-mb_3pofftheshelf_oracle-dab-eyta_fi,us,mb,Oracle,2023-07-03,68.0,1,B2B,FY2024Q2,FY2024Q2W9
+593,dba7h700nb8,targeting-abmmbimfy24q3_us-mb_3pabm_oracle-dab-eyta-tru_em/fi,us,mb,Oracle,2023-07-03,187.0,1,B2B,FY2024Q2,FY2024Q2W9
+594,dro3wrcsnyb,targeting-abmmbimfy24q3_us-mb_3pabm_oracle-lot_em/fi,us,mb,Oracle,2023-07-03,119.0,1,B2B,FY2024Q2,FY2024Q2W9
+595,dt7jqobh878,targeting-abmceoomfy24q3_us-ce_3pabm_oracle-ora_em/fi,us,ce,Oracle,2023-07-03,34.0,1,B2B,FY2024Q2,FY2024Q2W9
+596,dbr0lglswm8,targeting-delldirector_us-b2b_3plicensed_oracle-dab_em,us,b2b,Oracle,2023-07-03,0.0,0,B2B,FY2024Q2,FY2024Q2W9
+597,d1i2r7luz0p,targeting-cedemointerests_us-ce_3pofftheshelf_oracle-acx-alnt-amrb-aiq-blk-expr-lbdg-lot-dlx-ora-sht-web-zfd_de/fi/in,us,ce,Oracle,2023-07-03,36.0,1,B2B,FY2024Q2,FY2024Q2W9
+598,dy8lfn3sujh,targeting-cepmpcosizefilter_us-ce_3pofftheshelf_oracle-bom-expr-eyta-web-who_fi,us,ce,Oracle,2023-07-03,40.0,1,B2B,FY2024Q2,FY2024Q2W9
+599,dg1a2he3wyo,targeting-abmceoomfy24q3_us-ce_3pabm_oracle-dab-eyta-tru_em/fi,us,ce,Oracle,2023-07-03,119.0,1,B2B,FY2024Q2,FY2024Q2W9
+600,d6hlvpaz41s,targeting-abmceimfy24q3_us-ce_3pabm_oracle-dab-eyta-tru_em/fi,us,ce,Oracle,2023-07-03,215.0,1,B2B,FY2024Q2,FY2024Q2W9
+601,dgt3scnhuj5,targeting-abmceimfy24q3_us-ce_3pabm_oracle-ora_em/fi,us,ce,Oracle,2023-07-03,73.0,1,B2B,FY2024Q2,FY2024Q2W9
+602,d6ncqx71trn,targeting-ceinmarket_us-ce_3pofftheshelf_oracle-dab-eyta_fi,us,ce,Oracle,2023-07-03,0.0,0,B2B,FY2024Q2,FY2024Q2W9
+603,dxa2s62da18,targeting-cehispenders_us-ce_3pofftheshelf_oracle-dab-dlx_fi,us,ce,Oracle,2023-07-03,0.0,0,B2B,FY2024Q2,FY2024Q2W9
+604,ddqt1v7dp1d,targeting-crmceoom_us-ce_1pcrm_liveramp-aiq_em,us,ce,Liveramp,2023-07-03,202.0,1,B2B,FY2024Q2,FY2024Q2W9
+605,ds52knd7g20,targeting-crmceim_us-ce_1pcrm_liveramp-aiq_em,us,ce,Liveramp,2023-07-03,359.0,1,B2B,FY2024Q2,FY2024Q2W9
+606,doqykn7op18,targeting-crmmboom_us-mb_1pcrm_liveramp-aiq_em,us,mb,Liveramp,2023-07-03,273.0,1,B2B,FY2024Q2,FY2024Q2W9
+607,d23q06sc75p,targeting-crmmbim_us-mb_1pcrm_liveramp-aiq_em,us,mb,Liveramp,2023-07-03,320.0,1,B2B,FY2024Q2,FY2024Q2W9
+608,dx92jak0pty,targeting-crmceall_us-b2b-com_1pcrm_aiqcrm-aiq_em,us,B2B-COM,AIQ CRM,2023-07-03,0.0,0,B2B,FY2024Q2,FY2024Q2W9
+609,dfntx01b7l5,targeting-crmmball_us-b2b-mb_1pcrm_aiqcrm-aiq_em,us,B2B-MB,AIQ CRM,2023-07-03,0.0,0,B2B,FY2024Q2,FY2024Q2W9
+610,dpye9s4xkwx,targeting-crmceimandsled_us-ce_1pcrm_aiqcrm-aiq_em,us,ce,AIQ CRM,2023-07-03,0.0,0,B2B,FY2024Q2,FY2024Q2W9
+611,db0j71ejz8s,targeting-gamestreamers_us-csbo-gseries_3pofftheshelf_liveramp-acx_be/im/in,us,csbo-gseries,Liveramp,2023-07-04,16.0,1,CSB,FY2024Q2,FY2024Q2W9
+612,dl1i5dcms1w,targeting-contentcreators_us-csbo-gseries_3pofftheshelf_liveramp-aiq_be/im/in,us,csbo-gseries,Liveramp,2023-07-04,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+613,dxcso4opx9p,targeting-onthegogamers_us-csbo-gseries_3pofftheshelf_liveramp-acx-astrsk_be/in,us,csbo-gseries,Liveramp,2023-07-04,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+614,dtsc2w24xnk,targeting-gamedevelopers_us-csbo-gseries_3pofftheshelf_liveramp-ultd_be/em/fi/in,us,csbo-gseries,Liveramp,2023-07-04,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+615,dg78exxc9ll,targeting-projectmanagementtools_ca-csbo-sb_3pofftheshelf_thetradedesk-123-180-eyta_em/fi,ca,CSBO-SB,The Trade Desk,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+616,d6i3x4uvfhp,targeting-entrepreneurs_ca-csbo-sb_3pofftheshelf_liveramp-33a_em/fi/in,ca,CSBO-SB,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+617,dn46ujkvhz2,targeting-itdmwithinsmallbusinesscompanies_ca-csbo-sb_3pofftheshelf_liveramp-33a_be/em/fi,ca,CSBO-SB,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+618,dhw00208roi,targeting-pastsmallbusinesspurchasers_ca-csbo-sb_3pofftheshelf_liveramp-33a_be/em/fi,ca,CSBO-SB,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+619,dbx8i0r82tf,targeting-development_ca-csbo-csb_3pofftheshelf_liveramp-eyta_be/in,ca,CSBO-CSB,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+620,do89ryyj5hq,targeting-collegegraduates_ca-csbo-con_3pofftheshelf_liveramp-acxc_be/im,ca,CSBO-CON,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+621,daxp03tew9t,targeting-parentsofcollegestudents_ca-csbo-con_3pofftheshelf_liveramp-33a-acxc_de/im,ca,CSBO-CON,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+622,dz2x8oap402,targeting-internationalstudents_ca-csbo-con_3pofftheshelf_liveramp-acxc_de/ge/im,ca,CSBO-CON,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+623,d46r84uwlrh,targeting-newcommersstudentsfromindiachinabrazil_ca-csbo-con_3pofftheshelf_liveramp-eyta-strt_be/de/ge,ca,CSBO-CON,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+624,dkb4950abxe,targeting-nflnbabaseballcricketsoccer_ca-csbo-con_3pofftheshelf_liveramp-33a_co/in,ca,CSBO-CON,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+625,dswgmjewjk6,targeting-gamingpurchaser_ca-csbo-aw/gseries_3pofftheshelf_liveramp-33a_be/im/in,ca,CSBO-AW/GSERIES,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+626,daljmmc5nqb,targeting-esports_ca-csbo-aw/gseries_3pofftheshelf_liveramp-33a_be/im/in,ca,CSBO-AW/GSERIES,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+627,daizlcaufdh,targeting-gamingfans_ca-csbo-aw/gseries_3pofftheshelf_liveramp-33a_co/im/in,ca,CSBO-AW/GSERIES,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+628,dfoeb9784iu,targeting-enaaccesorieswithoutmonitor_ca-csbo-con_3pofftheshelf_liveramp-eyta_be/in,ca,CSBO-CON,Liveramp,2023-07-06,0.0,0,CSB,FY2024Q2,FY2024Q2W9
+629,du4bispcynh,targeting-abmceimfy24q3_us-ce_3pabm_oracle-lot_em/fi,us,ce,Oracle,2023-07-07,116.0,1,B2B,FY2024Q2,FY2024Q2W9
+630,djqvx0t9mk6,targeting-usgaminggamer_us-csbo-gseries_3pofftheshelf_liveramp-skyd_be/in,us,CSBO-GSERIES,Liveramp,2023-07-11,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+631,dq2drw9t0h3,targeting-collegegraduatesindividuals_us-csbo-csb_3pofftheshelf_liveramp-afan-tns_co/im,us,CSBO-CSB,Liveramp,2023-07-11,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+632,d7ec9otx5hv,targeting-sbdminmarketforlaptops_us-csbo-sb_3pofftheshelf_liveramp-acx-axl_em/fi/im,us,CSBO-SB,Liveramp,2023-07-11,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+633,d164clv24cx,targeting-sbdm_us-csbo-sb_3pofftheshelf_liveramp-180-axl_em/fi/im,us,CSBO-SB,Liveramp,2023-07-11,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+634,dnl4fqjz9t3,targeting-abmcesledfy24q3_us-ce_3pabm_oracle-dab-eyta-tru_em/fi,us,ce,Oracle,2023-07-11,180.0,1,B2B,FY2024Q2,FY2024Q2W10
+635,d3y3ryqwiz0,targeting-abmcesledfy24q3_us-ce_3pabm_oracle-ora_em/fi,us,ce,Oracle,2023-07-11,70.0,1,B2B,FY2024Q2,FY2024Q2W10
+636,dr80vqd7bby,targeting-crmcesled_us-ce_1pcrm_aiqcrm-aiq_em,us,ce,AIQ CRM,2023-07-11,311.0,1,B2B,FY2024Q2,FY2024Q2W10
+637,dg6qscovxyl,targeting-consumerdormant_us-csbo-con_1pcrm_liveramp-cip_na,us,CSBO-CON,Liveramp,2023-07-12,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+638,dt37ys1a95a,targeting-sbdormant_us-csbo-sb_1pcrm_liveramp-cip_na,us,CSBO-SB,Liveramp,2023-07-12,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+639,dnqt5hwvjik,targeting-alienware_us-csbo-aw_3pofftheshelf_liveramp-afan_be,us,csbo-aw,Liveramp,2023-07-12,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+640,dcxn3blo3ts,targeting-collegegraduates_us-csbo-aw_3pofftheshelf_neustar-ada_de,us,csbo-aw,Neustar,2023-07-12,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+641,dkumboic0ps,targeting-acquisition_ca-csbo-csb_1pcrm_liveramp-aiq_na,ca,csbo-csb,Liveramp,2023-07-12,41.0,1,CSB,FY2024Q2,FY2024Q2W10
+642,dk1puxnqxpc,targeting-development_us-csbo-csb_1pcrm_liveramp-aiq_na,us,csbo-csb,Liveramp,2023-07-12,52.0,1,CSB,FY2024Q2,FY2024Q2W10
+643,dgy291pb528,targeting-cahhincomeowners_ca-com_3pofftheshelf_oracle-ora-web_de/fi,ca,com,Oracle,2023-07-14,0.0,0,B2B,FY2024Q2,FY2024Q2W10
+644,dv8ryg0v16z,targeting-cacosize100to500_ca-com_3pofftheshelf_oracle-dab-ora_fi,ca,com,Oracle,2023-07-14,0.0,0,B2B,FY2024Q2,FY2024Q2W10
+645,d6v23hmx2dq,targeting-cacosize500above_ca-com_3pofftheshelf_oracle-dab-ora_fi,ca,com,Oracle,2023-07-14,0.0,0,B2B,FY2024Q2,FY2024Q2W10
+646,d23s1t5as81,targeting-cainmarketdms_ca-com_3pofftheshelf_oracle-dab-eyta_fi,ca,com,Oracle,2023-07-14,0.0,0,B2B,FY2024Q2,FY2024Q2W10
+647,d5wpsyquqrb,targeting-abmcaoomfy24q3_ca-com_3pabm_oracle-ads-ora-web_em/fi,ca,com,Oracle,2023-07-14,0.0,0,B2B,FY2024Q2,FY2024Q2W10
+648,dwaecrddo2v,targeting-abmcaimfy24q3_ca-com_3pabm_oracle-ads-ora-web_em/fi,ca,com,Oracle,2023-07-14,0.0,0,B2B,FY2024Q2,FY2024Q2W10
+649,d66vp1nudbb,targeting-consumercohort_us-csbo-con_2p_permutivecrm-aiq_coh,us,csbo-con,Permutive CRM,2023-07-14,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+650,dah68ft85vn,targeting-sbcohort_us-csbo-sb_2p_permutivecrm-aiq_coh,us,csbo-sb,Permutive CRM,2023-07-14,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+651,dzgwjlwpzg0,targeting-gamercohort_us-csbo-aw/gseries_2p_permutivecrm-aiq_coh,us,csbo-aw/gseries,Permutive CRM,2023-07-14,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+652,dflt5hg5d7g,targeting-csbcohort_uk-csbo-csb_2p_permutivecrm-aiq_coh,uk,csbo-csb,Permutive CRM,2023-07-14,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+653,djk0080ktf8,targeting-csbcohort_ca-csbo-csb_2p_permutivecrm-aiq_coh,ca,csbo-csb,Permutive CRM,2023-07-14,0.0,0,CSB,FY2024Q2,FY2024Q2W10
+654,dsltsz8wjbu,targeting-dormant_ca-csbo-sb_1pcrm_liveramp-cip-lot_la/na,ca,CSBO-SB,Liveramp,2023-07-20,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+655,dnnurru2kbr,targeting-collegestudents_ca-csbo-con_3pofftheshelf_thetradedesk-dta-dat-lot_de/im,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+656,d26sbuwczqs,targeting-daftravellers_ca-csbo-con_3pofftheshelf_thetradedesk-asa-rgm_co/im,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+657,drkcz5bqps1,targeting-photographyhobby_ca-csbo-con_3pofftheshelf_thetradedesk-dyn_be/im/in,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+658,dziaq5f0r4h,targeting-tvlover_ca-csbo-con_3pofftheshelf_thetradedesk-dta-skyd_be/de,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+659,dtyyouz4h9u,targeting-colleggraduates_ca-csbo-con_3pofftheshelf_thetradedesk-alnt-dst_be/im,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+660,drsvl9dmioj,targeting-internationalstudents_ca-csbo-con_3pofftheshelf_thetradedesk-lot_de/ge,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+661,dqr7dgms1ew,targeting-sportsnflnbabaseballcricketsoccer_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-dta_im/in,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+662,dna49sb5bas,targeting-consumernomonitor_ca-csbo-con_3pofftheshelf_thetradedesk-dta-eyta_be/co,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+663,d78rw8l0nrg,targeting-gamingpurchaser_ca-csbo-gseries_3pofftheshelf_thetradedesk-dta-eyta_be/im/in,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+664,dcn1ll23opf,targeting-esports_ca-csbo-gseries_3pofftheshelf_thetradedesk-dta-eyta_be/in,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+665,dy4v64vqlh9,targeting-gamingfans_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx_im/in,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+666,dn1tiql49bk,targeting-casualgamers_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-orc_be/im,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+667,d9cw51z1vpb,targeting-hardcoregamers_ca-csbo-gseries_3pofftheshelf_thetradedesk-aiq-dta-dat-ona_be/im/in,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+668,dnhdummekuw,targeting-esportsfains_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-dta-eyta_co/im,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+669,da8chwpkgvs,targeting-pcgamers_ca-csbo-gseries_3pofftheshelf_thetradedesk-aiq-dta-tl1_be/co,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+670,drpwlj0ptva,targeting-socialnesxtgen_ca-csbo-con_3pofftheshelf_thetradedesk-ads-dta-expr_be/im/in,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+671,d5v8es4ev58,targeting-competitorconquest_ca-csbo-con_3pofftheshelf_thetradedesk-acx-afan-dta-vdn_fi/im,ca,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+672,d8ttz83j38h,targeting-gamer_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-eyta-ona_be/im,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+673,dwsejdvlif8,targeting-moderncoregamer_ca-csbo-gseries_3pofftheshelf_thetradedesk-aiq-dta-skyd_be/im,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+674,d4uipv046bg,targeting-alienwareintent_ca-csbo-gseries_3pofftheshelf_thetradedesk-afan-sms_be/co/im,ca,CSBO-GSERIES,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+675,duwq7gfu01r,targeting-projectmanagementtools_ca-csbo-sb_3pofftheshelf_thetradedesk-123-180-eyta_fi/im,ca,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+676,dj34k8dful9,targeting-entrepreneurs_ca-csbo-sb_3pofftheshelf_thetradedesk-axl-gdf-ona_be/em/fi,ca,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+677,d2s4ahz8psz,targeting-pastsmallbusinesspurchasers_ca-csbo-sb_3pofftheshelf_thetradedesk-123-drk-dta_be/im,ca,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+678,drjo0cohrow,targeting-sohoandtelecommuters_ca-csbo-sb_3pofftheshelf_thetradedesk-dta-expr_em/fi,ca,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+679,djunkuecpp6,targeting-employeesize1to99_ca-csbo-sb_3pofftheshelf_thetradedesk-dta-eyta_be/em/im,ca,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+680,dnmmars911h,targeting-officesupplies_ca-csbo-sb_3pofftheshelf_thetradedesk-dta-orc_em/fi,ca,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+681,dbo5rpzxl0t,targeting-smallbusinesscreditcards_ca-csbo-sb_3pofftheshelf_thetradedesk-dta-exe_be/im,ca,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+682,dgywt35fxw0,targeting-businesstechnology_ca-csbo-sb_3pofftheshelf_thetradedesk-lot-tl1_de/fi/im,ca,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+683,dk5b7ucvvse,targeting-itdmlessthan100employees_us-csbo-sb_3pofftheshelf_thetradedesk-img-ssm-tdg_em/fi/im,us,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+684,djedte7utly,targeting-sbdminmarketforlaptops_us-csbo-sb_3pofftheshelf_thetradedesk-dta-mds_be/im,us,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+685,dvgnvz0tv8h,targeting-sbdm_us-csbo-sb_3pofftheshelf_thetradedesk-alkaud-tdg_be/em/im,us,CSBO-SB,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+686,d8wg8i85h3q,targeting-agedemo_us-csbo-con_3pofftheshelf_thetradedesk-dta-dtl-sms_im/in,us,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+687,da4nx8wsmom,targeting-collegegraduateindividuals_us-csbo-con_3pofftheshelf_thetradedesk-alnt-flb_ge/im,us,CSBO-CON,The Trade Desk,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+688,dt9aourpwxs,targeting-highpropensitygamers_ca-csbo-gseries_1pcrm_liveramp-cip_na,ca,CSBO-GSERIES,Liveramp,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+689,dzalp1c6uzh,targeting-gamerspreviouspurchasers_ca-csbo-gseries_1pcrm_liveramp-cip_na,ca,CSBO-GSERIES,Liveramp,2023-07-21,0.0,0,CSB,FY2024Q2,FY2024Q2W11
+690,dwqwajif4jf,targeting-dellpurchaseintent_ca-csbo-con_3pofftheshelf_thetradedesk-afan-dta_be/in,ca,CSBO-CON,The Trade Desk,2023-07-24,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+691,d4nryzf8a5b,targeting-techenthusiasts_ca-csbo-con_3pofftheshelf_thetradedesk-dta-dat-exe_be/in,ca,CSBO-CON,The Trade Desk,2023-07-24,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+692,dpgzj9ltq5t,targeting-movielover_ca-csbo-con_3pofftheshelf_thetradedesk-dat-expr_be/in,ca,CSBO-CON,The Trade Desk,2023-07-24,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+693,dnoi5vq5p9c,targeting-gamersca_ca-csbo-gseries_3pofftheshelf_thetradedesk-acx-ona_be/im/in,ca,CSBO-GSERIES,The Trade Desk,2023-07-24,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+694,da0evhmwpnp,targeting-itdmlessthan100_us-csbo-sb_3pofftheshelf_liveramp-180_co/em/fi,us,CSBO-SB,Liveramp,2023-07-24,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+695,dlxmi35lrt3,test-reactfull_au-csbo-csb_1pcrm_aiqcrm-cep_la,au,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+696,dyptlezlwce,test-reactaiq_au-csbo-csb_1pcrm_aiqcrm-cep_la,au,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+697,d6hj908ursi,test-reactlr_au-csbo-csb_1pcrm_aiqcrm-cep_la,au,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+698,d6wp8myaab5,test-reactfull_ca-csbo-csb_1pcrm_aiqcrm-cep_la,ca,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+699,dehubcu1lb5,test-reactaiq_ca-csbo-csb_1pcrm_aiqcrm-cep_la,ca,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+700,dve5rphipoc,test-reactlr_ca-csbo-csb_1pcrm_aiqcrm-cep_la,ca,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+701,d5abrwfjkg4,test-reactfull_br-csbo-csb_1pcrm_aiqcrm-cep_la,br,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+702,dh36cm7t88o,test-reactaiq_br-csbo-csb_1pcrm_aiqcrm-cep_la,br,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+703,dzkwcjkjmkc,test-reactlr_br-csbo-csb_1pcrm_aiqcrm-cep_la,br,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+704,d8awqje8cba,test-reactfullaiq_fr-csbo-csb_1pcrm_aiqcrm-cep_la,fr,csbo-csb,AIQ CRM,2023-07-26,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+705,dbfe3u5jbwt,targeting-alienwareintent_us-csbo-gseries_3pofftheshelf_thetradedesk-afan-dta-vdn_de/im,us,CSBO-GSERIES,The Trade Desk,2023-07-27,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+706,d339f6mvbt7,targeting-gamestreamers_us-csbo-gseries_3pofftheshelf_thetradedesk-4sg-crp-dta_be/im/in,us,CSBO-GSERIES,The Trade Desk,2023-07-27,0.0,0,CSB,FY2024Q2,FY2024Q2W12
+707,dbao9h4m5lo,targeting-gaminguser_us-csbo-csb_3pofftheshelf_liveramp-web_be/in,us,CSBO-CSB,Liveramp,2023-07-31,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+708,dw9x51hup50,targeting-devreact_us-csbo-csb_1pcrm_aiqcrm-cip_na,us,CSBO-CSB,AIQ CRM,2023-07-31,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+709,dwjjl89epzf,test-reactfullv2_au-csbo-csb_1pcrm_aiqcrm-cep_la,au,csbo-csb,AIQ CRM,2023-07-31,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+710,d2q11zclsgv,test-reactaiqv2_au-csbo-csb_1pcrm_aiqcrm-cep_la,au,csbo-csb,AIQ CRM,2023-07-31,55.0,1,CSB,FY2024Q2,FY2024Q2W13
+711,duxo79h5t8o,test-reactlrv2_au-csbo-csb_1pcrm_aiqcrm-cep_la,au,csbo-csb,AIQ CRM,2023-07-31,26.0,1,CSB,FY2024Q2,FY2024Q2W13
+712,d14ufxix07n,test-reactfullv2_ca-csbo-csb_1pcrm_aiqcrm-cep_la,ca,csbo-csb,AIQ CRM,2023-07-31,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+713,d7qd2wu3gkb,test-reactaiqv2_ca-csbo-csb_1pcrm_aiqcrm-cep_la,ca,csbo-csb,AIQ CRM,2023-07-31,27.0,1,CSB,FY2024Q2,FY2024Q2W13
+714,dw1v0i89ctr,test-reactlrv2_ca-csbo-csb_1pcrm_aiqcrm-cep_la,ca,csbo-csb,AIQ CRM,2023-07-31,28.0,1,CSB,FY2024Q2,FY2024Q2W13
+715,dtwd735764l,test-reactfullv2_br-csbo-csb_1pcrm_aiqcrm-cep_la,br,csbo-csb,AIQ CRM,2023-07-31,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+716,dwm57ismy2g,test-reactaiqv2_br-csbo-csb_1pcrm_aiqcrm-cep_la,br,csbo-csb,AIQ CRM,2023-07-31,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+717,d3ok01g6usv,test-reactlrv2_br-csbo-csb_1pcrm_aiqcrm-cep_la,br,csbo-csb,AIQ CRM,2023-07-31,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+718,d14s5u5pfra,test-reactfullaiqv2_fr-csbo-csb_1pcrm_aiqcrm-cep_la,fr,csbo-csb,AIQ CRM,2023-07-31,38.0,1,CSB,FY2024Q2,FY2024Q2W13
+719,dkosu82shiz,abm-fy24q3premier_au-mb_3pabm_aiqcrm-aiq-cip_im,au,mb,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+720,dkf40uc2p6b,abm-fy24q3premier_au-b2b-mb_3pabm_aiqcrm-bom_im,au,B2B-MB,AIQ CRM,2023-08-02,331.0,1,B2B,FY2024Q2,FY2024Q2W13
+721,ds01pswkirm,abm-fy24q3premier_in-b2b-mb_3pabm_aiqcrm-bom_im,in,B2B-MB,AIQ CRM,2023-08-02,359.0,1,B2B,FY2024Q2,FY2024Q2W13
+722,dz8x9s3hrlb,abm-fy24q3premier_jp-b2b-mb_3pabm_aiqcrm-bom_im,jp,B2B-MB,AIQ CRM,2023-08-02,364.0,1,B2B,FY2024Q2,FY2024Q2W13
+723,d8otwph99bw,abm-fy24q3premier_kr-b2b-mb_3pabm_aiqcrm-bom_im,kr,B2B-MB,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+724,djnsxwp3fzw,abm-fy24q3premier_my-b2b-mb_3pabm_aiqcrm-bom_im,my,B2B-MB,AIQ CRM,2023-08-02,112.0,1,B2B,FY2024Q2,FY2024Q2W13
+725,de5fh5fb2nv,abm-fy24q3premier_sg-b2b-mb_3pabm_aiqcrm-bom_im,sg,B2B-MB,AIQ CRM,2023-08-02,384.0,1,B2B,FY2024Q2,FY2024Q2W13
+726,dfpz8i0vvc6,abm-fy24q3premier_au-b2b-com_3pabm_aiqcrm-bom_im,au,B2B-COM,AIQ CRM,2023-08-02,257.0,1,B2B,FY2024Q2,FY2024Q2W13
+727,doa02ha7vgk,abm-fy24q3premier_in-b2b-com_3pabm_aiqcrm-bom_im,in,B2B-COM,AIQ CRM,2023-08-02,287.0,1,B2B,FY2024Q2,FY2024Q2W13
+728,den93h99l4j,abm-fy24q3premier_jp-b2b-com_3pabm_aiqcrm-bom_im,jp,B2B-COM,AIQ CRM,2023-08-02,237.0,1,B2B,FY2024Q2,FY2024Q2W13
+729,duh6dwqrjjg,abm-fy24q3premier_kr-b2b-com_3pabm_aiqcrm-bom_im,kr,B2B-COM,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+730,djc5jrx3563,abm-fy24q3premier_my-b2b-com_3pabm_aiqcrm-bom_im,my,B2B-COM,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+731,d4k5eq6g0v6,abm-fy24q3premier_sg-b2b-com_3pabm_aiqcrm-bom_im,sg,B2B-COM,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+732,dl4sf9v1565,abm-fy24q3nonpremier_au-b2b-com_3pabm_aiqcrm-bom_im,au,B2B-COM,AIQ CRM,2023-08-02,534.0,1,B2B,FY2024Q2,FY2024Q2W13
+733,dn72rsabwh7,abm-fy24q3nonpremier_in-b2b-com_3pabm_aiqcrm-bom_im,in,B2B-COM,AIQ CRM,2023-08-02,537.0,1,B2B,FY2024Q2,FY2024Q2W13
+734,d61uxa89uf9,abm-fy24q3nonpremier_jp-b2b-com_3pabm_aiqcrm-bom_im,jp,B2B-COM,AIQ CRM,2023-08-02,280.0,1,B2B,FY2024Q2,FY2024Q2W13
+735,dedpmim81ek,abm-fy24q3nonpremier_kr-b2b-com_3pabm_aiqcrm-bom_im,kr,B2B-COM,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+736,d8rfqrxnlae,abm-fy24q3nonpremier_my-b2b-com_3pabm_aiqcrm-bom_im,my,B2B-COM,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+737,dxmfekroixz,abm-fy24q3nonpremier_sg-b2b-com_3pabm_aiqcrm-bom_im,sg,B2B-COM,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+738,dza0n7cuer5,abm-fy24q3nonpremier_au-b2b-mb_3pabm_aiqcrm-bom_im,au,B2B-MB,AIQ CRM,2023-08-02,595.0,1,B2B,FY2024Q2,FY2024Q2W13
+739,d4tok7e2i2r,abm-fy24q3nonpremier_in-b2b-mb_3pabm_aiqcrm-bom_im,in,B2B-MB,AIQ CRM,2023-08-02,602.0,1,B2B,FY2024Q2,FY2024Q2W13
+740,d689v6q5t4t,abm-fy24q3nonpremier_jp-b2b-mb_3pabm_aiqcrm-bom_im,jp,B2B-MB,AIQ CRM,2023-08-02,556.0,1,B2B,FY2024Q2,FY2024Q2W13
+741,dirxrd3gfxw,abm-fy24q3nonpremier_kr-b2b-mb_3pabm_aiqcrm-bom_im,kr,B2B-MB,AIQ CRM,2023-08-02,0.0,0,B2B,FY2024Q2,FY2024Q2W13
+742,da9nr43hyst,abm-fy24q3nonpremier_my-b2b-mb_3pabm_aiqcrm-bom_im,my,B2B-MB,AIQ CRM,2023-08-02,116.0,1,B2B,FY2024Q2,FY2024Q2W13
+743,db7vlijpzkn,abm-fy24q3nonpremier_sg-b2b-mb_3pabm_aiqcrm-bom_im,sg,B2B-MB,AIQ CRM,2023-08-02,680.0,1,B2B,FY2024Q2,FY2024Q2W13
+744,dgfrrpdw7ov,test-reactlotame_au-csbo-csb_1ppixel_lotame-lot_la,au,csbo-csb,Lotame,2023-08-03,68.0,1,CSB,FY2024Q2,FY2024Q2W13
+745,dkgud3s0umw,test-reactlotame_br-csbo-csb_1ppixel_lotame-lot_la,br,csbo-csb,Lotame,2023-08-03,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+746,dv7sm9mltvm,test-reactlotame_ca-csbo-csb_1ppixel_lotame-lot_la,ca,csbo-csb,Lotame,2023-08-03,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+747,d6m18ot8p0w,test-reactlotame_fr-csbo-csb_1ppixel_lotame-lot_la,fr,csbo-csb,Lotame,2023-08-03,0.0,0,CSB,FY2024Q2,FY2024Q2W13
+748,dxxi96h6jm9,targeting-mbrtgcosize100to500_us-mb_3pofftheshelf_liveramp-dab-equ-eyta-net_fi,us,mb,Liveramp,2023-08-09,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+749,derqi6r5qds,targeting-certgcosize500above_us-ce_3pofftheshelf_liveramp-dab-equ-eyta-net_fi,us,ce,Liveramp,2023-08-09,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+750,dbc6vh331im,targeting-serverusers_us-csbo-sb_3pofftheshelf_thetradedesk-123-180-tdg_de/im/in,us,CSBO-SB,The Trade Desk,2023-08-10,0.0,0,CSB,FY2024Q3,FY2024Q3W1
+751,d9z2e7tqe7w,targeting-largeservebudget_us-csbo-sb_3pofftheshelf_thetradedesk-180-dta-sht_co/im/in,us,CSBO-SB,The Trade Desk,2023-08-10,0.0,0,CSB,FY2024Q3,FY2024Q3W1
+752,dlik78e84df,targeting-abmceoomfy24q3_us-ce_3pabm_dun&bradstreet-dab-eyta_em/fi,us,ce,Dun & Bradstreet,2023-08-11,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+753,du67ofuh9s0,targeting-abmceimfy24q3_us-ce_3pabm_dun&bradstreet-dab-eyta_em/fi,us,ce,Dun & Bradstreet,2023-08-11,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+754,do105wse6rh,targeting-abmcesledfy24q3_us-ce_3pabm_dun&bradstreet-dab-eyta_em/fi,us,ce,Dun & Bradstreet,2023-08-11,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+755,dj59il05v17,targeting-abmmboomfy24q3_us-mb_3pabm_dun&bradstreet-dab-eyta_em/fi,us,mb,Dun & Bradstreet,2023-08-11,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+756,dxt4zugulk0,targeting-abmmbimfy24q3_us-mb_3pabm_dun&bradstreet-dab-eyta_em/fi,us,mb,Dun & Bradstreet,2023-08-11,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+757,drkrgwynobm,targeting-abmcaoomfy24q3v2_ca-com_3pabm_liveramp-dab-eyta-net_em/fi,ca,com,Liveramp,2023-08-11,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+758,dx7dl5wf516,targeting-abmcaimfy24q3v2_ca-com_3pabm_liveramp-dab-eyta-net_em/fi,ca,com,Liveramp,2023-08-11,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+759,diqmgtivp3p,targeting-ceinmarket_us-ce_3pofftheshelf_dun&bradstreet-dab-eyta_fi,us,ce,Dun & Bradstreet,2023-08-11,0.0,0,B2B,FY2024Q3,FY2024Q3W1
+760,dffcb2tqvra,targeting-fantasygamer_us-csbo-aw/gseries_3pofftheshelf_thetradedesk-crp-dst_be/im/in,us,CSBO-AW/GSERIES,The Trade Desk,2023-08-26,0.0,0,CSB,FY2024Q3,FY2024Q3W4
+761,ddizqt7qlll,targeting-fantasygamer_us-csbo-gseries_1pcrm_aiqcrm-cep_na,us,CSBO-GSERIES,AIQ CRM,2023-08-26,0.0,0,CSB,FY2024Q3,FY2024Q3W4
+762,dxblj6qfb9w,targeting-fantasygamer_us-csbo-gseries_1pcrm_liveramp-cip_na,us,CSBO-GSERIES,Liveramp,2023-08-26,0.0,0,CSB,FY2024Q3,FY2024Q3W4
+763,dl9k75i7hqb,targeting-abondonedcart_mx-b2b_1pcrm_aiqcrm-aiq_be,mx,b2b,AIQ CRM,2023-08-28,0.0,0,B2B,FY2024Q3,FY2024Q3W4
+764,d2ac0x6vs7l,targeting-abondonedcart_mx-b2b_1pcrm_aiqcrm-aiq_be,mx,b2b,AIQ CRM,2023-08-28,0.0,0,B2B,FY2024Q3,FY2024Q3W4
+765,dd2olcmx9vn,targeting-gamingpurchaseflag_br-csbo-con_1pcrm_aiqcrm-cep_co/na,br,CSBO-CON,AIQ CRM,2023-08-30,0.0,0,CSB,FY2024Q3,FY2024Q3W4
+766,dw5rth67zcx,1pcrm-premierpagesitevisitors_apj-pan-dell_1ppixel_googleanalytics-do_im,apj,pan-dell,Google Analytics,2023-09-04,0.0,0,PAN-DELL,FY2024Q3,FY2024Q3W5
+767,d46cskn4ev0,targeting-monitors_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+768,dciufzko2f2,targeting-caenmonitors_ca-csbo-csb_1ppixel_googleanalytics-ga_na,ca,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+769,di77nw35nl5,targeting-cartabandonerspurchaseprobtop10pct_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+770,dassv28m7du,targeting-cartabandonersnonpredictive_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+771,da9vastspoe,targeting-monitorproduct_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+772,drrsa5kcf39,targeting-monitorbasket_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+773,dpo3ic6xozs,targeting-enaproduct_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+774,dbkj774dmy8,targeting-enadeals_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+775,drnioi8caoo,targeting-productconfig_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+776,d9nisjrwgoj,targeting-enabasket_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+777,dyhkzevdqsf,targeting-monitordeals_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+778,ds0cpd4be1w,targeting-categorylaptops_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+779,d7cfwsh5xnx,targeting-enacategory_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+780,dtvkqs8k9ah,targeting-monitorcategory_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+781,dr8iplsep20,targeting-campaignviewerpromoid13_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+782,dt27jeywudx,targeting-basketviewerpromoid9_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+783,dms7issc3s3,targeting-homepageviewerpromoid1_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+784,dy1qh2h539c,targeting-familyviewerpromoid5_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+785,dehjuyvufbj,targeting-dealsviewerpromoid4_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+786,dflenafj0jf,targeting-categoryviewerpromoid3_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+787,dmxrzwwptp6,targeting-alienwarecategoryviewerpromoid3_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+788,dhqzpda1cmp,targeting-premierusercustomsignals_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+789,dmkoqp9otp0,targeting-alienwareconfigviewerpromoid7_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+790,dvcnqa8x8ts,targeting-gamercategoryviewerpromoid3_us-csbo-gseries_1ppixel_googleanalytics-ga_na,us,CSBO-GSERIES,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+791,dnfj8nu454z,targeting-gamerdealviewerpromoid4_us-csbo-gseries_1ppixel_googleanalytics-ga_na,us,CSBO-GSERIES,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+792,ddzbqm2s274,targeting-alienwarecategoryviewerpromoid3_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+793,dab3qvu6haj,targeting-alienwaredealsviewerpromoid4_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+794,dbmavc1rrx7,targeting-alienwarecartviewerpromoid9_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+795,drvnbk6uf2u,targeting-gamerconfigviewerpromoid7_us-csbo-gseries_1ppixel_googleanalytics-ga_na,us,CSBO-GSERIES,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+796,d5xdgytn7y3,targeting-gamingmonitorcartviewerspromoid9_us-csbo-gseries_1ppixel_googleanalytics-ga_na,us,CSBO-GSERIES,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+797,daxtzymzzin,targeting-alienwaremonitorcartviewerspromoid9_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+798,de88dfsncgd,targeting-alienwaremonitorviewerspromoid7_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+799,d1tlu5nh1fp,targeting-gamingmonitorviewerspromoid7_us-csbo-gseries_1ppixel_googleanalytics-ga_na,us,CSBO-GSERIES,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+800,db30x73whgb,targeting-ena0824_jp-csbo-csb_1ppixel_googleanalytics-ga_na,jp,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+801,dmnommdpwcs,targeting-jpdellforstartupsview_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+802,dztpkiydipg,targeting-enacategory0824unifiedconditiontest_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+803,d2w0bgzu06c,targeting-awgamerconfigviewerpromoid7_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+804,d2f46oamfma,targeting-awgamercartviewerpromoid9_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+805,d1krtlqlpsg,targeting-awgamerdealviewerpromoid4_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+806,d4759dngu2k,targeting-gamercartviewerpromoid9_us-csbo-gseries_1ppixel_googleanalytics-ga_na,us,CSBO-GSERIES,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+807,djdv10y48u0,targeting-awgamercategoryviewerpromoid3_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+808,dr08yi1jdgg,targeting-awgamerfamilyviewerpromoid5_us-csbo-aw_1ppixel_googleanalytics-ga_na,us,CSBO-AW,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+809,du0fgk9ql08,targeting-csbcategoryservers_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+810,d96u1ajqehi,targeting-csbcategorydesktops_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+811,das5y6tqlcl,targeting-csbcategoryworkstations_us-csbo-csb_1ppixel_googleanalytics-ga_na,us,CSBO-CSB,Google Analytics,2023-09-13,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+812,d8s5s19kq3v,seedtargeting-gamingusers_us-csbo-gaming_1pcrm_aiqcrm-cep_na,us,CSBO-GAMING,AIQ CRM,2023-09-14,0.0,0,CSB,FY2024Q3,FY2024Q3W6
+813,d3g5y1p2fcn,targeting-abandonedcart_mx-b2b_1ppixel_googleanalytics-ga_be,mx,b2b,Google Analytics,2023-09-18,0.0,0,B2B,FY2024Q3,FY2024Q3W7
+814,dkhasfbvg93,targeting-mediaengager_mx-b2b_1pretargetting_aiqcrm-aiq_be,mx,b2b,AIQ CRM,2023-09-22,0.0,0,B2B,FY2024Q3,FY2024Q3W7
+815,dolyhc8seor,targeting-consumers_br-csbo-con_1pcrm_aiqcrm-cip_na,br,CSBO-CON,AIQ CRM,2023-09-26,0.0,0,CSB,FY2024Q3,FY2024Q3W8
+816,d35v89j2av7,targeting-sbs_br-csbo-sb_1pcrm_aiqcrm-cip_na,br,CSBO-SB,AIQ CRM,2023-09-26,0.0,0,CSB,FY2024Q3,FY2024Q3W8
+817,dzyy3crvjb6,targeting-gamergamingflag_br-csbo-gseries_1pcrm_aiqcrm-cip_na,br,CSBO-GSERIES,AIQ CRM,2023-09-26,0.0,0,CSB,FY2024Q3,FY2024Q3W8
+818,dmyiba9hbxl,targeting-jpemailmarketable_jp-b2b-mb_1pcrm_aiqcrm-aiq-cip_im,jp,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+819,dmnv46y7yxt,targeting-jpmbnonmarketable_jp-b2b-mb_1pcrm_aiqcrm-aiq-cip_im,jp,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+820,dqyfnxvucwc,targeting-productconfigexpremier_us-csbo-csb_1ppixel_googleanalytics-ga_in/na,us,CSBO-CSB,Google Analytics,2023-09-26,0.0,0,CSB,FY2024Q3,FY2024Q3W8
+821,d2wihvzda74,abm-fy24q4prem_au-b2b-mb_3pabm_aiqcrm-bom_im,au,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+822,dfj1t7lz11f,abm-fy24q4prem_in-b2b-mb_3pabm_aiqcrm-bom_im,in,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+823,d4xqnc0crss,abm-fy24q4prem_jp-b2b-mb_3pabm_aiqcrm-bom_im,jp,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+824,dzemuyauuit,abm-fy24q4prem_kr-b2b-mb_3pabm_aiqcrm-bom_im,kr,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+825,dngjfrye5jz,abm-fy24q4prem_my-b2b-mb_3pabm_aiqcrm-bom_im,my,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+826,d3t9b3twjqk,abm-fy24q4prem_sg-b2b-mb_3pabm_aiqcrm-bom_im,sg,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+827,dl04zdo5wxc,abm-fy24q4prem_au-b2b-com_3pabm_aiqcrm-bom_im,au,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+828,dw9sx7kj0az,abm-fy24q4prem_in-b2b-com_3pabm_aiqcrm-bom_im,in,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+829,d8adz45y6if,abm-fy24q4prem_jp-b2b-com_3pabm_aiqcrm-bom_im,jp,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+830,d7fyibbqymx,abm-fy24q4prem_kr-b2b-com_3pabm_aiqcrm-bom_im,kr,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+831,datun8ktkhz,abm-fy24q4prem_my-b2b-com_3pabm_aiqcrm-bom_im,my,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+832,dwysdp3ermt,abm-fy24q4prem_sg-b2b-com_3pabm_aiqcrm-bom_im,sg,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+833,dl9fkqg9wte,abm-fy24q4nonpre_au-b2b-mb_3pabm_aiqcrm-bom_im,au,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+834,dz8ezsooeho,abm-fy24q4nonpre_in-b2b-mb_3pabm_aiqcrm-bom_im,in,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+835,dwsja4iy9uu,abm-fy24q4nonpre_jp-b2b-mb_3pabm_aiqcrm-bom_im,jp,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+836,daxxzgj458h,abm-fy24q4nonpre_kr-b2b-mb_3pabm_aiqcrm-bom_im,kr,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+837,dcdfk88c0ne,abm-fy24q4nonpre_my-b2b-mb_3pabm_aiqcrm-bom_im,my,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+838,d6iadrnzq5b,abm-fy24q4nonpre_sg-b2b-mb_3pabm_aiqcrm-bom_im,sg,B2B-MB,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+839,dsq6xja8dki,abm-fy24q4nonpre_au-b2b-com_3pabm_aiqcrm-bom_im,au,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+840,dxu3neyesoi,abm-fy24q4nonpre_in-b2b-com_3pabm_aiqcrm-bom_im,in,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+841,d6wseny8ps5,abm-fy24q4nonpre_jp-b2b-com_3pabm_aiqcrm-bom_im,jp,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+842,dh28sl5pkka,abm-fy24q4nonpre_kr-b2b-com_3pabm_aiqcrm-bom_im,kr,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+843,ds2coad0k7g,abm-fy24q4nonpre_my-b2b-com_3pabm_aiqcrm-bom_im,my,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+844,dsvn3dvj8sl,abm-fy24q4nonpre_sg-b2b-com_3pabm_aiqcrm-bom_im,sg,B2B-COM,AIQ CRM,2023-09-26,0.0,0,B2B,FY2024Q3,FY2024Q3W8
+845,dx9xbllgyjf,targeting-ceengagers_us-ce_3plal_permutivecrm-aiq_coh,us,ce,Permutive CRM,2023-10-03,0.0,0,B2B,FY2024Q3,FY2024Q3W9
+846,d1r4wtn0hin,targeting-cybermonday_ca-csbo-con_3pofftheshelf_thetradedesk-acx-afan-alnt-dta-expr-eyta-lot_de/im/in,ca,CSBO-CON,The Trade Desk,2023-10-09,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+847,dy1ibhk0oot,targeting-studentsworkingonprojects_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+848,ds0dtvrcmcg,targeting-gadgetsbuysduringsales_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+849,dbmcm3en2uk,targeting-studnetscontinuingeductaion_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+850,duf9kmz71i6,targeting-studentsinparttimeemployment_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+851,dko5x42t19i,targeting-studentstograduatesoon_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+852,dh601c178ue,targeting-studentslaptopbuinfuture_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+853,dg3nefwffs4,targeting-studentsdesktopbuyinfuture_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+854,d9frtc1kv3d,targeting-officesetupathome_us-csbo-sb_3pofftheshelf_neustar-e1_in,us,CSBO-SB,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+855,d78pwrf502a,targeting-ownasblessthan50ees_us-csbo-sb_3pofftheshelf_neustar-e1_in,us,CSBO-SB,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+856,drsssabhtjo,targeting-parttimeworkersandstudents_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+857,d3hrh8917lu,targeting-parttimeemployment_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+858,dhm16tr2rqw,targeting-studentloans_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+859,d46ua4ox4mz,targeting-taxpayers_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+860,d40e75cbt5l,targeting-computerforeducation_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+861,dbptvahnu5r,targeting-laptopbuyin12months_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+862,d3rpaygu8j1,targeting-desktoppurchase_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+863,dscawpk9lu8,targeting-graduates001_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+864,dvgducr7eep,targeting-highindexadventuregamers_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+865,dn4gjq369w5,targeting-ziffmediasitevisitors_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+866,do1qyepthf8,targeting-simulationgamers_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+867,db445kcw41z,targeting-socialsitegamers_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+868,dwdab0tquo6,targeting-playingsportsinvideogames_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+869,dss970qx8t4,targeting-owningxboxone_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+870,dr7ptdz8dxf,targeting-owningxbox360_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+871,dia3v5eay8b,targeting-ownsplaystation_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+872,d3kvg3sklp4,targeting-ownsadelllaptop_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+873,drmcjudfo57,targeting-musiclovers_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+874,dvpvxmvnezw,targeting-foreigntravlebycruise_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+875,dalix1zz72z,targeting-domestictravel_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+876,d301cx0nykl,targeting-comedymoviewatchers_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+877,d42p868lfwm,targeting-actionmoviewatchers_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+878,dwbifhwou7i,targeting-technologyaudience_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+879,dcmyk0cdxkg,targeting-homebusiness_us-csbo-sb_3pofftheshelf_neustar-e1_in,us,CSBO-SB,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+880,dycuzyxlhk8,targeting-asuslaptopowners_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+881,dqnkkjxf0dw,targeting-ownshplaptops_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+882,dczj8yldiks,targeting-xboxusers_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+883,dq3yku1daow,targeting-ownsplaystationconsole_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+884,d3uy1s80d1n,targeting-casualgamers_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+885,db51q384dsm,targeting-undergraduatestudents_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+886,dt5qtc27594,targeting-visiteddellsite_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+887,dt2ch6ln20f,targeting-technologyusers_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+888,dtt47zgp1w3,targeting-esports_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+889,d5p5d6xgwdh,targeting-engineers_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+890,dx3pd4hst4w,targeting-accountingusers_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+891,dnn21t1sbww,targeting-graduates_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+892,d826vd0fw3h,targeting-gaminglaptopowners_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+893,dwl5joqj53v,targeting-socialmediausageforreasons_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+894,drt5a7pjd09,targeting-fashionusers_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+895,dpymmojjwvh,targeting-homeoffice_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+896,du71j6u0iv0,targeting-delllaptopownersathome_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+897,dcu8n3hd124,targeting-collectdelivery_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+898,d2yri6sxv4e,targeting-socialmedialikes_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+899,d5iyvi2n6zv,targeting-variedindexsmartgamers_us-csbo-gseries_3pofftheshelf_neustar-e1_in,us,CSBO-GSERIES,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+900,dcud4ryqibb,targeting-customerservice_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+901,dmyk054ts3g,targeting-midtoaverageindexinglaptopaccessories_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+902,d2akglj1j8r,targeting-contentcreators_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+903,dtd359o8qn7,targeting-brandimageindex_us-csbo-con_3pofftheshelf_neustar-e1_in,us,CSBO-CON,Neustar,2023-10-12,0.0,0,CSB,FY2024Q3,FY2024Q3W10
+904,dnkmrt8vd58,targeting-abm6sensemboom_us-mb_2p_6sense-6s-dlabm_na,us,mb,6Sense,2023-10-13,0.0,0,B2B,FY2024Q3,FY2024Q3W10
+905,dtu1au9fzf5,targeting-abm6sensembim_us-mb_2p_6sense-6s-dlabm_na,us,mb,6Sense,2023-10-13,0.0,0,B2B,FY2024Q3,FY2024Q3W10
+906,d2w170ma5s4,targeting-abm6senseceoom_us-ce_2p_6sense-6s-dlabm_na,us,ce,6Sense,2023-10-13,0.0,0,B2B,FY2024Q3,FY2024Q3W10
+907,dg2gyiad82c,targeting-abm6senseceim_us-ce_2p_6sense-6s-dlabm_na,us,ce,6Sense,2023-10-13,0.0,0,B2B,FY2024Q3,FY2024Q3W10
+908,djx7j6takb7,targeting-abm6sensecesled_us-ce_2p_6sense-6s-dlabm_na,us,ce,6Sense,2023-10-13,0.0,0,B2B,FY2024Q3,FY2024Q3W10
+909,dc2medmwl02,seedlal-premrcsitevisitors_apj-b2b_1pretargetting_googleanalytics-ga_la,apj,b2b,Google Analytics,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+910,dt0vxvwqdcp,targeting-sbdevelopment_us-csbo-sb_1pcrm_aiqcrm-cip_na,us,CSBO-SB,AIQ CRM,2023-10-16,0.0,0,CSB,FY2024Q3,FY2024Q3W11
+911,db7akukqeqw,targeting-fy24q4genai_au-b2b_3pabm_aiqcrm-aiq_im,au,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+912,dzyblaefe45,targeting-fy24q4genai_in-b2b_3pabm_aiqcrm-aiq_im,in,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+913,dma7vkakj7q,targeting-fy24q4genai_jp-b2b_3pabm_aiqcrm-aiq_im,jp,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+914,donvstj0fh1,targeting-fy24q4genai_kr-b2b_3pabm_aiqcrm-aiq_im,kr,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+915,ddseedwfihr,targeting-fy24q4genai_my-b2b_3pabm_aiqcrm-aiq_im,my,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+916,doffhrp8im8,targeting-fy24q4genai_sg-b2b_3pabm_aiqcrm-aiq_im,sg,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+917,df7gosw8x49,targeting-fy24q4fta_au-b2b_3pabm_aiqcrm-aiq_im,au,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+918,dbgoecw5vv1,targeting-fy24q4fta_in-b2b_3pabm_aiqcrm-aiq_im,in,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+919,dof586h33ff,targeting-fy24q4fta_jp-b2b_3pabm_aiqcrm-aiq_im,jp,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+920,d2dr47uggje,targeting-fy24q4fta_kr-b2b_3pabm_aiqcrm-aiq_im,kr,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+921,d53s0dzmlts,targeting-fy24q4fta_my-b2b_3pabm_aiqcrm-aiq_im,my,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+922,dewkttbq0pn,targeting-fy24q4fta_sg-b2b_3pabm_aiqcrm-aiq_im,sg,b2b,AIQ CRM,2023-10-16,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+923,dnsc6qolkk1,targeting-sbisg_us-csbo-sb_1pcrm_aiqcrm-cip-web_la/na,us,CSBO-SB,AIQ CRM,2023-10-16,0.0,0,CSB,FY2024Q3,FY2024Q3W11
+924,dqg2lios9ad,targeting-commercialusers_uk-b2b-com_1pcrm_aiqcrm-cip_na,uk,B2B-COM,AIQ CRM,2023-10-19,0.0,0,B2B,FY2024Q3,FY2024Q3W11
+925,d7xqti8d7fp,targeting-sbdormant_us-csbo-sb_1pcrm_aiqcrm-aiq_la/na,us,CSBO-SB,AIQ CRM,2023-10-23,0.0,0,CSB,FY2024Q3,FY2024Q3W12
+926,dt73taotm6q,targeting-condormant_us-csbo-con_1pcrm_aiqcrm-aiq_na,us,CSBO-CON,AIQ CRM,2023-10-23,0.0,0,CSB,FY2024Q3,FY2024Q3W12
