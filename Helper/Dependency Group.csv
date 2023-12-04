@@ -1,50 +1,50 @@
 Audience Type Name,Audience Delve Reporting,Audience Impact report,Dependency Group
-MARKET-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-3PD AUDIENCE,3PD Contextual,3PD Audience,3P Dependent
-ABM-2PD AUDIENCE,2PD Audience,ABM audience,Not 3P Dependent
-ABM-3PD AUDIENCE,3PD Audience,ABM audience,3P Dependent
-AFFINITY-3PD BEHAVIOR,3PD Audience,3PD Audience,3P Dependent
-AUDIO-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,3P Dependent
-BEHAVIOR-3PD,3PD Audience,3PD Audience,3P Dependent
-CATEGORY-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-CE AFFINITY-3PD BEHAVIOR,3PD Audience,3PD Audience,3P Dependent
-CONQUESTING,Other / NON DMP Audience,Other / NON DMP Audience,Not 3P Dependent
-CONTEXTUAL-3PD,3PD Contextual,Contextual,Not 3P Dependent
-CRM-1PD CRM,1PD Audience,1PD CRM,Not 3P Dependent
-CRM-1PD-AIQ-NS,1PD Audience,1PD CRM,Not 3P Dependent
-CRM-3PD LAL,3PD Audience,3PD Audience,Not 3P Dependent
-CTV-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,3P Dependent
-DIGITAL-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,3P Dependent
-DMP-2PD AUDIENCE,2PD Audience,2PD Audience,Not 3P Dependent
-DMP-3PD AUDIENCE,3PD Audience,3PD Audience,3P Dependent
-DMP-3PD LAL,3PD Audience,3PD Audience,3P Dependent
-DOMAIN-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-EMAIL-1PD CRM,1PD Audience,1PD CRM,Not 3P Dependent
-IN MARKET-3PD BEHAVIOR,3PD Audience,3PD Audience,3P Dependent
-IN MARKET-1PD PIXEL,1PD Audience,1PD Pixel,3P Dependent
-IN MARKET-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-KCT-2PD CONTEXTUAL,2PD Contextual,Contextual,Not 3P Dependent
-KCT-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-KCT-SEARCH,Other / NON DMP Audience,Other / NON DMP Audience,Not 3P Dependent
-KSTD-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-LAPSED-1PD PIXEL,1PD Audience,1PD Pixel,3P Dependent
-MARKET-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-MB AFFINITY-3PD BEHAVIOR,3PD Audience,3PD Audience,3P Dependent
-MEDIA-1PD MEDIA,1PD Audience,1PD Audience,3P Dependent
-MEDIA-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,3P Dependent
-PERSONA-1PD RETARGET,1PD Audience,1PD Retargeting,3P Dependent
-PIXEL-3PD LAL,3PD Audience,3PD Audience,3P Dependent
-PROXIMITY-3PD BEHAVIOR,3PD Audience,3PD Audience,3P Dependent
-PROXIMITY-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-PUBLISHER-2PD,2PD Audience,2PD Audience,Not 3P Dependent
-RETARGET-1PD RETARGET,1PD Audience,1PD Retargeting,3P Dependent
-RETARGET-3PD COM SIZE,3PD Audience,3PD Audience,3P Dependent
-RETARGET-3PD RETARGET,3PD Audience,3PD Audience,3P Dependent
-RON-PMP,Other / NON DMP Audience,Other / NON DMP Audience,Not 3P Dependent
-ROS-3PD PMP,3PD Audience,3PD Audience,3P Dependent
-ROS-PMP,Other / NON DMP Audience,Other / NON DMP Audience,Not 3P Dependent
-SITE IN MARKET-3PD BEHAVIOR,3PD Audience,3PD Audience,3P Dependent
-SITE IN MARKET-3PD CONTEXTUAL,3PD Contextual,Contextual,Not 3P Dependent
-SPONSORSHIP,Other / NON DMP Audience,Other / NON DMP Audience,Not 3P Dependent
-VIDEO-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,3P Dependent
-BEHAVIORAL-3PD,3PD Audience,3PD Audience,3P Dependent
+MARKET-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+3PD AUDIENCE,3PD Contextual,3PD Audience,Non durable
+ABM-2PD AUDIENCE,2PD Audience,ABM audience,Durable
+ABM-3PD AUDIENCE,3PD Audience,ABM audience,Non durable
+AFFINITY-3PD BEHAVIOR,3PD Audience,3PD Audience,Non durable
+AUDIO-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,Non durable
+BEHAVIOR-3PD,3PD Audience,3PD Audience,Non durable
+CATEGORY-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+CE AFFINITY-3PD BEHAVIOR,3PD Audience,3PD Audience,Non durable
+CONQUESTING,Other / NON DMP Audience,Other / NON DMP Audience,Durable
+CONTEXTUAL-3PD,3PD Contextual,Contextual,Durable
+CRM-1PD CRM,1PD Audience,1PD CRM,Durable
+CRM-1PD-AIQ-NS,1PD Audience,1PD CRM,Durable
+CRM-3PD LAL,3PD Audience,3PD Audience,Non durable
+CTV-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,Non durable
+DIGITAL-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,Non durable
+DMP-2PD AUDIENCE,2PD Audience,2PD Audience,Durable
+DMP-3PD AUDIENCE,3PD Audience,3PD Audience,Non durable
+DMP-3PD LAL,3PD Audience,3PD Audience,Non durable
+DOMAIN-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+EMAIL-1PD CRM,1PD Audience,1PD CRM,Durable
+IN MARKET-3PD BEHAVIOR,3PD Audience,3PD Audience,Non durable
+IN MARKET-1PD PIXEL,1PD Audience,1PD Pixel,Non durable
+IN MARKET-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+KCT-2PD CONTEXTUAL,2PD Contextual,Contextual,Durable
+KCT-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+KCT-SEARCH,Other / NON DMP Audience,Other / NON DMP Audience,Durable
+KSTD-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+LAPSED-1PD PIXEL,1PD Audience,1PD Pixel,Non durable
+MARKET-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+MB AFFINITY-3PD BEHAVIOR,3PD Audience,3PD Audience,Non durable
+MEDIA-1PD MEDIA,1PD Audience,1PD Audience,Non durable
+MEDIA-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,Non durable
+PERSONA-1PD RETARGET,1PD Audience,1PD Retargeting,Non durable
+PIXEL-3PD LAL,3PD Audience,3PD Audience,Non durable
+PROXIMITY-3PD BEHAVIOR,3PD Audience,3PD Audience,Non durable
+PROXIMITY-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+PUBLISHER-2PD,2PD Audience,2PD Audience,Durable
+RETARGET-1PD RETARGET,1PD Audience,1PD Retargeting,Non durable
+RETARGET-3PD COM SIZE,3PD Audience,3PD Audience,Non durable
+RETARGET-3PD RETARGET,3PD Audience,3PD Audience,Non durable
+RON-PMP,Other / NON DMP Audience,Other / NON DMP Audience,Non durable
+ROS-3PD PMP,3PD Audience,3PD Audience,Non durable
+ROS-PMP,Other / NON DMP Audience,Other / NON DMP Audience,Non durable
+SITE IN MARKET-3PD BEHAVIOR,3PD Audience,3PD Audience,Non durable
+SITE IN MARKET-3PD CONTEXTUAL,3PD Contextual,Contextual,Durable
+SPONSORSHIP,Other / NON DMP Audience,Other / NON DMP Audience,Durable
+VIDEO-3PD RETARGET EXPOSED,3PD Audience,3PD Audience,Non durable
+BEHAVIORAL-3PD,3PD Audience,3PD Audience,Non durable
